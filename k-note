@@ -26224,6 +26224,8 @@ http://143.244.60.10/HINDI__UTV_MOVIES/mono.m3u8
 http://143.244.60.10/HINDI__ZEE_ACTION/mono.m3u8
 
 
+
+
 + + + + + cdn.ihub.live + + + 
 
  group-title="misc/IN",&privatehd
@@ -26358,6 +26360,44 @@ http://scontent.1xcdn.xyz/j2/Ten3_HD_HLS.m3u8
 
 
 + + + + + tvflix03.ddns.net + + + + +
+
+
+http://148.72.155.84/ENC-1/index.m3u8
+#EXTINF:-1 group-title="misc/IN",STAR WORLD |TATAsky
+http://148.72.155.84/ENC-2/index.m3u8
+#EXTINF:-1 group-title="misc/IN",SONY SIX |TATAsky
+http://148.72.155.84/ENC-3/index.m3u8
+#EXTINF:-1 group-title="misc/IN",STAR SPORTS 2
+http://148.72.155.84/ENC-4/index.m3u8
+nick Jr.
+http://148.72.155.84/ENC-5/index.m3u8
+#EXTINF:-1 group-title="misc/IN",STAR MOVIES |TATAsky
+http://148.72.155.84/ENC-6/index.m3u8
+#EXTINF:-1 group-title="misc/IN",TEN 2 |TATAsky
+http://148.72.155.84/ENC-7/index.m3u8
+colors HD
+http://148.72.155.84/ENC-8/index.m3u8
+#EXTINF:-1 group-title="misc/IN",ZEETV |TATAsky
+http://148.72.155.84/ENC-9/index.m3u8
+STARGOLD
+http://148.72.155.84/ENC-10/index.m3u8
+#EXTINF:-1 group-title="misc/IN",S MAX |TATAsky
+http://148.72.155.84/ENC-11/index.m3u8
+STAR
+http://148.72.155.84/ENC-14/index.m3u8
+nick HD+
+http://148.72.155.84/ENC-15/index.m3u8
+#EXTINF:-1 group-title="misc/IN",&flix HD |TATAsky
+http://148.72.155.84/ENC-16/index.m3u8
+#EXTINF:-1 group-title="misc/IN",STAR MOVIES HD |TATAsky
+http://148.72.155.84/ENC-17/index.m3u8
+CN HD+
+http://148.72.155.84/ENC-18/index.m3u8
+#EXTINF:-1 group-title="misc/IN",TEN 1 |TATAsky
+http://148.72.155.84/ENC-19/index.m3u8
+UTV MOVIES
+http://148.72.155.84/ENC-20/index.m3u8
+
 
 http://tvflix03.ddns.net/ENC-1/tracks-v1a1/mono.m3u8 N.A.
 #EXTINF:-1 group-title="misc/IN",STAR WORLD HD |TATAsky
