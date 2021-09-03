@@ -16,6 +16,9 @@ Real Url: lucidhosting.xyz:25461     Status: Active    Created: 27/9/2020 5:03:3
 http://gosat.xyz:8080/get.php?username=goone&password=goone&type=m3u
 Real Url: 22288999.xyz:8080     Status: Active    Created: 31/8/2021 4:21:10 PM     Expires: 7/9/2021 5:20:00 PM    Active Connections: 6     Maximum Connections: 100     Formats: "m3u8","ts","rtmp" << 
 
+http://painel.tvdigitalsbl.net:80/get.php?username=CASSIANO1&password=CASSIANO1&type=m3u
+Real Url: painel.tvdigitalsbl.net:80     Status: Active    Created: 4/8/2018 11:59:14 PM     Expires: Null    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+
 http://123iptv.nl:88/get.php?username=test1&password=test2&type=m3u
 Real Url: 123iptv.nl:88     Status: Active    Created: 16/10/2020 1:53:41 PM     Expires: Null    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
 
