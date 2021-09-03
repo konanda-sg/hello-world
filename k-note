@@ -26410,6 +26410,10 @@ UTV MOVIES
 http://148.72.155.84/ENC-20/index.m3u8
 
 
+http://jupiter.bdcabletv.com:80/ENC-17/mono.m3u8
+http://jupiter.bdcabletv.com:80/ENC-20/mono.m3u8
+
+
 http://tvflix03.ddns.net/ENC-1/tracks-v1a1/mono.m3u8 N.A.
 #EXTINF:-1 group-title="misc/IN",STAR WORLD HD |TATAsky
 http://tvflix03.ddns.net/ENC-2/index.m3u8
