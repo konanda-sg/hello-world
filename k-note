@@ -771,9 +771,7 @@ https://dipdxjic51jcl.cloudfront.net/out/v1/affd42eba9da49dca9e30234fefa2ab5/ind
 https://freelive365.com/?listing_type=tsn-1-ca&sport=soccer
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 https://myoplay.club/op-foot-live/?sport=soccer
-https://nizarstream.com/channel
-https://nizarstream.com/embed/bein1ar.html
-https://nizarstream.com/niz/7031/Ukraine-vs-England?sport=soccer
+
 https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
 https://raw.githubusercontent.com/angahjee1994/tv/master/hbofam.m3u8
 https://raw.githubusercontent.com/dpch21/IPTV/main/dpCH-Free-IPTV
@@ -2252,7 +2250,7 @@ https://daddylive.me/embed/stream-104.php SK4
 https://daddylive.me/embed/stream-22.php Premier 1
 https://daddylive.me/embed/stream-23.php Premier 2
 
--/-/-/-/-/-/- https://netsentertainment.net/category/football/ -/-/-/-/-/-/-
+-/-/-/-/-/-/- https://netsentertainment.net/category/football/ -/-/-/-/-/-/- OFFLINE -/-/-/-
 
 https://live-sports-stream.net/embed/channel1.php?channel=1
 https://live-sports-stream.net/embed/video.php?channel=1 EPL (live)
@@ -2444,6 +2442,11 @@ https://linesports.xyz/wiz/lschannel-99.php < ER
 
 
 + + + + https://nizarstream.com + + + + no sound? + + + + AD popup
+
+https://nizarstream.com/channel
+https://nizarstream.com/embed/bein1ar.html
+https://nizarstream.com/niz/7031/Ukraine-vs-England?sport=soccer
+
 
 https://nizarstream.com/embed/8078
 https://nizarstream.com/embed/8079
@@ -2981,6 +2984,13 @@ https://gsn-cinevault-80s-1-us.vizio.wurl.tv/playlist.m3u8
 http://gsn-cinevault-70s-1-us.vizio.wurl.tv/playlist.m3u8
 #EXTINF:-1,cine vault 70s
 https://gsn-cinevault-70s-1-us.vizio.wurl.tv/playlist.m3u8
+
+
+#EXTINF:-1 group-title="BamarTV",midnightpulp
+http://dmr-midnightpulp-3-us.samsung.wurl.tv/playlist.m3u8
+https://dmr-midnightpulp-3-us.samsung.wurl.tv/playlist.m3u8
+Time Line (Australia)
+http://lds-timeline-plex.amagi.tv/playlist.m3u8
 
 
 #EXTINF:-1 group-title="BamarTV",screamfest
@@ -16980,7 +16990,7 @@ http://203.154.177.124:8899/live/ch23/playlist.m3u8
 http://203.154.177.124:8899/live/ch1/playlist.m3u8
 http://203.154.177.124:8899/live/ch2/playlist.m3u8
 http://203.154.177.124:8899/live/ch3/playlist.m3u8
- group-title="203.154",FIGHTBOX
+#EXTINF:-1 group-title="203.154",FIGHTBOX
 http://203.154.177.124:8899/live/ch4/playlist.m3u8
 ANIMAX
 http://203.154.177.124:8899/live/ch5/playlist.m3u8
@@ -16990,7 +17000,7 @@ http://203.154.177.124:8899/live/ch8/playlist.m3u8
 http://203.154.177.124:8899/live/ch9/playlist.m3u8
 http://203.154.177.124:8899/live/ch10/playlist.m3u8
 NA http://203.154.177.124:8899/live/ch11/playlist.m3u8
- group-title="203.154",WB TV
+#EXTINF:-1 group-title="203.154",WB TV
 http://203.154.177.124:8899/live/ch12/playlist.m3u8
 NA http://203.154.177.124:8899/live/ch13/playlist.m3u8
 NA http://203.154.177.124:8899/live/ch14/playlist.m3u8
@@ -17001,8 +17011,9 @@ http://203.154.177.124:8899/live/ch18/playlist.m3u8
 NA http://203.154.177.124:8899/live/ch19/playlist.m3u8
 MIAO MI
 http://203.154.177.124:8899/live/ch20/playlist.m3u8
+thrill
 http://203.154.177.124:8899/live/ch21/playlist.m3u8
- group-title="203.154",FIGHT
+#EXTINF:-1 group-title="203.154",FIGHT
 http://203.154.177.124:8899/live/ch22/playlist.m3u8
 http://203.154.177.124:8899/live/ch24/playlist.m3u8
 http://203.154.177.124:8899/live/ch25/playlist.m3u8
