@@ -4,6 +4,13 @@ x-tvg-url="https://guidexl.tv4.live/"
 
 00:04:4B:CC:FF:2E < Shield 
 
+http://lockdown.click:80/get.php?username=Wong100&password=Wong100&type=m3u
+Real Url: lockdown.click:80     Status: Active    Created: 11/8/2017 12:35:50 PM     Expires: Null    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp" << 
+http://lockdown.click:80/get.php?username=Humphreys100&password=Humphreys100&type=m3u
+Real Url: lockdown.click:80     Status: Active    Created: 9/8/2017 4:19:48 PM     Expires: Null    Active Connections: 1     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+
+http://lucidhosting.xyz:25461/get.php?username=craig&password=7Dy5L6tw6R&type=m3u
+Real Url: lucidhosting.xyz:25461     Status: Active    Created: 27/9/2020 5:03:30 PM     Expires: Null    Active Connections: 0     Maximum Connections: 3     Formats: "m3u8","ts","rtmp"
 
 
 http://gosat.xyz:8080/get.php?username=goone&password=goone&type=m3u
