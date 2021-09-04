@@ -5800,7 +5800,9 @@ http://31.220.41.87:8081/live/skysports-maineventz.stream/playlist.m3u8
 http://31.220.41.87:8081/live/skysports-premier-league.stream/playlist.m3u8
 http://31.220.41.87:8081/live/skysportsf1.stream/playlist.m3u8
 http://31.220.41.87:8081/live/skysportsmix.stream/playlist.m3u8
+#EXTINF:-1 group-title="31.220*",SN1
 http://31.220.41.87:8081/live/sno.stream/playlist.m3u8
+#EXTINF:-1 group-title="31.220*",SN1'
 http://31.220.41.87:8081/live/snone.stream/playlist.m3u8
 #EXTINF:-1 group-title="31.220*",beIN 1TR
 http://31.220.41.87:8081/live/tr-bein1.stream/playlist.m3u8
