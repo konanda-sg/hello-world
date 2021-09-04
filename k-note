@@ -5621,7 +5621,7 @@ http://xristo2121.amazzin.pw/iptv/YSZEBB3QYC3TXF/155/index.m3u8
 http://xristo2121.amazzin.pw/iptv/YSZEBB3QYC3TXF/217/index.m3u8
 
 
-+ + + 31.220.41.87:8081 + + + TVTAP <<
++ + + 31.220.41.87:8081 + + + TVTAP << 
 
 #EXTINF:-1 group-title="31.220*",ARENASPORT1
 http://31.220.41.87:8081/live/arena1.stream/playlist.m3u8
@@ -29999,6 +29999,65 @@ http://iptv.nonland.net:8080/streaming/clients_live.php?extension=m3u8&username=
 
 + + + + + iptv.tvmalaysia.cc:80 + + + + +
 
+http://iptv.tvmalaysia.cc:80/get.php?username=penang022&password=penang022&type=m3u
+Real Url: iptv.tvmalaysia.cc:80     Status: Active    Created: 6/3/2021 10:10:47 AM     Expires: Null    Active Connections: 0     Maximum Connections: 5     Formats: "m3u8","ts","rtmp"
+
+http://iptv.tvmalaysia.cc:80/get.php?username=penang021&password=penang021&type=m3u
+Real Url: iptv.tvmalaysia.cc:80     Status: Active    Created: 6/3/2021 1:44:17 PM     Expires: Null    Active Connections: 0     Maximum Connections: 5     Formats: "m3u8","ts","rtmp"
+
+http://iptv.tvmalaysia.cc:80/get.php?username=penang024&password=penang024&type=m3u
+Real Url: iptv.tvmalaysia.cc:80     Status: Active    Created: 6/3/2021 1:44:17 PM     Expires: Null    Active Connections: 0     Maximum Connections: 5     Formats: "m3u8","ts","rtmp"
+
+http://iptv.tvmalaysia.cc:80/get.php?username=penang020&password=penang020&type=m3u
+Real Url: iptv.tvmalaysia.cc:80     Status: Active    Created: 6/3/2021 10:23:01 AM     Expires: Null    Active Connections: 0     Maximum Connections: 5     Formats: "m3u8","ts","rtmp"
+
+http://iptv.tvmalaysia.cc:80/get.php?username=penang023&password=penang023&type=m3u
+Real Url: iptv.tvmalaysia.cc:80     Status: Active    Created: 6/3/2021 10:23:01 AM     Expires: Null    Active Connections: 0     Maximum Connections: 5     Formats: "m3u8","ts","rtmp"
+
+http://iptv.tvmalaysia.cc:80/get.php?username=penang027&password=penang027&type=m3u
+Real Url: iptv.tvmalaysia.cc:80     Status: Active    Created: 6/3/2021 1:48:19 PM     Expires: Null    Active Connections: 0     Maximum Connections: 5     Formats: "m3u8","ts","rtmp"
+
+http://iptv.tvmalaysia.cc:80/get.php?username=penang029&password=penang029&type=m3u
+Real Url: iptv.tvmalaysia.cc:80     Status: Active    Created: 6/3/2021 1:49:20 PM     Expires: Null    Active Connections: 0     Maximum Connections: 5     Formats: "m3u8","ts","rtmp"
+
+http://iptv.tvmalaysia.cc:80/get.php?username=penang028&password=penang028&type=m3u
+Real Url: iptv.tvmalaysia.cc:80     Status: Active    Created: 6/3/2021 1:48:50 PM     Expires: Null    Active Connections: 0     Maximum Connections: 5     Formats: "m3u8","ts","rtmp"
+
+http://iptv.tvmalaysia.cc:80/get.php?username=penang026&password=penang026&type=m3u
+Real Url: iptv.tvmalaysia.cc:80     Status: Active    Created: 6/3/2021 1:47:45 PM     Expires: Null    Active Connections: 0     Maximum Connections: 5     Formats: "m3u8","ts","rtmp"
+
+http://iptv.tvmalaysia.cc:80/get.php?username=penang034&password=penang034&type=m3u
+Real Url: iptv.tvmalaysia.cc:80     Status: Active    Created: 7/3/2021 9:05:25 PM     Expires: Null    Active Connections: 0     Maximum Connections: 5     Formats: "m3u8","ts","rtmp"
+
+http://iptv.tvmalaysia.cc:80/get.php?username=penang030&password=penang030&type=m3u
+Real Url: iptv.tvmalaysia.cc:80     Status: Active    Created: 6/3/2021 1:50:03 PM     Expires: Null    Active Connections: 0     Maximum Connections: 5     Formats: "m3u8","ts","rtmp"
+
+http://iptv.tvmalaysia.cc:80/get.php?username=penang031&password=penang031&type=m3u
+Real Url: iptv.tvmalaysia.cc:80     Status: Active    Created: 7/3/2021 9:03:31 PM     Expires: Null    Active Connections: 0     Maximum Connections: 5     Formats: "m3u8","ts","rtmp"
+
+http://iptv.tvmalaysia.cc:80/get.php?username=penang032&password=penang032&type=m3u
+Real Url: iptv.tvmalaysia.cc:80     Status: Active    Created: 7/3/2021 9:03:31 PM     Expires: Null    Active Connections: 0     Maximum Connections: 5     Formats: "m3u8","ts","rtmp"
+
+http://iptv.tvmalaysia.cc:80/get.php?username=penang033&password=penang033&type=m3u
+Real Url: iptv.tvmalaysia.cc:80     Status: Active    Created: 7/3/2021 9:04:31 PM     Expires: Null    Active Connections: 0     Maximum Connections: 5     Formats: "m3u8","ts","rtmp"
+
+http://iptv.tvmalaysia.cc:80/get.php?username=penang035&password=penang035&type=m3u
+Real Url: iptv.tvmalaysia.cc:80     Status: Active    Created: 7/3/2021 9:05:57 PM     Expires: Null    Active Connections: 3     Maximum Connections: 5     Formats: "m3u8","ts","rtmp"
+
+http://iptv.tvmalaysia.cc:80/get.php?username=penang036&password=penang036&type=m3u
+Real Url: iptv.tvmalaysia.cc:80     Status: Active    Created: 7/3/2021 9:06:32 PM     Expires: Null    Active Connections: 0     Maximum Connections: 5     Formats: "m3u8","ts","rtmp"
+
+http://iptv.tvmalaysia.cc:80/get.php?username=penang037&password=penang037&type=m3u
+Real Url: iptv.tvmalaysia.cc:80     Status: Active    Created: 7/3/2021 9:06:32 PM     Expires: Null    Active Connections: 0     Maximum Connections: 5     Formats: "m3u8","ts","rtmp"
+
+http://iptv.tvmalaysia.cc:80/get.php?username=penang038&password=penang038&type=m3u
+Real Url: iptv.tvmalaysia.cc:80     Status: Active    Created: 7/3/2021 9:07:25 PM     Expires: Null    Active Connections: 1     Maximum Connections: 5     Formats: "m3u8","ts","rtmp"
+
+http://iptv.tvmalaysia.cc:80/get.php?username=penang039&password=penang039&type=m3u
+Real Url: iptv.tvmalaysia.cc:80     Status: Active    Created: 7/3/2021 9:07:51 PM     Expires: Null    Active Connections: 1     Maximum Connections: 5     Formats: "m3u8","ts","rtmp"
+
+
+
 http://iptv.tvmalaysia.cc:80/get.php?username=penang101&password=penang101&type=m3u
 Real Url: iptv.tvmalaysia.cc:80     Status: Active    Created: 18/3/2021 9:00:26 AM     Expires: Null    Active Connections: 0     Maximum Connections: 5     Formats: "m3u8","ts","rtmp"
 
@@ -30362,6 +30421,119 @@ Real Url: iptv.tvmalaysia.cc:80     Status: Active    Created: 25/6/2019 9:14:47
 -/-/-/-/- test again if needed for more list 
 
 http://iptv.tvmalaysia.cc:80/streaming/clients_live.php?extension=ts&username=penang210&password=penang210&stream=
+
+
+#EXTINF:-1 group-title="tvmalay",TH | PremierHD1
+http://iptv.tvmalaysia.cc:80/streaming/clients_live.php?extension=ts&username=penang021&password=penang021&stream=8811
+#EXTINF:-1 group-title="tvmalay",TH | PremierHD2
+http://iptv.tvmalaysia.cc:80/streaming/clients_live.php?extension=ts&username=penang021&password=penang021&stream=8812
+#EXTINF:-1 group-title="tvmalay",TH | PremierHD3
+http://iptv.tvmalaysia.cc:80/streaming/clients_live.php?extension=ts&username=penang021&password=penang021&stream=8813
+#EXTINF:-1 group-title="tvmalay",TH | PremierHD4
+http://iptv.tvmalaysia.cc:80/streaming/clients_live.php?extension=ts&username=penang021&password=penang021&stream=8814
+#EXTINF:-1 group-title="tvmalay",TH | PremierHD5
+http://iptv.tvmalaysia.cc:80/streaming/clients_live.php?extension=ts&username=penang021&password=penang021&stream=8815
+#EXTINF:-1 group-title="tvmalay",TH | SkynetsportHD
+http://iptv.tvmalaysia.cc:80/streaming/clients_live.php?extension=ts&username=penang021&password=penang021&stream=8816
+#EXTINF:-1 group-title="tvmalay",TH | True Sport HD1
+http://iptv.tvmalaysia.cc:80/streaming/clients_live.php?extension=ts&username=penang021&password=penang021&stream=8817
+#EXTINF:-1 group-title="tvmalay",TH | True Sport HD2
+http://iptv.tvmalaysia.cc:80/streaming/clients_live.php?extension=ts&username=penang021&password=penang021&stream=8818
+#EXTINF:-1 group-title="tvmalay",TH | True Sport HD3
+http://iptv.tvmalaysia.cc:80/streaming/clients_live.php?extension=ts&username=penang021&password=penang021&stream=8819
+#EXTINF:-1 group-title="tvmalay",TH | True Sport HD4
+http://iptv.tvmalaysia.cc:80/streaming/clients_live.php?extension=ts&username=penang021&password=penang021&stream=8820
+#EXTINF:-1 group-title="tvmalay",TH | Fox Sport2
+http://iptv.tvmalaysia.cc:80/streaming/clients_live.php?extension=ts&username=penang021&password=penang021&stream=8821
+#EXTINF:-1 group-title="tvmalay",TH | Fox Sport3
+http://iptv.tvmalaysia.cc:80/streaming/clients_live.php?extension=ts&username=penang021&password=penang021&stream=8822
+#EXTINF:-1 group-title="tvmalay",ASTRO Arena HD
+http://iptv.tvmalaysia.cc:80/streaming/clients_live.php?extension=ts&username=penang021&password=penang021&stream=6707
+
+#EXTINF:-1 group-title="tvmalay",ASTRO SUPERSPORT HD
+http://iptv.tvmalaysia.cc:80/streaming/clients_live.php?extension=ts&username=penang021&password=penang021&stream=6708
+#EXTINF:-1 group-title="tvmalay",ASTRO SUPERSPORT HD'
+http://iptv.tvmalaysia.cc:80/streaming/clients_live.php?extension=m3u8&username=penang220&password=penang220&stream=6708&type=hls
+#EXTINF:-1 group-title="tvmalay",ASTRO SUPERSPORT 2 HD
+http://iptv.tvmalaysia.cc:80/streaming/clients_live.php?extension=ts&username=penang021&password=penang021&stream=6710
+#EXTINF:-1 group-title="tvmalay",ASTRO SUPERSPORT 3 HD
+http://iptv.tvmalaysia.cc:80/streaming/clients_live.php?extension=ts&username=penang021&password=penang021&stream=6711
+#EXTINF:-1 group-title="tvmalay",ASTRO SUPERSPORT 3 HD'
+http://iptv.tvmalaysia.cc:80/streaming/clients_live.php?extension=m3u8&username=penang220&password=penang220&stream=6711&type=hls
+#EXTINF:-1 group-title="tvmalay",ASTRO SUPERSPORT 4 HD
+http://iptv.tvmalaysia.cc:80/streaming/clients_live.php?extension=ts&username=penang021&password=penang021&stream=6712
+#EXTINF:-1 group-title="tvmalay",FOX Sports HD
+http://iptv.tvmalaysia.cc:80/streaming/clients_live.php?extension=ts&username=penang021&password=penang021&stream=6793
+#EXTINF:-1 group-title="tvmalay",FOX Sports 2 HD
+http://iptv.tvmalaysia.cc:80/streaming/clients_live.php?extension=ts&username=penang021&password=penang021&stream=6791
+#EXTINF:-1 group-title="tvmalay",FOX Sports 3 HD
+http://iptv.tvmalaysia.cc:80/streaming/clients_live.php?extension=ts&username=penang021&password=penang021&stream=6792
+#EXTINF:-1 group-title="tvmalay",ASTRO Cricket
+http://iptv.tvmalaysia.cc:80/streaming/clients_live.php?extension=ts&username=penang021&password=penang021&stream=6717
+#EXTINF:-1 group-title="tvmalay",beIN Sports
+http://iptv.tvmalaysia.cc:80/streaming/clients_live.php?extension=ts&username=penang021&password=penang021&stream=6749
+#EXTINF:-1 group-title="tvmalay",beIN MAX
+http://iptv.tvmalaysia.cc:80/streaming/clients_live.php?extension=ts&username=penang021&password=penang021&stream=6748
+#EXTINF:-1 group-title="tvmalay",beIN MAX 2
+http://iptv.tvmalaysia.cc:80/streaming/clients_live.php?extension=ts&username=penang021&password=penang021&stream=7195
+#EXTINF:-1 group-title="tvmalay",WWE Network
+http://iptv.tvmalaysia.cc:80/streaming/clients_live.php?extension=ts&username=penang021&password=penang021&stream=6849
+
+#EXTINF:-1 group-title="tvmalay",DSTV: SuperSport Grandstand
+http://iptv.tvmalaysia.cc:80/streaming/clients_live.php?extension=ts&username=penang021&password=penang021&stream=6572
+#EXTINF:-1 group-title="tvmalay",DSTV: SuperSport PSL
+http://iptv.tvmalaysia.cc:80/streaming/clients_live.php?extension=ts&username=penang021&password=penang021&stream=6573
+#EXTINF:-1 group-title="tvmalay",DSTV: SuperSport Premier League
+http://iptv.tvmalaysia.cc:80/streaming/clients_live.php?extension=ts&username=penang021&password=penang021&stream=6574
+#EXTINF:-1 group-title="tvmalay",DSTV: SuperSport La Liga
+http://iptv.tvmalaysia.cc:80/streaming/clients_live.php?extension=ts&username=penang021&password=penang021&stream=6575
+#EXTINF:-1 group-title="tvmalay",DSTV: SuperSport Football
+http://iptv.tvmalaysia.cc:80/streaming/clients_live.php?extension=ts&username=penang021&password=penang021&stream=6576
+#EXTINF:-1 group-title="tvmalay",DSTV: SuperSport Variety 1
+http://iptv.tvmalaysia.cc:80/streaming/clients_live.php?extension=ts&username=penang021&password=penang021&stream=6577
+#EXTINF:-1 group-title="tvmalay",DSTV: SuperSport Variety 2
+http://iptv.tvmalaysia.cc:80/streaming/clients_live.php?extension=ts&username=penang021&password=penang021&stream=6578
+#EXTINF:-1 group-title="tvmalay",DSTV: SuperSport Variety 3
+http://iptv.tvmalaysia.cc:80/streaming/clients_live.php?extension=ts&username=penang021&password=penang021&stream=6579
+#EXTINF:-1 group-title="tvmalay",DSTV: SuperSport Variety 4
+http://iptv.tvmalaysia.cc:80/streaming/clients_live.php?extension=ts&username=penang021&password=penang021&stream=6580
+#EXTINF:-1 group-title="tvmalay",DSTV: SuperSport Cricket
+http://iptv.tvmalaysia.cc:80/streaming/clients_live.php?extension=ts&username=penang021&password=penang021&stream=6583
+#EXTINF:-1 group-title="tvmalay",DSTV: Supersport Blitz
+http://iptv.tvmalaysia.cc:80/streaming/clients_live.php?extension=ts&username=penang021&password=penang021&stream=6584
+#EXTINF:-1 group-title="tvmalay",DSTV: SuperSport MáXimo
+http://iptv.tvmalaysia.cc:80/streaming/clients_live.php?extension=ts&username=penang021&password=penang021&stream=6585
+#EXTINF:-1 group-title="tvmalay",DSTV: SuperSport Rugby
+http://iptv.tvmalaysia.cc:80/streaming/clients_live.php?extension=ts&username=penang021&password=penang021&stream=6582
+#EXTINF:-1 group-title="tvmalay",DSTV: SuperSport Action
+http://iptv.tvmalaysia.cc:80/streaming/clients_live.php?extension=ts&username=penang021&password=penang021&stream=6581
+#EXTINF:-1 group-title="tvmalay",DSTV: SuperSport Motorsport
+http://iptv.tvmalaysia.cc:80/streaming/clients_live.php?extension=ts&username=penang021&password=penang021&stream=7142
+#EXTINF:-1 group-title="tvmalay",DSTV: SuperSport Tennis
+http://iptv.tvmalaysia.cc:80/streaming/clients_live.php?extension=ts&username=penang021&password=penang021&stream=7143
+#EXTINF:-1 group-title="tvmalay",DSTV: SuperSport WWE
+http://iptv.tvmalaysia.cc:80/streaming/clients_live.php?extension=ts&username=penang021&password=penang021&stream=7144
+#EXTINF:-1 group-title="tvmalay",DSTV: SuperSport Golf
+http://iptv.tvmalaysia.cc:80/streaming/clients_live.php?extension=ts&username=penang021&password=penang021&stream=7145
+#EXTINF:-1 group-title="tvmalay",BeIN Sport 1
+http://iptv.tvmalaysia.cc:80/streaming/clients_live.php?extension=ts&username=penang021&password=penang021&stream=6597
+#EXTINF:-1 group-title="tvmalay",BeIN Sport 2
+http://iptv.tvmalaysia.cc:80/streaming/clients_live.php?extension=ts&username=penang021&password=penang021&stream=6598
+#EXTINF:-1 group-title="tvmalay",BeIN Sport 13
+http://iptv.tvmalaysia.cc:80/streaming/clients_live.php?extension=ts&username=penang021&password=penang021&stream=6609
+
+#EXTINF:-1 group-title="tvmalay",BT Sport 1
+http://iptv.tvmalaysia.cc:80/streaming/clients_live.php?extension=ts&username=penang021&password=penang021&stream=6610
+#EXTINF:-1 group-title="tvmalay",BT Sport 2
+http://iptv.tvmalaysia.cc:80/streaming/clients_live.php?extension=ts&username=penang021&password=penang021&stream=6611
+#EXTINF:-1 group-title="tvmalay",BT Sport 3
+http://iptv.tvmalaysia.cc:80/streaming/clients_live.php?extension=ts&username=penang021&password=penang021&stream=6612
+#EXTINF:-1 group-title="tvmalay",BT Sport ESPN
+http://iptv.tvmalaysia.cc:80/streaming/clients_live.php?extension=ts&username=penang021&password=penang021&stream=6613
+#EXTINF:-1 group-title="tvmalay",UK: Premier Sports 1
+http://iptv.tvmalaysia.cc:80/streaming/clients_live.php?extension=ts&username=penang021&password=penang021&stream=7112
+#EXTINF:-1 group-title="tvmalay",UK: Premier Sports 2
+http://iptv.tvmalaysia.cc:80/streaming/clients_live.php?extension=ts&username=penang021&password=penang021&stream=7113
 
 #EXTINF:-1 group-title="tvmalay",TH | PremierHD1
 http://iptv.tvmalaysia.cc:80/streaming/clients_live.php?extension=ts&username=penang210&password=penang210&stream=8811
