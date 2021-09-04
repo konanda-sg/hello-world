@@ -10437,7 +10437,14 @@ http://stream.tvtap.live:8081/live/us-cnn.stream/playlist.m3u8
 http://stream.tvtap.live:8081/live/us-paramount.stream/playlist.m3u8
 http://stream.tvtap.live:8081/live/us-tnt.stream/playlist.m3u8
 http://stream.tvtap.live:8081/live/wwe.stream/playlist.m3u8
-
+#EXTINF:-1 group-title="tvtap", SK 1HD
+http://stream.tvtap.live:8081/live/klub1.stream/chunks.m3u8
+#EXTINF:-1 group-title="tvtap", SK 2HD
+http://stream.tvtap.live:8081/live/klub2.stream/chunks.m3u8
+#EXTINF:-1 group-title="tvtap", SK 3HD
+http://stream.tvtap.live:8081/live/klub3.stream/chunks.m3u8
+#EXTINF:-1 group-title="tvtap", SK 4HD
+http://stream.tvtap.live:8081/live/klub4.stream/chunks.m3u8
 
 + + + + + https://freetvdd.com*/TH + + + + + +
 
