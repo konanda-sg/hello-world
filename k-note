@@ -26453,9 +26453,45 @@ UTV MOVIES
 http://148.72.155.84/ENC-20/index.m3u8
 
 
-http://jupiter.bdcabletv.com:80/ENC-17/mono.m3u8
-http://jupiter.bdcabletv.com:80/ENC-20/mono.m3u8
+http://jupiter.bdcabletv.com/ENC-1/mono.m3u8
+#EXTINF:-1 group-title="misc/IN",STAR WORLD |TATAsky
+http://jupiter.bdcabletv.com:80/ENC-2/index.m3u8
+#EXTINF:-1 group-title="misc/IN",SONY SIX |TATAsky
+http://jupiter.bdcabletv.com/ENC-3/index.m3u8
+#EXTINF:-1 group-title="misc/IN",STAR SPORTS 2
+http://jupiter.bdcabletv.com/ENC-4/index.m3u8
+nick Jr.
+http://jupiter.bdcabletv.com/ENC-5/index.m3u8
+#EXTINF:-1 group-title="misc/IN",STAR MOVIES |TATAsky
+http://jupiter.bdcabletv.com/ENC-6/index.m3u8
+#EXTINF:-1 group-title="misc/IN",TEN 2 |TATAsky
+http://jupiter.bdcabletv.com/ENC-7/index.m3u8
+colors HD
+http://jupiter.bdcabletv.com/ENC-8/index.m3u8
+#EXTINF:-1 group-title="misc/IN",ZEETV |TATAsky
+http://jupiter.bdcabletv.com/ENC-9/index.m3u8
+STARGOLD
+http://jupiter.bdcabletv.com/ENC-10/index.m3u8
+#EXTINF:-1 group-title="misc/IN",S MAX |TATAsky
+http://jupiter.bdcabletv.com/ENC-11/index.m3u8
+STAR
+http://jupiter.bdcabletv.com/ENC-14/index.m3u8
+nick HD+
+http://jupiter.bdcabletv.com/ENC-15/index.m3u8
+#EXTINF:-1 group-title="misc/IN",&flix HD |TATAsky
+http://jupiter.bdcabletv.com/ENC-16/index.m3u8
+#EXTINF:-1 group-title="misc/IN",STAR MOVIES HD |TATAsky
+http://jupiter.bdcabletv.com/ENC-17/index.m3u8
+CN HD+
+http://jupiter.bdcabletv.com/ENC-18/index.m3u8
+#EXTINF:-1 group-title="misc/IN",TEN 1 |TATAsky
+http://jupiter.bdcabletv.com/ENC-19/index.m3u8
+UTV MOVIES
+http://jupiter.bdcabletv.com/ENC-20/index.m3u8
 
+http://jupiter.bdcabletv.com/StarPlus/video.m3u8
+http://jupiter.bdcabletv.com/JalshaMovies/video.m3u8
+http://jupiter.bdcabletv.com/star_jalsha-sp/video.m3u8
 
 http://tvflix03.ddns.net/ENC-1/tracks-v1a1/mono.m3u8 N.A.
 #EXTINF:-1 group-title="misc/IN",STAR WORLD HD |TATAsky
