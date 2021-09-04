@@ -935,20 +935,7 @@ Real Url: tv.chachatv.tk:8880     Status: Active    Created: 26/1/2021 9:33:05 P
 
 http://new-pro.tv:8080/get.php?username=Hotel-2021&password=Allroom&type=m3u < 20-7
 
-bein1
-http://31.220.41.88:8081/live/bein1.stream/playlist.m3u8
-http://31.220.41.88:8081/live/bein2.stream/playlist.m3u8
-http://31.220.41.88:8081/live/bein3.stream/playlist.m3u8
 
-http://31.220.41.88:8081/live/bein7.stream/playlist.m3u8
-http://31.220.41.88:8081/live/bein8.stream/playlist.m3u8
-http://31.220.41.88:8081/live/bein9.stream/playlist.m3u8
-http://31.220.41.88:8081/live/bein10.stream/playlist.m3u8
-http://31.220.41.88:8081/live/bein11.stream/playlist.m3u8
-bein 3pre
-http://31.220.41.88:8081/live/bein12.stream/playlist.m3u8
-
-http://31.220.41.88:8081/live/maction.stream/playlist.m3u8
 
 http://89.187.182.181:9090/SM_FHD_ENG_STARMOVIES/tracks-v1a1/index.m3u8
 
@@ -5632,14 +5619,242 @@ http://xristo2121.amazzin.pw/iptv/YSZEBB3QYC3TXF/155/index.m3u8
 http://xristo2121.amazzin.pw/iptv/YSZEBB3QYC3TXF/217/index.m3u8
 
 
-+ + + 31.220.41.88:8081 + + + https://paste.in/fTsoqB + + +
++ + + 31.220.41.88:8081 + + + https://paste.in/fTsoqB + + + TVTAP <<
 
-#EXTINF:-1 group-title="31.220",beIN SPORT 1 |31
+#EXTINF:-1,DAZN Bar 1 HD
+http://31.220.41.88:8081/live/de-dazn1.stream/chunks.m3u8
+#EXTINF:-1,DAZN Bar 2 HD
+http://31.220.41.88:8081/live/de-dazn2.stream/chunks.m3u8
+#EXTINF:-1,Sky Sport 1
+http://31.220.41.88:8081/live/de-sky1.stream/chunks.m3u8
+#EXTM3U
+#EXTINF:-1,ABC 7
+http://31.220.41.88:8081/live/us-abc.stream/playlist.m3u8
+#EXTINF:-1,AMC
+http://31.220.41.88:8081/live/us-amc.stream/playlist.m3u8
+#EXTINF:-1,BBC News
+http://31.220.41.88:8081/live/bbcnews.stream/playlist.m3u8
+#EXTINF:-1,Box Nation
+http://31.220.41.88:8081/live/boxnation.stream/playlist.m3u8
+#EXTINF:-1,beIN SPORTS
+http://31.220.41.88:8081/live/beinus.stream/playlist.m3u8
+#EXTINF:-1,BT Sport 1
+http://31.220.41.88:8081/live/bt1.stream/playlist.m3u8
+#EXTINF:-1,BT Sport 2
+http://31.220.41.88:8081/live/bt2.stream/playlist.m3u8
+#EXTINF:-1,BT Sport 3
+http://31.220.41.88:8081/live/bt33.stream/playlist.m3u8
+#EXTINF:-1,BT Sport ESPN
+http://31.220.41.88:8081/live/espnuk.stream/playlist.m3u8
+#EXTINF:-1,CBS Sports Network
+http://31.220.41.88:8081/live/cbssports.stream/playlist.m3u8
+#EXTINF:-1,Cinemax
+http://31.220.41.88:8081/live/us-cinemax.stream/playlist.m3u8
+#EXTINF:-1,Cinemax 5Star
+http://31.220.41.88:8081/live/us-cinemax-5starmax.stream/playlist.m3u8
+#EXTINF:-1,Cinemax Action
+http://31.220.41.88:8081/live/us-cinemaxaction.stream/playlist.m3u8
+#EXTINF:-1,CNN
+http://31.220.41.88:8081/live/us-cnn.stream/playlist.m3u8
+#EXTINF:-1,Crime & Investigation
+http://31.220.41.88:8081/live/uk-crime-invest.stream/playlist.m3u8
+#EXTINF:-1,Discovery
+http://31.220.41.88:8081/live/us-discovery.stream/playlist.m3u8
+http://31.220.41.88:8081/live/discovery.stream/playlist.m3u8
+#EXTINF:-1,Discovery Science
+http://31.220.41.88:8081/live/us-discoveryscience.stream/playlist.m3u8
+#EXTINF:-1,ESPN
+http://31.220.41.88:8081/live/espnusahd.stream/playlist.m3u8
+#EXTINF:-1,ESPN 2
+http://31.220.41.88:8081/live/espn2hd.stream/playlist.m3u8
+#EXTINF:-1,Fox
+http://31.220.41.88:8081/live/us-fox.stream/playlist.m3u8
+#EXTINF:-1,Fox Sports 1
+http://31.220.41.88:8081/live/foxsports1.stream/playlist.m3u8
+#EXTINF:-1,Fox Sports 2
+http://31.220.41.88:8081/live/foxsports2.stream/playlist.m3u8
+#EXTINF:-1,FX
+http://31.220.41.88:8081/live/us-fx.stream/playlist.m3u8
+#EXTINF:-1,H2
+http://31.220.41.88:8081/live/uk-h2.stream/playlist.m3u8
+#EXTINF:-1,HBO
+http://31.220.41.88:8081/live/us-hbo.stream/playlist.m3u8
+#EXTINF:-1,HBO Family
+http://31.220.41.88:8081/live/hbofamily.stream/playlist.m3u8
+#EXTINF:-1,HBO Zone
+http://31.220.41.88:8081/live/us-hbozone.stream/playlist.m3u8
+#EXTINF:-1,History
+http://31.220.41.88:8081/live/history.stream/playlist.m3u8
+http://31.220.41.88:8081/live/us-history.stream/playlist.m3u8
+#EXTINF:-1,Investigation Discovery
+http://31.220.41.88:8081/live/us-investigation-discovery.stream/playlist.m3u8
+#EXTINF:-1,MUTV
+http://31.220.41.88:8081/live/mutv.stream/playlist.m3u8
+#EXTINF:-1,Nat Geo
+http://31.220.41.88:8081/live/us-natgeo/playlist.m3u8
+http://31.220.41.88:8081/live/natgeo/playlist.m3u8
+#EXTINF:-1,Nat Geo Wild
+http://31.220.41.88:8081/live/us-natgeowild/playlist.m3u8
+http://31.220.41.88:8081/live/natgeowild/playlist.m3u8
+#EXTINF:-1,NBA TV
+http://31.220.41.88:8081/live/nba.stream/playlist.m3u8
+#EXTINF:-1,NBC
+http://31.220.41.88:8081/live/us-nbcback.stream/playlist.m3u8
+#EXTINF:-1,NBCSN
+http://31.220.41.88:8081/live/nbcsn.stream/playlist.m3u8
+#EXTINF:-1,Paramount Networks
+http://31.220.41.88:8081/live/us-paramount.stream/playlist.m3u8
+#EXTINF:-1,Showtime
+http://31.220.41.88:8081/live/us-showtime.stream/playlist.m3u8
+#EXTINF:-1,Sky News
+http://31.220.41.88:8081/live/skynews.stream/playlist.m3u8
+#EXTINF:-1,Sky Sports Arena
+http://31.220.41.88:8081/live/skysports-arena.stream/playlist.m3u8
+#EXTINF:-1,Sky Sports F1
+http://31.220.41.88:8081/live/skysportsf1.stream/playlist.m3u8
+#EXTINF:-1,Sky Sports Football
+http://31.220.41.88:8081/live/skysports-football.stream/playlist.m3u8
+#EXTINF:-1,Sky Sports Main Event
+http://31.220.41.88:8081/live/skysports-maineventz.stream/playlist.m3u8
+#EXTINF:-1,Sky Sports Mix
+http://31.220.41.88:8081/live/skysportsmix.stream/playlist.m3u8
+#EXTINF:-1,Sky Sports Premier League
+http://31.220.41.88:8081/live/skysports-premier-league.stream/playlist.m3u8
+#EXTINF:-1,Sportsnet One
+http://31.220.41.88:8081/live/snone.stream/playlist.m3u8
+#EXTINF:-1,Sportsnet World
+http://31.220.41.88:8081/live/sno.stream/playlist.m3u8
+#EXTINF:-1,Starz
+http://31.220.41.88:8081/live/us-starz.stream/playlist.m3u8
+#EXTINF:-1,TNT
+http://31.220.41.88:8081/live/us-tnt.stream/playlist.m3u8
+#EXTINF:-1,TSN 1
+http://31.220.41.88:8081/live/tsn1.stream/playlist.m3u8
+#EXTINF:-1,TSN 2
+http://31.220.41.88:8081/live/tsn2.stream/playlist.m3u8
+#EXTINF:-1,TSN 3
+http://31.220.41.88:8081/live/tsn3.stream/playlist.m3u8
+#EXTINF:-1,TSN 4
+http://31.220.41.88:8081/live/tsn4.stream/playlist.m3u8
+#EXTINF:-1,TSN 5
+http://31.220.41.88:8081/live/tsn5.stream/playlist.m3u8
+#EXTINF:-1,WWE
+http://31.220.41.88:8081/live/wwe.stream/playlist.m3u8
+#EXTINF:-1,BBC 1
+http://31.220.41.88:8081/live/bbc1.stream/playlist.m3u8
+#EXTINF:-1,Eurosport 1
+http://31.220.41.88:8081/live/eurosport1.stream/playlist.m3u8
+#EXTINF:-1,Eurosport 2
+http://31.220.41.88:8081/live/eurosport2.stream/playlist.m3u8
+#EXTINF:-1,Cartoon Network
+http://31.220.41.88:8081/live/us-cartoon.stream/playlist.m3u8
+#EXTINF:-1,VH1
+http://31.220.41.88:8081/live/us-vh1.stream/playlist.m3u8
+#EXTINF:-1,Disney
+http://31.220.41.88:8081/live/us-disney.stream/playlist.m3u8
+#EXTINF:-1,Disney XD
+http://31.220.41.88:8081/live/us-disneyxd.stream/playlist.m3u8
+#EXTINF:-1,Nick
+http://31.220.41.88:8081/live/us-nick.stream/playlist.m3u8
+#EXTINF:-1,SyFy
+http://31.220.41.88:8081/live/us-syfy.stream/playlist.m3u8
+#EXTINF:-1,Animal Planet
+http://31.220.41.88:8081/live/us-animal.stream/playlist.m3u8
+#EXTINF:-1,TBS
+http://31.220.41.88:8081/live/us-tbs.stream/playlist.m3u8
+http://31.220.41.88:8081/live/us-nbc.stream/playlist.m3u8
+#EXTINF:-1,MS NBC
+http://31.220.41.88:8081/live/us-msnbc.stream/playlist.m3u8
+#EXTINF:-1,Hallmark
+http://31.220.41.88:8081/live/us-hallmark.stream/playlist.m3u8
+#EXTINF:-1,Freeform
+http://31.220.41.88:8081/live/us-freeform.stream/playlist.m3u8
+#EXTINF:-1,La Liga
+http://31.220.41.88:8081/live/bein-laliga.stream/playlist.m3u8
+#EXTINF:-1,DAZN 1 HD
+http://31.220.41.88:8081/live/de-dazn1.stream/playlist.m3u8
+#EXTINF:-1,DAZN 2 HD
+http://31.220.41.88:8081/live/de-dazn2.stream/playlist.m3u8
+http://31.220.41.88:8081/live/de-sky1.stream/playlist.m3u8
+#EXTINF:-1,CANAL+ SPORTS
+http://31.220.41.88:8081/live/fr-canaplus-sport.stream/playlist.m3u8
+#EXTINF:-1,PREMIER SPORTS
+http://31.220.41.88:8081/live/prem.stream/playlist.m3u8
+#EXTINF:-1,ESPN 3
+http://31.220.41.88:8081/live/nl-foxsports3.stream/playlist.m3u8
+#EXTINF:-1,ESPN 4
+http://31.220.41.88:8081/live/nl-foxsports4.stream/playlist.m3u8
+#EXTINF:-1,ESPN 5
+http://31.220.41.88:8081/live/nl-foxsports5.stream/playlist.m3u8
+#EXTINF:-1,ESPN 6
+http://31.220.41.88:8081/live/nl-foxsports6.stream/playlist.m3u8
+#EXTINF:-1,ESPN U
+http://31.220.41.88:8081/live/espnu.stream/playlist.m3u8
+#EXTINF:-1,SKY SPORTS 1
+http://31.220.41.88:8081/live/de-sport1.stream/playlist.m3u8
+#EXTINF:-1,BT SPORTS 2
+http://31.220.41.88:8081/live/bt220.stream/playlist.m3u8
+#EXTINF:-1,ee HD
+http://31.220.41.88:8081/live/ee.stream/playlist.m3u8
+#EXTINF:-1,travel
+http://31.220.41.88:8081/live/travel.stream/playlist.m3u8
+#EXTINF:-1,natgeo
+http://31.220.41.88:8081/live/natgeo.stream/playlist.m3u8
+#EXTINF:-1,natgeowild
+http://31.220.41.88:8081/live/natgeowild.stream/playlist.m3u8
+#EXTINF:-1,mtvrocks
+http://31.220.41.88:8081/live/mtvrocks.stream/playlist.m3u8
+#EXTINF:-1,mtvdance
+http://31.220.41.88:8081/live/mtvdance.stream/playlist.m3u8
+#EXTINF:-1,disney HD
+http://31.220.41.88:8081/live/disney.stream/playlist.m3u8
+#EXTINF:-1,cn
+http://31.220.41.88:8081/live/cn.stream/playlist.m3u8
+#EXTINF:-1,cbsreality
+http://31.220.41.88:8081/live/cbsreality.stream/playlist.m3u8
+#EXTINF:-1,cbsdrama
+http://31.220.41.88:8081/live/cbsdrama.stream/playlist.m3u8
+#EXTINF:-1,Sport TV 1 HD
+http://31.220.41.88:8081/live/pt-sporttv1.stream/playlist.m3u8
+#EXTINF:-1,Sport TV 2 HD
+http://31.220.41.88:8081/live/pt-sporttv2.stream/playlist.m3u8
+#EXTINF:-1,Sport TV 3
+http://31.220.41.88:8081/live/pt-sporttv3.stream/playlist.m3u8
+#EXTINF:-1,Sport TV 4 HD
+http://31.220.41.88:8081/live/pt-sporttv4.stream/playlist.m3u8
+#EXTINF:-1,foxsports2
+http://31.220.41.88:8081/live/nl-foxsports2.stream/playlist.m3u8
+#EXTINF:-1,calle13
+http://31.220.41.88:8081/live/es-calle-13.stream/playlist.m3u8
+#EXTINF:-1,CANAL+
+http://31.220.41.88:8081/live/fr-canaplus.stream/playlist.m3u8
+#EXTINF:-1,DISCOVERY FR
+http://31.220.41.88:8081/live/fr-discovery.stream/playlist.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE FR
+http://31.220.41.88:8081/live/fr-discoveryscience.stream/playlist.m3u8
+#EXTINF:-1,NAT GEO FR
+http://31.220.41.88:8081/live/fr-natgeo.stream/playlist.m3u8
+#EXTINF:-1,fr-beinmax4
+http://31.220.41.88:8081/live/fr-beinmax4.stream/playlist.m3u8
+#EXTINF:-1,fr-beinmax5
+http://31.220.41.88:8081/live/fr-beinmax5.stream/playlist.m3u8
+#EXTINF:-1,fr-beinmax6
+http://31.220.41.88:8081/live/fr-beinmax6.stream/playlist.m3u8
+#EXTINF:-1,fr-beinmax7
+http://31.220.41.88:8081/live/fr-beinmax7.stream/playlist.m3u8
+#EXTINF:-1,RMC sport 1
+http://31.220.41.88:8081/live/fr-sfr1.stream/playlist.m3u8
+#EXTINF:-1,RMC sport 2
+http://31.220.41.88:8081/live/fr-sfr2.stream/playlist.m3u8
+#EXTINF:-1,RMC sport 3
+http://31.220.41.88:8081/live/fr-sfr3.stream/playlist.m3u8
+bein1
 http://31.220.41.88:8081/live/bein1.stream/playlist.m3u8
-#EXTINF:-1,beIN SPORT 2 |31
 http://31.220.41.88:8081/live/bein2.stream/playlist.m3u8
-#EXTINF:-1,beIN SPORT 3 |31
 http://31.220.41.88:8081/live/bein3.stream/playlist.m3u8
+#EXTINF:-1 group-title="31.220",beIN SPORT 1 |31
+#EXTINF:-1,beIN SPORT 2 |31
+#EXTINF:-1,beIN SPORT 3 |31
 #EXTINF:-1,beIN SPORT 4 |31
 http://31.220.41.88:8081/live/bein4.stream/playlist.m3u8
 #EXTINF:-1,beIN SPORT 5 |31
@@ -5664,12 +5879,10 @@ http://31.220.41.88:8081/live/arena2.stream/playlist.m3u8
 http://31.220.41.88:8081/live/arena3.stream/playlist.m3u8
 http://31.220.41.88:8081/live/arena4.stream/playlist.m3u8
 http://31.220.41.88:8081/live/arena5.stream/playlist.m3u8
-http://31.220.41.88:8081/live/bein-laliga.stream/playlist.m3u8
 http://31.220.41.88:8081/live/beinus.stream/chunks.m3u8
 BT SPORT 1
 http://31.220.41.88:8081/live/bt1.stream/chunks.m3u8
 BT SPORT 3
-http://31.220.41.88:8081/live/bt33.stream/playlist.m3u8
 http://31.220.41.88:8081/live/de-skybundes1.stream/playlist.m3u8
 http://31.220.41.88:8081/live/de-skybundes2.stream/playlist.m3u8
 http://31.220.41.88:8081/live/de-skybundes3.stream/playlist.m3u8
@@ -5679,7 +5892,6 @@ http://31.220.41.88:8081/live/es-laligatvbar.stream/chunks.m3u8
 http://31.220.41.88:8081/live/es-movistar-deportes2.stream/playlist.m3u8
 http://31.220.41.88:8081/live/es-movistar-futbol.stream/playlist.m3u8
 http://31.220.41.88:8081/live/es-movistarlaliga.stream/playlist.m3u8
-http://31.220.41.88:8081/live/fr-sfr2.stream/playlist.m3u8
 http://31.220.41.88:8081/live/it-dazn1.stream/playlist.m3u8
 http://31.220.41.88:8081/live/it-skysport-football.stream/playlist.m3u8
 http://31.220.41.88:8081/live/klub1.stream/chunks.m3u8
@@ -5687,10 +5899,6 @@ http://31.220.41.88:8081/live/klub2.stream/chunks.m3u8
 http://31.220.41.88:8081/live/klub3.stream/chunks.m3u8
 http://31.220.41.88:8081/live/maction.stream/playlist.m3u8
 http://31.220.41.88:8081/live/nl-foxsports1.stream/playlist.m3u8
-http://31.220.41.88:8081/live/nl-foxsports2.stream/playlist.m3u8
-http://31.220.41.88:8081/live/nl-foxsports3.stream/playlist.m3u8
-http://31.220.41.88:8081/live/nl-foxsports4.stream/playlist.m3u8
-http://31.220.41.88:8081/live/nl-foxsports5.stream/playlist.m3u8
 http://31.220.41.88:8081/live/nl-foxsports6.stream/chunks.m3u8
 http://31.220.41.88:8081/live/nl-ziggoracing.stream/chunks.m3u8
 http://31.220.41.88:8081/live/nl-ziggoselect.stream/chunks.m3u8
@@ -5699,12 +5907,10 @@ http://31.220.41.88:8081/live/skyone.stream/chunks.m3u8
 skysports-football
 http://31.220.41.88:8081/live/skysports-football.stream/chunks.m3u8
 http://stream.tvtap.live:8081/live/skysports-football.stream/chunks.m3u8
-http://31.220.41.88:8081/live/us-disney.stream/playlist.m3u8
-http://31.220.41.88:8081/live/us-starz.stream/playlist.m3u8
 http://31.220.41.90:8081/live/fr-beinsport1.stream/chunks.m3u8
 
 
-+ + + http://31.220.41.87:8081 + + +
++ + + http://31.220.41.87:8081 + + + TVTAP ?
 
 #EXTINF:-1 group-title="31.220",DAZN 1IT
 http://31.220.41.87:8081/live/it-dazn1.stream/chunks.m3u8
@@ -10383,9 +10589,17 @@ http://stream.tvtap.live:8081/live/de-dazn2.stream/chunks.m3u8
 http://stream.tvtap.live:8081/live/skysports-cricket1.stream/playlist.m3u8
 http://stream.tvtap.live:8081/live/skysports-premier-league.stream/chunks.m3u8
 
-http://stream.tvtap.live:8081/live/golf.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjEgOTo1MDozMiBQTSZoYXNoX3ZhbHVlPWdGakZNWm1QK1lnQmZrV2ZwZVZMd2c9PSZ2YWxpZG1pbnV0ZXM9MjA=
+http://stream.tvtap.live:8081/live/golf.stream/playlist.m3u8?
+
+wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjEgOTo1MDozMiBQTSZoYXNoX3ZhbHVlPWdGakZNWm1QK1lnQmZrV2ZwZVZMd2c9PSZ2YWxpZG1pbnV0
+
+ZXM9MjA=
 #EXTINF:-1 group-title="tvtap",laligatv |tap
-http://stream.tvtap.live:8081/live/es-laligatvbar.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDIxIDI6NDI6NDcgUE0maGFzaF92YWx1ZT1vSHZWMXlrN1poaEEzZE5qaTNpSjR3PT0mdmFsaWRtaW51dGVzPTIw
+http://stream.tvtap.live:8081/live/es-laligatvbar.stream/playlist.m3u8?
+
+wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDIxIDI6NDI6NDcgUE0maGFzaF92YWx1ZT1vSHZWMXlrN1poaEEzZE5qaTNpSjR3PT0mdmFsaWRtaW51d
+
+GVzPTIw
 
 http://stream.tvtap.live:8081/live/us-ae.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yOC8yMDIxIDEwOjAzOjAzIEFNJmhhc2hfdmFsdWU9Z3
 #EXTINF:-1 group-title="tvtap",MTV Classic |tap
@@ -10395,48 +10609,24 @@ http://stream.tvtap.live:8081/live/mtvhits.stream/chunks.m3u8
 
 http://stream.tvtap.live:8081/live/bt1.stream/chunks.m3u8
 
-http://stream.tvtap.live:8081/live/bbc1.stream/playlist.m3u8
-http://stream.tvtap.live:8081/live/bbc1.stream/playlist.m3u8
-http://stream.tvtap.live:8081/live/bein-laliga.stream/playlist.m3u8
-http://stream.tvtap.live:8081/live/bein-laliga.stream/playlist.m3u8
-http://stream.tvtap.live:8081/live/bein1.stream/chunks.m3u8
-http://stream.tvtap.live:8081/live/bein1.stream/chunks.m3u8
 http://stream.tvtap.live:8081/live/bein10.stream/playlist.m3u8
-http://stream.tvtap.live:8081/live/bein5.stream/chunks.m3u8
 http://stream.tvtap.live:8081/live/bein8.stream/playlist.m3u8
 http://stream.tvtap.live:8081/live/bein9.stream/playlist.m3u8
-http://stream.tvtap.live:8081/live/bt1.stream/chunks.m3u8
-http://stream.tvtap.live:8081/live/bt1.stream/chunks.m3u8
-http://stream.tvtap.live:8081/live/bt1.stream/chunks.m3u8
 http://stream.tvtap.live:8081/live/bt33.stream/chunks.m3u8
-http://stream.tvtap.live:8081/live/de-dazn1.stream/playlist.m3u8
-http://stream.tvtap.live:8081/live/de-sport1.stream/playlist.m3u8
 http://stream.tvtap.live:8081/live/es-nova.stream/playlist.m3u8
 http://stream.tvtap.live:8081/live/espnusahd.stream/chunks.m3u8http://stream.tvtap.live:8081/live/ap.stream/chunks.m3u8
 http://stream.tvtap.live:8081/live/fr-beinmax6.stream/playlist.m3u8
 http://stream.tvtap.live:8081/live/fr-beinsport1.stream/playlist.m3u8
-http://stream.tvtap.live:8081/live/fr-beinsport1.stream/playlist.m3u8
-http://stream.tvtap.live:8081/live/fr-canaplus-sport.stream/playlist.m3u8
 http://stream.tvtap.live:8081/live/fr-m6.stream/playlist.m3u8
 http://stream.tvtap.live:8081/live/it-dazn1.stream/playlist.m3u8
 http://stream.tvtap.live:8081/live/it-raisportplus.stream/playlist.m3u8
 http://stream.tvtap.live:8081/live/it-skysportserieA.stream/chunks.m3u8
-http://stream.tvtap.live:8081/live/it-skysportserieA.stream/chunks.m3u8
 http://stream.tvtap.live:8081/live/nba.stream/chunks.m3u8
-http://stream.tvtap.live:8081/live/nba.stream/playlist.m3u8
 http://stream.tvtap.live:8081/live/nl-ziggoselect.stream/playlist.m3u8
-http://stream.tvtap.live:8081/live/skysports-football.stream/playlist.m3u8
-http://stream.tvtap.live:8081/live/skysports-premier-league.stream/playlist.m3u8
-http://stream.tvtap.live:8081/live/skysportsmix.stream/playlist.m3u8
 http://stream.tvtap.live:8081/live/tr-bein1.stream/playlist.m3u8
 http://stream.tvtap.live:8081/live/tr-bein3.stream/playlist.m3u8
 http://stream.tvtap.live:8081/live/uk-pick.stream/playlist.m3u8
-http://stream.tvtap.live:8081/live/us-amc.stream/playlist.m3u8
 http://stream.tvtap.live:8081/live/us-cinemax-5starmax.stream/chunks.m3u8
-http://stream.tvtap.live:8081/live/us-cnn.stream/playlist.m3u8
-http://stream.tvtap.live:8081/live/us-paramount.stream/playlist.m3u8
-http://stream.tvtap.live:8081/live/us-tnt.stream/playlist.m3u8
-http://stream.tvtap.live:8081/live/wwe.stream/playlist.m3u8
 #EXTINF:-1 group-title="tvtap", SK 1HD
 http://stream.tvtap.live:8081/live/klub1.stream/chunks.m3u8
 #EXTINF:-1 group-title="tvtap", SK 2HD
@@ -10445,6 +10635,85 @@ http://stream.tvtap.live:8081/live/klub2.stream/chunks.m3u8
 http://stream.tvtap.live:8081/live/klub3.stream/chunks.m3u8
 #EXTINF:-1 group-title="tvtap", SK 4HD
 http://stream.tvtap.live:8081/live/klub4.stream/chunks.m3u8
+
+http://stream.tvtap.live:8081/live/de-sky1.stream/chunks.m3u8
+
+#EXTINF:-1,SPORT.TV1*
+http://stream.tvtap.live:8081/live/pt-sporttv1.stream/playlist.m3u8
+#EXTINF:-1,Sport TV 2 HD
+http://stream.tvtap.live:8081/live/pt-sporttv2.stream/playlist.m3u8
+#EXTINF:-1,Sport TV 3
+http://stream.tvtap.live:8081/live/pt-sporttv3.stream/playlist.m3u8
+#EXTINF:-1,Sport TV 4 HD
+http://stream.tvtap.live:8081/live/pt-sporttv4.stream/playlist.m3u8
+#EXTINF:-1,foxsports2
+http://stream.tvtap.live:8081/live/nl-foxsports2.stream/playlist.m3u8
+#EXTINF:-1,calle13
+http://stream.tvtap.live:8081/live/es-calle-13.stream/playlist.m3u8
+#EXTINF:-1,CANAL+
+http://stream.tvtap.live:8081/live/fr-canaplus.stream/playlist.m3u8
+#EXTINF:-1,DISCOVERY FR
+http://stream.tvtap.live:8081/live/fr-discovery.stream/playlist.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE FR
+http://stream.tvtap.live:8081/live/fr-discoveryscience.stream/playlist.m3u8
+#EXTINF:-1,NAT GEO FR
+http://stream.tvtap.live:8081/live/fr-natgeo.stream/playlist.m3u8
+#EXTINF:-1,fr-beinmax4
+http://stream.tvtap.live:8081/live/fr-beinmax4.stream/playlist.m3u8
+#EXTINF:-1,fr-beinmax5
+http://stream.tvtap.live:8081/live/fr-beinmax5.stream/playlist.m3u8
+#EXTINF:-1,fr-beinmax6
+#EXTINF:-1,fr-beinmax7
+http://stream.tvtap.live:8081/live/fr-beinmax7.stream/playlist.m3u8
+#EXTINF:-1,RMC sport 1
+http://stream.tvtap.live:8081/live/fr-sfr1.stream/playlist.m3u8
+#EXTINF:-1,RMC sport 2
+http://stream.tvtap.live:8081/live/fr-sfr2.stream/playlist.m3u8
+#EXTINF:-1,RMC sport 3
+http://stream.tvtap.live:8081/live/fr-sfr3.stream/playlist.m3u8
+http://stream.tvtap.live:8081/live/bein1.stream/playlist.m3u8
+http://stream.tvtap.live:8081/live/bein2.stream/playlist.m3u8
+http://stream.tvtap.live:8081/live/bein3.stream/playlist.m3u8
+#EXTINF:-1,beIN SPORT 4 |31
+http://stream.tvtap.live:8081/live/bein4.stream/playlist.m3u8
+#EXTINF:-1,beIN SPORT 5 |31
+http://stream.tvtap.live:8081/live/bein5.stream/playlist.m3u8
+#EXTINF:-1,beIN SPORT 6 |31
+http://stream.tvtap.live:8081/live/bein6.stream/playlist.m3u8
+#EXTINF:-1,beIN SPORT 7 |31
+http://stream.tvtap.live:8081/live/bein7.stream/playlist.m3u8
+#EXTINF:-1,beIN SPORT 11 |31
+http://stream.tvtap.live:8081/live/bein11.stream/playlist.m3u8
+#EXTINF:-1 group-title="31.220",beIN SPORT 12 |31
+http://stream.tvtap.live:8081/live/bein12.stream/playlist.m3u8
+
+http://stream.tvtap.live:8081/live/arena1.stream/playlist.m3u8
+http://stream.tvtap.live:8081/live/arena2.stream/playlist.m3u8
+http://stream.tvtap.live:8081/live/arena3.stream/playlist.m3u8
+http://stream.tvtap.live:8081/live/arena4.stream/playlist.m3u8
+http://stream.tvtap.live:8081/live/arena5.stream/playlist.m3u8
+http://stream.tvtap.live:8081/live/beinus.stream/chunks.m3u8
+http://stream.tvtap.live:8081/live/de-skybundes1.stream/playlist.m3u8
+http://stream.tvtap.live:8081/live/de-skybundes2.stream/playlist.m3u8
+http://stream.tvtap.live:8081/live/de-skybundes3.stream/playlist.m3u8
+http://stream.tvtap.live:8081/live/de-skybundes4.stream/playlist.m3u8
+http://stream.tvtap.live:8081/live/de-skybundes5.stream/playlist.m3u8
+http://stream.tvtap.live:8081/live/es-laligatvbar.stream/chunks.m3u8
+http://stream.tvtap.live:8081/live/es-movistar-deportes2.stream/playlist.m3u8
+http://stream.tvtap.live:8081/live/es-movistar-futbol.stream/playlist.m3u8
+http://stream.tvtap.live:8081/live/es-movistarlaliga.stream/playlist.m3u8
+http://stream.tvtap.live:8081/live/it-skysport-football.stream/playlist.m3u8
+http://stream.tvtap.live:8081/live/maction.stream/playlist.m3u8
+http://stream.tvtap.live:8081/live/nl-foxsports1.stream/playlist.m3u8
+http://stream.tvtap.live:8081/live/nl-foxsports6.stream/chunks.m3u8
+http://stream.tvtap.live:8081/live/nl-ziggoracing.stream/chunks.m3u8
+http://stream.tvtap.live:8081/live/nl-ziggoselect.stream/chunks.m3u8
+http://stream.tvtap.live:8081/live/nl-ziggovoetbal.stream/chunks.m3u8
+http://stream.tvtap.live:8081/live/skyone.stream/chunks.m3u8
+skysports-football
+http://stream.tvtap.live:8081/live/skysports-football.stream/chunks.m3u8
+http://stream.tvtap.live:8081/live/fr-beinsport1.stream/chunks.m3u8
+
 
 + + + + + https://freetvdd.com*/TH + + + + + +
 
