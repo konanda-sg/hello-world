@@ -1829,7 +1829,7 @@ http://givemenbastreams.com/sports/manutd.html
 http://givemenbastreams.com/sports/barcelona.html
 
 
-hockeyweb << can't find php
+hockeynews << can't find php
 http://cdn.tastyfood10.xyz/hls/S1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDIxIDEyOjMxCjoxNAogUE0maGFzaF92YWx1ZT1nSHBiak4zeitiMHFoRVFCTEJjNUtRPT0mdmFsaWRtaW51dGVzPTEyMCZpZD03OC4xNy4xMzMuMTQyJnN0cm1fbGVuPTQ=
 
 
@@ -1837,7 +1837,11 @@ MediaStreams > Techoreels
 http://techoreels.com/clip/s1.html < TOR S1
 http://techoreels.com/clip/s3.html < TOR S3
 
-cr7 
+cr7 > mazystream
+
+http://mazystreams.xyz/event/ukraine-vs-france/s2.php?sport=soccer > http://mazystreams.xyz/event/ukraine-vs-france/s2.php 
+http://londonb.mazystreams.xyz/live/2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS80LzIwMjEgMToyODo0NyBQTSZoYXNoX3ZhbHVlPStCRTh4ZytXSzRHOUlhRWdBUXlFRlE9PSZ2YWxpZG1pbnV0ZXM9MTIwJmlkPTY1LjQ4LjE2MC41OSZzdHJtX2xlbj01
+
 #EXTINF:-1 group-title="BamarTV/Sports",mazy s1 |cr7
 http://ueefa.mazystreams.xyz/live/1/playlist.m3u8?wmsAuthSign=
 http://ueefa.mazystreams.xyz/live/1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDIxIDE6MDg6MzggUE0maGFzaF92YWx1ZT1uSG00TzduYUNQdzUwbFJQV1RmemZ3PT0mdmFsaWRtaW51dGVzPTEyMCZpZD0yYTAyOmM3ZjpmMjMwOmJlMDA6MWQ5NjpmNDliOjMxNmQ6ZjNkNyZzdHJtX2xlbj01
@@ -1852,22 +1856,24 @@ http://ueefa.mazystreams.xyz/live/2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC
 https://masxmyeudj7bwsw.ezcdn421.net:8443/hls/f2s41vu1evpyi2.m3u8?s=BFnbvI6UjrXV2t-rnwyxTg&e=1612724082
 
 
-Freesport
+>> Freesport
 http://nflsportz.com/embed/1.php?sport=soccer
 
-spt live1 < Sportinglive.co
-#EXTINF:-1 group-title="BamarTV/Sports", SL PL
+spt live1 < Sportinglive.co << 
+#EXTINF:-1 group-title="BamarTV/Sports", SL PL *offline
 http://185.53.89.183/hls/pl.m3u8
-#EXTINF:-1 group-title="BamarTV/Sports", SL main
+#EXTINF:-1 group-title="BamarTV/Sports", SL main *offline
 http://185.53.89.183/hls/main.m3u8
 
-Freetvlive1
+http://185.53.89.183/hls/s.m3u8
+
+>> Freetvlive1
 https://poscitech.club/player/ch61.php < no sound
 
-bluejetset < offline
+>> bluejetset < offline
 
-mntvlive13
-http://uhdstreams.club/footy/ch6.php < many AD
+>> mntvlive13 + + many AD
+http://uhdstreams.club/footy/ch6.php 
 
 RainoStream < many AD pop-up
 
@@ -1884,6 +1890,8 @@ http://hockeyweb.site/daily/news/sha-mon/
 http://www.cyfostreams.com/streams/cyfo6.php > http://77.247.109.15/live/s6/playlist.m3u8
 http://plagiarism.org.uk/liverpool-vs-burnley/
 https://www.vipstand.se/shakhtar-donetsk-vs-as-monaco-fc-live-sports-stream/1/
+
+>> CyclingStreams
 
 #EXTINF:-1 group-title="BamarTV/Sports",cyclg 1 |LaLigaTV
 http://cdn2.cyclingstreams.xyz/hls/P1.m3u8?wmsAuthSign=
@@ -2035,6 +2043,7 @@ https://cappuccinochill.xyz/hls/ep1.m3u8
 
 >> MediaStreams 
 http://techoreels.com/clip/f1.html << many AD
+http://techoreels.com/clip/s1.html
 
 >> mntvlive13 < ADS on click
 TO CHECK LATER
@@ -2082,7 +2091,7 @@ https://sportkart.xyz/ch/scplayer-137.php < no sound?
 
 https://wigistream.to/embed/wokcu16ro5n65d
 
-+ + + + + https://soccer-100.club/
++ + + + + https://soccer-100.club/ + + + no sound + + 
 
 https://soccer-100.club/2021/07/07/tv-channel-27/?sport=soccer > https://soccer-100.xyz/embed/scplayer-27.php
 
