@@ -26725,6 +26725,8 @@ http://212.224.98.212:2200/BR/Fox_Sports_2_HD-br/index.m3u8?token=
 
 http://5.255.94.248:8080/IN:STAR-SPORTS-HINDI/tracks-v1a1/mono.m3u8?token=JuylOjZl90 < ac deactivated
 
+
+
 https://itvoign.multitvsolution.com/idvo/discoverykidshindi_240p/index.m3u8
 
 https://streams.simpaisa.com:8443/pitvlive4/cartoonhindi.smil/playlist.m3u8
@@ -26965,7 +26967,11 @@ https://d20fdzcwhk7szz.cloudfront.net/SONY_YAY.m3u8
 https://d4r942xafddk2.cloudfront.net/ZOOM.m3u8
 #EXTINF:-1 group-title="misc/IN",Travel XP (Hinde)
 
+#EXTINF:-1 group-title="misc/IN",EUROSPORT
+https://feed.play.mv/live/1009/H92bfaXp9Z/master.m3u8
 
+#EXTINF:-1 group-title="misc/IN",colors HD
+https://feed.play.mv/live/10005200/6G8zJ9XsyB/master.m3u8
 #EXTINF:-1 group-title="misc/IN",color CINEPLEX
 https://feed.play.mv/live/10005200/ABTuyrBr22/master.m3u8
 #EXTINF:-1 group-title="misc/IN",BBC earth
@@ -26976,6 +26982,7 @@ https://feed.play.mv/live/1009/H92bfaXp9Z/master.m3u8
 https://feed.play.mv/live/10005200/7Lc21Ikj4q/master.m3u8
 
 #EXTINF:-1 group-title="misc/IN",SONY S PIX
+https://feed.play.mv/live/10005200/jmW41EycvT/master.m3u8
 https://feed.play.mv/live/10005200/jmW41EycvT/1.m3u8
 #EXTINF:-1 group-title="misc/IN",SONY TEN 1
 https://feed.play.mv/live/10005200/fMLTkj4OJC/master.m3u8
