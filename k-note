@@ -831,16 +831,18 @@ https://wowzaprodhd35-lh.akamaihd.net/i/a9af8597_1@355233/master.m3u8
 
 
 
-
-+ + + +  [loop] + + + +
++ + + + LIVE only + + + +
+Paramount *offline
+http://198.144.159.40/hls1/playlist.m3u8?co=b47c2860b6d36dbf95bf982319f09f00?SBN
 WIN+
 http://198.144.159.40/hls3/playlist.m3u8?co=b47c2860b6d36dbf95bf982319f09f00?SBN
 TUDN
 http://198.144.159.40/hls4/playlist.m3u8?co=b47c2860b6d36dbf95bf982319f09f00?SBN
-ESPN+
+ESPN+ *offline
 http://198.144.159.40/hls5/playlist.m3u8?co=b47c2860b6d36dbf95bf982319f09f00?SBN
+*offline
 http://198.144.159.40/hls6/playlist.m3u8?co=b47c2860b6d36dbf95bf982319f09f00?SBN
-Paramount [loop]
+Paramount *offline
 http://198.144.159.40/hls7/playlist.m3u8?co=b47c2860b6d36dbf95bf982319f09f00?SBN
 
 + + + + + + 
@@ -941,7 +943,10 @@ http://new-pro.tv:8080/get.php?username=Hotel-2021&password=Allroom&type=m3u < 2
 
 http://89.187.182.181:9090/SM_FHD_ENG_STARMOVIES/tracks-v1a1/index.m3u8
 
-
+#EXTINF:-1 group-title="BamarTV/Sports",SKY_SPORTS_FOOTBAL
+http://89.187.185.100/SKY_SPORTS_FOOTBALL/index.m3u8
+#EXTINF:-1 group-title="BamarTV/Sports",WWE
+http://89.187.185.100/WWE/index.m3u8
 
 http://streamwat.ch/custom/player/#
 #EXTINF:-1 group-title="BamarTV/Sports",POL | ELEVEN SPORTS 1
@@ -2950,7 +2955,6 @@ https://tvlive.rtsh.dev/live/sport_ott_ppp2/playlist.m3u8
 https://d1t6zcudgmh6wd.cloudfront.net/out/v1/88e67fc9be954233a769f97bada38a56/index.m3u8
 
 
-http://89.187.185.100/WWE/index.m3u8
 http://my.odtv.uk/live/iptvlover/128996/140.m3u8
 https://nonton.site:8443/live/yono22/ishak/37420.m3u8
 
@@ -10914,6 +10918,8 @@ http://stream.tvtap.live:8081/live/it-dazn1.stream/playlist.m3u8
 http://stream.tvtap.live:8081/live/it-dazn2.stream/playlist.m3u8
 http://stream.tvtap.live:8081/live/it-raisportplus.stream/playlist.m3u8
 http://stream.tvtap.live:8081/live/it-skysport-football.stream/playlist.m3u8
+#EXTINF:-1 group-title="TVTAP",skysportserieA
+http://stream.tvtap.live:8081/live/it-skysportserieA.stream/chunks.m3u8
 http://stream.tvtap.live:8081/live/it-skysportserieA.stream/playlist.m3u8
 #EXTINF:-1 group-title="TVTAP",SK 1HD
 http://stream.tvtap.live:8081/live/klub1.stream/playlist.m3u8
