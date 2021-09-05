@@ -28519,6 +28519,91 @@ http://185.226.88.3:1036/get.php?username=backup&password=backup&type=m3u < null
 http://185.226.88.6:1026/get.php?username=SMYYKzbS0z&password=HRj5TKnrRx&type=m3u < null < 1000-438
 
 
++ + + + + 185.160.192.64:80 + + + + + 
+
+#EXTINF:-1,BeIN Sports Premium 1 4K
+http://185.160.192.64:80/live/hany3333/3333344444/73894.m3u8
+#EXTINF:-1,BeIN Sports Premium 2 4K
+http://185.160.192.64:80/live/hany3333/3333344444/73893.m3u8
+#EXTINF:-1,BeIN Sports Premium 3 4K
+http://185.160.192.64:80/live/hany3333/3333344444/73892.m3u8
+#EXTINF:-1,BeIN Sports 1 4K
+http://185.160.192.64:80/live/hany3333/3333344444/73889.m3u8
+#EXTINF:-1,BeIN Sports 2 4K
+http://185.160.192.64:80/live/hany3333/3333344444/73888.m3u8
+#EXTINF:-1,BeIN Sports 3 4K
+http://185.160.192.64:80/live/hany3333/3333344444/73887.m3u8
+#EXTINF:-1,BeIN Sports 4 4K
+http://185.160.192.64:80/live/hany3333/3333344444/73886.m3u8
+#EXTINF:-1,BeIN Sports 5 4K
+http://185.160.192.64:80/live/hany3333/3333344444/73885.m3u8
+#EXTINF:-1,BeIN Sports 6 4K
+http://185.160.192.64:80/live/hany3333/3333344444/73884.m3u8
+#EXTINF:-1,BeIN Sports 7 4K
+http://185.160.192.64:80/live/hany3333/3333344444/73883.m3u8
+#EXTINF:-1,BeIN Sports Premium 1 FHD
+http://185.160.192.64:80/live/hany3333/3333344444/103531.m3u8
+#EXTINF:-1,BeIN Sports Premium 2 FHD
+http://185.160.192.64:80/live/hany3333/3333344444/103532.m3u8
+#EXTINF:-1,BeIN Sports Premium 3 FHD
+http://185.160.192.64:80/live/hany3333/3333344444/103533.m3u8
+#EXTINF:-1,BeIN Sports 1 FHD
+http://185.160.192.64:80/live/hany3333/3333344444/103536.m3u8
+#EXTINF:-1,BeIN Sports 2 FHD
+http://185.160.192.64:80/live/hany3333/3333344444/103537.m3u8
+#EXTINF:-1,BeIN Sports 3 FHD
+http://185.160.192.64:80/live/hany3333/3333344444/103538.m3u8
+#EXTINF:-1,BeIN Sports 4 FHD
+http://185.160.192.64:80/live/hany3333/3333344444/103539.m3u8
+#EXTINF:-1,BeIN Sports 5 FHD
+http://185.160.192.64:80/live/hany3333/3333344444/103540.m3u8
+#EXTINF:-1,BeIN Sports 6 FHD
+http://185.160.192.64:80/live/hany3333/3333344444/103541.m3u8
+#EXTINF:-1,BeIN Sports 7 FHD
+http://185.160.192.64:80/live/hany3333/3333344444/103542.m3u8
+#EXTINF:-1,BeIN Sports Premium 1 HD
+http://185.160.192.64:80/live/hany3333/3333344444/30501.m3u8
+#EXTINF:-1,BeIN Sports Premium 2 HD
+http://185.160.192.64:80/live/hany3333/3333344444/30500.m3u8
+#EXTINF:-1,BeIN Sports Premium 3 HD
+http://185.160.192.64:80/live/hany3333/3333344444/30499.m3u8
+#EXTINF:-1,BeIN Sports 1 HD
+http://185.160.192.64:80/live/hany3333/3333344444/30496.m3u8
+#EXTINF:-1,BeIN Sports 2 HD
+http://185.160.192.64:80/live/hany3333/3333344444/30495.m3u8
+#EXTINF:-1,BeIN Sports 3 HD
+http://185.160.192.64:80/live/hany3333/3333344444/30494.m3u8
+#EXTINF:-1,BeIN Sports 4 HD
+http://185.160.192.64:80/live/hany3333/3333344444/30493.m3u8
+#EXTINF:-1,BeIN Sports 5 HD
+http://185.160.192.64:80/live/hany3333/3333344444/30492.m3u8
+#EXTINF:-1,BeIN Sports 6 HD
+http://185.160.192.64:80/live/hany3333/3333344444/30491.m3u8
+#EXTINF:-1,BeIN Sports 7 HD
+http://185.160.192.64:80/live/hany3333/3333344444/30490.m3u8
+#EXTINF:-1,BeIN Sports Premium 1 SD
+http://185.160.192.64:80/live/hany3333/3333344444/103518.m3u8
+#EXTINF:-1,BeIN Sports Premium 2 SD
+http://185.160.192.64:80/live/hany3333/3333344444/103519.m3u8
+#EXTINF:-1,BeIN Sports Premium 3 SD
+http://185.160.192.64:80/live/hany3333/3333344444/103520.m3u8
+#EXTINF:-1,BeIN Sports 1 SD
+http://185.160.192.64:80/live/hany3333/3333344444/103523.m3u8
+#EXTINF:-1,BeIN Sports 2 SD
+http://185.160.192.64:80/live/hany3333/3333344444/103524.m3u8
+#EXTINF:-1,BeIN Sports 3 SD
+http://185.160.192.64:80/live/hany3333/3333344444/103525.m3u8
+#EXTINF:-1,BeIN Sports 4 SD
+http://185.160.192.64:80/live/hany3333/3333344444/103526.m3u8
+#EXTINF:-1,BeIN Sports 5 SD
+http://185.160.192.64:80/live/hany3333/3333344444/103527.m3u8
+#EXTINF:-1,BeIN Sports 6 SD
+http://185.160.192.64:80/live/hany3333/3333344444/103528.m3u8
+#EXTINF:-1,BeIN Sports 7 SD
+http://185.160.192.64:80/live/hany3333/3333344444/103529.m3u8
+
+
+
 + + + + + 185.226.88.6:1026 + + + + +
 
 http://185.226.88.6:1026/get.php?username=SMYYKzbS0z&password=HRj5TKnrRx&type=m3u < null < 1000-191
