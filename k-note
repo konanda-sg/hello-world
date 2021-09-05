@@ -2691,6 +2691,9 @@ view-source:http://www.ovostreams.com/5.php
 + + + + + misc/beIN + + + + + + adnaraoun.xyz:80 + + + 1.adnaraoun.xyz:80 + + amarteyyy.xyz + + anbdaouras.xyz:80 + + amroutras.xyz 
 
 
+http://25.yaciaptk.xyz/live/6161655/index.m3u8 << 
+
+
 http://gog.daroudaraw.xyz/live/00002500/index.m3u8
 http://gog.daroudaraw.xyz/live/001087800/index.m3u8
 http://gog.daroudaraw.xyz/live/05500021500/index.m3u8
@@ -5749,6 +5752,11 @@ http://31.220.41.87:8081/live/history.stream/playlist.m3u8
 http://31.220.41.87:8081/live/it-dazn1.stream/playlist.m3u8
 #EXTINF:-1 group-title="31.220*",DAZN 2IT
 http://31.220.41.87:8081/live/it-dazn2.stream/playlist.m3u8
+http://31.220.41.87:8081/live/it-dazn3.stream/playlist.m3u8
+http://31.220.41.87:8081/live/it-dazn4.stream/playlist.m3u8
+http://31.220.41.87:8081/live/it-dazn5.stream/playlist.m3u8
+DAZN 6IT
+http://31.220.41.87:8081/live/it-dazn6.stream/playlist.m3u8
 http://31.220.41.87:8081/live/it-raisportplus.stream/playlist.m3u8
 http://31.220.41.87:8081/live/it-skysport-football.stream/playlist.m3u8
 http://31.220.41.87:8081/live/it-skysportserieA.stream/playlist.m3u8
@@ -10846,6 +10854,9 @@ http://stream.tvtap.live:8081/live/de-skybundes3.stream/playlist.m3u8
 #EXTINF:-1 group-title="TVTAP",skysport DE4
 http://stream.tvtap.live:8081/live/de-skybundes4.stream/playlist.m3u8
 http://stream.tvtap.live:8081/live/de-skybundes5.stream/playlist.m3u8
+http://stream.tvtap.live:8081/live/de-skybundes6.stream/playlist.m3u8
+http://stream.tvtap.live:8081/live/de-skybundes7.stream/playlist.m3u8
+http://stream.tvtap.live:8081/live/de-skybundes8.stream/playlist.m3u8
 http://stream.tvtap.live:8081/live/de-sport1.stream/playlist.m3u8
 http://stream.tvtap.live:8081/live/discovery.stream/playlist.m3u8
 http://stream.tvtap.live:8081/live/disney.stream/playlist.m3u8
@@ -17471,7 +17482,8 @@ http://188.30.138.25:9981/stream/channelid/194556025?ticket=0D9B8A40350590233935
 
 BBC NEWS
 http://93.190.139.35:8278/streams/d/bbc1_antik/playlist.m3u8
-
+BBC WORLD NEWS
+http://93.190.139.35:8278/streams/d/bbcworldnews_antik/playlist.m3u8
 
 http://198.16.106.58:8278/streams/d/Animalplanet/playlist.m3u8
 http://198.16.106.58:8278/streams/d/Arena/playlist.m3u8
@@ -17480,6 +17492,7 @@ http://198.16.106.58:8278/streams/d/Assp2/playlist.m3u8
 http://198.16.106.58:8278/streams/d/Assp3/playlist.m3u8
 http://198.16.106.58:8278/streams/d/Assp4/playlist.m3u8
 http://198.16.106.58:8278/streams/d/Axn/playlist.m3u8
+
 http://198.16.106.58:8278/streams/d/Bein1hd/playlist.m3u8
 http://198.16.106.58:8278/streams/d/Bein2hd/playlist.m3u8
 http://198.16.106.58:8278/streams/d/Channel5/playlist.m3u8
