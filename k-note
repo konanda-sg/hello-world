@@ -10305,6 +10305,11 @@ https://lnwlomtoe.atvlb.com/lnwlomtoe/ch68/playlist.m3u8
 
 + + + + + mediasv.online + + + + + https://wacth.tv/live-tv + + + 
 
+
+
+#EXTINF:-1 group-title="mediasv",TRUE 1
+https://mediasv.online/live7f/truepl1Fallback/playlist_dvr.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMC8yMDIxIDU6NDU6MDQgUE0maGFzaF92YWx1ZT13b25NRStUWDR2ZjJyU1JHVE5wcm9nPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTIyJmlkPWNoXzU4ODM1
+
 #EXTINF:-1 group-title="mediasv",true EPL 1
 https://mediasv.online/tvchannel_x1/truepl1Fallback/video.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC80LzIwMjEgMTE6MjE6NTcgQU0maGFzaF92YWx1ZT00NnhVTFRSSU9xZFFlczY3V2ZCT2F3PT0mdmFsaWRtaW51dGVzPTg2NDAwJnN0cm1fbGVuPTI4JmlkPWNoXzM1MDQz
 #EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 1" group-title="mediasv",true EPL 1*
@@ -10317,6 +10322,8 @@ https://mediasv.online/tvchannel_x1/truepl1Fallback/video.m3u8?wmsAuthSign=c2Vyd
 #EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 1" group-title="mediasv",true EPL 1*"
 https://mediasv.online/tvchannel_x1/truepl1Fallback/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDIxIDEyOjE5OjU1IFBNJmhhc2hfdmFsdWU9MDQ0UFBZTzdnK2ZkYlphc1dqQWFmUT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0yOCZpZD1jaF80ODUwNQ==
 
+#EXTINF:-1 group-title="mediasv",TRUE 2
+https://mediasv.online/premium/trueepl2/playlist_dvr.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMC8yMDIxIDU6NDY6MjcgUE0maGFzaF92YWx1ZT1TdHhVMzZacUZ0eE5ISTNaUkx1KzhBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTE2JmlkPWNoXzc0NTkx
 #EXTINF:-1 group-title="mediasv",true EPL 2
 https://mediasv.online/tvchannel_x1/trueepl2/video.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC80LzIwMjEgMTE6MjA6MDIgQU0maGFzaF92YWx1ZT16bndhczZDbTFBTlRQeEZkbVNXNGZnPT0mdmFsaWRtaW51dGVzPTg2NDAwJnN0cm1fbGVuPTIxJmlkPWNoXzM0MTU3
 https://mediasv.online/live/trueepl2/playlist.m3u8
@@ -10343,7 +10350,7 @@ https://mediasv.online/tvchannel_x1/trueepl2/playlist.m3u8?wmsAuthSign=c2VydmVyX
 #EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 4" group-title="mediasv",true EPL 4'
 https://mediasv.online/tvchannel_x1/trueepl4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDIxIDEyOjE3OjA0IFBNJmhhc2hfdmFsdWU9QUJiaG5jaVMvZFkyOUxacGxCR1YxQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0yMSZpZD1jaF82NTI5Nw==
 
-#EXTINF:-1 group-title="mediasv",true EPL 5
+#EXTINF:-1 group-title="mediasv",true EPL 5*
 https://mediasv.online/tvchannel_x1/trueepl5/video.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNi8yMDIxIDE6MTk6MDEgUE0maGFzaF92YWx1ZT1DUWR2ZjAwL21weXlOUnIrcGVSWTZ3PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTIxJmlkPWNoXzYzMTMw
 #EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 5" group-title="mediasv",true EPL 5'
 https://mediasv.online/tvchannel_x1/trueepl5/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDIxIDEyOjE0OjU3IFBNJmhhc2hfdmFsdWU9Z2UyeE1ZL0V1UVVMTmVjL2hZdjFZdz09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0yMSZpZD1jaF83MTg1NQ==
@@ -27395,20 +27402,20 @@ https://f8e7y4c6.ssl.hwcdn.net/action/playlist.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/action/tracks-v2a1/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/action/tracks-v2a1/playlist.m3u8
 #EXTINF:-1 group-title="IN/f8",&flix*
-https://f8e7y4c6.ssl.hwcdn.net/andflix/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/andflix/tracks-v1a1/index.m3u8
+https://f8e7y4c6.ssl.hwcdn.net/andflix/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/andflix/tracks-v1a1/playlist.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/andflix/tracks-v2a1/index.m3u8
 #EXTINF:-1 group-title="IN/f8",&flix HD
-https://f8e7y4c6.ssl.hwcdn.net/andflixhd/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+https://f8e7y4c6.ssl.hwcdn.net/andflixhd/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/andflixhd/tracks-v1a1/mono.m3u8?id=eroz_brebes.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/andflixhd/tracks-v1a1/playlist.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/andflixhd/tracks-v2a1/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/andflixhd/tracks-v3a1/index.m3u8
 #EXTINF:-1 group-title="IN/f8",&pictures HD*
-https://f8e7y4c6.ssl.hwcdn.net/andpicshd/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/andpicshd/tracks-v1a1/index.m3u8
+https://f8e7y4c6.ssl.hwcdn.net/andpicshd/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/andpicshd/tracks-v1a1/mono.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/andpicshd/tracks-v1a1/playlist.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/andpicshd/tracks-v2a1/index.m3u8
@@ -27417,26 +27424,27 @@ https://f8e7y4c6.ssl.hwcdn.net/andpicssd/playlist.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/andpicssd/tracks-v1a1/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/andpicssd/tracks-v2a1/index.m3u8
 #EXTINF:-1 group-title="IN/f8",&prive HD EN
-https://f8e7y4c6.ssl.hwcdn.net/andprivehd/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+https://f8e7y4c6.ssl.hwcdn.net/andprivehd/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/andprivehd/tracks-v1a1/mono.m3u8?id=eroz_brebes.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/andprivehd/tracks-v2a1/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/andprivehd/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="IN/f8",&TV HD
-https://f8e7y4c6.ssl.hwcdn.net/andtvhd/index.m3u8
+#EXTINF:-1 group-title="IN/f8",&TV HD*
 https://f8e7y4c6.ssl.hwcdn.net/andtvhd/tracks-v1a1/index.m3u8
+https://f8e7y4c6.ssl.hwcdn.net/andtvhd/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/andtvhd/tracks-v1a1/playlist.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/andtvsd/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="IN/y5",ZEETV SEA
+https://f8e7y4c6.ssl.hwcdn.net/apacsea/tracks-v1a1/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/apacsea/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/apacsea/playlist.m3u8
-https://f8e7y4c6.ssl.hwcdn.net/apacsea/tracks-v1a1/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/apacsea/tracks-v2a1/index.m3u8
+
 https://f8e7y4c6.ssl.hwcdn.net/bigganga/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/bigganga/tracks-v1a1/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/bigganga/tracks-v1a1/playlist.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/bigganga/tracks-v2a1/index.m3u8
-#EXTINF:-1 group-title="IN/f8",Big Magic
+Big Magic
 https://f8e7y4c6.ssl.hwcdn.net/bigmagic/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/bigmagic/tracks-v1a1/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/bigmagic/tracks-v1a1/playlist.m3u8
@@ -27444,25 +27452,26 @@ https://f8e7y4c6.ssl.hwcdn.net/bigmagic/tracks-v2a1/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/biharjharkh/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/biharjharkh/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="IN/f8",ZEETV CA
+https://f8e7y4c6.ssl.hwcdn.net/canadahd/tracks-v1a1/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/canadahd/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/canadahd/playlist.m3u8
-https://f8e7y4c6.ssl.hwcdn.net/canadahd/tracks-v1a1/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/canadahd/tracks-v2a1/index.m3u8
 #EXTINF:-1 group-title="IN/f8",ZEE CINEMA UK
+https://f8e7y4c6.ssl.hwcdn.net/cinemauk/tracks-v1a1/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/cinemauk/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/cinemauk/playlist.m3u8
-https://f8e7y4c6.ssl.hwcdn.net/cinemauk/tracks-v1a1/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/cinemauk/tracks-v1a1/mono.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/cinemauk/tracks-v2a1/index.m3u8
 #EXTINF:-1 group-title="IN/f8",ZEE CINEMA US
-https://f8e7y4c6.ssl.hwcdn.net/cinemausa/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/cinemausa/tracks-v1a1/index.m3u8
+https://f8e7y4c6.ssl.hwcdn.net/cinemausa/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/cinemausa/tracks-v1a1/playlist.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/cinemausa/tracks-v2a1/index.m3u8
+https://f8e7y4c6.ssl.hwcdn.net/cinemausa/tracks-v3a1/index.m3u8
 #EXTINF:-1 group-title="IN/f8",ZEE BOLLYWOOD
+https://f8e7y4c6.ssl.hwcdn.net/classic/tracks-v1a1/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/classic/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/classic/playlist.m3u8
-https://f8e7y4c6.ssl.hwcdn.net/classic/tracks-v1a1/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/classic/tracks-v2a1/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/classic/tracks-v2a1/playlist.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/etcpnjbiusa/index.m3u8
@@ -27494,9 +27503,9 @@ https://f8e7y4c6.ssl.hwcdn.net/russia/playlist.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/russia/tracks-v1a1/mono.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/russia/tracks-v2a1/index.m3u8
 #EXTINF:-1 group-title="IN/f8",Zee Smile US
+https://f8e7y4c6.ssl.hwcdn.net/smileusa/tracks-v1a1/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/smileusa/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/smileusa/playlist.m3u8
-https://f8e7y4c6.ssl.hwcdn.net/smileusa/tracks-v1a1/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/smileusa/tracks-v2a1/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/smileusa/tracks-v2a1/mono.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/wion/index.m3u8
