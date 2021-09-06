@@ -4530,6 +4530,9 @@ UFCRE5D6XB7EK4 < N
 V4KSK3Y4Z8DVPM < Expired
 YSZEBB3QYC3TXF < OK < Too many people know
 
+http://181.114.57.158:4000/play/p71GvACSTwpRvkpc/index.m3u8
+
+
 http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/10086/index.m3u8 << TO CHECK
 
 http://181.114.57.158:4000/play/p71GvACSTwpRvkpc/index.m3u8 beIN SPORT HD
@@ -22091,6 +22094,7 @@ http://84.17.41.7:80/UTVACTION-Hin/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="misc/IN",UTVMOVIES
 http://84.17.41.7:80/UTVMOVIES-Hin/tracks-v1a1/mono.m3u8
 
+-/-/-/-/-
 
 #EXTINF:-1 group-title="misc/IN",DISCOVERY |89
 http://89.187.182.181:9090/SS_BD_DISCOVERY/tracks-v1a1/index.m3u8
@@ -22126,6 +22130,9 @@ http://89.187.182.181:9090/SM_FHD_ENG_STARMOVIESSELECT/playlist.m3u8
 #EXTINF:-1 group-title="misc/IN",STAR MOVIES SELECT FHD |89"
 http://89.187.182.181:9090/SM_FHD_ENG_STARMOVIESSELECT/tracks-v1a1/index.m3u8
 
+#EXTINF:-1 group-title="misc/IN",ZEECAFE |89"
+http://89.187.182.181:9090/SM_FHD_ENG_ZEECAFE/tracks-v1a1/index.m3u8
+
 #EXTINF:-1 group-title="misc/IN",ANDPICTURES |89
 http://89.187.182.181:9090/SM_FHD-HINDI-ANDPICTURES/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="misc/IN",ANDTV |89
@@ -22140,9 +22147,11 @@ http://89.187.182.181:9090/SM_FHD_HINDI_SONYTV/playlist.m3u8
 #EXTINF:-1 group-title="misc/IN",SONY TV |89"
 http://89.187.182.181:9090/SM_FHD_HINDI_SONYTV/tracks-v1a1/index.m3u8
 
+http://89.187.182.181:9090/SM_FHD-HINDI-DISCOVERY/tracks-v1a1/index.m3u8
 http://89.187.182.181:9090/SM_FHD-HINDI-STARBHARAT/tracks-v1a1/index.m3u8
 http://89.187.182.181:9090/SM_FHD-HINDI-STARGOLD/tracks-v1a1/index.m3u8
 http://89.187.182.181:9090/SM_FHD-HINDI-STARPLUS/tracks-v1a1/index.m3u8
+
 http://89.41.180.253:8080/INDIA_HINDI/SONY_MIX/tracks-v1a1/mono.m3u8 N.A.
 
 
