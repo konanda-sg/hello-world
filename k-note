@@ -4,7 +4,11 @@ x-tvg-url="https://guidexl.tv4.live/"
 
 00:04:4B:CC:FF:2E < Shield 
 
+http://bestbuyiptv.link:8080/get.php?username=android1&password=android1&type=m3u
+Real Url: iptv-line.com:8080     Status: Active    Created: 8/9/2016 10:24:31 AM     Expires: Null    Active Connections: 38     Maximum Connections: 50     Formats: "m3u8","ts"
 
+http://185.30.145.49:25461/get.php?username=www7w7w7w77w7w7w88r8r8r88r8ttt7t9t9t9t66hgg3g3g3gh1hhh1h1&password=1e1r1t4g7h536j33y3t22r2dds2s&type=m3u
+Real Url: 185.30.145.49:25461     Status: Active    Created: 8/8/2021 7:15:22 AM     Expires: Null    Active Connections: 55     Maximum Connections: 200     Formats: "m3u8","ts","rtmp" < SS & Arina Sports
 
 https://tv.dansk.live:8443/get.php?username=enba&password=enba&type=m3u
 Real Url: tv.dansk.live:8080     Status: Active    Created: 6/9/2021 3:22:30 PM     Expires: Null    Active Connections: 0     Maximum Connections: 100     Formats: "m3u8","ts","rtmp"
@@ -1913,14 +1917,7 @@ http://cdn2.cyclingstreams.xyz/hls/P4.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yM
 
 http://cdn1.cyclingstreams.xyz/hls/M2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDI6NDgKOjMwCiBQTSZoYXNoX3ZhbHVlPUZDWUlXQlZCaHMvUTVVS0k3OHh3N0E9PSZ2YWxpZG1pbnV0ZXM9MTIwJmlkPTE3Mi43MC4xNDMuODAmc3RybV9sZW49NA==
 
-http://www.ripple-stream.com/live/1.php
-http://www.ripple-stream.com/live/2.php
-http://www.ripple-stream.com/live/3.php
-http://www.ripple-stream.com/live/4.php
-http://www.ripple-stream.com/live/5.php offline
-http://www.ripple-stream.com/live/6.php offline
-http://www.ripple-stream.com/live/7.php
-http://www.ripple-stream.com/live/10.php
+
 
 
 #EXTINF:-1 group-title="BamarTV/Sports",mazy s1 |BT SPORT 1
@@ -1991,6 +1988,29 @@ https://poscitech.club/player/ch10.php
 https://poscitech.club/player/ch11.php
 https://poscitech.club/player/ch12.php
 
++ + + + + http://reddit.givemeredditstreams.com/ + + + + 
+
+http://givemenbastreams.com/sports/tottenham.html
+http://givemenbastreams.com/sports/manutd.html
+http://givemenbastreams.com/sports/barcelona.htm
+
+http://www.ripple-stream.com/live/1.php
+http://www.ripple-stream.com/live/2.php
+http://www.ripple-stream.com/live/3.php
+http://www.ripple-stream.com/live/4.php
+http://www.ripple-stream.com/live/5.php
+http://www.ripple-stream.com/live/6.php
+http://www.ripple-stream.com/live/7.php
+http://www.ripple-stream.com/live/8.php
+http://www.ripple-stream.com/live/9.php
+http://www.ripple-stream.com/live/10.php
+http://www.ripple-stream.com/live/11.php ER
+http://www.ripple-stream.com/live/12.php
+http://www.ripple-stream.com/live/13.php
+http://www.ripple-stream.com/live/14.php
+http://www.ripple-stream.com/live/15.php
+http://www.ripple-stream.com/live/16.php
+http://www.ripple-stream.com/live/17.php
 
 http://allsportsmedia.live/novo/events/28-norwhic/
 
@@ -22293,6 +22313,13 @@ https://feed.play.mv/live/10005200/niZoVrR2vD/master.m3u8
 https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
 #EXTINF:-1 group-title="misc/IN",DIS CH
 https://feed.play.mv/live/10005200/QjZ4g9TmAa/master.m3u8
+
+#EXTINF:-1,SONY HD
+https://feed.play.mv/live/10005200/7Lc21Ikj4q/master.m3u8
+#EXTINF:-1,BBC Earth HD
+https://feed.play.mv/live/10005200/7EsSDh7aX6/master.m3u8
+#EXTINF:-1,Sony Max HD
+https://feed.play.mv/live/10005200/Xe5PWNrbRZ/1.m3u8
 
 ANIMAX
 https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
