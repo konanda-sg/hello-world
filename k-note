@@ -22279,8 +22279,6 @@ https://feed.play.mv/live/10005200/6G8zJ9XsyB/master.m3u8
 https://feed.play.mv/live/10005200/ABTuyrBr22/master.m3u8
 #EXTINF:-1 group-title="misc/IN",BBC earth
 https://feed.play.mv/live/10005200/7EsSDh7aX6/1.m3u8
-#EXTINF:-1 group-title="misc/IN",EUROSPORT
-https://feed.play.mv/live/1009/H92bfaXp9Z/master.m3u8
 #EXTINF:-1 group-title="misc/IN",SONY S
 https://feed.play.mv/live/10005200/7Lc21Ikj4q/master.m3u8
 
@@ -22295,6 +22293,27 @@ https://feed.play.mv/live/10005200/niZoVrR2vD/master.m3u8
 https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
 #EXTINF:-1 group-title="misc/IN",DIS CH
 https://feed.play.mv/live/10005200/QjZ4g9TmAa/master.m3u8
+
+ANIMAX
+https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
+Discovery HD
+https://feed.play.mv/live/10005200/2Lkn0sCJBz/master.m3u8
+Trvl
+https://feed.play.mv/live/10005200/2dPCepc9DA/master.m3u8
+BBC earth
+https://feed.play.mv/live/10005200/7EsSDh7aX6/master.m3u8
+TLC
+https://feed.play.mv/live/10005200/HE8qFtMl9Q/master.m3u8
+Disney Int.
+https://feed.play.mv/live/10005200/IegKU9vXWg/master.m3u8
+food
+https://feed.play.mv/live/10005200/aGu172is5o/master.m3u8
+nick HD+
+https://feed.play.mv/live/10005200/s5f1zEMJC1/master.m3u8
+HUM HD
+https://feed.play.mv/live/1009/h5T18oYbas/master.m3u8
+HUM MASALA
+https://feed.play.mv/live/1009/uRdwlkNe1U/master.m3u8
 
 
 #EXTINF:-1 group-title="misc/IN",Animal Planet
