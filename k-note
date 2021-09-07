@@ -4,7 +4,11 @@ x-tvg-url="https://guidexl.tv4.live/"
 
 00:04:4B:CC:FF:2E < Shield 
 
+http://eurotv.vip:80/get.php?username=pretttiiivddcff&password=Frffgfrffc300&type=m3u
+Real Url: eurotv.vip:80     Status: Active    Created: 9/5/2021 2:04:03 PM     Expires: Null    Active Connections: 205     Maximum Connections: 300     Formats: "m3u8","ts","rtmp" < ID CH
 
+https://tv.dansk.live:8443/get.php?username=enba&password=enba&type=m3u
+Real Url: tv.dansk.live:8080     Status: Active    Created: 6/9/2021 3:22:30 PM     Expires: Null    Active Connections: 0     Maximum Connections: 100     Formats: "m3u8","ts","rtmp"
 
 sky sport DE1
 http://client.nodomain.vip:80/live.ts?channelId=11&uid=36826&deviceUser=29ZeljkoKukec&devicePass=vSOfu480Q8KDNIITvIim
