@@ -9357,11 +9357,11 @@ https://sport.livedoomovie.com/02_PPTVHD_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="sport",PremierSD1
 https://sport.livedoomovie.com/02_PremierHD1_480p/chunklist.m3u8
-#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 1" group-title="sport",PremierHD1
+#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 1" group-title="sport",PremierHD1 |sport
 https://sport.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:-1 group-title="sport",PremierSD2
 https://sport.livedoomovie.com/02_PremierHD2_480p/chunklist.m3u8
-#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 2" group-title="sport",PremierHD2
+#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 2" group-title="sport",PremierHD2 |sport
 https://sport.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 3" group-title="sport",PremierHD3
 https://sport.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
