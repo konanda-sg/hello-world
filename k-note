@@ -873,6 +873,9 @@ http://dinamikiptv.com: 8080 | Working
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 
 
+
+
+
 TO CHECK LATER 
 
 -/-/-/-/- live only -/-/-/-/-
@@ -960,6 +963,7 @@ http://89.187.182.181:9090/SM_FHD_ENG_STARMOVIES/tracks-v1a1/index.m3u8
 http://89.187.185.100/SKY_SPORTS_FOOTBALL/index.m3u8
 #EXTINF:-1 group-title="BamarTV/Sports",WWE
 http://89.187.185.100/WWE/index.m3u8
+
 
 http://streamwat.ch/custom/player/#
 #EXTINF:-1 group-title="BamarTV/Sports",POL | ELEVEN SPORTS 1
@@ -1156,6 +1160,58 @@ https://d2hjrfld3i5z2y.cloudfront.net/out/v1/55857eeba48c45f4be5b01cea490da78/in
 
  group-title="BamarTV/Sports",NBCSN
 http://104.238.222.61/freeabr/bpb2mkrrcbr1s96/chunks.m3u8 
+
+
+https://13.251.228.53:443/live-player/1/live.m3u8 offline
+#EXTINF:-1 group-title="BamarTV/Sports",beIN 1PRE
+https://13.251.228.53:443/live-player/2/live.m3u8
+#EXTINF:-1 group-title="BamarTV/Sports",BT SPORT 1
+https://13.251.228.53:443/live-player/3/live.m3u8
+https://13.251.228.53:443/live-player/4/live.m3u8 offline
+#EXTINF:-1 group-title="BamarTV/Sports",beIN 1PRE'
+https://13.251.228.53:443/live-player/5/live.m3u8
+#EXTINF:-1 group-title="BamarTV/Sports",beIN 2PRE
+https://13.251.228.53:443/live-player/6/live.m3u8
+#EXTINF:-1 group-title="BamarTV/Sports",truesport HD
+https://13.251.228.53:443/live-player/7/live.m3u8
+#EXTINF:-1 group-title="BamarTV/Sports",truesport 1HD
+https://13.251.228.53:443/live-player/8/live.m3u8
+#EXTINF:-1 group-title="BamarTV/Sports",truesport 2HD
+https://13.251.228.53:443/live-player/9/live.m3u8
+
+https://13.251.228.53:443/live-player/10/live.m3u8 offline
+#EXTINF:-1 group-title="BamarTV/Sports",FOX SPORT
+https://13.251.228.53:443/live-player/11/live.m3u8
+#EXTINF:-1 group-title="BamarTV/Sports",FOX SPORT2
+https://13.251.228.53:443/live-player/12/live.m3u8
+#EXTINF:-1 group-title="BamarTV/Sports",FOX SPORT3
+https://13.251.228.53:443/live-player/13/live.m3u8
+#EXTINF:-1 group-title="BamarTV/Sports",TPF HD1
+https://13.251.228.53:443/live-player/14/live.m3u8
+#EXTINF:-1 group-title="BamarTV/Sports",TPF HD2
+https://13.251.228.53:443/live-player/15/live.m3u8
+#EXTINF:-1 group-title="BamarTV/Sports",TPF HD3
+https://13.251.228.53:443/live-player/16/live.m3u8
+#EXTINF:-1 group-title="BamarTV/Sports",TPF HD4
+https://13.251.228.53:443/live-player/17/live.m3u8
+#EXTINF:-1 group-title="BamarTV/Sports",TPF HD5
+https://13.251.228.53:443/live-player/18/live.m3u8
+#EXTINF:-1 group-title="BamarTV/Sports",SPORT.TV1
+https://13.251.228.53:443/live-player/19/live.m3u8
+#EXTINF:-1 group-title="BamarTV/Sports",SPORT.TV2
+https://13.251.228.53:443/live-player/20/live.m3u8
+#EXTINF:-1 group-title="BamarTV/Sports",SPORT.TV3
+https://13.251.228.53:443/live-player/21/live.m3u8
+#EXTINF:-1 group-title="BamarTV/Sports",SPORT.TV4
+https://13.251.228.53:443/live-player/22/live.m3u8
+#EXTINF:-1 group-title="BamarTV/Sports",SPORT.TV5
+https://13.251.228.53:443/live-player/23/live.m3u8
+https://13.251.228.53:443/live-player/24/live.m3u8 offline
+https://13.251.228.53:443/live-player/25/live.m3u8
+https://13.251.228.53:443/live-player/26/live.m3u8 offline
+https://13.251.228.53:443/live-player/27/live.m3u8 offline
+https://13.251.228.53:443/live-player/28/live.m3u8 offline
+https://13.251.228.53:443/live-player/29/live.m3u8 offline
 
 https://cloudserver.server-cdn-streaming.com/live-player/1/live.m3u8 offline
 #EXTINF:-1 group-title="BamarTV/Sports",beIN SPORT 1PRE
