@@ -24220,12 +24220,14 @@ http://194.233.66.151:25461/get.php?username=rumah&password=home&type=m3u
 Real Url: 194.233.66.151:25461     Status: Active    Created: 15/6/2021 10:27:32 AM     Expires: Null    Active Connections: 23     Maximum Connections: 10000     Formats: "m3u8","ts","rtmp" < SEA CH <<
 
 #EXTINF:-1 group-title="194.233/MY",Mission Impossible
+http://194.233.66.151:25461/streaming/clients_live.php?extension=ts&username=rumah&password=home&stream=299
 http://194.233.66.151:25461/live/rumah/home/299.m3u8
 #EXTINF:-1,Transformers
+http://194.233.66.151:25461/streaming/clients_live.php?extension=ts&username=rumah&password=home&stream=303
 http://194.233.66.151:25461/live/rumah/home/303.m3u8
 #EXTINF:-1,cuba star movies select
 http://194.233.66.151:25461/live/rumah/home/254.m3u8
-#EXTINF:-1,Star World Premier
+#EXTINF:-1,Star World Premier offline
 http://194.233.66.151:25461/live/rumah/home/273.m3u8
 #EXTINF:-1,Cartoon Network
 http://194.233.66.151:25461/live/rumah/home/63.m3u8
@@ -24249,47 +24251,57 @@ http://194.233.66.151:25461/live/rumah/home/97.m3u8
 http://194.233.66.151:25461/live/rumah/home/98.m3u8
 #EXTINF:-1,Celestial Classic Movies
 http://194.233.66.151:25461/live/rumah/home/99.m3u8
-#EXTINF:-1,Sony One
+#EXTINF:-1,Sony One |offline
+http://194.233.66.151:25461/streaming/clients_live.php?extension=ts&username=rumah&password=home&stream=79
 http://194.233.66.151:25461/live/rumah/home/79.m3u8
-#EXTINF:-1,tvN
+#EXTINF:-1,tvN offline
 http://194.233.66.151:25461/live/rumah/home/80.m3u8
-#EXTINF:-1,tvN Movies
+#EXTINF:-1,tvN Movies offline
 http://194.233.66.151:25461/live/rumah/home/81.m3u8
 #EXTINF:-1,KBS World
 http://194.233.66.151:25461/live/rumah/home/82.m3u8
-#EXTINF:-1,Andflix HD
+#EXTINF:-1,Andflix HD offline
 http://194.233.66.151:25461/live/rumah/home/100.m3u8
-#EXTINF:-1,AndPrive HD
+#EXTINF:-1,AndPrive HD offline
 http://194.233.66.151:25461/live/rumah/home/101.m3u8
 #EXTINF:-1,Sony Pix
+http://194.233.66.151:25461/streaming/clients_live.php?extension=ts&username=rumah&password=home&stream=115
 http://194.233.66.151:25461/live/rumah/home/115.m3u8
 #EXTINF:-1,Star Movies Select
+http://194.233.66.151:25461/streaming/clients_live.php?extension=ts&username=rumah&password=home&stream=116
 http://194.233.66.151:25461/live/rumah/home/116.m3u8
 #EXTINF:-1,Channel V. Int
+http://194.233.66.151:25461/streaming/clients_live.php?extension=ts&username=rumah&password=home&stream=148
 http://194.233.66.151:25461/live/rumah/home/148.m3u8
 #EXTINF:-1,Channel News Asia
+http://194.233.66.151:25461/streaming/clients_live.php?extension=ts&username=rumah&password=home&stream=165
 http://194.233.66.151:25461/live/rumah/home/165.m3u8
 #EXTINF:-1,WWE
+http://194.233.66.151:25461/streaming/clients_live.php?extension=ts&username=rumah&password=home&stream=179
 http://194.233.66.151:25461/live/rumah/home/179.m3u8
 #EXTINF:-1,Astro Supersport 1
+http://194.233.66.151:25461/streaming/clients_live.php?extension=ts&username=rumah&password=home&stream=180
 http://194.233.66.151:25461/live/rumah/home/180.m3u8
 #EXTINF:-1,Astro Supersport 2
+http://194.233.66.151:25461/streaming/clients_live.php?extension=ts&username=rumah&password=home&stream=181
 http://194.233.66.151:25461/live/rumah/home/181.m3u8
 #EXTINF:-1,Astro Supersport 3
+http://194.233.66.151:25461/streaming/clients_live.php?extension=ts&username=rumah&password=home&stream=182
 http://194.233.66.151:25461/live/rumah/home/182.m3u8
 #EXTINF:-1,Astro Supersport 4
+http://194.233.66.151:25461/streaming/clients_live.php?extension=ts&username=rumah&password=home&stream=183
 http://194.233.66.151:25461/live/rumah/home/183.m3u8
-#EXTINF:-1,BeIN Sports 1
+#EXTINF:-1,BeIN Sports 1 offline
 http://194.233.66.151:25461/live/rumah/home/185.m3u8
-#EXTINF:-1,BeIN Sports 2
+#EXTINF:-1,BeIN Sports 2 offline
 http://194.233.66.151:25461/live/rumah/home/186.m3u8
-#EXTINF:-1,FOX Sports HD
+#EXTINF:-1,FOX Sports HD offline
 http://194.233.66.151:25461/live/rumah/home/187.m3u8
 #EXTINF:-1,FOX Sports 2 HD
 http://194.233.66.151:25461/live/rumah/home/188.m3u8
 #EXTINF:-1,FOX Sports 3 HD
 http://194.233.66.151:25461/live/rumah/home/189.m3u8
-#EXTINF:-1,TRUESPORTS 1
+#EXTINF:-1,TRUESPORTS 1 offline
 http://194.233.66.151:25461/live/rumah/home/190.m3u8
 #EXTINF:-1,TRUESPORTS 2
 http://194.233.66.151:25461/live/rumah/home/191.m3u8
@@ -24303,7 +24315,7 @@ http://194.233.66.151:25461/live/rumah/home/194.m3u8
 http://194.233.66.151:25461/live/rumah/home/195.m3u8
 #EXTINF:-1,TRUESPORTS 7
 http://194.233.66.151:25461/live/rumah/home/196.m3u8
-#EXTINF:-1,True Vision Original 1
+#EXTINF:-1,True Vision Original 1 offline
 http://194.233.66.151:25461/live/rumah/home/197.m3u8
 #EXTINF:-1,True Vision Original 2
 http://194.233.66.151:25461/live/rumah/home/198.m3u8
@@ -24313,7 +24325,7 @@ http://194.233.66.151:25461/live/rumah/home/199.m3u8
 http://194.233.66.151:25461/live/rumah/home/200.m3u8
 #EXTINF:-1,True Vision Original 5
 http://194.233.66.151:25461/live/rumah/home/201.m3u8
-#EXTINF:-1,Champion TV1 HD
+#EXTINF:-1,Champion TV1 HD offline
 http://194.233.66.151:25461/live/rumah/home/206.m3u8
 #EXTINF:-1,Champion TV2 HD
 http://194.233.66.151:25461/live/rumah/home/207.m3u8
@@ -24328,15 +24340,18 @@ http://194.233.66.151:25461/live/rumah/home/109.m3u8
 http://194.233.66.151:25461/live/rumah/home/111.m3u8
 #EXTINF:-1,HBO Hits
 http://194.233.66.151:25461/live/rumah/home/110.m3u8
-#EXTINF:-1,FOX Action Movies
+#EXTINF:-1,FOX Action Movies MY
 http://194.233.66.151:25461/live/rumah/home/107.m3u8
-#EXTINF:-1,FOX Movies
+#EXTINF:-1,FOX Movies MY
 http://194.233.66.151:25461/live/rumah/home/106.m3u8
 #EXTINF:-1,Fast & Furious
+http://194.233.66.151:25461/streaming/clients_live.php?extension=ts&username=rumah&password=home&stream=239
 http://194.233.66.151:25461/live/rumah/home/239.m3u8
 #EXTINF:-1,James Bond
+http://194.233.66.151:25461/streaming/clients_live.php?extension=ts&username=rumah&password=home&stream=242
 http://194.233.66.151:25461/live/rumah/home/242.m3u8
 #EXTINF:-1 group-title="194.233/MY",Tom & Jerry
+http://194.233.66.151:25461/streaming/clients_live.php?extension=ts&username=rumah&password=home&stream=249
 http://194.233.66.151:25461/live/rumah/home/249.m3u8
 
 + + + + + 195.154.156.91:80 + + + + + Null + + + + +
