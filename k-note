@@ -1161,6 +1161,8 @@ https://d2hjrfld3i5z2y.cloudfront.net/out/v1/55857eeba48c45f4be5b01cea490da78/in
  group-title="BamarTV/Sports",NBCSN
 http://104.238.222.61/freeabr/bpb2mkrrcbr1s96/chunks.m3u8 
 
+http://91.126.141.201:1935/live/eurosport2hdnntv/chunklist.m3u8
+
 
 https://13.251.228.53:443/live-player/1/live.m3u8 offline
 #EXTINF:-1 group-title="BamarTV/Sports",beIN 1PRE
@@ -3095,6 +3097,13 @@ http://185.52.77.67:8080/Candy/index.m3u8
 http://194.190.78.91:8080/shelk/index.m3u8
 http://194.190.78.91:8080/shelksd/index.m3u8
 
+amazon prime
+https://s.id/aputraXyz_mpd_nonformat_streams7
+https://s.id/aputraXyz_mpd_nonformat_streams8
+https://s.id/aputraXyz_mpd_nonformat_streams9
+https://s.id/aputraXyz_mpd_nonformat_streams10
+prime video
+https://s.id/aputraXyz_mpd_nonformat_streams11
 
 #EXTINF:-1 group-title="BamarTV",AVJ
 https://cdn.jmvstream.com/w/AVJ-9094/playlist/chunklist.m3u8
@@ -3261,7 +3270,7 @@ http://loop-hip-hop-1.roku.wurl.com/manifest/4300.m3u8
 https://loop-hottest-1.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="BamarTV",Loop Hottest'
 http://loop-hottest-1.roku.wurl.com/manifest/4300.m3u8
-#EXTINF:-1 group-title="BamarTV",Loop Party
+#EXTINF:-1 group-title="BamarTV",Loop Party 
 https://loop-party-1.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="BamarTV",Loop Party'
 http://loop-party-1.roku.wurl.com/manifest/4300.m3u8
