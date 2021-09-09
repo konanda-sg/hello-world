@@ -5,6 +5,10 @@ x-tvg-url="https://guidexl.tv4.live/"
 00:04:4B:CC:FF:2E < Shield 
 
 
+
+http://geoiptv.me:8880/get.php?username=iptvtree&password=yfL7uQLwXl&type=m3u
+Real Url: tvstar.live:8880     Status: Active    Created: 8/6/2021 3:07:00 PM     Expires: Null    Active Connections: 72     Maximum Connections: 150     Formats: "m3u8","ts","rtmp"
+
 http://mantul.biz.id:8888/get.php?username=iptvtreemy&password=KKNWB4foYs&type=m3u
 Real Url: mantul.biz.id:8888     Status: Active    Created: 29/7/2021 6:35:49 PM     Expires: Null    Active Connections: 8     Maximum Connections: 200     Formats: "m3u8","ts","rtmp" << 
 
@@ -22427,6 +22431,8 @@ https://feed.play.mv/live/10005200/7EsSDh7aX6/1.m3u8
 #EXTINF:-1 group-title="misc/IN",SONY S
 https://feed.play.mv/live/10005200/7Lc21Ikj4q/master.m3u8
 
+#EXTINF:-1 group-title="misc/IN",Sony Max HD
+https://feed.play.mv/live/10005200/Xe5PWNrbRZ/master.m3u8
 #EXTINF:-1 group-title="misc/IN",SONY S PIX
 https://feed.play.mv/live/10005200/jmW41EycvT/master.m3u8
 https://feed.play.mv/live/10005200/jmW41EycvT/1.m3u8
