@@ -1143,43 +1143,31 @@ https://live.andaman888th.com/live/tpf3/playlist.m3u8
 http://england.mazystreams.xyz/live/1/chunks.m3u8
 http://eu.mazystreams.xyz/live/1/chunks.m3u8
 http://london.mazystreams.xyz/live/1/chunks.m3u8
+
 http://londonb.mazystreams.xyz/live/1/chunks.m3u8 << 
+http://178.62.54.113/live/1/chunks.m3u8 << 
+
 http://stream.mazystreams.xyz/live/1/chunks.m3u8
-http://ueefa.mazystreams.xyz/live/1/chunks.m3u8
 http://ueefa.mazystreams.xyz/live/1/chunks.m3u8
 
 
 http://england.mazystreams.xyz/live/1/chunks.m3u8
- group-title="BamarTV/Sports",S LaLiga
+http://england.mazystreams.xyz/live/10/chunks.m3u8
 http://england.mazystreams.xyz/live/2/chunks.m3u8
- group-title="BamarTV/Sports",S LaLiga'
-http://london.mazystreams.xyz:80/live/2/chunks.m3u8
- group-title="BamarTV/Sports",BT SPORT 3
 http://england.mazystreams.xyz/live/3/chunks.m3u8
- group-title="BamarTV/Sports",BT SPORT 3'
-http://london.mazystreams.xyz:80/live/3/chunks.m3u8
 http://england.mazystreams.xyz/live/4/chunks.m3u8
 http://england.mazystreams.xyz/live/5/chunks.m3u8
 http://england.mazystreams.xyz/live/6/chunks.m3u8
 http://england.mazystreams.xyz/live/7/chunks.m3u8
 http://england.mazystreams.xyz/live/8/chunks.m3u8
 http://england.mazystreams.xyz/live/9/chunks.m3u8
-http://england.mazystreams.xyz/live/10/chunks.m3u8
-
-#EXTINF:-1 group-title="misc/beIN",BBC SPORTS
 http://eu.mazystreams.xyz/live/1/playlist.m3u8
-#EXTINF:-1 group-title="misc/beIN",FS 1
 http://eu.mazystreams.xyz/live/2/playlist.m3u8
-#EXTINF:-1 group-title="misc/beIN",FS 2
 http://eu.mazystreams.xyz/live/3/playlist.m3u8
-#EXTINF:-1 group-title="misc/beIN",ESPN
 http://eu.mazystreams.xyz/live/4/playlist.m3u8
-
 http://london.mazystreams.xyz:80/live/2/chunks.m3u8
-
-Live 1 |mazy
+http://london.mazystreams.xyz:80/live/3/chunks.m3u8
 http://londonb.mazystreams.xyz/live/1/chunks.m3u8
-Live 2 |mazy
 http://londonb.mazystreams.xyz/live/2/chunks.m3u8
 http://londonb.mazystreams.xyz/live/3/chunks.m3u8
 http://londonb.mazystreams.xyz/live/4/chunks.m3u8
@@ -1188,42 +1176,17 @@ http://londonb.mazystreams.xyz/live/6/chunks.m3u8
 http://londonb.mazystreams.xyz/live/7/chunks.m3u8
 http://londonb.mazystreams.xyz/live/8/chunks.m3u8
 http://londonb.mazystreams.xyz/live/9/chunks.m3u8
-
-
-#EXTINF:-1 group-title="BamarTV/Sports",mazy s1 |cr7
-http://ueefa.mazystreams.xyz/live/1/playlist.m3u8?wmsAuthSign=
-#EXTINF:-1 group-title="BamarTV/Sports",mazy s1 |cr7
-http://ueefa.mazystreams.xyz/live/2/playlist.m3u8?wmsAuthSign=
-
-#EXTINF:-1 group-title="BamarTV/Sports", MStream |offline
 http://stream.mazystreams.xyz/live/streamsd/chunks.m3u8
-
-#EXTINF:-1 group-title="BamarTV/Sports",mazy s1 |BT SPORT 1
 http://ueefa.mazystreams.xyz/live/1/playlist.m3u8?wmsAuthSign=
 http://ueefa.mazystreams.xyz/live/1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDE6MTc6NTIgUE0maGFzaF92YWx1ZT1BZEJuZXlyS1IrVDFXVUpRNGV4emN3PT0mdmFsaWRtaW51dGVzPTEyMCZpZD0yYTA3OjIzYzA6OTozMDAyOjoyZTQmc3RybV9sZW49NQ==
-
-
-#EXTINF:-1 group-title="BamarTV/Sports",mazy s2
 http://ueefa.mazystreams.xyz/live/2/playlist.m3u8?wmsAuthSign=
-
-#EXTINF:-1 group-title="BamarTV/Sports",mazy s3 |sky sport1
 http://ueefa.mazystreams.xyz/live/3/playlist.m3u8?wmsAuthSign=
 http://ueefa.mazystreams.xyz/live/3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDI6MjM6MTIgUE0maGFzaF92YWx1ZT1tcFlySXZVeGdHcm9Fc1E3aUJrWUdBPT0mdmFsaWRtaW51dGVzPTEyMCZpZD05Mi4yNi42OC4yNTImc3RybV9sZW49NQ==
-
-#EXTINF:-1 group-title="BamarTV/Sports",mazy s4
 http://ueefa.mazystreams.xyz/live/4/playlist.m3u8?wmsAuthSign=
 http://ueefa.mazystreams.xyz/live/4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDI6MTk6MjcgUE0maGFzaF92YWx1ZT05QWFRMzBESkxjR3p5VFdoenpocGxnPT0mdmFsaWRtaW51dGVzPTEyMCZpZD04Mi4xMzIuMjQ2LjQ0JnN0cm1fbGVuPTU=
-
-#EXTINF:-1 group-title="BamarTV/Sports",mazy s5 |S PreLege
 http://ueefa.mazystreams.xyz/live/5/playlist.m3u8?wmsAuthSign=
-
-#EXTINF:-1 group-title="BamarTV/Sports",mazy s6 |S LaLiga
 http://ueefa.mazystreams.xyz/live/6/playlist.m3u8?wmsAuthSign=
-
-#EXTINF:-1 group-title="BamarTV/Sports",mazy s7 |ss football
 http://ueefa.mazystreams.xyz/live/7/playlist.m3u8?wmsAuthSign=
-
-#EXTINF:-1 group-title="BamarTV/Sports",mazy s8
 http://ueefa.mazystreams.xyz/live/8/playlist.m3u8?wmsAuthSign=
 
 
@@ -2004,20 +1967,17 @@ http://mazystreams.xyz/event/albion-vs-everton/s4.php >
 http://mazystreams.xyz/event/leeds-united-vs-everton/s2.php << 
 http://mazystreams.xyz/event/manchester-city-vs-arsenal/s1.php
 
-
 http://mazystreams.xyz/event/ukraine-vs-france/s2.php?sport=soccer > http://mazystreams.xyz/event/ukraine-vs-france/s2.php 
 http://londonb.mazystreams.xyz/live/2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS80LzIwMjEgMToyODo0NyBQTSZoYXNoX3ZhbHVlPStCRTh4ZytXSzRHOUlhRWdBUXlFRlE9PSZ2YWxpZG1pbnV0ZXM9MTIwJmlkPTY1LjQ4LjE2MC41OSZzdHJtX2xlbj01
 
 http://ueefa.mazystreams.xyz/live/1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDIxIDE6MDg6MzggUE0maGFzaF92YWx1ZT1uSG00TzduYUNQdzUwbFJQV1RmemZ3PT0mdmFsaWRtaW51dGVzPTEyMCZpZD0yYTAyOmM3ZjpmMjMwOmJlMDA6MWQ5NjpmNDliOjMxNmQ6ZjNkNyZzdHJtX2xlbj01
 http://mazystreams.xyz/event/norwich-city-vs-leicester-city/s2.php
 
-
 http://ueefa.mazystreams.xyz/live/2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDIxIDEyOjQ4OjI0IFBNJmhhc2hfdmFsdWU9T1VrZXZOYWpnQUc4Wm1YdzRMYjJXUT09JnZhbGlkbWludXRlcz0xMjAmaWQ9MmEwMDoyM2M0OjJjOTg6MjUwMTo4MGZlOjFkODA6ZGIzZDphNzEyJnN0cm1fbGVuPTU=
 
 
 , BT SPORT 3 LIVE *
 https://masxmyeudj7bwsw.ezcdn421.net:8443/hls/f2s41vu1evpyi2.m3u8?s=BFnbvI6UjrXV2t-rnwyxTg&e=1612724082
-
 
 
 
