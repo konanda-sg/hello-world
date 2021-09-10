@@ -2302,7 +2302,7 @@ https://daddylive.me/embed/stream-27.php N.A
 https://daddylive.me/embed/stream-28.php S Rugby
 https://daddylive.me/embed/stream-29.php MATCH 
 https://daddylive.me/embed/stream-30.php N.A
-https://daddylive.me/embed/stream-31.php BT SPORT 1
+https://daddylive.me/embed/stream-31.php BT SPORT 1 << 
 https://daddylive.me/embed/stream-32.php BT SPORT 2
 https://daddylive.me/embed/stream-33.php BT SPORT 3
 https://daddylive.me/embed/stream-34.php BT SPORT ESPN
@@ -16248,6 +16248,7 @@ https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/playlist.m3u8
 WBTV /offline |ftp
 https://livecdn.fptplay.net/qnetlive/warnertv_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="KBS World HD",KBS World |ftp
+https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist.m3u8
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Asian Food Network",Asian Food Network |ftp
 https://livecdn.fptplay.net/world/afchd_hls.smil/playlist.m3u8
@@ -22488,8 +22489,10 @@ http://scontent.1xcdn.xyz/j2/Ten3_HD_HLS.m3u8
 http://148.72.155.84/ENC-1/index.m3u8
 #EXTINF:-1 group-title="misc/IN",STAR WORLD |TATAsky
 http://148.72.155.84/ENC-2/index.m3u8
+http://jupiter.bdcabletv.com:80/ENC-2/tracks-v1a1/mono.m3u8 < offline
 #EXTINF:-1 group-title="misc/IN",SONY SIX |TATAsky
 http://148.72.155.84/ENC-3/index.m3u8
+http://148.72.155.84/ENC-3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="misc/IN",STAR SPORTS 2
 http://148.72.155.84/ENC-4/index.m3u8
 nick Jr.
@@ -22512,10 +22515,14 @@ nick HD+
 http://148.72.155.84/ENC-15/index.m3u8
 #EXTINF:-1 group-title="misc/IN",&flix HD |TATAsky
 http://148.72.155.84/ENC-16/index.m3u8
+http://148.72.155.84/ENC-16/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="misc/IN",STAR MOVIES HD |TATAsky
 http://148.72.155.84/ENC-17/index.m3u8
+http://148.72.155.84/ENC-17/tracks-v1a1/mono.m3u8
+http://tvflix03.ddns.net/ENC-17/tracks-v1a1/mono.m3u8 < offline
 CN HD+
 http://148.72.155.84/ENC-18/index.m3u8
+http://148.72.155.84/ENC-18/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="misc/IN",TEN 1 |TATAsky
 http://148.72.155.84/ENC-19/index.m3u8
 UTV MOVIES
@@ -24242,31 +24249,33 @@ http://194.233.66.151:25461/live/rumah/home/299.m3u8
 #EXTINF:-1,Transformers
 http://194.233.66.151:25461/streaming/clients_live.php?extension=ts&username=rumah&password=home&stream=303
 http://194.233.66.151:25461/live/rumah/home/303.m3u8
-#EXTINF:-1,cuba star movies select
-http://194.233.66.151:25461/live/rumah/home/254.m3u8
-#EXTINF:-1,Star World Premier offline
+
+#EXTINF:-1,Star World Premier |offline
 http://194.233.66.151:25461/live/rumah/home/273.m3u8
-#EXTINF:-1,Cartoon Network
+#EXTINF:-1,Cartoon Network |offline
 http://194.233.66.151:25461/live/rumah/home/63.m3u8
-#EXTINF:-1,Asian Food Network
+#EXTINF:-1,Asian Food Network |offline
 http://194.233.66.151:25461/live/rumah/home/131.m3u8
-#EXTINF:-1,HITS Movies
+#EXTINF:-1,HITS Movies |offline
 http://194.233.66.151:25461/live/rumah/home/146.m3u8
 #EXTINF:-1,MTV Live HD
 http://194.233.66.151:25461/live/rumah/home/149.m3u8
-#EXTINF:-1,Sony SAB
+#EXTINF:-1,Sony SAB |offline
 http://194.233.66.151:25461/live/rumah/home/217.m3u8
 #EXTINF:-1,Sony TV
+http://194.233.66.151:25461/streaming/clients_live.php?extension=ts&username=rumah&password=home&stream=218
 http://194.233.66.151:25461/live/rumah/home/218.m3u8
-#EXTINF:-1,&Pictures
+#EXTINF:-1,&Pictures |offline
 http://194.233.66.151:25461/live/rumah/home/91.m3u8
 #EXTINF:-1,Bflix Movies
+http://194.233.66.151:25461/streaming/clients_live.php?extension=ts&username=rumah&password=home&stream=92
 http://194.233.66.151:25461/live/rumah/home/92.m3u8
-#EXTINF:-1,ZEE Cinema
+#EXTINF:-1,ZEE Cinema |offline
 http://194.233.66.151:25461/live/rumah/home/97.m3u8
-#EXTINF:-1,Celestial Movies
+#EXTINF:-1,Celestial Movies |offline
 http://194.233.66.151:25461/live/rumah/home/98.m3u8
 #EXTINF:-1,Celestial Classic Movies
+http://194.233.66.151:25461/streaming/clients_live.php?extension=ts&username=rumah&password=home&stream=99
 http://194.233.66.151:25461/live/rumah/home/99.m3u8
 #EXTINF:-1,Sony One |offline
 http://194.233.66.151:25461/streaming/clients_live.php?extension=ts&username=rumah&password=home&stream=79
@@ -24276,6 +24285,7 @@ http://194.233.66.151:25461/live/rumah/home/80.m3u8
 #EXTINF:-1,tvN Movies offline
 http://194.233.66.151:25461/live/rumah/home/81.m3u8
 #EXTINF:-1,KBS World
+http://194.233.66.151:25461/streaming/clients_live.php?extension=ts&username=rumah&password=home&stream=82
 http://194.233.66.151:25461/live/rumah/home/82.m3u8
 #EXTINF:-1,Andflix HD offline
 http://194.233.66.151:25461/live/rumah/home/100.m3u8
@@ -24358,8 +24368,10 @@ http://194.233.66.151:25461/live/rumah/home/111.m3u8
 #EXTINF:-1,HBO Hits
 http://194.233.66.151:25461/live/rumah/home/110.m3u8
 #EXTINF:-1,FOX Action Movies MY
+http://194.233.66.151:25461/streaming/clients_live.php?extension=ts&username=rumah&password=home&stream=107
 http://194.233.66.151:25461/live/rumah/home/107.m3u8
 #EXTINF:-1,FOX Movies MY
+http://194.233.66.151:25461/streaming/clients_live.php?extension=ts&username=rumah&password=home&stream=106
 http://194.233.66.151:25461/live/rumah/home/106.m3u8
 #EXTINF:-1,Fast & Furious
 http://194.233.66.151:25461/streaming/clients_live.php?extension=ts&username=rumah&password=home&stream=239
