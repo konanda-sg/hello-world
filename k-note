@@ -9,6 +9,9 @@ x-tvg-url="https://guidexl.tv4.live/"
 http://geoiptv.me:8880/get.php?username=iptvtree&password=yfL7uQLwXl&type=m3u
 Real Url: tvstar.live:8880     Status: Active    Created: 8/6/2021 3:07:00 PM     Expires: Null    Active Connections: 72     Maximum Connections: 150     Formats: "m3u8","ts","rtmp"
 
+http://hbox.cdnss.me:80/get.php?username=tring123&password=tring123&type=m3u
+Real Url: hbox.cdnss.me:80     Status: Active    Created: Null     Expires: Null    Active Connections: 30     Maximum Connections: 30     Formats: "m3u8","ts","rtmp"
+
 http://mantul.biz.id:8888/get.php?username=iptvtreemy&password=KKNWB4foYs&type=m3u
 Real Url: mantul.biz.id:8888     Status: Active    Created: 29/7/2021 6:35:49 PM     Expires: Null    Active Connections: 8     Maximum Connections: 200     Formats: "m3u8","ts","rtmp" << 
 
