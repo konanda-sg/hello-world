@@ -1190,13 +1190,19 @@ http://178.62.54.113/live/1/chunks.m3u8 <<
 http://stream.mazystreams.xyz/live/1/chunks.m3u8
 http://ueefa.mazystreams.xyz/live/1/chunks.m3u8
 
-
+#EXTINF:-1 group-title="BamarTV/Sports",MAZ 1*
+http://uk4k.mazystreams.xyz/live/1/chunks.m3u8?wmsAuthSign=
 #EXTINF:-1 group-title="BamarTV/Sports",MAZ 1
 http://uk4k.mazystreams.xyz/live/1/playlist.m3u8?wmsAuthSign=
 #EXTINF:-1 group-title="BamarTV/Sports",MAZ 1'
 http://uk4k.mazystreams.xyz/live/1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMS8yMDIxIDE6NTQ6NTQgUE0maGFzaF92YWx1ZT1Zbng0b2ZNdDlXNlZxTFhrSUlLRmlnPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0yMDAxOmQwODpkNDozZmQxOjM0ZDg6MzVlNTplYzk0OjkxNDAmc3RybV9sZW49NQ==
 #EXTINF:-1 group-title="BamarTV/Sports",MAZ 1"
 http://londonb.mazystreams.xyz/live/1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMS8yMDIxIDE6MjE6MTYgUE0maGFzaF92YWx1ZT1QaVV6cUtObDk4bW5tSU9vb0UzUXh3PT0mdmFsaWRtaW51dGVzPTEyMCZpZD0yYTAxOjRjODo4MDY6ODFhODoxOjI6NzExYTpjZDdmJnN0cm1fbGVuPTU=
+
+#EXTINF:-1 group-title="BamarTV/Sports",MAZ 2
+http://uk4k.mazystreams.xyz/live/2/playlist.m3u8?wmsAuthSign=
+
+
 
 http://england.mazystreams.xyz/live/1/chunks.m3u8
 http://england.mazystreams.xyz/live/10/chunks.m3u8
