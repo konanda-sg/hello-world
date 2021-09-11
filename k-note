@@ -980,9 +980,9 @@ http://89.187.182.181:9090/SM_FHD_ENG_STARMOVIES/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 group-title="BamarTV/Sports",BT_SPORTS_1
 http://89.187.185.100:80/BT_SPORTS_1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="BamarTV/Sports",BT_SPORTS_12
+#EXTINF:-1 group-title="BamarTV/Sports",BT_SPORTS_2
 http://89.187.185.100:80/BT_SPORTS_2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="BamarTV/Sports",BT_SPORTS_13
+#EXTINF:-1 group-title="BamarTV/Sports",BT_SPORTS_3
 http://89.187.185.100:80/BT_SPORTS_3/tracks-v1a1/mono.m3u8
 http://89.187.185.100:80/SKY_SPORTS_ACTION/tracks-v1a1/mono.m3u8
 http://89.187.185.100:80/SKY_SPORTS_ARENA/tracks-v1a1/mono.m3u8
