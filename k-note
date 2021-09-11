@@ -6,6 +6,10 @@ x-tvg-url="https://guidexl.tv4.live/"
 
 http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 
+
+http://194.233.73.66:2082/get.php?username=freehitv&password=freehitv&type=m3u
+Real Url: 194.233.73.66:2082     Status: Active    Created: 10/9/2021 11:52:42 AM     Expires: Null    Active Connections: 8     Maximum Connections: 100     Formats: "m3u8","ts","rtmp"
+
 http://geoiptv.me:8880/get.php?username=iptvtree&password=yfL7uQLwXl&type=m3u
 Real Url: tvstar.live:8880     Status: Active    Created: 8/6/2021 3:07:00 PM     Expires: Null    Active Connections: 72     Maximum Connections: 150     Formats: "m3u8","ts","rtmp"
 
