@@ -1000,11 +1000,17 @@ http://89.187.185.100:80/NICKELODEON/index.m3u8
 
 
 
-+ + + https://myoplay.club/oplive/?sport=soccer + + + 
++ + + https://myoplay.club/oplive/?sport=soccer + + + Dvaix
 
 
 #EXTINF:-1 group-title="BamarTV/Sports",myoplay 1 | BT SPORT 1
 https://wowzaprodhd46-lh.akamaihd.net/i/029e4a4e_1@748107/master.m3u8
+
+https://myoplay.club/play-hd2/
+
+https://myoplay.club/play-hd3/
+https://wowzaprodhd49-lh.akamaihd.net/i/b3293799_1@755746/master.m3u8
+
 
 
 http://streamwat.ch/custom/player/#
@@ -1894,10 +1900,16 @@ https://href.li/?http://crichd.ws/update/skys5.php ss premier league
 + + + + + https://redd.crackstreams.gg/ + + + + + 
 
 
-+ + + + + http://blacktiesports.net + + + + +  to check just before match start
+>> thebaldstreamer > http://blacktiesports.net + + + + +  to check just before match start
+>> thebaldstreamer > http://blacktiesports.net/soccer1?sport=soccer + + BamarTV can't play try again later
 
-http://blacktiesports.net/live/soccer1.php
-http://blacktiesports.net/live/soccer2.php
+http://blacktiesports.net/live/soccer1.php < BTS 1
+http://blacktiesports.net/live/soccer2.php < BTS 2
+
+http://blacktiesports.net/live/soccer3.php < BTS 3
+http://blacktiesports.net/live/soccer4.php < BTS 4
+
+
 http://blacktiesports.net/live/f1.php
 
 
@@ -2052,6 +2064,8 @@ https://www.vipstand.se/shakhtar-donetsk-vs-as-monaco-fc-live-sports-stream/1/
 
 >> CyclingStreams
 
+http://cdn1.cyclingstreams.xyz:8081/abr/abr-K-1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMS8yMDIxIDEyOjU0CjoxMAogUE0maGFzaF92YWx1ZT1ZTGJQeGY0NHpVQnpvSHBab0RCbU5nPT0mdmFsaWRtaW51dGVzPTEyMCZpZD03Ny4xMTEuMjQ2LjM4JnN0cm1fbGVuPTQ=
+
 #EXTINF:-1 group-title="BamarTV/Sports",cyclg 1 |LaLigaTV
 http://cdn2.cyclingstreams.xyz/hls/P1.m3u8?wmsAuthSign=
 #EXTINF:-1 group-title="BamarTV/Sports",cyclg 2 |S PL
@@ -2178,14 +2192,24 @@ https://r3-sn-5fo-c37ed63.googleuservideo.com/hdfootball_w4/astrosupersport/chun
 
 + + + + + https://reddit.boxingstreams.cc/ + + + + 
 
+
+>> Azulito << not play
+
+http://m3.akamaiized.xyz/localstorage/n3/rdr.m3u8 
+
+
 >> buffstream
 
 http://nrghstsrwtrs.re/embe/boxing.php boxing 'bf << not work on BamarTV
 
+
 >> Cappuccino
+
 #EXTINF:-1 group-title="BamarTV/Sports",EP1
 https://cappuccinochill.xyz/hls/ep1.m3u8
 
+https://nflscoop.net/25postday/gday1.html
+https://nflscoop.net/25postday/gday2.html
 
 >> http://liveonscore.tv/
 
