@@ -22313,30 +22313,33 @@ http://103.213.238.194:8080/SonySix/index.m3u8
 
 -/-/-/-/-/- 143.244.60.10 -/-/-/-/-/-
 
-
+#EXTINF:-1 group-title="misc/IN",STAR_MOVIES
+http://143.244.60.10/ENGLISH__STAR_MOVIES_HD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 group-title="misc/IN",STAR_MOVIES_SELECT
+http://143.244.60.10/ENGLISH__STAR_MOVIES_SELECT_HD/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 group-title="misc/IN",AND_PICTURES
-http://143.244.60.10/HINDI__AND_PICTURES_HD/mono.m3u8
-#EXTINF:-1 group-title="misc/IN",B4U_MOVIES
-http://143.244.60.10/HINDI__B4U_MOVIES/mono.m3u8
+http://143.244.60.10/HINDI__AND_PICTURES_HD/mono.m3u8?token=test
+#EXTINF:-1 group-title="misc/IN",B4U_MOVIES |offline
+http://143.244.60.10/HINDI__B4U_MOVIES/mono.m3u8?token=test
 #EXTINF:-1 group-title="misc/IN",MN_PLUS
-http://143.244.60.10/HINDI__MN_PLUS_HD/mono.m3u8
+http://143.244.60.10/HINDI__MN_PLUS_HD/mono.m3u8?token=test
 #EXTINF:-1 group-title="misc/IN",MOVIES_NOW
-http://143.244.60.10/HINDI__MOVIES_NOW_HD/mono.m3u8
+http://143.244.60.10/HINDI__MOVIES_NOW_HD/mono.m3u8?token=test
 #EXTINF:-1 group-title="misc/IN",SONY_MAX_2
-http://143.244.60.10/HINDI__SONY_MAX_2/mono.m3u8
+http://143.244.60.10/HINDI__SONY_MAX_2/mono.m3u8?token=test
 #EXTINF:-1 group-title="misc/IN",SONY_SAB
-http://143.244.60.10/HINDI__SONY_SAB_HD/mono.m3u8
+http://143.244.60.10/HINDI__SONY_SAB_HD/mono.m3u8?token=test
 #EXTINF:-1 group-title="misc/IN",STAR_BHARAT
-http://143.244.60.10/HINDI__STAR_BHARAT_HD/mono.m3u8
+http://143.244.60.10/HINDI__STAR_BHARAT_HD/mono.m3u8?token=test
 #EXTINF:-1 group-title="misc/IN",STAR_GOLD
-http://143.244.60.10/HINDI__STAR_GOLD_HD/mono.m3u8
+http://143.244.60.10/HINDI__STAR_GOLD_HD/mono.m3u8?token=test
 #EXTINF:-1 group-title="misc/IN",STAR_PLUS
-http://143.244.60.10/HINDI__STAR_PLUS_HD/mono.m3u8
+http://143.244.60.10/HINDI__STAR_PLUS_HD/mono.m3u8?token=test
 http://143.244.60.10/HINDI__UTV_HD/mono.m3u8
 #EXTINF:-1 group-title="misc/IN",UTV_MOVIES
-http://143.244.60.10/HINDI__UTV_MOVIES/mono.m3u8
+http://143.244.60.10/HINDI__UTV_MOVIES/mono.m3u8?token=test
 #EXTINF:-1 group-title="misc/IN",ZEE_ACTION
-http://143.244.60.10/HINDI__ZEE_ACTION/mono.m3u8
+http://143.244.60.10/HINDI__ZEE_ACTION/mono.m3u8?token=test
 
 
 + + + + + cdn.ihub.live + + + 
