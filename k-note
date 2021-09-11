@@ -1000,6 +1000,13 @@ http://89.187.185.100:80/NICKELODEON/index.m3u8
 
 
 
++ + + https://myoplay.club/oplive/?sport=soccer + + + 
+
+
+#EXTINF:-1 group-title="BamarTV/Sports",myoplay 1 | BT SPORT 1
+https://wowzaprodhd46-lh.akamaihd.net/i/029e4a4e_1@748107/master.m3u8
+
+
 http://streamwat.ch/custom/player/#
 #EXTINF:-1 group-title="BamarTV/Sports",POL | ELEVEN SPORTS 1
 http://internetowa.tv/?c=hlsPlay&channel=eleven&token=d2f67eb91b3818c1ee8931a5b68c5adba02ed60d0d28a7e4f7d73ab68de148f96dd6219a40898e23f8d868184c1d1fd0da30088401faba26814cc1988752e379
