@@ -4,7 +4,7 @@ x-tvg-url="https://guidexl.tv4.live/"
 
 00:04:4B:CC:FF:2E < Shield 
 
-
+http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 
 http://geoiptv.me:8880/get.php?username=iptvtree&password=yfL7uQLwXl&type=m3u
 Real Url: tvstar.live:8880     Status: Active    Created: 8/6/2021 3:07:00 PM     Expires: Null    Active Connections: 72     Maximum Connections: 150     Formats: "m3u8","ts","rtmp"
