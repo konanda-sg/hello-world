@@ -774,7 +774,9 @@ https://www.dropbox.com/s/dl/dllbdpdkssknyjp/HBOSIGX.m3u8
 + + + + + + + + + to sort out + + + + + + + + + 
 
 MMA https://alchimie-mmatv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-SC Live1 https://cr7soccer.club/5/1.php
+
+
+
 http://103.108.140.164:1009/channel23/livestream/chunklist.m3u8
 http://103.205.133.21/hls/andpicture.m3u8
 http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/100.m3u8
@@ -843,7 +845,7 @@ https://dipdxjic51jcl.cloudfront.net/out/v1/affd42eba9da49dca9e30234fefa2ab5/ind
 https://dipdxjic51jcl.cloudfront.net/out/v1/affd42eba9da49dca9e30234fefa2ab5/index_6.m3u8
 https://freelive365.com/?listing_type=tsn-1-ca&sport=soccer
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
-https://myoplay.club/op-foot-live/?sport=soccer
+
 
 https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
 https://raw.githubusercontent.com/angahjee1994/tv/master/hbofam.m3u8
@@ -1001,7 +1003,7 @@ http://89.187.185.100:80/NICKELODEON/index.m3u8
 
 
 + + + https://myoplay.club/oplive/?sport=soccer + + + Dvaix
-
+https://myoplay.club/op-foot-live/?sport=soccer
 
 #EXTINF:-1 group-title="BamarTV/Sports",myoplay 1 | BT SPORT 1
 https://wowzaprodhd46-lh.akamaihd.net/i/029e4a4e_1@748107/master.m3u8
@@ -1010,7 +1012,7 @@ https://myoplay.club/play-hd2/
 
 https://myoplay.club/play-hd3/
 https://wowzaprodhd49-lh.akamaihd.net/i/b3293799_1@755746/master.m3u8
-
+https://wowzaprodhd91-lh.akamaihd.net/i/f11986e2_1@782949/master.m3u8
 
 
 http://streamwat.ch/custom/player/#
@@ -1188,6 +1190,9 @@ http://178.62.54.113/live/1/chunks.m3u8 <<
 http://stream.mazystreams.xyz/live/1/chunks.m3u8
 http://ueefa.mazystreams.xyz/live/1/chunks.m3u8
 
+http://uk4k.mazystreams.xyz/live/1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMS8yMDIxIDE6NTQ6NTQgUE0maGFzaF92YWx1ZT1Zbng0b2ZNdDlXNlZxTFhrSUlLRmlnPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0yMDAxOmQwODpkNDozZmQxOjM0ZDg6MzVlNTplYzk0OjkxNDAmc3RybV9sZW49NQ==
+
+http://londonb.mazystreams.xyz/live/1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMS8yMDIxIDE6MjE6MTYgUE0maGFzaF92YWx1ZT1QaVV6cUtObDk4bW5tSU9vb0UzUXh3PT0mdmFsaWRtaW51dGVzPTEyMCZpZD0yYTAxOjRjODo4MDY6ODFhODoxOjI6NzExYTpjZDdmJnN0cm1fbGVuPTU=
 
 http://england.mazystreams.xyz/live/1/chunks.m3u8
 http://england.mazystreams.xyz/live/10/chunks.m3u8
@@ -2001,11 +2006,18 @@ hockeynews << can't find php
 http://cdn.tastyfood10.xyz/hls/S1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDIxIDEyOjMxCjoxNAogUE0maGFzaF92YWx1ZT1nSHBiak4zeitiMHFoRVFCTEJjNUtRPT0mdmFsaWRtaW51dGVzPTEyMCZpZD03OC4xNy4xMzMuMTQyJnN0cm1fbGVuPTQ=
 
 
-MediaStreams > Techoreels
+MediaStreams > Techoreels << many AD 
 http://techoreels.com/clip/s1.html < TOR S1
+http://techoreels.com/clip/s1.html
 http://techoreels.com/clip/s3.html < TOR S3
 
->> cr7 > mazystream
+>> cr7 > mazystream + ++ http://streamwat.ch/custom/player/#http://londonb.mazystreams.xyz/live/1/playlist.m3u8 <<< * * * 
+
+mazy 1
+http://londonb.mazystreams.xyz/live/1/playlist.m3u8?wmsAuthSign=
+http://londonb.mazystreams.xyz/live/1/playlist.m3u8?wmsAuthSign=
+
+
 
 http://mazystreams.xyz/event/empoli-vs-lazio/s4.php
 http://mazystreams.xyz/event/albion-vs-everton/s4.php > 
@@ -2019,6 +2031,16 @@ http://ueefa.mazystreams.xyz/live/1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC
 http://mazystreams.xyz/event/norwich-city-vs-leicester-city/s2.php
 
 http://ueefa.mazystreams.xyz/live/2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDIxIDEyOjQ4OjI0IFBNJmhhc2hfdmFsdWU9T1VrZXZOYWpnQUc4Wm1YdzRMYjJXUT09JnZhbGlkbWludXRlcz0xMjAmaWQ9MmEwMDoyM2M0OjJjOTg6MjUwMTo4MGZlOjFkODA6ZGIzZDphNzEyJnN0cm1fbGVuPTU=
+
+SC Live1 https://cr7soccer.club/5/1.php
+https://cr7soccer.club/5/2.php < NO MORE
+https://cr7soccer.club/5/3.php < NO MORE
+https://cr7soccer.club/5/4.php < NO MORE
+https://cr7soccer.club/5/5.php < NO MORE
+https://cr7soccer.club/5/6.php < NO MORE
+https://cr7soccer.club/5/7.php < NO MORE
+https://cr7soccer.club/5/8.php < NO MORE
+
 
 
 , BT SPORT 3 LIVE *
@@ -2043,10 +2065,17 @@ https://poscitech.club/player/ch61.php < no sound
 
 >> bluejetset < offline
 
+
 >> mntvlive13 + + many AD
 http://uhdstreams.club/footy/ch6.php 
+http://uhdstreams.club/hd/ch1.php
+
+
 
 RainoStream < many AD pop-up
+https://cdn.raino.xyz/soccer/soccer1-version1/rainostream.m3u8 < not play
+
+
 
 Pawastreams
 https://www.pawastreams.live/?p=2078
@@ -2631,13 +2660,7 @@ http://www.ovostreams.com/4.php
 
 http://www.worldsport.me/030721/ch-1.html
 
-https://cr7soccer.club/5/2.php < NO MORE
-https://cr7soccer.club/5/3.php < NO MORE
-https://cr7soccer.club/5/4.php < NO MORE
-https://cr7soccer.club/5/5.php < NO MORE
-https://cr7soccer.club/5/6.php < NO MORE
-https://cr7soccer.club/5/7.php < NO MORE
-https://cr7soccer.club/5/8.php < NO MORE
+
 
 https://e7.cdnfoxtv.com/ingest09/25525.m3u8?sf=MjVwczEwU2JE&token=srR-5c_CV2MjrgrBGap8-g&expires=1621139116&rnd=
 
