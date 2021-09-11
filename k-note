@@ -1289,49 +1289,49 @@ https://13.251.228.53:443/live-player/28/live.m3u8 offline
 https://13.251.228.53:443/live-player/29/live.m3u8 offline
 
 https://cloudserver.server-cdn-streaming.com/live-player/1/live.m3u8 offline
-#EXTINF:-1 group-title="BamarTV/Sports",beIN SPORT 1PRE
+#EXTINF:-1 group-title="BamarTV/Sports",beIN SPORT 1PRE |CD
 https://cloudserver.server-cdn-streaming.com/live-player/2/live.m3u8
-#EXTINF:-1 group-title="BamarTV/Sports",BT SPORT 1HD
+#EXTINF:-1 group-title="BamarTV/Sports",BT SPORT 1HD |CD
 https://cloudserver.server-cdn-streaming.com/live-player/3/live.m3u8
-#EXTINF:-1 group-title="BamarTV/Sports",BT SPORT 2HD
+#EXTINF:-1 group-title="BamarTV/Sports",BT SPORT 2HD |CD
 https://cloudserver.server-cdn-streaming.com/live-player/4/live.m3u8
-#EXTINF:-1 group-title="BamarTV/Sports",beIN SPORTS 1PRE'
+#EXTINF:-1 group-title="BamarTV/Sports",beIN SPORTS 1PRE' |CD
 https://cloudserver.server-cdn-streaming.com/live-player/5/live.m3u8
-#EXTINF:-1 group-title="BamarTV/Sports",beIN SPORT 2PRE
+#EXTINF:-1 group-title="BamarTV/Sports",beIN SPORT 2PRE |CD
 https://cloudserver.server-cdn-streaming.com/live-player/6/live.m3u8
-#EXTINF:-1 group-title="BamarTV/Sports",truesport HD
+#EXTINF:-1 group-title="BamarTV/Sports",truesport HD |CD |CD
 https://cloudserver.server-cdn-streaming.com/live-player/7/live.m3u8
-#EXTINF:-1 group-title="BamarTV/Sports",truesport HD2 EPL
+#EXTINF:-1 group-title="BamarTV/Sports",truesport HD2 EPL |CD
 https://cloudserver.server-cdn-streaming.com/live-player/8/live.m3u8
-#EXTINF:-1 group-title="BamarTV/Sports",truesports HD3
+#EXTINF:-1 group-title="BamarTV/Sports",truesports HD3 |CD
 https://cloudserver.server-cdn-streaming.com/live-player/9/live.m3u8
 
 https://cloudserver.server-cdn-streaming.com/live-player/10/live.m3u8 offline
-#EXTINF:-1 group-title="BamarTV/Sports",FOX SPORTS
+#EXTINF:-1 group-title="BamarTV/Sports",FOX SPORTS |CD
 https://cloudserver.server-cdn-streaming.com/live-player/11/live.m3u8
-#EXTINF:-1 group-title="BamarTV/Sports",FOX SPORTS2
+#EXTINF:-1 group-title="BamarTV/Sports",FOX SPORTS2 |CD
 https://cloudserver.server-cdn-streaming.com/live-player/12/live.m3u8
-#EXTINF:-1 group-title="BamarTV/Sports",FOX SPORTS3
+#EXTINF:-1 group-title="BamarTV/Sports",FOX SPORTS3 |CD
 https://cloudserver.server-cdn-streaming.com/live-player/13/live.m3u8
-#EXTINF:-1 group-title="BamarTV/Sports",true PF HD1
+#EXTINF:-1 group-title="BamarTV/Sports",true PF HD1 |CD
 https://cloudserver.server-cdn-streaming.com/live-player/14/live.m3u8
-#EXTINF:-1 group-title="BamarTV/Sports",true PF HD2
+#EXTINF:-1 group-title="BamarTV/Sports",true PF HD2 |CD
 https://cloudserver.server-cdn-streaming.com/live-player/15/live.m3u8
-#EXTINF:-1 group-title="BamarTV/Sports",true PF HD3
+#EXTINF:-1 group-title="BamarTV/Sports",true PF HD3 |CD
 https://cloudserver.server-cdn-streaming.com/live-player/16/live.m3u8
-#EXTINF:-1 group-title="BamarTV/Sports",true PF HD4
+#EXTINF:-1 group-title="BamarTV/Sports",true PF HD4 |CD
 https://cloudserver.server-cdn-streaming.com/live-player/17/live.m3u8
-#EXTINF:-1 group-title="BamarTV/Sports",true PF HD5
+#EXTINF:-1 group-title="BamarTV/Sports",true PF HD5 |CD
 https://cloudserver.server-cdn-streaming.com/live-player/18/live.m3u8
-#EXTINF:-1 group-title="BamarTV/Sports",SPORT.TV1
+#EXTINF:-1 group-title="BamarTV/Sports",SPORT.TV1 |CD
 https://cloudserver.server-cdn-streaming.com/live-player/19/live.m3u8
-#EXTINF:-1 group-title="BamarTV/Sports",SPORT.TV2
+#EXTINF:-1 group-title="BamarTV/Sports",SPORT.TV2 |CD
 https://cloudserver.server-cdn-streaming.com/live-player/20/live.m3u8
-#EXTINF:-1 group-title="BamarTV/Sports",SPORT.TV3
+#EXTINF:-1 group-title="BamarTV/Sports",SPORT.TV3 |CD
 https://cloudserver.server-cdn-streaming.com/live-player/21/live.m3u8
-#EXTINF:-1 group-title="BamarTV/Sports",SPORT.TV4
+#EXTINF:-1 group-title="BamarTV/Sports",SPORT.TV4 |CD
 https://cloudserver.server-cdn-streaming.com/live-player/22/live.m3u8
-#EXTINF:-1 group-title="BamarTV/Sports",SPORT.TV5
+#EXTINF:-1 group-title="BamarTV/Sports",SPORT.TV5 |CD
 https://cloudserver.server-cdn-streaming.com/live-player/23/live.m3u8
 https://cloudserver.server-cdn-streaming.com/live-player/24/live.m3u8 offline
 PPTV36
