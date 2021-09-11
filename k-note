@@ -1238,50 +1238,51 @@ http://91.126.141.201:1935/live/eurosport2hdnntv/chunklist.m3u8
 
 
 https://13.251.228.53:443/live-player/1/live.m3u8 offline
-#EXTINF:-1 group-title="BamarTV/Sports",beIN 1PRE
+#EXTINF:-1 group-title="BamarTV/Sports",beIN 1PRE |13
 https://13.251.228.53:443/live-player/2/live.m3u8
-#EXTINF:-1 group-title="BamarTV/Sports",BT SPORT 1
+#EXTINF:-1 group-title="BamarTV/Sports",BT SPORT 1 |13
 https://13.251.228.53:443/live-player/3/live.m3u8
 https://13.251.228.53:443/live-player/4/live.m3u8 offline
-#EXTINF:-1 group-title="BamarTV/Sports",beIN 1PRE'
+#EXTINF:-1 group-title="BamarTV/Sports",beIN 1PRE' |13
 https://13.251.228.53:443/live-player/5/live.m3u8
-#EXTINF:-1 group-title="BamarTV/Sports",beIN 2PRE
+#EXTINF:-1 group-title="BamarTV/Sports",beIN 2PRE |13
 https://13.251.228.53:443/live-player/6/live.m3u8
-#EXTINF:-1 group-title="BamarTV/Sports",truesport HD
+#EXTINF:-1 group-title="BamarTV/Sports",truesport HD |13
 https://13.251.228.53:443/live-player/7/live.m3u8
-#EXTINF:-1 group-title="BamarTV/Sports",truesport 1HD
+#EXTINF:-1 group-title="BamarTV/Sports",truesport 2HD |13
 https://13.251.228.53:443/live-player/8/live.m3u8
-#EXTINF:-1 group-title="BamarTV/Sports",truesport 2HD
+#EXTINF:-1 group-title="BamarTV/Sports",truesport 3HD |13
 https://13.251.228.53:443/live-player/9/live.m3u8
 
 https://13.251.228.53:443/live-player/10/live.m3u8 offline
-#EXTINF:-1 group-title="BamarTV/Sports",FOX SPORT
+#EXTINF:-1 group-title="BamarTV/Sports",FOX SPORT |13
 https://13.251.228.53:443/live-player/11/live.m3u8
-#EXTINF:-1 group-title="BamarTV/Sports",FOX SPORT2
+#EXTINF:-1 group-title="BamarTV/Sports",FOX SPORT2 |13
 https://13.251.228.53:443/live-player/12/live.m3u8
-#EXTINF:-1 group-title="BamarTV/Sports",FOX SPORT3
+#EXTINF:-1 group-title="BamarTV/Sports",FOX SPORT3 |13
 https://13.251.228.53:443/live-player/13/live.m3u8
-#EXTINF:-1 group-title="BamarTV/Sports",TPF HD1
+#EXTINF:-1 group-title="BamarTV/Sports",TPF HD1 |13
 https://13.251.228.53:443/live-player/14/live.m3u8
-#EXTINF:-1 group-title="BamarTV/Sports",TPF HD2
+#EXTINF:-1 group-title="BamarTV/Sports",TPF HD2 |13
 https://13.251.228.53:443/live-player/15/live.m3u8
-#EXTINF:-1 group-title="BamarTV/Sports",TPF HD3
+#EXTINF:-1 group-title="BamarTV/Sports",TPF HD3 |13
 https://13.251.228.53:443/live-player/16/live.m3u8
-#EXTINF:-1 group-title="BamarTV/Sports",TPF HD4
+#EXTINF:-1 group-title="BamarTV/Sports",TPF HD4 |13
 https://13.251.228.53:443/live-player/17/live.m3u8
-#EXTINF:-1 group-title="BamarTV/Sports",TPF HD5
+#EXTINF:-1 group-title="BamarTV/Sports",TPF HD5 |13
 https://13.251.228.53:443/live-player/18/live.m3u8
-#EXTINF:-1 group-title="BamarTV/Sports",SPORT.TV1
+#EXTINF:-1 group-title="BamarTV/Sports",SPORT.TV1 |13
 https://13.251.228.53:443/live-player/19/live.m3u8
-#EXTINF:-1 group-title="BamarTV/Sports",SPORT.TV2
+#EXTINF:-1 group-title="BamarTV/Sports",SPORT.TV2 |13
 https://13.251.228.53:443/live-player/20/live.m3u8
-#EXTINF:-1 group-title="BamarTV/Sports",SPORT.TV3
+#EXTINF:-1 group-title="BamarTV/Sports",SPORT.TV3 |13
 https://13.251.228.53:443/live-player/21/live.m3u8
-#EXTINF:-1 group-title="BamarTV/Sports",SPORT.TV4
+#EXTINF:-1 group-title="BamarTV/Sports",SPORT.TV4 |13
 https://13.251.228.53:443/live-player/22/live.m3u8
-#EXTINF:-1 group-title="BamarTV/Sports",SPORT.TV5
+#EXTINF:-1 group-title="BamarTV/Sports",SPORT.TV5 |13
 https://13.251.228.53:443/live-player/23/live.m3u8
 https://13.251.228.53:443/live-player/24/live.m3u8 offline
+#EXTINF:-1 group-title="BamarTV/Sports",PPTV |13
 https://13.251.228.53:443/live-player/25/live.m3u8
 https://13.251.228.53:443/live-player/26/live.m3u8 offline
 https://13.251.228.53:443/live-player/27/live.m3u8 offline
@@ -1334,7 +1335,7 @@ https://cloudserver.server-cdn-streaming.com/live-player/22/live.m3u8
 #EXTINF:-1 group-title="BamarTV/Sports",SPORT.TV5 |CD
 https://cloudserver.server-cdn-streaming.com/live-player/23/live.m3u8
 https://cloudserver.server-cdn-streaming.com/live-player/24/live.m3u8 offline
-PPTV36
+#EXTINF:-1 group-title="BamarTV/Sports",PPTV |CD
 https://cloudserver.server-cdn-streaming.com/live-player/25/live.m3u8
 #EXTINF:-1 group-title="BamarTV/Sports",NET SPORTS HD
 https://cloudserver.server-cdn-streaming.com/live-player/26/live.m3u8
