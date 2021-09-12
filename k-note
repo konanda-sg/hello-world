@@ -23530,6 +23530,49 @@ http://0cvt7o9ka933roqvtma4b7g.caja.live/live/dash.php?z=111&u=ppBsJMEKj3&s=1758
 
 check later now emply screen
 
+
++ + + + + http://iptv.prosto.tv:7000 + + + + +
+
+#EXTINF:-1 group-title="prosto",MTV Europe
+http://iptv.prosto.tv:7000/ch124/video.m3u8
+#EXTINF:-1 group-title="prosto",MTV Dance
+http://iptv.prosto.tv:7000/ch125/video.m3u8
+#EXTINF:-1 group-title="prosto",MTV Hit
+http://iptv.prosto.tv:7000/ch126/video.m3u8
+#EXTINF:-1 group-title="prosto",MTV Rock
+http://iptv.prosto.tv:7000/ch127/video.m3u8
+#EXTINF:-1 group-title="prosto",MTV Live
+http://iptv.prosto.tv:7000/ch128/video.m3u8
+#EXTINF:-1 group-title="prosto",VH 1 European
+http://iptv.prosto.tv:7000/ch129/video.m3u8
+#EXTINF:-1 group-title="prosto",VH 1 Classic
+http://iptv.prosto.tv:7000/ch130/video.m3u8
+#EXTINF:-1 group-title="prosto",Music Box UA
+http://iptv.prosto.tv:7000/ch131/video.m3u8
+#EXTINF:-1 group-title="prosto",4EVER
+http://iptv.prosto.tv:7000/ch132/video.m3u8
+#EXTINF:-1 group-title="prosto",O-TV
+http://iptv.prosto.tv:7000/ch133/video.m3u8
+#EXTINF:-1 group-title="prosto",EUMUSIC
+http://iptv.prosto.tv:7000/ch134/video.m3u8
+#EXTINF:-1 group-title="prosto",Наше Music
+http://iptv.prosto.tv:7000/ch135/video.m3u8
+#EXTINF:-1 group-title="prosto",НАШЕ
+http://iptv.prosto.tv:7000/ch136/video.m3u8
+#EXTINF:-1 group-title="prosto",Mcm top
+http://iptv.prosto.tv:7000/ch137/video.m3u8
+#EXTINF:-1 group-title="prosto",Ethno
+http://iptv.prosto.tv:7000/ch138/video.m3u8
+#EXTINF:-1 group-title="prosto",Mezzo
+http://iptv.prosto.tv:7000/ch139/video.m3u8
+#EXTINF:-1 group-title="prosto",Mezzo Live
+http://iptv.prosto.tv:7000/ch140/video.m3u8
+#EXTINF:-1 group-title="prosto",360 Tune Box
+http://iptv.prosto.tv:7000/ch141/video.m3u8
+#EXTINF:-1 group-title="prosto",Наше Music 4K
+http://iptv.prosto.tv:7000/ch142/video.m3u8
+
+
 -/-/-/-/-/-/-/-/-/-/-/- m3u playlist -/-/-/-/-/-
 
 
