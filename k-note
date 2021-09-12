@@ -14142,8 +14142,6 @@ http://meeko:martii14@86.22.232.177:9981/stream/service/d35d172e614aeecde4eb21f1
 http://86.22.232.177:9981/stream/channel/910d1e0f503a298b55e61ef2502a80f5?title=701%20%3A%20B4U%20Movies
 
 
-
-
 + + + + http://86.28.196.144:9981/extjs.html + + + + DOWN + + + + +
 
 + + + + http://86.28.196.144:9981/extjs.html + + + +
@@ -14153,46 +14151,8 @@ http://86.142.108.226:9981/extjs.html
 
 + + + + http://91.116.47.164:9981/playlist/channels + + + + RO < DOWN
 
-+ + + + http://108.48.50.123:9981/extjs.html + + + +
++ + + + http://108.48.50.123:9981/extjs.html + + + + not play
 
-#EXTINF:-1 group-title="94.225",CNN
-http://94.225.216.90:9981/stream/channelid/1296904468?profile=pass
-#EXTINF:-1 group-title="94.225",4Music
-http://94.225.216.90:9981/stream/channelid/440594751?profile=pass
-#EXTINF:-1 group-title="94.225",Box Hits
-http://94.225.216.90:9981/stream/channelid/1782535278?profile=pass
-#EXTINF:-1 group-title="94.225",NOW 70s'
-http://94.225.216.90:9981/stream/channelid/1021428519?profile=pass
-#EXTINF:-1 group-title="94.225",NOW 80s
-http://94.225.216.90:9981/stream/channelid/1578351994?profile=pass
-#EXTINF:-1 group-title="94.225",NOW 90s
-http://94.225.216.90:9981/stream/channelid/818315404?profile=pass
-#EXTINF:-1 group-title="94.225",B4U Movies
-http://94.225.216.90:9981/stream/channelid/1388475401?profile=pass
-#EXTINF:-1 group-title="94.225",B4U Music
-http://94.225.216.90:9981/stream/channelid/1921024085?profile=pass
-#EXTINF:-1 group-title="94.225",Bloomberg HD
-http://94.225.216.90:9981/stream/channelid/339011386?profile=pass
-#EXTINF:-1 group-title="94.225",COLORS
-http://94.225.216.90:9981/stream/channelid/997291490?profile=pass
-#EXTINF:-1 group-title="94.225",ColorsCineplex
-http://94.225.216.90:9981/stream/channelid/1327117325?profile=pass
-#EXTINF:-1 group-title="94.225",ColorsRishtey
-http://94.225.216.90:9981/stream/channelid/661680066?profile=pass
-#EXTINF:-1 group-title="94.225",MTV HITS
-http://94.225.216.90:9981/stream/channelid/1230925441?profile=pass
-#EXTINF:-1 group-title="94.225",MTV MUSIC
-http://94.225.216.90:9981/stream/channelid/515222122?profile=pass
-#EXTINF:-1 group-title="94.225",SONY MAX
-http://94.225.216.90:9981/stream/channelid/1249333839?profile=pass
-#EXTINF:-1 group-title="94.225",SONY MAX 2
-http://94.225.216.90:9981/stream/channelid/349921106?profile=pass
-#EXTINF:-1 group-title="94.225",Utsav GOLD
-http://94.225.216.90:9981/stream/channelid/119513774?profile=pass
-#EXTINF:-1 group-title="94.225",Zee Cinema
-http://94.225.216.90:9981/stream/channelid/1264854802?profile=pass
-#EXTINF:-1 group-title="94.225",Zee TV
-http://94.225.216.90:9981/stream/channelid/1935126174?profile=pass
 
 
 + + + + + 103.65.184.145:8443 + + + + + */12345 + */12345678
