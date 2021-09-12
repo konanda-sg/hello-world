@@ -841,6 +841,29 @@ https://wowzaprodhd35-lh.akamaihd.net/i/a9af8597_1@355233/master.m3u8
 <<<<<<< HEAD:k-note
 
 
+https://365liveball.com/True-Premier-HD?channel=epl1
+https://365liveball.com/True-Premier-HD?channel=epl4
+
+https://www.ball24.tv/allchannel/?id=epl1
+
+https://www.fifa5t.com/doballlive/ch373/
+
+https://www.doonung1234.com/match/view/1/epl1
+
+https://livesod88.com/?id=566211&ch=epl1
+https://liveball99.com/epl-1-2?jwsource=cl
+https://www.doofree88.com/live/bein-sports-1
+
+http://www.sportdoofree.com/tv-online?kp=epl1&dd=epl1
+
+https://www.chomfootball.com/livechannel/epl-1/4798
+https://www.chomfootball.com/livechannel/epl-5/4797
+
+https://wacth.tv/tv-player/true-premuim-1-vkd80p04jvr0.html
+https://wacth.tv/tv-player/true-premuim-2.html
+https://wacth.tv/tv-player/true-premuim-3.html
+
+https://embed-dev.blackboxsys.net/player.php?channel=hd-tsport1&api_key=hmcb4rf66f < TH VPN
 
 
 + + + + LIVE only + + + +
@@ -958,6 +981,47 @@ http://new-pro.tv:8080/get.php?username=Hotel-2021&password=Allroom&type=m3u < 2
 
 http://89.187.182.181:9090/SM_FHD_ENG_STARMOVIES/tracks-v1a1/index.m3u8
 
+#EXTINF:-1 group-title="BamarTV/Sports",beIN SPORTS 1PRE
+https://www.wopep.com/02_epl1_720p_UK/chunklist.m3u8
+#EXTINF:-1 group-title="BamarTV/Sports",beIN SPORTS 2PRE
+https://www.wopep.com/02_epl2_720p_UK/chunklist.m3u8
+
+https://www.wopep.com/02_lfctv_720p/chunklist.m3u8
+https://www.wopep.com/02_ChelseaTV_720p/chunklist.m3u8
+
+>> to convert other later
+https://www.wopep.com/02_PremierHD1_480p/chunklist.m3u8
+#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 1" group-title="178.17/TH",True Premiere Football HD1 |178
+https://www.wopep.com/02_PremierHD1_720p/chunklist.m3u8
+https://www.wopep.com/02_PremierHD2_480p/chunklist.m3u8
+#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 2" group-title="178.17/TH",True Premiere Football HD2 |178
+https://www.wopep.com/02_PremierHD2_720p/chunklist.m3u8
+https://www.wopep.com/02_PremierHD3_480p/chunklist.m3u8
+#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 3" group-title="178.17/TH",True Premiere Football HD3 |178
+https://www.wopep.com/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 4" group-title="178.17/TH",True Premiere Football HD4 |178
+https://www.wopep.com/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 5" group-title="178.17/TH",True Premiere Football HD5 |178
+https://www.wopep.com/02_PremierHD5_720p/Chunklist.m3u8
+
+#EXTINF:22,ESPN 2
+http://212.102.60.76:80/a/mono.m3u8
+#EXTINF:0,ESPN DEPORTES HD
+http://212.102.60.76:80/f2/mono.m3u8
+#EXTINF:0,ESPN HD
+http://212.102.60.76:80/e2/mono.m3u8
+#EXTINF:0,ESPN NEWS HD
+http://212.102.60.76:80/g2/mono.m3u8
+#EXTINF:0,ESPN U HD
+http://212.102.60.76:80/h2/mono.m3u8
+#EXTINF:0,FOX SOCCER PLUS HD
+http://212.102.60.76:80/i2/mono.m3u8
+#EXTINF:38,FOX SORTS FLORIDA
+http://212.102.60.76:80/y/mono.m3u8
+#EXTINF:0,FOX SPORTS SUN HD
+http://212.102.60.76:80/j2/mono.m3u8
+#EXTINF:0,TENNIS CHANNEL HD
+http://212.102.60.76:80/b1/mono.m3u8
 
 #EXTINF:-1 group-title="BamarTV/Sports",BT_SPORTS_1
 http://89.187.185.100:80/BT_SPORTS_1/tracks-v1a1/mono.m3u8
@@ -3255,6 +3319,34 @@ https://gsn-cinevault-80s-1-us.vizio.wurl.tv/playlist.m3u8
 http://gsn-cinevault-70s-1-us.vizio.wurl.tv/playlist.m3u8
 #EXTINF:-1,cine vault 70s
 https://gsn-cinevault-70s-1-us.vizio.wurl.tv/playlist.m3u8
+
+http://147.50.145.234:8001/#/stream
+
+#EXTINF:-1,astro 4
+http://147.50.145.234:4567/aduvip#keep_active
+#EXTINF:-1,GiNX
+http://147.50.145.234:1005/ginx8m
+#EXTINF:-1,GiNX
+http://147.50.145.234:8211/kctv/ch6.ts
+
+http://203.154.243.88:8000/#/stream
+http://203.154.243.88:11088/hi/foxaction
+http://203.154.243.88:11088/hi/foxfam
+http://203.154.243.88:11088/hi/foxsports1
+http://203.154.243.88:11088/hi/foxsports2
+http://203.154.243.88:11088/hi/foxsports3
+
+http://203.154.243.88:8001/#/stream
+http://203.154.243.88:18001/nakhon/foxfam
+http://203.154.243.88:18001/nakhon/foxaction
+
+http://203.154.243.88:8003/#/stream
+http://203.154.243.88:18003/saraburi/foxaction
+http://203.154.243.88:18003/saraburi/foxfam
+http://203.154.243.88:18003/saraburi/scm
+
+http://203.154.243.88:8007/#/stream
+http://203.154.243.88:18007/hh/foxaction
 
 
 #EXTINF:-1 group-title="BamarTV",midnightpulp
@@ -21367,6 +21459,56 @@ http://jupiter.bdcabletv.com/ENC-20/index.m3u8
 http://jupiter.bdcabletv.com/StarPlus/video.m3u8
 http://jupiter.bdcabletv.com/JalshaMovies/video.m3u8
 http://jupiter.bdcabletv.com/star_jalsha-sp/video.m3u8
+
+
+Starworld
+http://jupiter.bdcabletv.com/ENC-2/mono.m3u8
+Star sports 2
+http://jupiter.bdcabletv.com/ENC-4/mono.m3u8
+Sony six
+http://jupiter.bdcabletv.com/ENC-3/mono.m3u8
+Sony Ten 1
+http://jupiter.bdcabletv.com/ENC-19/mono.m3u8
+Sony Ten2
+http://jupiter.bdcabletv.com/ENC-7/mono.m3u8
+
+Starworld
+http://jupiter.bdcabletv.com/ENC-2/mono.m3u8
+Star Gold
+http://jupiter.bdcabletv.com/ENC-10/mono.m3u8
+Star india movies
+http://jupiter.bdcabletv.com/ENC-6/mono.m3u8
+Star Utsav Movies
+http://jupiter.bdcabletv.com/ENC-14/mono.m3u8
+&flix HD
+http://jupiter.bdcabletv.com/ENC-16/mono.m3u8
+Sony max
+http://jupiter.bdcabletv.com/ENC-11/mono.m3u8
+
+Star india movies
+http://jupiter.bdcabletv.com/ENC-6/mono.m3u8
+Star Utsav Movies
+http://jupiter.bdcabletv.com/ENC-14/mono.m3u8
+&flix HD
+http://jupiter.bdcabletv.com/ENC-16/mono.m3u8
+nick Junior
+http://jupiter.bdcabletv.com/ENC-5/mono.m3u8
+nick hd
+http://jupiter.bdcabletv.com/ENC-15/mono.m3u8
+cartoon net work
+http://jupiter.bdcabletv.com/ENC-18/mono.m3u8
+Sony Ten 1
+http://jupiter.bdcabletv.com/ENC-19/mono.m3u8
+Sony Ten2
+http://jupiter.bdcabletv.com/ENC-7/mono.m3u8
+Utv Movies
+http://jupiter.bdcabletv.com/ENC-20/mono.m3u8
+Color HD
+http://jupiter.bdcabletv.com/ENC-8/mono.m3u8
+Zee TVHD
+http://jupiter.bdcabletv.com/ENC-9/mono.m3u8
+
+
 
 http://tvflix03.ddns.net/ENC-1/tracks-v1a1/mono.m3u8 N.A.
 #EXTINF:-1 group-title="misc/IN",STAR WORLD HD |TATAsky
