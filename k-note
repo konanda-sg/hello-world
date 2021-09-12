@@ -26489,6 +26489,75 @@ http://media.haxed.net/get.php?username=jim&password=h4VttD7txVdacPn&type=m3u
 http://swift-pro.net:8080/get.php?username=t2021ext&password=JQU5bmhGJkAn89sm&type=m3u < null < 200-44 < media.hopto.me:8080 < to check
 
 
++ + + + + mediaptv1.zuneserver.com:8000 + + + + +
+
+http://mediaptv1.zuneserver.com:8000/get.php?username=localchannels&password=xhga53ls83j&type=m3u
+Real Url: mediaptv1.zuneserver.com:8000     Status: Active    Created: 19/7/2015 5:18:33 PM     Expires: Null    Active Connections: 0     Maximum Connections: 0     Formats: "ts"
+
+#EXTINF:-1 group-title="mdatv1",CA: SPORTSNET 360 HD
+http://mediaptv1.zuneserver.com:8000/streaming/clients_live.php?extension=ts&username=localchannels&password=xhga53ls83j&stream=549
+#EXTINF:-1 group-title="mdatv1",CA: SPORTSNET ONE HD
+http://mediaptv1.zuneserver.com:8000/streaming/clients_live.php?extension=ts&username=localchannels&password=xhga53ls83j&stream=548
+#EXTINF:-1 group-title="mdatv1",CA: SPORTSNET WEST HD
+http://mediaptv1.zuneserver.com:8000/streaming/clients_live.php?extension=ts&username=localchannels&password=xhga53ls83j&stream=547
+#EXTINF:-1 group-title="mdatv1",CA: SPORTSNET WORLD HD
+http://mediaptv1.zuneserver.com:8000/streaming/clients_live.php?extension=ts&username=localchannels&password=xhga53ls83j&stream=546
+#EXTINF:-1 group-title="mdatv1",CA: SPORTSNET EAST
+http://mediaptv1.zuneserver.com:8000/streaming/clients_live.php?extension=ts&username=localchannels&password=xhga53ls83j&stream=636
+#EXTINF:-1 group-title="mdatv1",CA: SPORTSNET PACIFIC
+http://mediaptv1.zuneserver.com:8000/streaming/clients_live.php?extension=ts&username=localchannels&password=xhga53ls83j&stream=635
+#EXTINF:-1 group-title="mdatv1",CA: TSN 1 HD
+http://mediaptv1.zuneserver.com:8000/streaming/clients_live.php?extension=ts&username=localchannels&password=xhga53ls83j&stream=554
+#EXTINF:-1 group-title="mdatv1",CA: TSN 2 HD
+http://mediaptv1.zuneserver.com:8000/streaming/clients_live.php?extension=ts&username=localchannels&password=xhga53ls83j&stream=553
+#EXTINF:-1 group-title="mdatv1",CA: TSN 3 HD
+http://mediaptv1.zuneserver.com:8000/streaming/clients_live.php?extension=ts&username=localchannels&password=xhga53ls83j&stream=552
+#EXTINF:-1 group-title="mdatv1",CA: TSN 4 HD
+http://mediaptv1.zuneserver.com:8000/streaming/clients_live.php?extension=ts&username=localchannels&password=xhga53ls83j&stream=551
+#EXTINF:-1 group-title="mdatv1",CA: TSN 5 HD
+http://mediaptv1.zuneserver.com:8000/streaming/clients_live.php?extension=ts&username=localchannels&password=xhga53ls83j&stream=550
+#EXTINF:-1 group-title="mdatv1",CA: BBC WORLD NEWS
+http://mediaptv1.zuneserver.com:8000/streaming/clients_live.php?extension=ts&username=localchannels&password=xhga53ls83j&stream=570
+#EXTINF:-1 group-title="mdatv1",ELEVEN SPORTS 1
+http://mediaptv1.zuneserver.com:8000/streaming/clients_live.php?extension=ts&username=localchannels&password=xhga53ls83j&stream=607
+#EXTINF:-1 group-title="mdatv1",ELEVEN SPORTS 1 HD
+http://mediaptv1.zuneserver.com:8000/streaming/clients_live.php?extension=ts&username=localchannels&password=xhga53ls83j&stream=606
+#EXTINF:-1 group-title="mdatv1",ELEVEN SPORTS 2
+http://mediaptv1.zuneserver.com:8000/streaming/clients_live.php?extension=ts&username=localchannels&password=xhga53ls83j&stream=605
+#EXTINF:-1 group-title="mdatv1",ELEVEN SPORTS 2 HD
+http://mediaptv1.zuneserver.com:8000/streaming/clients_live.php?extension=ts&username=localchannels&password=xhga53ls83j&stream=604
+#EXTINF:-1 group-title="mdatv1",ELEVEN SPORTS 3 HD
+http://mediaptv1.zuneserver.com:8000/streaming/clients_live.php?extension=ts&username=localchannels&password=xhga53ls83j&stream=603
+#EXTINF:-1 group-title="mdatv1",ELEVEN SPORTS 3
+http://mediaptv1.zuneserver.com:8000/streaming/clients_live.php?extension=ts&username=localchannels&password=xhga53ls83j&stream=614
+#EXTINF:-1 group-title="mdatv1",ELEVEN SPORTS 4
+http://mediaptv1.zuneserver.com:8000/streaming/clients_live.php?extension=ts&username=localchannels&password=xhga53ls83j&stream=613
+#EXTINF:-1 group-title="mdatv1",ELEVEN SPORTS 5
+http://mediaptv1.zuneserver.com:8000/streaming/clients_live.php?extension=ts&username=localchannels&password=xhga53ls83j&stream=611
+#EXTINF:-1 group-title="mdatv1",ELEVEN SPORTS 6
+http://mediaptv1.zuneserver.com:8000/streaming/clients_live.php?extension=ts&username=localchannels&password=xhga53ls83j&stream=609
+#EXTINF:-1 group-title="mdatv1",CA: ANIMAL PLANET
+http://mediaptv1.zuneserver.com:8000/streaming/clients_live.php?extension=ts&username=localchannels&password=xhga53ls83j&stream=721
+#EXTINF:-1 group-title="mdatv1",CA: CARTOON NETWORK
+http://mediaptv1.zuneserver.com:8000/streaming/clients_live.php?extension=ts&username=localchannels&password=xhga53ls83j&stream=715
+#EXTINF:-1 group-title="mdatv1",CA: CNN
+http://mediaptv1.zuneserver.com:8000/streaming/clients_live.php?extension=ts&username=localchannels&password=xhga53ls83j&stream=706
+#EXTINF:-1 group-title="mdatv1",CA: DISCOVERY CANADA
+http://mediaptv1.zuneserver.com:8000/streaming/clients_live.php?extension=ts&username=localchannels&password=xhga53ls83j&stream=693
+#EXTINF:-1 group-title="mdatv1",CA: DISCOVERY SCIENCE
+http://mediaptv1.zuneserver.com:8000/streaming/clients_live.php?extension=ts&username=localchannels&password=xhga53ls83j&stream=692
+#EXTINF:-1 group-title="mdatv1",CA: FIGHT NETWORK
+http://mediaptv1.zuneserver.com:8000/streaming/clients_live.php?extension=ts&username=localchannels&password=xhga53ls83j&stream=682
+#EXTINF:-1 group-title="mdatv1",CA: FOOD NETWORK
+http://mediaptv1.zuneserver.com:8000/streaming/clients_live.php?extension=ts&username=localchannels&password=xhga53ls83j&stream=681
+#EXTINF:-1 group-title="mdatv1",CA: HISTORY 2
+http://mediaptv1.zuneserver.com:8000/streaming/clients_live.php?extension=ts&username=localchannels&password=xhga53ls83j&stream=672
+#EXTINF:-1 group-title="mdatv1",CA: HISTORY CHANNEL
+http://mediaptv1.zuneserver.com:8000/streaming/clients_live.php?extension=ts&username=localchannels&password=xhga53ls83j&stream=669
+#EXTINF:-1 group-title="mdatv1",CA: NATIONAL GEOGRAPHIC
+http://mediaptv1.zuneserver.com:8000/streaming/clients_live.php?extension=ts&username=localchannels&password=xhga53ls83j&stream=653
+
+
 + + + + + meti-tv.xyz:25461 + + + + +
 
 http://meti-tv.xyz:25461/get.php?username=MetiTVakanalet&password=svOVWvluBT&type=m3u Expires: Null Connections: 200-37 < DOWN
