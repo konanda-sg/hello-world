@@ -3562,24 +3562,6 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea60567408
 http://159.69.56.148:25461/get.php?username=M3UMix247&password=89ph5uifoi&type=m3u
 Real Url: 159.69.56.148:25461     Status: Active    Created: 15/9/2020 11:10:34 PM     Expires: Null    Active Connections: 226     Maximum Connections: 0     Formats: "m3u8","ts","rtmp"
 
-
-#EXTINF:-1 group-title="BamarTV",Mix 24-7
-http://159.69.56.148:25461/M3UMix247/89ph5uifoi/1
-#EXTINF:-1 group-title="BamarTV",Mix 24-7 Top 100
-http://159.69.56.148:25461/M3UMix247/89ph5uifoi/2
-#EXTINF:-1 group-title="BamarTV",Mix 24-7 Tropical
-http://159.69.56.148:25461/M3UMix247/89ph5uifoi/3
-#EXTINF:-1 group-title="BamarTV",Mix 24-7 Retro
-http://159.69.56.148:25461/M3UMix247/89ph5uifoi/4
-#EXTINF:-1 group-title="BamarTV",Mix 24-7 Pop
-http://159.69.56.148:25461/M3UMix247/89ph5uifoi/5
-#EXTINF:-1 group-title="BamarTV",Mix 24-7 Vintage
-http://159.69.56.148:25461/M3UMix247/89ph5uifoi/6
-#EXTINF:-1 group-title="BamarTV",ConciertosLive
-http://159.69.56.148:25461/M3UMix247/89ph5uifoi/7
-#EXTINF:-1 group-title="BamarTV",PuroRock24-7
-http://159.69.56.148:25461/M3UMix247/89ph5uifoi/25
-
 http://159.69.56.148:25461/get.php?username=Mix247Web&password=5g5gfd5sy5sd&type=m3u
 Real Url: 159.69.56.148:25461     Status: Active    Created: 9/3/2021 4:39:08 PM     Expires: Null    Active Connections: 75     Maximum Connections: 0
 
