@@ -15,9 +15,6 @@ https://player.vimeo.com/external/525696991.m3u8?s=52bfc0cf9cec79027e89aef30cc6b
 
 
 
-
-
-
 sky sport DE1
 http://client.nodomain.vip:80/live.ts?channelId=11&uid=36826&deviceUser=29ZeljkoKukec&devicePass=vSOfu480Q8KDNIITvIim
 ARENA 1
@@ -25205,196 +25202,226 @@ Real Url: thespeedmedia.watch:2086     Status: Active    Created: 18/1/2021 6:18
 http://tigerfights.xyz:80/get.php?username=57101910&password=08426299&type=m3u
 Real Url: tigerfights.xyz:80     Status: Active    Created: 2/9/2020 12:00:00 AM     Expires: Null     Maximum Connections: 5     Formats: "m3u8","ts","rtmp" < Fite & 24/7 + xxx << need to check later
 
-#EXTINF:-1,PC: NBC Sports
+#EXTINF:-1 group-title="TigFig",PC: NBC Sports
 http://tigerfights.xyz:80/57101910/08426299/2855698.ts
-#EXTINF:-1,PC: Premier League TV
+#EXTINF:-1 group-title="TigFig",PC: Premier League TV
 http://tigerfights.xyz:80/57101910/08426299/2855720.ts
-#EXTINF:-1,PC: Peacock PPV 1
+#EXTINF:-1 group-title="TigFig",PC: Peacock PPV 1
 http://tigerfights.xyz:80/57101910/08426299/2855678.ts
-#EXTINF:-1,PC: Peacock PPV 2
+#EXTINF:-1 group-title="TigFig",PC: Peacock PPV 2
 http://tigerfights.xyz:80/57101910/08426299/2855679.ts
-#EXTINF:-1,PC: Peacock PPV 3
+#EXTINF:-1 group-title="TigFig",PC: Peacock PPV 3
 http://tigerfights.xyz:80/57101910/08426299/2855680.ts
-#EXTINF:-1,PC: Peacock PPV 4
+#EXTINF:-1 group-title="TigFig",PC: Peacock PPV 4
 http://tigerfights.xyz:80/57101910/08426299/2855681.ts
-#EXTINF:-1,PC: Peacock PPV 5
+#EXTINF:-1 group-title="TigFig",PC: Peacock PPV 5
 http://tigerfights.xyz:80/57101910/08426299/2855682.ts
-#EXTINF:-1,PC: Peacock PPV 6
+#EXTINF:-1 group-title="TigFig",PC: Peacock PPV 6
 http://tigerfights.xyz:80/57101910/08426299/2855683.ts
-#EXTINF:-1,PC: Peacock PPV 7
+#EXTINF:-1 group-title="TigFig",PC: Peacock PPV 7
 http://tigerfights.xyz:80/57101910/08426299/2855684.ts
-#EXTINF:-1,PC: Peacock PPV 8
+#EXTINF:-1 group-title="TigFig",PC: Peacock PPV 8
 http://tigerfights.xyz:80/57101910/08426299/2855685.ts
-#EXTINF:-1,PC: Peacock PPV 9
+#EXTINF:-1 group-title="TigFig",PC: Peacock PPV 9
 http://tigerfights.xyz:80/57101910/08426299/2855686.ts
-#EXTINF:-1,PC: Peacock PPV 10
+#EXTINF:-1 group-title="TigFig",PC: Peacock PPV 10
 http://tigerfights.xyz:80/57101910/08426299/2855687.ts
 
-#EXTINF:-1,SPORTS: NBC Sports Network
+#EXTINF:-1 group-title="TigFig",SPORTS: NBC Sports Network
 http://tigerfights.xyz:80/57101910/08426299/3041854.ts
 
-#EXTINF:-1,MY: ASTRO ASSP HD
+#EXTINF:-1 group-title="TigFig",MY: ASTRO ASSP HD
 http://tigerfights.xyz:80/57101910/08426299/2599208.ts
-#EXTINF:-1,MY: ASTRO ASSP Plus HD
+#EXTINF:-1 group-title="TigFig",MY: ASTRO ASSP Plus HD
 http://tigerfights.xyz:80/57101910/08426299/2599209.ts
-#EXTINF:-1,MY: ASTRO ASSP2 HD
+#EXTINF:-1 group-title="TigFig",MY: ASTRO ASSP2 HD
 http://tigerfights.xyz:80/57101910/08426299/2599210.ts
-#EXTINF:-1,MY: ASTRO ASSP3 HD
+#EXTINF:-1 group-title="TigFig",MY: ASTRO ASSP3 HD
 http://tigerfights.xyz:80/57101910/08426299/2599211.ts
-#EXTINF:-1,MY: ASTRO ASSP4 HD
+#EXTINF:-1 group-title="TigFig",MY: ASTRO ASSP4 HD
 http://tigerfights.xyz:80/57101910/08426299/2599212.ts
-#EXTINF:-1,MY: Astro SuperSports Plus 1
+#EXTINF:-1 group-title="TigFig",MY: Astro SuperSports Plus 1
 http://tigerfights.xyz:80/57101910/08426299/2599375.ts
-#EXTINF:-1,MY: Astro Supersports Plus 2
+#EXTINF:-1 group-title="TigFig",MY: Astro Supersports Plus 2
 http://tigerfights.xyz:80/57101910/08426299/2599376.ts
-#EXTINF:-1,MY: Astro Supersports Plus 3
+#EXTINF:-1 group-title="TigFig",MY: Astro Supersports Plus 3
 http://tigerfights.xyz:80/57101910/08426299/2599377.ts
 
-#EXTINF:-1,Arsenal - EPL - Premier League
+#EXTINF:-1 group-title="TigFig",Arsenal - EPL - Premier League
 http://tigerfights.xyz:80/57101910/08426299/2075193.ts
-#EXTINF:-1,Aston Villa - EPL - Premier League
+#EXTINF:-1 group-title="TigFig",Aston Villa - EPL - Premier League
 http://tigerfights.xyz:80/57101910/08426299/2075194.ts
-#EXTINF:-1,Brighton & Hove Albion - EPL - Premier League
+#EXTINF:-1 group-title="TigFig",Brighton & Hove Albion - EPL - Premier League
 http://tigerfights.xyz:80/57101910/08426299/2075195.ts
-#EXTINF:-1,Burnley - EPL - Premier League
+#EXTINF:-1 group-title="TigFig",Burnley - EPL - Premier League
 http://tigerfights.xyz:80/57101910/08426299/2075196.ts
-#EXTINF:-1,Chelsea - EPL - Premier League
+#EXTINF:-1 group-title="TigFig",Chelsea - EPL - Premier League
 http://tigerfights.xyz:80/57101910/08426299/2075197.ts
-#EXTINF:-1,Crystal Palace - EPL - Premier League
+#EXTINF:-1 group-title="TigFig",Crystal Palace - EPL - Premier League
 http://tigerfights.xyz:80/57101910/08426299/2075198.ts
-#EXTINF:-1,Everton - EPL - Premier League
+#EXTINF:-1 group-title="TigFig",Everton - EPL - Premier League
 http://tigerfights.xyz:80/57101910/08426299/2075199.ts
-#EXTINF:-1,Fulham - EPL - Premier League
+#EXTINF:-1 group-title="TigFig",Fulham - EPL - Premier League
 http://tigerfights.xyz:80/57101910/08426299/2075200.ts
-#EXTINF:-1,Leeds United - EPL - Premier League
+#EXTINF:-1 group-title="TigFig",Leeds United - EPL - Premier League
 http://tigerfights.xyz:80/57101910/08426299/2075201.ts
-#EXTINF:-1,Leicester City - EPL - Premier League
+#EXTINF:-1 group-title="TigFig",Leicester City - EPL - Premier League
 http://tigerfights.xyz:80/57101910/08426299/2075202.ts
-#EXTINF:-1,Liverpool - EPL - Premier League
+#EXTINF:-1 group-title="TigFig",Liverpool - EPL - Premier League
 http://tigerfights.xyz:80/57101910/08426299/2075203.ts
-#EXTINF:-1,Manchester City - EPL - Premier League
+#EXTINF:-1 group-title="TigFig",Manchester City - EPL - Premier League
 http://tigerfights.xyz:80/57101910/08426299/2075204.ts
-#EXTINF:-1,Manchester United - EPL - Premier League
+#EXTINF:-1 group-title="TigFig",Manchester United - EPL - Premier League
 http://tigerfights.xyz:80/57101910/08426299/2075205.ts
-#EXTINF:-1,Newcastle United - EPL - Premier League
+#EXTINF:-1 group-title="TigFig",Newcastle United - EPL - Premier League
 http://tigerfights.xyz:80/57101910/08426299/2075206.ts
-#EXTINF:-1,Sheffield United - EPL - Premier League
+#EXTINF:-1 group-title="TigFig",Sheffield United - EPL - Premier League
 http://tigerfights.xyz:80/57101910/08426299/2075207.ts
-#EXTINF:-1,Southampton - EPL - Premier League
+#EXTINF:-1 group-title="TigFig",Southampton - EPL - Premier League
 http://tigerfights.xyz:80/57101910/08426299/2075208.ts
-#EXTINF:-1,Tottenham Hotspur - EPL - Premier League
+#EXTINF:-1 group-title="TigFig",Tottenham Hotspur - EPL - Premier League
 http://tigerfights.xyz:80/57101910/08426299/2075209.ts
-#EXTINF:-1,West Bromich Albion - EPL - Premier League
+#EXTINF:-1 group-title="TigFig",West Bromich Albion - EPL - Premier League
 http://tigerfights.xyz:80/57101910/08426299/2075210.ts
-#EXTINF:-1,Wolverhampton Wanderers - EPL - Premier League
+#EXTINF:-1 group-title="TigFig",Wolverhampton Wanderers - EPL - Premier League
 http://tigerfights.xyz:80/57101910/08426299/2075212.ts
 
-#EXTINF:-1,AU Optus 1
+#EXTINF:-1 group-title="TigFig",AU Optus 1
 http://tigerfights.xyz:80/57101910/08426299/2567852.ts
-#EXTINF:-1,AU Optus 2
+#EXTINF:-1 group-title="TigFig",AU Optus 2
 http://tigerfights.xyz:80/57101910/08426299/2567853.ts
-#EXTINF:-1,AU Optus 3
+#EXTINF:-1 group-title="TigFig",AU Optus 3
 http://tigerfights.xyz:80/57101910/08426299/2567854.ts
-#EXTINF:-1,AU Optus 4
+#EXTINF:-1 group-title="TigFig",AU Optus 4
 http://tigerfights.xyz:80/57101910/08426299/2567855.ts
-#EXTINF:-1,AU Optus 5
+#EXTINF:-1 group-title="TigFig",AU Optus 5
 http://tigerfights.xyz:80/57101910/08426299/2567856.ts
 
-#EXTINF:-1,DSTV: SuperSport 4
+#EXTINF:-1 group-title="TigFig",DSTV: SuperSport 4
 http://tigerfights.xyz:80/57101910/08426299/2107269.ts
-#EXTINF:-1,DSTV: SuperSport Action
+#EXTINF:-1 group-title="TigFig",DSTV: SuperSport Action
 http://tigerfights.xyz:80/57101910/08426299/2107275.ts
-#EXTINF:-1,DSTV: Supersport Blitz
+#EXTINF:-1 group-title="TigFig",DSTV: Supersport Blitz
 http://tigerfights.xyz:80/57101910/08426299/2107278.ts
-#EXTINF:-1,DSTV: SuperSport Cricket
+#EXTINF:-1 group-title="TigFig",DSTV: SuperSport Cricket
 http://tigerfights.xyz:80/57101910/08426299/2107277.ts
-#EXTINF:-1,DSTV: SuperSport Football
+#EXTINF:-1 group-title="TigFig",DSTV: SuperSport Football
 http://tigerfights.xyz:80/57101910/08426299/2107270.ts
-#EXTINF:-1,DSTV: SuperSport Golf
+#EXTINF:-1 group-title="TigFig",DSTV: SuperSport Golf
 http://tigerfights.xyz:80/57101910/08426299/2107282.ts
-#EXTINF:-1,DSTV: SuperSport Grandstand
+#EXTINF:-1 group-title="TigFig",DSTV: SuperSport Grandstand
 http://tigerfights.xyz:80/57101910/08426299/2107266.ts
-#EXTINF:-1,DSTV: SuperSport La Liga
+#EXTINF:-1 group-title="TigFig",DSTV: SuperSport La Liga
 http://tigerfights.xyz:80/57101910/08426299/2107281.ts
-#EXTINF:-1,DSTV: SuperSport MaXimo 1
+#EXTINF:-1 group-title="TigFig",DSTV: SuperSport MaXimo 1
 http://tigerfights.xyz:80/57101910/08426299/2107283.ts
-#EXTINF:-1,DSTV: SuperSport Motorsport
+#EXTINF:-1 group-title="TigFig",DSTV: SuperSport Motorsport
 http://tigerfights.xyz:80/57101910/08426299/2107280.ts
-#EXTINF:-1,DSTV: SuperSport Play
+#EXTINF:-1 group-title="TigFig",DSTV: SuperSport Play
 http://tigerfights.xyz:80/57101910/08426299/2107284.ts
-#EXTINF:-1,DSTV: SuperSport Premier League
+#EXTINF:-1 group-title="TigFig",DSTV: SuperSport Premier League
 http://tigerfights.xyz:80/57101910/08426299/2107268.ts
-#EXTINF:-1,DSTV: SuperSport PSL
+#EXTINF:-1 group-title="TigFig",DSTV: SuperSport PSL
 http://tigerfights.xyz:80/57101910/08426299/2107267.ts
-#EXTINF:-1,DSTV: SuperSport Rugby
+#EXTINF:-1 group-title="TigFig",DSTV: SuperSport Rugby
 http://tigerfights.xyz:80/57101910/08426299/2107276.ts
-#EXTINF:-1,DSTV: SuperSport Tennis
+#EXTINF:-1 group-title="TigFig",DSTV: SuperSport Tennis
 http://tigerfights.xyz:80/57101910/08426299/2107279.ts
-#EXTINF:-1,DSTV: SuperSport Variety 1
+#EXTINF:-1 group-title="TigFig",DSTV: SuperSport Variety 1
 http://tigerfights.xyz:80/57101910/08426299/2107271.ts
-#EXTINF:-1,DSTV: SuperSport Variety 2
+#EXTINF:-1 group-title="TigFig",DSTV: SuperSport Variety 2
 http://tigerfights.xyz:80/57101910/08426299/2107272.ts
-#EXTINF:-1,DSTV: SuperSport Variety 3
+#EXTINF:-1 group-title="TigFig",DSTV: SuperSport Variety 3
 http://tigerfights.xyz:80/57101910/08426299/2107273.ts
-#EXTINF:-1,DSTV: SuperSport Variety 4
+#EXTINF:-1 group-title="TigFig",DSTV: SuperSport Variety 4
 http://tigerfights.xyz:80/57101910/08426299/2107274.ts
 
-#EXTINF:-1,USA: MTV
+#EXTINF:-1 group-title="TigFig",USA: MTV
 http://tigerfights.xyz:80/57101910/08426299/3086995.ts
-#EXTINF:-1,USA: MTV Classic
+#EXTINF:-1 group-title="TigFig",USA: MTV Classic
 http://tigerfights.xyz:80/57101910/08426299/3086996.ts
-#EXTINF:-1,USA: MTV Live
+#EXTINF:-1 group-title="TigFig",USA: MTV Live
 http://tigerfights.xyz:80/57101910/08426299/3086997.ts
-#EXTINF:-1,USA: MTV U
+#EXTINF:-1 group-title="TigFig",USA: MTV U
 http://tigerfights.xyz:80/57101910/08426299/3086999.ts
-#EXTINF:-1,USA: MTV2
+#EXTINF:-1 group-title="TigFig",USA: MTV2
 http://tigerfights.xyz:80/57101910/08426299/3086998.ts
 
-#EXTINF:-1,Pluto French: MTV Catfish+
+#EXTINF:-1 group-title="TigFig",Pluto French: MTV Catfish+
 http://tigerfights.xyz:80/57101910/08426299/3151649.ts
-#EXTINF:-1,Pluto French: MTV CLASSICS
+#EXTINF:-1 group-title="TigFig",Pluto French: MTV CLASSICS
 http://tigerfights.xyz:80/57101910/08426299/3151655.ts
-#EXTINF:-1,Pluto French: MTV Classics+
+#EXTINF:-1 group-title="TigFig",Pluto French: MTV Classics+
 http://tigerfights.xyz:80/57101910/08426299/3151650.ts
-#EXTINF:-1,Pluto: Vevo Pop
+#EXTINF:-1 group-title="TigFig",Pluto: Vevo Pop
 http://tigerfights.xyz:80/57101910/08426299/3151624.ts
-#EXTINF:-1,Pluto: Vevo R&B
+#EXTINF:-1 group-title="TigFig",Pluto: Vevo R&B
 http://tigerfights.xyz:80/57101910/08426299/3151625.ts
-#EXTINF:-1,Pluto: VH1 Hip Hop Family
+#EXTINF:-1 group-title="TigFig",Pluto: VH1 Hip Hop Family
 http://tigerfights.xyz:80/57101910/08426299/3151626.ts
-#EXTINF:-1,Pluto: VH1 Hip Hop Family 2
+#EXTINF:-1 group-title="TigFig",Pluto: VH1 Hip Hop Family 2
 http://tigerfights.xyz:80/57101910/08426299/3151627.ts
-#EXTINF:-1,Pluto: VH1 I Love Reality
+#EXTINF:-1 group-title="TigFig",Pluto: VH1 I Love Reality
 http://tigerfights.xyz:80/57101910/08426299/3151628.ts
 
-#EXTINF:-1,IN: &Flix
+#EXTINF:-1 group-title="TigFig",IN: &Flix
 http://tigerfights.xyz:80/57101910/08426299/2454920.ts
-#EXTINF:-1,IN: &pictures
+#EXTINF:-1 group-title="TigFig",IN: &pictures
 http://tigerfights.xyz:80/57101910/08426299/2455260.ts
-#EXTINF:-1,IN: &pictures HD
+#EXTINF:-1 group-title="TigFig",IN: &pictures HD
 http://tigerfights.xyz:80/57101910/08426299/2454931.ts
-#EXTINF:-1,IN: &Prive
+#EXTINF:-1 group-title="TigFig",IN: &Prive
 http://tigerfights.xyz:80/57101910/08426299/2454921.ts
-#EXTINF:-1,IN: &TV (Hindi) (US)
+#EXTINF:-1 group-title="TigFig",IN: &TV (Hindi) (US)
 http://tigerfights.xyz:80/57101910/08426299/2671719.ts
-#EXTINF:-1,IN: &TV HD
+#EXTINF:-1 group-title="TigFig",IN: &TV HD
 http://tigerfights.xyz:80/57101910/08426299/2454923.ts
-#EXTINF:-1,IN: B4U Movies
+#EXTINF:-1 group-title="TigFig",IN: B4U Movies
 http://tigerfights.xyz:80/57101910/08426299/2454953.ts
-#EXTINF:-1,IN: B4U Movies (CA)
+#EXTINF:-1 group-title="TigFig",IN: B4U Movies (CA)
 http://tigerfights.xyz:80/57101910/08426299/2671334.ts
-#EXTINF:-1,IN: B4U Movies (Hindi) (US)
+#EXTINF:-1 group-title="TigFig",IN: B4U Movies (Hindi) (US)
 http://tigerfights.xyz:80/57101910/08426299/2671713.ts
-#EXTINF:-1,IN: B4U Movies Hindi
+#EXTINF:-1 group-title="TigFig",IN: B4U Movies Hindi
 http://tigerfights.xyz:80/57101910/08426299/2428000.ts
-#EXTINF:-1,IN: Channel News Asia
+#EXTINF:-1 group-title="TigFig",IN: Channel News Asia
 http://tigerfights.xyz:80/57101910/08426299/2454998.ts
+#EXTINF:-1 group-title="TigFig",IN: Mirror Now
+http://tigerfights.xyz:80/57101910/08426299/2455168.ts
+#EXTINF:-1 group-title="TigFig",IN: MN+ HD
+http://tigerfights.xyz:80/57101910/08426299/2454961.ts
+#EXTINF:-1 group-title="TigFig",IN: MNX HD
+http://tigerfights.xyz:80/57101910/08426299/2454962.ts
+#EXTINF:-1 group-title="TigFig",IN: Movies Now HD
+http://tigerfights.xyz:80/57101910/08426299/2455163.ts
+#EXTINF:-1 group-title="TigFig",IN: SONY  MAX
+http://tigerfights.xyz:80/57101910/08426299/2455270.ts
+#EXTINF:-1 group-title="TigFig",IN: SONY Max 2
+http://tigerfights.xyz:80/57101910/08426299/2454954.ts
+#EXTINF:-1 group-title="TigFig",IN: SONY Max HD
+http://tigerfights.xyz:80/57101910/08426299/2454948.ts
+#EXTINF:-1 group-title="TigFig",IN: SONY Pix HD
+http://tigerfights.xyz:80/57101910/08426299/2454959.ts
+#EXTINF:-1 group-title="TigFig",IN: Sony SET (US)
+http://tigerfights.xyz:80/57101910/08426299/2671605.ts
+#EXTINF:-1 group-title="TigFig",IN: SONY SIX HD
+http://tigerfights.xyz:80/57101910/08426299/2454968.ts
+#EXTINF:-1 group-title="TigFig",IN: SONY Ten 1 HD
+http://tigerfights.xyz:80/57101910/08426299/2454967.ts
+#EXTINF:-1 group-title="TigFig",IN: SONY Ten 2 HD
+http://tigerfights.xyz:80/57101910/08426299/2455137.ts
+#EXTINF:-1 group-title="TigFig",IN: SONY Ten 3 HD
+http://tigerfights.xyz:80/57101910/08426299/2455023.ts
+#EXTINF:-1 group-title="TigFig",IN: STAR Sports Select 1 HD
+http://tigerfights.xyz:80/57101910/08426299/2454938.ts
+#EXTINF:-1 group-title="TigFig",IN: STAR Sports Select 2 HD
+http://tigerfights.xyz:80/57101910/08426299/2455138.ts
 
-#EXTINF:-1,Sony Max
+#EXTINF:-1 group-title="TigFig",Sony Max
 http://tigerfights.xyz:80/57101910/08426299/2485148.ts
-#EXTINF:-1,SONY MAX 2 (Indian)
+#EXTINF:-1 group-title="TigFig",SONY MAX 2 (Indian)
 http://tigerfights.xyz:80/57101910/08426299/2485184.ts
-#EXTINF:-1,SONY Max HD (Indian)
+#EXTINF:-1 group-title="TigFig",SONY Max HD (Indian)
 http://tigerfights.xyz:80/57101910/08426299/2485197.ts
 
 + + + + + titanmedia.one:2082 + + + + +
