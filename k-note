@@ -1212,8 +1212,10 @@ http://london.mazystreams.xyz/live/1/chunks.m3u8
 http://londonb.mazystreams.xyz/live/1/chunks.m3u8 << 
 http://178.62.54.113/live/1/chunks.m3u8 << 
 
-http://stream.mazystreams.xyz/live/1/chunks.m3u8
+http://stream.mazystreams.xyz/live/1/chunks.m3u8 << offline
 http://ueefa.mazystreams.xyz/live/1/chunks.m3u8
+
+http://uk4k.mazystreams.xyz/live/1/chunks.m3u8 | http://134.209.28.9/live/1/chunks.m3u8
 
 #EXTINF:-1 group-title="BamarTV/Sports",MAZ 1*
 http://uk4k.mazystreams.xyz/live/1/chunks.m3u8?wmsAuthSign=
@@ -1249,9 +1251,13 @@ http://eu.mazystreams.xyz/live/1/playlist.m3u8
 http://eu.mazystreams.xyz/live/2/playlist.m3u8
 http://eu.mazystreams.xyz/live/3/playlist.m3u8
 http://eu.mazystreams.xyz/live/4/playlist.m3u8
+http://london.mazystreams.xyz:80/live/1/chunks.m3u8 < offline
 http://london.mazystreams.xyz:80/live/2/chunks.m3u8
 http://london.mazystreams.xyz:80/live/3/chunks.m3u8
-http://londonb.mazystreams.xyz/live/1/chunks.m3u8
+
+http://londona.mazystreams.xyz/live/1/chunks.m3u8 | http://165.227.226.245/live/1/chunks.m3u8
+
+http://londonb.mazystreams.xyz/live/1/chunks.m3u8 | http://167.99.85.186/live/1/chunks.m3u8
 http://londonb.mazystreams.xyz/live/1/playlist.m3u8?wmsAuthSign=
 http://londonb.mazystreams.xyz/live/2/chunks.m3u8
 http://londonb.mazystreams.xyz/live/3/chunks.m3u8
@@ -1903,6 +1909,18 @@ https://hlsplayer.stream/video/live.html?url=https://178.17.168.42:443/02_Premie
 https://live.tab3live.us/p/1-bein-premium-1-hd-live-channel.html?m=0
 
 
++ + + + + http://allsportsmedia.live/click-here-for-daily-fixtures/ + + + 
+
+http://allsportsmedia.live/novo/events/italia-gp/
+#EXTINF:-1 group-title="BamarTV/Sports",ASM F1
+http://77.247.109.227/hls/F1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMi8yMDIxIDM6MDkKOjMxCiBBTSZoYXNoX3ZhbHVlPXBRdmttVkhQRWNjMjJUdUlIRHMwOWc9PSZ2YWxpZG1pbnV0ZXM9MTIwJmlkPTE3Mi43MC4zNS44MCZzdHJtX2xlbj00
+
+http://allsportsmedia.live/novo/events/28-norwhic/
+http://allsportsmedia.live/novo/events/21-crystal/
+http://allsportsmedia.live/novo/events/28-everton/
+http://allsportsmedia.live/novo/events/21-leads/
+http://allsportsmedia.live/novo/events/14-watford/?sport=soccer
+
 
 + + + + + channelstream.club + + + + + can't too much AD + + https://123sport.tv/ + + https://channelstream.watch/chaine-tv.php
 
@@ -2216,12 +2234,12 @@ http://www.ripple-stream.com/live/15.php
 http://www.ripple-stream.com/live/16.php
 http://www.ripple-stream.com/live/17.php
 
-http://allsportsmedia.live/novo/events/28-norwhic/
+
 
 
 http://www.dubzstreams.com/livegames/2021/08/livesoccerx/cpalace-21aug/
-http://allsportsmedia.live/novo/events/21-crystal/
-http://allsportsmedia.live/novo/events/28-everton/
+
+
 
 http://sportybuzzer.blogspot.com/p/channel-1.html?m=1
 
@@ -2231,14 +2249,13 @@ https://www.vipstand.se/crystal-palace-vs-brentford-fc-live-sports-stream/1/
 https://fpstreams.weebly.com/link-3.html
 
 http://www.dubzstreams.com/livegames/2021/08/livesoccerx/leedsunited-21aug/
-http://allsportsmedia.live/novo/events/21-leads/
+
 http://sportybuzzer.blogspot.com/p/everton-matches-live-stream-free.html?m=1
 
 https://www.vipstand.se/leeds-united-vs-everton-live-sports-stream/1/
 
 https://fpstreams.weebly.com/link-4.html
 
-http://allsportsmedia.live/novo/events/14-watford/?sport=soccer
 http://www.dubzstreams.com/livegames/2021/08/livesoccerx/watford-14aug/?sport=soccer
 http://hockeyweb.site/daily/news/Watf/?sport=soccer
 http://worldstreams.net/2021/08/14/astro-supersport-2/?sport=soccer
@@ -3392,6 +3409,7 @@ https://crackle-xumo.amagi.tv/playlist.m3u8
 https://loop-80s-1.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="BamarTV",Loop 80s'
 http://loop-80s-1.roku.wurl.com/manifest/4300.m3u8
+
 #EXTINF:-1 group-title="BamarTV",Loop 80s Geo-blocked
 https://loop-80s-2.roku.wurl.com/manifest/playlist.m3u8
 
@@ -4759,13 +4777,16 @@ http://27.255.28.10:8278/69/playlist.m3u8
 5K6RMPTM6L8S2Y < Exp?
 5XWDYALXGH5EB7 < Expired
 C2MEK3RMAS8FDC < Exp
-F59KKDMP2GN7ZB < OK K- - -
+F59KKDMP2GN7ZB < Exp
 FNDYDGHPY3T8KH < Exp
 LZKA5RU8PUWYR3 < latest!!
 N8RG6LD442U365 < xxx/ no spt K- - -
 UFCRE5D6XB7EK4 < N
 V4KSK3Y4Z8DVPM < Expired
-YSZEBB3QYC3TXF < OK < Too many people know
+YSZEBB3QYC3TXF < OK < Too many people
+WPCRZ9TNLSUBDK
+YSZEBB3QYC3TXF
+
 
 http://181.114.57.158:4000/play/p71GvACSTwpRvkpc/index.m3u8
 
@@ -4789,300 +4810,300 @@ http://ilooksysadmin.tvclub.xyz/iptv/ < old server
 #EXTM3U x-tvg-url="http://epg.it999.ru/epg.xml.gz"
 
 #EXTINF:0 group-title="EDEM" tvg-id="828" tvg-logo="http://epg.it999.ru/img/828.png" tvg-rec="3",BBC World News
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/545/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/545/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="2270" tvg-logo="http://epg.it999.ru/img/2270.png" tvg-rec="3",CNN International Europe
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/842/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/842/index.m3u8
 
 #EXTINF:0 group-title="EDEM" tvg-id="2985" tvg-logo="http://epg.it999.ru/img/2985.png" tvg-rec="3",CINEMAX ACTION MAX EAST US
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/6156/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/6156/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="2986" tvg-logo="http://epg.it999.ru/img/2986.png" tvg-rec="3",CINEMAX MOVIEMAX US
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/6155/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/6155/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="2987" tvg-logo="http://epg.it999.ru/img/2987.png" tvg-rec="3",CINEMAX OUTER MAX US
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/6154/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/6154/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="2988" tvg-logo="http://epg.it999.ru/img/2988.png" tvg-rec="3",CINEMAXX MORE MAXX US
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/6152/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/6152/index.m3u8
 
 #EXTINF:0 group-title="EDEM" tvg-id="491" tvg-logo="http://epg.it999.ru/img/491.png" tvg-rec="7",VH1 European
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/536/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/536/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="1722" tvg-logo="http://epg.it999.ru/img/1722.png" tvg-rec="7",Club MTV
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/558/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/558/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="575" tvg-logo="http://epg.it999.ru/img/575.png" tvg-rec="7",Mezzo
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/707/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/707/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="680" tvg-logo="http://epg.it999.ru/img/680.png" tvg-rec="7",ТНТ MUSIC
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/710/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/710/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="2024" tvg-logo="http://epg.it999.ru/img/2024.png" tvg-rec="7",BRIDGE TV HITS
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/711/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/711/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="156" tvg-logo="http://epg.it999.ru/img/156.png" tvg-rec="7",MTV 80s
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/724/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/724/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="2353" tvg-logo="http://epg.it999.ru/img/2353.png" tvg-rec="3",Vostok TV
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/1054/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/1054/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="2235" tvg-logo="http://epg.it999.ru/img/2235.png" tvg-rec="3",MTV 90s
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/1038/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/1038/index.m3u8
 
 #EXTINF:0 group-title="EDEM" tvg-id="3047" tvg-logo="http://epg.it999.ru/img/3047.png" tvg-rec="0",beIN Sports 1 HD QA
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/6123/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/6123/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="3048" tvg-logo="http://epg.it999.ru/img/3048.png" tvg-rec="0",beIN Sports 3 HD QA
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/6124/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/6124/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="3049" tvg-logo="http://epg.it999.ru/img/3049.png" tvg-rec="0",beIN Sports 4 HD QA
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/6125/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/6125/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="3050" tvg-logo="http://epg.it999.ru/img/3050.png" tvg-rec="0",beIN Sports 5 HD QA
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/6126/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/6126/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="3051" tvg-logo="http://epg.it999.ru/img/3051.png" tvg-rec="0",beIN Sports 6 HD QA
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/6127/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/6127/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="3052" tvg-logo="http://epg.it999.ru/img/3052.png" tvg-rec="0",beIN Sports 7 HD QA
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/6128/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/6128/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="3053" tvg-logo="http://epg.it999.ru/img/3053.png" tvg-rec="0",beIN Sports 8 HD QA
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/6129/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/6129/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="3054" tvg-logo="http://epg.it999.ru/img/3054.png" tvg-rec="0",beIN Sports 2 Premium HD QA
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/6130/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/6130/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="3055" tvg-logo="http://epg.it999.ru/img/3055.png" tvg-rec="0",beIN Sports 1 Premium HD QA
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/6131/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/6131/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="5090" tvg-rec="0",beIN Sports 1 HD EN
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/6132/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/6132/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="5091" tvg-rec="0",beIN Sports 2 HD EN
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/6133/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/6133/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="2900" tvg-logo="http://epg.it999.ru/img/2900.png" tvg-rec="0",Canal+ Sport 2 HD PL
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/6055/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/6055/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="3058" tvg-logo="http://epg.it999.ru/img/3058.png" tvg-rec="3",CANAL+ SPORT 2 PL
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/6099/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/6099/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="2880" tvg-logo="http://epg.it999.ru/img/2880.png" tvg-rec="3",Sky Sport Bundesliga 9 DE
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/6097/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/6097/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="3060" tvg-logo="http://epg.it999.ru/img/3060.png" tvg-rec="3",Sky Sport Austria 2 DE
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/6113/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/6113/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="3061" tvg-logo="http://epg.it999.ru/img/3061.png" tvg-rec="0",Sky Racing AU
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/6122/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/6122/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="3062" tvg-logo="http://epg.it999.ru/img/3062.png" tvg-rec="3",Motorvision TV DE
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/6112/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/6112/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="3063" tvg-logo="http://epg.it999.ru/img/3063.png" tvg-rec="3",Golf TV FR
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/6066/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/6066/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="3064" tvg-logo="http://epg.it999.ru/img/3064.png" tvg-rec="0",Fox Sports News AU
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/6121/index.m3u8
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/6119/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/6121/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/6119/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="3552" tvg-logo="http://epg.it999.ru/img/3552.png" tvg-rec="3",UFC FIGHT PASS
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/6554/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/6554/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="3553" tvg-logo="http://epg.it999.ru/img/3553.png" tvg-rec="3",PREMIER SPORTS UK
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/6555/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/6555/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="3554" tvg-logo="http://epg.it999.ru/img/3554.png" tvg-rec="3",EUROSPORT 2 HD UK
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/6556/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/6556/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="3555" tvg-logo="http://epg.it999.ru/img/3555.png" tvg-rec="3",ELEVEN SPORTS 3 UK
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/6558/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/6558/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="3556" tvg-logo="http://epg.it999.ru/img/3556.png" tvg-rec="3",ELEVEN SPORTS 1 UK
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/6560/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/6560/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="3557" tvg-logo="http://epg.it999.ru/img/3557.png" tvg-rec="3",EIR SPORT 2 UK
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/6561/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/6561/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="3558" tvg-logo="http://epg.it999.ru/img/3558.png" tvg-rec="3",EIR SPORT 1 UK
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/6562/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/6562/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="3559" tvg-logo="http://epg.it999.ru/img/3559.png" tvg-rec="3",BT SPORT ESPN FHD UK
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/6563/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/6563/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="3560" tvg-logo="http://epg.it999.ru/img/3560.png" tvg-rec="3",BT SPORT 3 FHD UK
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/6564/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/6564/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="2890" tvg-logo="http://epg.it999.ru/img/2890.png" tvg-rec="3",BT SPORT 2 FHD UK
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/6565/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/6565/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="2889" tvg-logo="http://epg.it999.ru/img/2889.png" tvg-rec="3",BT SPORT 1 FHD UK
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/6566/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/6566/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="2917" tvg-logo="http://epg.it999.ru/img/2917.png" tvg-rec="3",Eleven Sports 3 PT
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/7062/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/7062/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="2918" tvg-logo="http://epg.it999.ru/img/2918.png" tvg-rec="3",Eleven Sports 4 PT
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/7063/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/7063/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="2920" tvg-logo="http://epg.it999.ru/img/2920.png" tvg-rec="3",Eleven Sports 6 PT
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/7064/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/7064/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="2881" tvg-logo="http://epg.it999.ru/img/2881.png" tvg-rec="0",Sky Sport Bundesliga 2 HD DE
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/7234/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/7234/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="4522" tvg-logo="http://epg.it999.ru/img/4522.png" tvg-rec="0",Sky Sport Bundesliga 3 HD DE
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/7235/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/7235/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="4523" tvg-logo="http://epg.it999.ru/img/4523.png" tvg-rec="0",Sky Sport Bundesliga 4 HD DE
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/7236/index.m3u8
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/7237/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/7236/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/7237/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="4525" tvg-logo="http://epg.it999.ru/img/4525.png" tvg-rec="0",Sky Sport Bundesliga 6 HD DE
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/7238/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/7238/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="4526" tvg-logo="http://epg.it999.ru/img/4526.png" tvg-rec="0",Sky Sport Bundesliga 7 HD DE
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/7239/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/7239/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="4527" tvg-logo="http://epg.it999.ru/img/4527.png" tvg-rec="0",Sky Sport Bundesliga 8 HD DE
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/7240/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/7240/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="4528" tvg-logo="http://epg.it999.ru/img/4528.png" tvg-rec="0",Sky Sport Bundesliga 9 HD DE
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/7241/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/7241/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="4529" tvg-logo="http://epg.it999.ru/img/4529.png" tvg-rec="0",Sky Sport Bundesliga Austria HD DE
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/7242/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/7242/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="4563" tvg-logo="http://epg.it999.ru/img/4563.png" tvg-rec="0",Arena Sport 1 FHD HR
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/7263/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/7263/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="4564" tvg-logo="http://epg.it999.ru/img/4564.png" tvg-rec="0",Arena Sport 2 FHD HR
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/7264/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/7264/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="4565" tvg-logo="http://epg.it999.ru/img/4565.png" tvg-rec="0",Arena Sport 3 FHD HR
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/7265/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/7265/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="4566" tvg-logo="http://epg.it999.ru/img/4566.png" tvg-rec="0",Arena Sport 4 FHD HR
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/7266/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/7266/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="4567" tvg-logo="http://epg.it999.ru/img/4567.png" tvg-rec="0",Arena Sport 5 FHD HR
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/7267/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/7267/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="4568" tvg-logo="http://epg.it999.ru/img/4568.png" tvg-rec="0",Arena Sport 6 FHD HR
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/7268/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/7268/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="4536" tvg-logo="http://epg.it999.ru/img/4536.png" tvg-rec="0",Sport Klub 1 HD HR
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/7269/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/7269/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="4537" tvg-logo="http://epg.it999.ru/img/4537.png" tvg-rec="0",Sport Klub 2 HD HR
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/7270/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/7270/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="4538" tvg-logo="http://epg.it999.ru/img/4538.png" tvg-rec="0",Sport Klub 3 HD HR
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/7271/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/7271/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="4539" tvg-logo="http://epg.it999.ru/img/4539.png" tvg-rec="0",Sport Klub 4 HD HR
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/7272/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/7272/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="4540" tvg-logo="http://epg.it999.ru/img/4540.png" tvg-rec="0",Sport Klub 5 HD HR
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/7273/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/7273/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="4541" tvg-logo="http://epg.it999.ru/img/4541.png" tvg-rec="0",Sport Klub 6 HD HR
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/7274/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/7274/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="4542" tvg-logo="http://epg.it999.ru/img/4542.png" tvg-rec="0",Sport Klub 7 HD HR
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/7275/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/7275/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="4543" tvg-logo="http://epg.it999.ru/img/4543.png" tvg-rec="0",Sport Klub 8 HD HR
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/7276/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/7276/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="4544" tvg-logo="http://epg.it999.ru/img/4544.png" tvg-rec="0",Sport Klub Golf HR
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/7277/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/7277/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="4545" tvg-logo="http://epg.it999.ru/img/4545.png" tvg-rec="0",Sport Klub HD HR
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/7278/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/7278/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="2904" tvg-logo="http://epg.it999.ru/img/2904.png" tvg-rec="0",TVP Sport FHD PL
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/7280/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/7280/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="4547" tvg-logo="http://epg.it999.ru/img/4547.png" tvg-rec="0",Polsat Games PL
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/7295/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/7295/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="4548" tvg-logo="http://epg.it999.ru/img/4548.png" tvg-rec="0",Polsat Sport FHD PL
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/7296/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/7296/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="4549" tvg-logo="http://epg.it999.ru/img/4549.png" tvg-rec="0",POLSAT SPORT NEWS HD PL
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/7303/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/7303/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="4550" tvg-logo="http://epg.it999.ru/img/4550.png" tvg-rec="0",POLSAT SPORT PREMIUM 1 PL
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/7304/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/7304/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="4551" tvg-logo="http://epg.it999.ru/img/4551.png" tvg-rec="0",POLSAT SPORT PREMIUM 2 PL
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/7305/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/7305/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="4552" tvg-logo="http://epg.it999.ru/img/4552.png" tvg-rec="0",POLSAT SPORT PREMIUM 3 PPV PL
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/7306/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/7306/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="4553" tvg-logo="http://epg.it999.ru/img/4553.png" tvg-rec="0",POLSAT SPORT PREMIUM 4 PPV PL
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/7307/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/7307/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="4554" tvg-logo="http://epg.it999.ru/img/4554.png" tvg-rec="0",POLSAT SPORT PREMIUM 5 PPV PL
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/7308/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/7308/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="4555" tvg-logo="http://epg.it999.ru/img/4555.png" tvg-rec="0",POLSAT SPORT PREMIUM 6 PPV PL
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/7309/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/7309/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="4556" tvg-logo="http://epg.it999.ru/img/4556.png" tvg-rec="0",POLSAT SPORT EXTRA HD PL
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/7310/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/7310/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="4557" tvg-logo="http://epg.it999.ru/img/4557.png" tvg-rec="0",POLSAT SPORT FIGHT HD PL
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/7311/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/7311/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="4558" tvg-logo="http://epg.it999.ru/img/4558.png" tvg-rec="0",FOX SPORTS 1 US
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/7322/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/7322/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="4559" tvg-logo="http://epg.it999.ru/img/4559.png" tvg-rec="0",FOX SPORTS 2 US
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/7323/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/7323/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="4560" tvg-logo="http://epg.it999.ru/img/4560.png" tvg-rec="0",CBS SPORTS NETWORK US
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/7324/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/7324/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="4561" tvg-logo="http://epg.it999.ru/img/4561.png" tvg-rec="0",NBC SPORTS NETWORK US
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/7327/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/7327/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="4562" tvg-logo="http://epg.it999.ru/img/4562.png" tvg-rec="0",NHL NETWORK US
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/7328/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/7328/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="4563" tvg-logo="http://epg.it999.ru/img/4563.png" tvg-rec="0",Arena Sport 1 HD HR
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/7329/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/7329/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="4564" tvg-logo="http://epg.it999.ru/img/4564.png" tvg-rec="0",Arena Sport 2 HD HR
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/7330/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/7330/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="4565" tvg-logo="http://epg.it999.ru/img/4565.png" tvg-rec="0",Arena Sport 3 HD HR
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/7331/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/7331/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="4566" tvg-logo="http://epg.it999.ru/img/4566.png" tvg-rec="0",Arena Sport 4 HD HR
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/7332/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/7332/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="4567" tvg-logo="http://epg.it999.ru/img/4567.png" tvg-rec="0",Arena Sport 5 HD HR
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/7333/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/7333/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="4568" tvg-logo="http://epg.it999.ru/img/4568.png" tvg-rec="0",Arena Sport 6 HD HR
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/7334/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/7334/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="4569" tvg-logo="http://epg.it999.ru/img/4569.png" tvg-rec="0",SKY SPORTS PREMIER LEAGUE UK
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/7335/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/7335/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="4570" tvg-logo="http://epg.it999.ru/img/4570.png" tvg-rec="0",SKY SPORTS FOOTBALL UK
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/7336/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/7336/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="4571" tvg-logo="http://epg.it999.ru/img/4571.png" tvg-rec="0",SKY SPORTS MAIN EVENT UK
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/7337/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/7337/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="4572" tvg-logo="http://epg.it999.ru/img/4572.png" tvg-rec="0",SKY SPORTS ARENA UK
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/7338/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/7338/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="4573" tvg-logo="http://epg.it999.ru/img/4573.png" tvg-rec="0",SKY SPORTS MIX UK
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/7339/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/7339/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="4579" tvg-logo="http://epg.it999.ru/img/4579.png" tvg-rec="0",Sky Sports Action HD UK
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/7340/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/7340/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="4575" tvg-logo="http://epg.it999.ru/img/4575.png" tvg-rec="0",SKY SPORTS RACING UK
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/7341/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/7341/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="4576" tvg-logo="http://epg.it999.ru/img/4576.png" tvg-rec="0",SKY SPORTS F1 UK
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/7342/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/7342/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="4577" tvg-logo="http://epg.it999.ru/img/4577.png" tvg-rec="0",SKY SPORTS CRICKET UK
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/7343/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/7343/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="4578" tvg-logo="http://epg.it999.ru/img/4578.png" tvg-rec="0",SKY SPORTS GOLF UK
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/7344/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/7344/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="4579" tvg-logo="http://epg.it999.ru/img/4579.png" tvg-rec="0",Sky Sports Action FHD UK
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/7345/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/7345/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="2921" tvg-logo="http://epg.it999.ru/img/2921.png" tvg-rec="0",TV 2 SPORT HD DK
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/7355/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/7355/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="4580" tvg-logo="http://epg.it999.ru/img/4580.png" tvg-rec="0",Хоккей 1
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/7360/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/7360/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="4581" tvg-logo="http://epg.it999.ru/img/4581.png" tvg-rec="0",Хоккей 2
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/7361/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/7361/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="4582" tvg-logo="http://epg.it999.ru/img/4582.png" tvg-rec="0",Хоккей 3
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/7362/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/7362/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="4583" tvg-logo="http://epg.it999.ru/img/4583.png" tvg-rec="0",Хоккей 4
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/7363/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/7363/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="4897" tvg-logo="http://epg.it999.ru/img/4897.png" tvg-rec="0",C MORE FOOTBALL HD SE
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/12032/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/12032/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="4584" tvg-logo="http://epg.it999.ru/img/4584.png" tvg-rec="0",Хоккей 5
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/7364/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/7364/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="4629" tvg-logo="http://epg.it999.ru/img/4629.png" tvg-rec="0",Мир Баскетбола
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/10033/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/10033/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="4898" tvg-logo="http://epg.it999.ru/img/4898.png" tvg-rec="0",C MORE GOLF HD SE
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/12033/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/12033/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="4899" tvg-logo="http://epg.it999.ru/img/4899.png" tvg-rec="0",C MORE HITS HD SE
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/12034/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/12034/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="4605" tvg-logo="http://epg.it999.ru/img/4605.png" tvg-rec="0",Хоккейный HD
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/10039/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/10039/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="4630" tvg-logo="http://epg.it999.ru/img/4630.png" tvg-rec="0",Сетанта Спорт + HD UA
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/10040/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/10040/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="4900" tvg-logo="http://epg.it999.ru/img/4900.png" tvg-rec="0",C MORE HOKEY HD SE
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/12035/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/12035/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="4901" tvg-logo="http://epg.it999.ru/img/4901.png" tvg-rec="0",C MORE STARTS HD SE
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/12042/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/12042/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="4678" tvg-logo="http://epg.it999.ru/img/4678.png" tvg-rec="7",Спортивный HD
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/10057/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/10057/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="4679" tvg-logo="http://epg.it999.ru/img/4679.png" tvg-rec="7",Футбольный HD
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/10058/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/10058/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="4902" tvg-rec="0",EUROSPORT 1 HD SE
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/12047/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/12047/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="4903" tvg-rec="0",EUROSPORT 2 HD SE
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/12048/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/12048/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="4675" tvg-logo="http://epg.it999.ru/img/4675.png" tvg-rec="7",MUTV UK
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/10078/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/10078/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="4734" tvg-logo="http://epg.it999.ru/img/4734.png" tvg-rec="7",WWE Russian
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/11056/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/11056/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="4904" tvg-rec="0",VIASAT SPORT EXTRA HD SE
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/12074/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/12074/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="4796" tvg-logo="http://epg.it999.ru/img/4796.png" tvg-rec="0",V Sport Football FHD
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/11110/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/11110/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="4905" tvg-rec="0",VIASAT SPORT HD SE
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/12075/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/12075/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="4797" tvg-logo="http://epg.it999.ru/img/4797.png" tvg-rec="0",V Sport Hockey FHD
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/11111/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/11111/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="4906" tvg-rec="0",VIASAT SPORT FOOTBAL HD SE
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/12076/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/12076/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="4798" tvg-logo="http://epg.it999.ru/img/4798.png" tvg-rec="0",VIASAT SPORT URHEILU HD
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/11112/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/11112/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="4907" tvg-rec="0",VIASAT SPORT GOLF HD SE
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/12077/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/12077/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="4799" tvg-logo="http://epg.it999.ru/img/4799.png" tvg-rec="0",VIASAT SPORT JALKAPALLO HD
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/11113/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/11113/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="4908" tvg-rec="0",VIASAT SPORT HOKEY HD SE
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/12078/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/12078/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="4909" tvg-rec="0",VIASAT SPORT PREMIUM HD SE
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/12079/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/12079/index.m3u8
 
 #EXTINF:0 group-title="EDEM" tvg-id="2057" tvg-logo="http://epg.it999.ru/img/2057.png" tvg-rec="3",Food Network
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/1107/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/1107/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="2258" tvg-logo="http://epg.it999.ru/img/2258.png" tvg-rec="3",NBC
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/1081/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/1081/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="3607" tvg-logo="http://epg.it999.ru/img/3607.png" tvg-rec="0",Food Network HD CA
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/6464/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/6464/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="3608" tvg-logo="http://epg.it999.ru/img/3608.png" tvg-rec="0",BNN Bloomberg HD CA
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/6465/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/6465/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="3680" tvg-logo="http://epg.it999.ru/img/3680.png" tvg-rec="0",CNN HD CA
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/6538/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/6538/index.m3u8
 
 #EXTINF:0 group-title="EDEM" tvg-id="1722" tvg-logo="http://epg.it999.ru/img/1722.png" tvg-rec="3",Club MTV RO
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/6975/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/6975/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="2235" tvg-logo="http://epg.it999.ru/img/2235.png" tvg-rec="3",MTV 90s RO
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/6976/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/6976/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="156" tvg-logo="http://epg.it999.ru/img/156.png" tvg-rec="3",MTV 80s RO
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/6977/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/6977/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="1723" tvg-logo="http://epg.it999.ru/img/1723.png" tvg-rec="3",MTV Hits RO
-http://185.183.34.118/iptv/F59KKDMP2GN7ZB/6978/index.m3u8
+http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/6978/index.m3u8
 
 + + + + + 
 
