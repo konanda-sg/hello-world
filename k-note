@@ -6,8 +6,12 @@ x-tvg-url="https://guidexl.tv4.live/"
 
 http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 
+>> to check how to do with vimeo
+
+https://player.vimeo.com/external/525696991.m3u8?s=52bfc0cf9cec79027e89aef30cc6b3c81d1f218c
 
 
++ + + + 
 
 http://178.18.245.114:8080/get.php?username=XR_XtraTv104070&password=17283964&type=m3u
 Real Url: 178.18.245.114:8080     Status: Active    Created: 7/9/2021 11:06:34 AM     Expires: Null    Active Connections: 13     Maximum Connections: 250     Formats: "m3u8","ts","rtmp"
@@ -3395,6 +3399,8 @@ https://loop-80s-2.roku.wurl.com/manifest/playlist.m3u8
 https://loop-90s-1.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="BamarTV",Loop 90s'
 http://loop-90s-1.roku.wurl.com/manifest/4300.m3u8
+#EXTINF:-1 group-title="BamarTV",Loop 90s"
+http://loop-90s-1.roku.wurl.com/manifest/2000.m3u8
 #EXTINF:-1 group-title="BamarTV",Loop Country
 https://loop-country-1.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="BamarTV",Loop Country'
