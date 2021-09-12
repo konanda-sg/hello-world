@@ -3840,7 +3840,7 @@ http://104275ooyala-lh.akamaihd.net/i/forevergroup_02@449366/master.m3u8
 
 + + + + + myanmarcast / MMnet + + + + +
 
-#EXTINF:-1 tvg-logo="http://www.myanmarcast.com/sites/default/files/inline-images/dvb.jpg" group-title="MNet", DVB TV |MNet
+#EXTINF:-1 tvg-logo="http://www.myanmarcast.com/sites/default/files/inline-images/dvb.jpg" group-title="MM /misc", DVB TV |MNet
 https://l1-xl1.myanmarnet.com/relay/dvb/ch1/stream.m3u8
 #EXTINF:-1 tvg-logo="http://www.myanmarcast.com/sites/default/files/inline-images/Eleven-Broadcasting-Logo---851x315.jpg", Eleven Media |MNet
 https://l1-xl1.myanmarnet.com/relay/eleven/ch1/stream_hi/index.m3u8
@@ -3854,9 +3854,9 @@ https://l1-xl1.myanmarnet.com/relay2/mcs/ch1/stream_mobile/index.m3u8
 https://l1-xl1.myanmarnet.com/relay/mizzima/ch1/stream_hi/index.m3u8
 https://l1-xl1.myanmarnet.com/relay/mizzima/ch1/stream.m3u8
 https://l1-xl1.myanmarnet.com/relay/mizzima/ch1/stream_standard/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.myanmarcast.com/sites/default/files/inline-images/MNTV%2Blogo.png" group-title="MNet", mntv |MNet
+#EXTINF:-1 tvg-logo="http://www.myanmarcast.com/sites/default/files/inline-images/MNTV%2Blogo.png" group-title="MM /misc", mntv |MNet
 https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream_hi/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.myanmarcast.com/sites/default/files/inline-images/MNTV%2Blogo.png" group-title="MNet", mntv' |MNet
+#EXTINF:-1 tvg-logo="http://www.myanmarcast.com/sites/default/files/inline-images/MNTV%2Blogo.png" group-title="MM /misc", mntv' |MNet
 https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
 http://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
 https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream_low/index.m3u8
