@@ -10224,6 +10224,7 @@ https://mediasv.online/live7f/truepl1Fallback/playlist_dvr.m3u8?wmsAuthSign=c2Vy
 #EXTINF:-1 group-title="mediasv",true EPL 1
 https://mediasv.online/tvchannel_x1/truepl1Fallback/video.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC80LzIwMjEgMTE6MjE6NTcgQU0maGFzaF92YWx1ZT00NnhVTFRSSU9xZFFlczY3V2ZCT2F3PT0mdmFsaWRtaW51dGVzPTg2NDAwJnN0cm1fbGVuPTI4JmlkPWNoXzM1MDQz
 #EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 1" group-title="mediasv",true EPL 1*
+https://mediasv.online/tvchannel_x1/truepl1Fallback/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMS8yMDIxIDExOjUxOjIyIFBNJmhhc2hfdmFsdWU9aWdEQzZEcUVocU5IaWJXSzl5N09Ldz09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0yOCZpZD1jaF81MDc3NQ==
 https://mediasv.online/tvchannel_x1/truepl1Fallback/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMC8yMDIxIDM6MDQ6MTMgUE0maGFzaF92YWx1ZT12QzNOOWdENEVSVVZlTW81cThIYUlnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTI4JmlkPWNoXzIwNjMw
 #EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 1" group-title="mediasv",true EPL 1*'
 https://mediasv.online/tvchannel_x1/truepl1Fallback/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNi8yMDIxIDE6MjU6NTggUE0maGFzaF92YWx1ZT1JUzZNTHZ6MFlhanUxNGdvVlh0czN3PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTI4JmlkPWNoXzI0NzE1
@@ -10239,6 +10240,7 @@ https://mediasv.online/premium/trueepl2/playlist_dvr.m3u8?wmsAuthSign=c2VydmVyX3
 https://mediasv.online/tvchannel_x1/trueepl2/video.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC80LzIwMjEgMTE6MjA6MDIgQU0maGFzaF92YWx1ZT16bndhczZDbTFBTlRQeEZkbVNXNGZnPT0mdmFsaWRtaW51dGVzPTg2NDAwJnN0cm1fbGVuPTIxJmlkPWNoXzM0MTU3
 https://mediasv.online/live/trueepl2/playlist.m3u8
 #EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 2" group-title="mediasv",true EPL 2*
+https://mediasv.online/tvchannel_x1/trueepl2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMS8yMDIxIDExOjU5OjAyIFBNJmhhc2hfdmFsdWU9YW9ZM0JRcUswZjZSUlJmVUJyQkNGZz09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0yMSZpZD1jaF8yMDQ3Mw==
 https://mediasv.online/tvchannel_x1/trueepl2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMC8yMDIxIDM6MDc6NTQgUE0maGFzaF92YWx1ZT0zUVBWcU9VbGp5UDdTWGJmeVB6NUFnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTIxJmlkPWNoXzY0MjMz
 #EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 2" group-title="mediasv",true EPL 2*'
 https://mediasv.online/tvchannel_x1/trueepl2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNi8yMDIxIDE6MjE6NTQgUE0maGFzaF92YWx1ZT1nam5MSDhTemM4WUNDWkt3SGpHWVdnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTIxJmlkPWNoXzg4ODQ5
