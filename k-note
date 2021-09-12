@@ -14171,7 +14171,7 @@ http://103.65.184.145:8443/live/5748aabe4c9d661afbd7f4068248f664/140.m3u8
 + + + + http://103.132.181.99:8000/playlist.m3u8 + + + + 
 
 
-#EXTINF: group-title="103.132",Food Network
+#EXTINF: group-title="103.132",Food Network |not play
 http://103.132.181.99:8000/play/505
 #EXTINF: group-title="103.132",& Flix HD
 http://103.132.181.99:8000/play/716
@@ -14281,31 +14281,8 @@ http://103.132.181.99:8000/play/318
 http://103.132.181.99:8000/play/803
 
 
-+ + + + http://103.150.209.246:9981/extjs.html + + + + PK
++ + + + http://103.150.209.246:9981/extjs.html + + + + PK + + not play
 
-#EXTINF:-1 group-title="103.150",Movies 1
-http://103.150.209.246:9981/stream/channelid/724775219
-#EXTINF:-1 group-title="103.150",Movies 2
-http://103.150.209.246:9981/stream/channelid/1503848324
-#EXTINF:-1 group-title="103.150",Pak Movies
-http://103.150.209.246:9981/stream/channelid/469588200
-
-http://103.150.209.246:9981/play/stream/service/de5be2359e1752c8b7fa902a6a262a4c?title=%26%20Prive%20HD
-http://103.150.209.246:9981/play/stream/service/8762a8a31e4addc406cd3940d5ba7235?title=%26%20Prive%20HD
-http://103.150.209.246:9981/play/stream/service/146200fedc2a921fefccae5627ce012e?title=Fox%20Action%20%2F%20DVB
-http://103.150.209.246:9981/play/stream/service/7a4918ba3152dfafc942c20ac425e40e?title=Sony%20Pix%20%2F%20DVB
-http://103.150.209.246:9981/play/stream/service/54b9ab9d6b29887cfbc2ca4c0dcc8e63?title=Zee%20Cinema%20HD
-http://103.150.209.246:9981/play/stream/service/70f351dd628a2a7fa8547b64f892540a?title=Z%20TV%20HD
-#EXTINF:-1 group-title="103.150",&Prive HD
-http://103.150.209.246:9981/stream/service/de5be2359e1752c8b7fa902a6a262a4c
-#EXTINF:-1 group-title="103.150",Fox Action
-http://103.150.209.246:9981/stream/service/146200fedc2a921fefccae5627ce012e
-#EXTINF:-1 group-title="103.150",Sony Pix
-http://103.150.209.246:9981/stream/service/7a4918ba3152dfafc942c20ac425e40e
-#EXTINF:-1 group-title="103.150",Zee Cinema HD
-http://103.150.209.246:9981/stream/service/54b9ab9d6b29887cfbc2ca4c0dcc8e63
-#EXTINF:-1 group-title="103.150",Z TV HD
-http://103.150.209.246:9981/stream/service/70f351dd628a2a7fa8547b64f892540a
 
 + + + + http://103.153.39.34:8000/playlist.m3u8 + + + + PK + 
 
@@ -14695,19 +14672,19 @@ http://116.204.181.238:9981/stream/channel/f3ef5fea3cf8425665cacb7079fb3a9c?titl
 
 #EXTINF:-1 group-title="118.151/ID",BloombergTV
 http://118.151.222.234:8000/play/BloombergTV
-#EXTINF:-1,ChannelV
+ChannelV
 http://118.151.222.234:8000/play/ChannelV
-#EXTINF:-1,FoxActionMovies
+FoxActionMovies
 http://118.151.222.234:8000/play/FoxActionMovies
-#EXTINF:-1,FoxFamilyMovies
+FoxFamilyMovies
 http://118.151.222.234:8000/play/FoxFamilyMovies
-#EXTINF:-1,FoxMovies
+FoxMovies
 http://118.151.222.234:8000/play/FoxMovies
-#EXTINF:-1,FoxSports
+FoxSports
 http://118.151.222.234:8000/play/FoxSports
-#EXTINF:-1,FoxSports2
+FoxSports2
 http://118.151.222.234:8000/play/FoxSports2
-#EXTINF:-1,FoxSports3
+FoxSports3
 http://118.151.222.234:8000/play/FoxSports3
 #EXTINF:-1 group-title="118.151/ID",KBSWorld
 http://118.151.222.234:8000/play/KBSWorld
@@ -14717,163 +14694,9 @@ http://118.151.222.234:8000/play/KBSWorld
 
 + + + + + http://144.48.122.22:9981/playlist/channels + + + + + LOCKED
 
-#EXTINF:-1 group-title="144.48/IN",STAR WORLD HD
-http://144.48.122.22:9981/stream/channelid/1429846180
-#EXTINF:-1 group-title="144.48/IN",STAR WORLD PRIMER
-http://144.48.122.22:9981/stream/channelid/989674076
-#EXTINF:-1 group-title="144.48/IN",STAR MOVIES HD
-http://144.48.122.22:9981/stream/channelid/557781900
-#EXTINF:-1 group-title="144.48/IN",MNX HD
-http://144.48.122.22:9981/stream/channelid/365337539
-#EXTINF:-1 group-title="144.48/IN",PRIVE HD
-http://144.48.122.22:9981/stream/channelid/962374394
-#EXTINF:-1 group-title="144.48/IN",COMEDY HD
-http://144.48.122.22:9981/stream/channelid/2104717893
-#EXTINF:-1 group-title="144.48/IN",Trivel xp
-http://144.48.122.22:9981/stream/channelid/2011872745
-#EXTINF:-1 group-title="144.48/IN",CAFE HD
-http://144.48.122.22:9981/stream/channelid/1390254202
-#EXTINF:-1 group-title="144.48/IN",NGC HD
-http://144.48.122.22:9981/stream/channelid/2051183134
-#EXTINF:-1 group-title="144.48/IN",EUROSPORT HD
-http://144.48.122.22:9981/stream/channelid/647406850
-#EXTINF:-1 group-title="144.48/IN",SCIENCE
-http://144.48.122.22:9981/stream/channelid/1935426785
-#EXTINF:-1 group-title="144.48/IN",TURBO
-http://144.48.122.22:9981/stream/channelid/1848767753
-#EXTINF:-1 group-title="144.48/IN",nick HD
-http://144.48.122.22:9981/stream/channelid/247881270
-#EXTINF:-1 group-title="144.48/IN",NAT GEO WILD
-http://144.48.122.22:9981/stream/channelid/337337508
-#EXTINF:-1 group-title="144.48/IN",APL
-http://144.48.122.22:9981/stream/channelid/702340390
-#EXTINF:-1 group-title="144.48/IN",BBC ERATH
-http://144.48.122.22:9981/stream/channelid/141182928
-#EXTINF:-1 group-title="144.48/IN",TLC
-http://144.48.122.22:9981/stream/channelid/1117125762
-#EXTINF:-1 group-title="144.48/IN",INFINITY
-http://144.48.122.22:9981/stream/channelid/1678296644
-#EXTINF:-1 group-title="144.48/IN",PIX
-http://144.48.122.22:9981/stream/channelid/22013813
-#EXTINF:-1 group-title="144.48/IN",FLIX
-http://144.48.122.22:9981/stream/channelid/662389386
-#EXTINF:-1 group-title="144.48/IN",MN+
-http://144.48.122.22:9981/stream/channelid/1439474288
-#EXTINF:-1 group-title="144.48/IN",FOX HD
-http://144.48.122.22:9981/stream/channelid/1088451083
-#EXTINF:-1 group-title="144.48/IN",ROMEDY
-http://144.48.122.22:9981/stream/channelid/1676741814
-#EXTINF:-1 group-title="144.48/IN",HISTORY
-http://144.48.122.22:9981/stream/channelid/1380283624
-#EXTINF:-1 group-title="144.48/IN",SCLCIT
-http://144.48.122.22:9981/stream/channelid/1156291084
-#EXTINF:-1 group-title="144.48/IN",Discovery
-http://144.48.122.22:9981/stream/channelid/1404082820
-#EXTINF:-1 group-title="144.48/IN",VH1
-http://144.48.122.22:9981/stream/channelid/1792209309
 
++ + + + + http://167.172.33.223:9981/extjs.html + + + + + Viasat/ Canal+/ RMC beIN + + + not play 
 
-+ + + + + http://167.172.33.223:9981/extjs.html + + + + + Viasat/ Canal+/ RMC beIN
-
-#EXTINF:-1 group-title="167.172",beIN SPORTS PRE 1FHD
-http://167.172.33.223:9981/stream/service/a9de31151c774272592c95562d371f06
-#EXTINF:-1,beIN SPORTS PRE 1H264
-http://167.172.33.223:9981/stream/service/d4938ac00efd6203332669da5041b07e
-#EXTINF:-1,beIN SPORTS PRE 1HD
-http://167.172.33.223:9981/stream/service/8ef861326ac92b9e8f0891b6ae4dfb58
-#EXTINF:-1,beIN SPORTS PRE 2FHD
-http://167.172.33.223:9981/stream/service/780f1f28fab747180988913ff60af51e
-#EXTINF:-1,beIN SPORTS PRE 2H264
-http://167.172.33.223:9981/stream/service/5024278ee5d052ad0db9c64912d8adb3
-#EXTINF:-1,beIN SPORTS PRE 2HD
-http://167.172.33.223:9981/stream/service/e9e037014f388e8442436a78f621f055
-#EXTINF:-1,beIN SPORTS PRE 3FHD
-http://167.172.33.223:9981/stream/service/2cb5d77dd5b7895a63dcf4566bab1a82
-#EXTINF:-1,beIN SPORTS PRE 3H264
-http://167.172.33.223:9981/stream/service/85c62b26d3a5ea79c7e6ad8f26a9f7c6
-#EXTINF:-1,beIN SPORTS PRE 3HD
-http://167.172.33.223:9981/stream/service/e3cb20ea03b24ecb3229885bfac72cff
-
-#EXTINF:-1 group-title="167.172",beIN SPORTS 1EN
-http://167.172.33.223:9981/stream/service/d8971742362a599e1757a58c48bf2b0c
-#EXTINF:-1,beIN SPORTS 2EN
-http://167.172.33.223:9981/stream/service/921815e824c1f66afd3c36d5cb20daf5
-#EXTINF:-1,beIN SPORTS 3EN
-http://167.172.33.223:9981/stream/service/d2126e7d5ca1744c89c8d57640572383
-
-#EXTINF:-1,MTV BASE
-http://167.172.33.223:9981/stream/service/2cc506107e55ccb1b802db7e5cce62a9
-#EXTINF:-1,MTV CLASSIC
-http://167.172.33.223:9981/stream/service/c95ad45aeab75f6d689e76524e6e33ef
-#EXTINF:-1,MTV DANCE
-http://167.172.33.223:9981/stream/service/2ba5bdc896866b675b63048a68fd80ef
-#EXTINF:-1,MTV ROCKS
-http://167.172.33.223:9981/stream/service/04a12759d5c80cc39b3706b264f67d27
-#EXTINF:-1,MTV HITS
-http://167.172.33.223:9981/stream/service/a90a22c14d284a0db5e65f5852b326f7
-#EXTINF:-1 group-title="167.172",MTV HITS'
-http://167.172.33.223:9981/stream/service/0337c43bb8e261cda8244de4640e707c
-
-
-http://167.172.33.223:9981/stream/channel/02de38039e0c4ceba6d80752cc73cefc#EXTINF:-1,67 AF MTV HD
-http://167.172.33.223:9981/stream/channel/79c5d42e8bea6468b853785dcb830be9#EXTINF:-1,505 BEIN PREMUIM 1 FHD
-http://167.172.33.223:9981/stream/channel/41790667b936afdc77a238280bbc3a05#EXTINF:-1,1011 BEIN PREMUIM 1 H265
-http://167.172.33.223:9981/stream/channel/3c8603262ad36fdaf906c63aa938c11c#EXTINF:-1,419 BEIN PREMUIM 1 HD
-http://167.172.33.223:9981/stream/channel/cad64c7e05c670a9b1d6f3a6fab5c699#EXTINF:-1,1245 BEIN PREMUIM 2 FHD
-http://167.172.33.223:9981/stream/channel/c092dd5dc617dd21a6c1613b5e816441#EXTINF:-1,940 BEIN PREMUIM 2 H265
-http://167.172.33.223:9981/stream/channel/09a3268d69ed61348ca406cbd0dcd8c7#EXTINF:-1,160 BEIN PREMUIM 2 HD
-http://167.172.33.223:9981/stream/channel/1577bf90bd534de28deb5d020bb8c279#EXTINF:-1,199 BEIN PREMUIM 3 FHD
-http://167.172.33.223:9981/stream/channel/557edca6ccbdbc6820a26c2d4057d42f#EXTINF:-1,426 BEIN PREMUIM 3 H265
-http://167.172.33.223:9981/stream/channel/ae4b9acca4fba9142e4bc0496f7d00df#EXTINF:-1,757 BEIN PREMUIM 3 HD 
-http://167.172.33.223:9981/stream/channel/a3caf1d5dceeb29d7d7b585f700ef773#EXTINF:-1,849 BEIN SPORTS ENGLISH 1 HD
-http://167.172.33.223:9981/stream/channel/fbadc414d4eb5bfa59c171223f3397c4#EXTINF:-1,249 BEIN SPORTS ENGLISH 2 HD
-http://167.172.33.223:9981/stream/channel/3e48a305c61d23c97064f2ac1b4a8767#EXTINF:-1,88 BEIN SPORTS ENGLISH 3 HD
-http://167.172.33.223:9981/stream/channel/7ce93c883ba7f3c99c1549f334f6bdff#EXTINF:-1,122 BT Sports 1 %7C HD
-http://167.172.33.223:9981/stream/channel/a6317e7b6ed763521a03bf77ccf22f1a#EXTINF:-1,1228 BT Sports 2 %7C HD
-http://167.172.33.223:9981/stream/channel/743c589c85a8f16172f681c74178552b#EXTINF:-1,323 BT Sports 3 %7C HD
-http://167.172.33.223:9981/stream/channel/48d54b58ad8b501c1cc14aaacbeed78f#EXTINF:-1,877 KY CINEMA ACTION 
-http://167.172.33.223:9981/stream/channel/8b84086003c5f2f98d3b44203ae05035#EXTINF:-1,957 KY CINEMA COMEDY FHD
-http://167.172.33.223:9981/stream/channel/f376f09a4c2b36529d2a5555effe69bc#EXTINF:-1,310 KY CINEMA DISNEY FHD
-http://167.172.33.223:9981/stream/channel/70143fd83c10ee412d1a6aa93a859060#EXTINF:-1,876 KY CINEMA DRAMA %26 ROMANCE FHD
-http://167.172.33.223:9981/stream/channel/52193eaa38d37f0403f6d8a70254e5de#EXTINF:-1,457 KY CINEMA GREATS FHD
-http://167.172.33.223:9981/stream/channel/89d45ed8e1e347dbeb8d656e33c7a193#EXTINF:-1,879 KY CINEMA PREMIER FHD
-http://167.172.33.223:9981/stream/channel/b916585ada9d65fbdb8c6c1c113b608c#EXTINF:-1,901 KY CINEMA SELECT FHD
-http://167.172.33.223:9981/stream/channel/7f5808813e94497a77818748bdcc5f0b#EXTINF:-1,52 KY CINEMA THRILLER FHD
-http://167.172.33.223:9981/stream/channel/a142cf0a70090891f6f25e104c9310c4#EXTINF:-1,143 KY SPORT FOOTBALL
-http://167.172.33.223:9981/stream/channel/4b351c62149a524cd86c8d7d76c66c44#EXTINF:-1,973 KY SPORT MAIN EVENT
-http://167.172.33.223:9981/stream/channel/a6fd213408e396b11b4d79759f31a707#EXTINF:-1,551 KY SPORT NEWS
-#EXTINF:-1,949 KY SPORT PREMIER LEAGUE
-http://167.172.33.223:9981/stream/channel/4a3087de02895559c6cdd212e16beb7f
-#EXTINF:-1,790 MTV
-http://167.172.33.223:9981/stream/channel/565e70cfa03fafc95824d955a6b72d8e
-#EXTINF:-1,1198 MTV  FR  FHD
-http://167.172.33.223:9981/stream/channel/f95aaf78380bb172393bd9dca6a32372
-#EXTINF:-1,468 MTV BASE
-http://167.172.33.223:9981/stream/channel/435eee2a506c4ac60ec6cd93498b7d62
-#EXTINF:-1,865 MTV CLASSIC
-http://167.172.33.223:9981/stream/channel/9ae51ad75dffe86ce18709e62eef687b
-#EXTINF:-1,881 MTV DANCE
-http://167.172.33.223:9981/stream/channel/bca977d864802dda836533bb5ddeefc6
-#EXTINF:-1,762 MTV FRANCE
-http://167.172.33.223:9981/stream/channel/e2a3124d101928a64e2c46bb79248bad
-#EXTINF:-1,95 MTV HD
-http://167.172.33.223:9981/stream/channel/408ff505558030862a44a7c7dee07de7
-#EXTINF:-1,634 MTV HD
-http://167.172.33.223:9981/stream/channel/6789283e99a686b4372dcd90d9c21db0
-#EXTINF:-1,475 MTV HITS
-http://167.172.33.223:9981/stream/channel/18a370abdc34b7fd64e8a22c457ba73d
-#EXTINF:-1,902 MTV HITS
-http://167.172.33.223:9981/stream/channel/d8857edae5202ba4ebd12f0274e5146e
-#EXTINF:-1,495 MTV LIVE HD
-http://167.172.33.223:9981/stream/channel/0a1ea92d981e5b7cbd6b30b33bbfd706
-#EXTINF:-1,1245 MTV MUSIC HD
-http://167.172.33.223:9981/stream/channel/d8bf067e8a7773c6b65be8649f7822b9
-#EXTINF:-1,203 MTV MUSIC UK
-http://167.172.33.223:9981/stream/channel/0a0a19111350855903d555daac55632e
-#EXTINF:-1,825 MTV ONE
-http://167.172.33.223:9981/stream/channel/f6c657d39e8fd513306f7f2decb19fbb
-#EXTINF:-1 group-title="167.172",191 MTV ROCKS
-http://167.172.33.223:9981/stream/channel/5bd7e88f8916a9cd4a7057d908f335df
 
 + + + + + http://171.4.161.216:9981/extjs.html + + + + + DOWN
 
@@ -16802,11 +16625,11 @@ http://103.22.182.242:8081/app/workpoint/chunks.m3u8
 
 + + + + + http://103.81.104.118/hls + + + + + 
 
-#EXTINF:-1 group-title="103.81/IN",SONY PIX
+ group-title="103.81/IN",SONY PIX
 http://103.81.104.118/hls/stream1.m3u8
-#EXTINF:-1 group-title="103.81",AXN
+ group-title="103.81",AXN
 http://103.81.104.118/hls/stream2.m3u8
-#EXTINF:-1 group-title="103.81",STAR MOVIES
+ group-title="103.81",STAR MOVIES
 http://103.81.104.118/hls/stream3.m3u8
 QXM
 http://103.81.104.118/hls/stream4.m3u8
@@ -16820,15 +16643,15 @@ ZOOM
 http://103.81.104.118/hls/stream8.m3u8
 DISCOVERY HD
 http://103.81.104.118/hls/stream9.m3u8
-#EXTINF:-1 group-title="103.81",SONY SIX
+ group-title="103.81",SONY SIX
 http://103.81.104.118/hls/stream10.m3u8
 
 http://103.81.104.118/hls/stream11.m3u8
-#EXTINF:-1 group-title="103.81",STAR SPORTS SELECT 1HD
+ group-title="103.81",STAR SPORTS SELECT 1HD
 http://103.81.104.118/hls/stream12.m3u8
 NAT GEO
 http://103.81.104.118/hls/stream13.m3u8
-#EXTINF:-1 group-title="103.81",&pictures
+ group-title="103.81",&pictures
 http://103.81.104.118/hls/stream14.m3u8
 STAR SPORTS 1HD
 http://103.81.104.118/hls/stream15.m3u8
@@ -16838,7 +16661,7 @@ ATN
 http://103.81.104.118/hls/stream17.m3u8
 CHANNEL M
 http://103.81.104.118/hls/stream18.m3u8
-#EXTINF:-1 group-title="103.81",STAR GOLD HD
+ group-title="103.81",STAR GOLD HD
 http://103.81.104.118/hls/stream19.m3u8
 
 http://103.81.104.118/hls/stream20.m3u8
@@ -16850,7 +16673,7 @@ nick
 http://103.81.104.118/hls/stream23.m3u8
 
 http://103.81.104.118/hls/stream24.m3u8
-#EXTINF:-1 group-title="103.81",ZEE CINEMA HD
+ group-title="103.81",ZEE CINEMA HD
 http://103.81.104.118/hls/stream25.m3u8
 
 http://103.81.104.118/hls/stream26.m3u8
@@ -16858,13 +16681,13 @@ http://103.81.104.118/hls/stream26.m3u8
 http://103.81.104.118/hls/stream27.m3u8
 colors HD
 http://103.81.104.118/hls/stream28.m3u8
-#EXTINF:-1 group-title="103.81",colors CINEPLEX
+ group-title="103.81",colors CINEPLEX
 http://103.81.104.118/hls/stream29.m3u8
 
 http://103.81.104.118/hls/stream30.m3u8
 
 http://103.81.104.118/hls/stream31.m3u8
-#EXTINF:-1 group-title="103.81",SONY YAY
+ group-title="103.81",SONY YAY
 http://103.81.104.118/hls/stream32.m3u8
 
 http://103.81.104.118/hls/stream33.m3u8
@@ -16872,15 +16695,15 @@ http://103.81.104.118/hls/stream33.m3u8
 http://103.81.104.118/hls/stream34.m3u8
 
 http://103.81.104.118/hls/stream35.m3u8
-#EXTINF:-1 group-title="103.81",BBC WORLD NEWS
+ group-title="103.81",BBC WORLD NEWS
 http://103.81.104.118/hls/stream36.m3u8
 travel xp
 http://103.81.104.118/hls/stream37.m3u8
-#EXTINF:-1 group-title="103.81",STAR PLUS
+ group-title="103.81",STAR PLUS
 http://103.81.104.118/hls/stream38.m3u8
-#EXTINF:-1 group-title="103.81",SONY TEN 2
+ group-title="103.81",SONY TEN 2
 http://103.81.104.118/hls/stream39.m3u8
-#EXTINF:-1 group-title="103.81/IN",SONY TEN 1
+ group-title="103.81/IN",SONY TEN 1
 http://103.81.104.118/hls/stream40.m3u8
 
 
@@ -16949,458 +16772,6 @@ http://103.253.72.107:9997/Premier5/index.m3u8
 
 + + + + + http://115.42.65.142:8000/playlist.m3u8 + + + + +  NOT PLAY
 
-#EXTINF:-1 group-title="115.42",&PRIVE HD-Rs 19
-http://115.42.65.142:8000/play/a06i/index.m3u8
-#EXTINF:-1 group-title="115.42",&flix HD-Rs19
-http://115.42.65.142:8000/play/a057/index.m3u8
-#EXTINF:-1 group-title="115.42",&pictures -Rs19
-http://115.42.65.142:8000/play/a05o/index.m3u8
-#EXTINF:-1 group-title="115.42",24B HD
-http://115.42.65.142:8000/play/a0bf/index.m3u8
-#EXTINF:-1 group-title="115.42",8XM MUSIC
-http://115.42.65.142:8000/play/a096/index.m3u8
-#EXTINF:-1 group-title="115.42",92 NEWS HD
-http://115.42.65.142:8000/play/a094/index.m3u8
-#EXTINF:-1 group-title="115.42",AAJ ENTERTAINMENT
-http://115.42.65.142:8000/play/a08z/index.m3u8
-#EXTINF:-1 group-title="115.42",AAJ NEWS
-http://115.42.65.142:8000/play/a08x/index.m3u8
-#EXTINF:-1 group-title="115.42",ABBTAK NEWS
-http://115.42.65.142:8000/play/a097/index.m3u8
-#EXTINF:-1 group-title="115.42",AHL E BAIT
-http://115.42.65.142:8000/play/a0az/index.m3u8
-#EXTINF:-1 group-title="115.42",AL JAZEERA HD ENGLISH
-http://115.42.65.142:8000/play/a0ap/index.m3u8
-#EXTINF:-1 group-title="115.42",ANIMAL PLAN-Rs3
-http://115.42.65.142:8000/play/a05i/index.m3u8
-#EXTINF:-1 group-title="115.42",APLUS 
-http://115.42.65.142:8000/play/a09a/index.m3u8
-#EXTINF:-1 group-title="115.42",APNA CHANNEL
-http://115.42.65.142:8000/play/a095/index.m3u8
-#EXTINF:-1 group-title="115.42",ARY DIGITAL HD
-http://115.42.65.142:8000/play/arydigitalhd/index.m3u8
-#EXTINF:-1 group-title="115.42",ARY FAMILY 
-http://115.42.65.142:8000/play/a0aj/index.m3u8
-#EXTINF:-1 group-title="115.42",ARY MUZIK
-http://115.42.65.142:8000/play/a0am/index.m3u8
-#EXTINF:-1 group-title="115.42",ARY NEWS 
-http://115.42.65.142:8000/play/a0an/index.m3u8
-#EXTINF:-1 group-title="115.42",ARY QTV
-http://115.42.65.142:8000/play/a0al/index.m3u8
-#EXTINF:-1 group-title="115.42",ARY ZINDAGI 
-http://115.42.65.142:8000/play/a0ah/index.m3u8
-#EXTINF:-1 group-title="115.42",ASTRO WWE
-http://115.42.65.142:8000/play/a0cb/index.m3u8
-#EXTINF:-1 group-title="115.42",ATV 
-http://115.42.65.142:8000/play/a0bw/index.m3u8
-#EXTINF:-1 group-title="115.42",AVT KHYBER 
-http://115.42.65.142:8000/play/a0bq/index.m3u8
-#EXTINF:-1 group-title="115.42",B1G-DSTV-DISCOVERY
-http://115.42.65.142:8000/play/a0cx/index.m3u8
-#EXTINF:-1 group-title="115.42",B1G-DSTV-DISNEY CHANNEL
-http://115.42.65.142:8000/play/a0d4/index.m3u8
-#EXTINF:-1 group-title="115.42",B1G-DSTV-NATGEO WILD
-http://115.42.65.142:8000/play/a0d0/index.m3u8
-#EXTINF:-1 group-title="115.42",B1G-DSTV-NATIONAL GEOGRAPHIC
-http://115.42.65.142:8000/play/a0cz/index.m3u8
-#EXTINF:-1 group-title="115.42",B1G-OSN-STAR MOVIES
-http://115.42.65.142:8000/play/a0d2/index.m3u8
-#EXTINF:-1 group-title="115.42",B1G-OSN-STAR WORLD
-http://115.42.65.142:8000/play/a0d1/index.m3u8
-#EXTINF:-1 group-title="115.42",B1G-UK-ANIMAL PLANET
-http://115.42.65.142:8000/play/a0cy/index.m3u8
-#EXTINF:-1 group-title="115.42",B1G-UK-BABY TV
-http://115.42.65.142:8000/play/a0d3/index.m3u8
-#EXTINF:-1 group-title="115.42",BBC WORLD - Rs 1
-http://115.42.65.142:8000/play/a04x/index.m3u8
-#EXTINF:-1 group-title="115.42",BEIN BOX OFFICE 1
-http://115.42.65.142:8000/play/a0ci/index.m3u8
-#EXTINF:-1 group-title="115.42",BEIN BOX OFFICE 2
-http://115.42.65.142:8000/play/a0cj/index.m3u8
-#EXTINF:-1 group-title="115.42",BEIN SPORTS 1HD ENGLISH
-http://115.42.65.142:8000/play/a0cu/index.m3u8
-#EXTINF:-1 group-title="115.42",BOL ENTERTAINMENT HD
-http://115.42.65.142:8000/play/a0c0/index.m3u8
-#EXTINF:-1 group-title="115.42",BOL NEWS HD
-http://115.42.65.142:8000/play/a0bz/index.m3u8
-#EXTINF:-1 group-title="115.42",CAPITAL TV
-http://115.42.65.142:8000/play/a0c2/index.m3u8
-#EXTINF:-1 group-title="115.42",CARTOON-Rs4.25
-http://115.42.65.142:8000/play/a04k/index.m3u8
-#EXTINF:-1 group-title="115.42",CHAMPION KIDS
-http://115.42.65.142:8000/play/a09i/index.m3u8
-#EXTINF:-1 group-title="115.42",CHANNEL 24
-http://115.42.65.142:8000/play/a08p/index.m3u8
-#EXTINF:-1 group-title="115.42",CHANNEL 5
-http://115.42.65.142:8000/play/a0bk/index.m3u8
-#EXTINF:-1 group-title="115.42",CINEMACHI KIDS
-http://115.42.65.142:8000/play/a09v/index.m3u8
-#EXTINF:-1 group-title="115.42",CINEMACHI MOVIES
-http://115.42.65.142:8000/play/a09w/index.m3u8
-#EXTINF:-1 group-title="115.42",CITY 41
-http://115.42.65.142:8000/play/a08t/index.m3u8
-#EXTINF:-1 group-title="115.42",CITY 42
-http://115.42.65.142:8000/play/a08q/index.m3u8
-#EXTINF:-1 group-title="115.42",CNN INTERNATIONAL 
-http://115.42.65.142:8000/play/a0bb/index.m3u8
-#EXTINF:-1 group-title="115.42",COMEDY CEN-Rs 5
-http://115.42.65.142:8000/play/a06d/index.m3u8
-#EXTINF:-1 group-title="115.42",Colors HD-Rs 19
-http://115.42.65.142:8000/play/a056/index.m3u8
-#EXTINF:-1 group-title="115.42",DAWN NEWS 
-http://115.42.65.142:8000/play/a0bv/index.m3u8
-#EXTINF:-1 group-title="115.42",DIN NEWS HD
-http://115.42.65.142:8000/play/a0c1/index.m3u8
-#EXTINF:-1 group-title="115.42",DISCOVERY K-Rs3
-http://115.42.65.142:8000/play/a04s/index.m3u8
-#EXTINF:-1 group-title="115.42",DISCOVERY PAKISTAN
-http://115.42.65.142:8000/play/a0bh/index.m3u8
-#EXTINF:-1 group-title="115.42",DSTV-HISTORY
-http://115.42.65.142:8000/play/a0d6/index.m3u8
-#EXTINF:-1 group-title="115.42",DUNIYA NEWS
-http://115.42.65.142:8000/play/a08n/index.m3u8
-#EXTINF:-1 group-title="115.42",DW ENGLISH HD
-http://115.42.65.142:8000/play/a0ao/index.m3u8
-#EXTINF:-1 group-title="115.42",Discovery H-Rs6
-http://115.42.65.142:8000/play/a04i/index.m3u8
-#EXTINF:-1 group-title="115.42",Discovery S-Rs1
-http://115.42.65.142:8000/play/a06k/index.m3u8
-#EXTINF:-1 group-title="115.42",Discovery T-Rs1
-http://115.42.65.142:8000/play/a06l/index.m3u8
-#EXTINF:-1 group-title="115.42",Disney Chanel
-http://115.42.65.142:8000/play/a04m/index.m3u8
-#EXTINF:-1 group-title="115.42",Disney Jr.-Rs 4
-http://115.42.65.142:8000/play/a04o/index.m3u8
-#EXTINF:-1 group-title="115.42",EXPRESS ENTERTAINMENT
-http://115.42.65.142:8000/play/a08w/index.m3u8
-#EXTINF:-1 group-title="115.42",EXPRESS NEWS
-http://115.42.65.142:8000/play/a08v/index.m3u8
-#EXTINF:-1 group-title="115.42",EuroSports HD-Rs 6
-http://115.42.65.142:8000/play/a06f/index.m3u8
-#EXTINF:-1 group-title="115.42",FILMAX
-http://115.42.65.142:8000/play/a0ad/index.m3u8
-#EXTINF:-1 group-title="115.42",FILMAZIA ENTERTAINMENT
-http://115.42.65.142:8000/play/a0ac/index.m3u8
-#EXTINF:-1 group-title="115.42",FILMAZIA GLOBAL
-http://115.42.65.142:8000/play/a0ae/index.m3u8
-#EXTINF:-1 group-title="115.42",FILMWORLD
-http://115.42.65.142:8000/play/a09y/index.m3u8
-#EXTINF:-1 group-title="115.42",GEM FOODS
-http://115.42.65.142:8000/play/a0ba/index.m3u8
-#EXTINF:-1 group-title="115.42",GEM KIDS
-http://115.42.65.142:8000/play/a0b9/index.m3u8
-#EXTINF:-1 group-title="115.42",GEM TRAVEL
-http://115.42.65.142:8000/play/a0b7/index.m3u8
-#EXTINF:-1 group-title="115.42",GEO ENTERTAINMENT
-http://115.42.65.142:8000/play/a0a6/index.m3u8
-#EXTINF:-1 group-title="115.42",GEO KAHANI 
-http://115.42.65.142:8000/play/a0a8/index.m3u8
-#EXTINF:-1 group-title="115.42",GEO NEWS
-http://115.42.65.142:8000/play/a0a5/index.m3u8
-#EXTINF:-1 group-title="115.42",GEO SUPER 
-http://115.42.65.142:8000/play/a0a9/index.m3u8
-#EXTINF:-1 group-title="115.42",GEO TEZZ
-http://115.42.65.142:8000/play/a0a7/index.m3u8
-#EXTINF:-1 group-title="115.42",GNN HD
-http://115.42.65.142:8000/play/a08u/index.m3u8
-#EXTINF:-1 group-title="115.42",HADI TV
-http://115.42.65.142:8000/play/a09k/index.m3u8
-#EXTINF:-1 group-title="115.42",HBO
-http://115.42.65.142:8000/play/a0c9/index.m3u8
-#EXTINF:-1 group-title="115.42",HBO 2
-http://115.42.65.142:8000/play/a0cr/index.m3u8
-#EXTINF:-1 group-title="115.42",HBO 3
-http://115.42.65.142:8000/play/a0c8/index.m3u8
-#EXTINF:-1 group-title="115.42",HIDAYAT TV
-http://115.42.65.142:8000/play/a09j/index.m3u8
-#EXTINF:-1 group-title="115.42",HISTORY TV1-Rs7
-http://115.42.65.142:8000/play/a05k/index.m3u8
-#EXTINF:-1 group-title="115.42",HUDA TV
-http://115.42.65.142:8000/play/a0af/index.m3u8
-#EXTINF:-1 group-title="115.42",HUM NEWS HD
-http://115.42.65.142:8000/play/a09b/index.m3u8
-#EXTINF:-1 group-title="115.42",HUM PASHTOO 1
-http://115.42.65.142:8000/play/a09o/index.m3u8
-#EXTINF:-1 group-title="115.42",HUM SITARY 
-http://115.42.65.142:8000/play/a09n/index.m3u8
-#EXTINF:-1 group-title="115.42",HUM TV
-http://115.42.65.142:8000/play/a0d7/index.m3u8
-#EXTINF:-1 group-title="115.42",INDUS NEWS HD
-http://115.42.65.142:8000/play/a0bi/index.m3u8
-#EXTINF:-1 group-title="115.42",IPLUS TV
-http://115.42.65.142:8000/play/a0ag/index.m3u8
-#EXTINF:-1 group-title="115.42",ISAAC TV
-http://115.42.65.142:8000/play/a0as/index.m3u8
-#EXTINF:-1 group-title="115.42",JALWA MUSIC
-http://115.42.65.142:8000/play/a098/index.m3u8
-#EXTINF:-1 group-title="115.42",JOO MOVIES
-http://115.42.65.142:8000/play/a09u/index.m3u8
-#EXTINF:-1 group-title="115.42",KASHISH MUSIC
-http://115.42.65.142:8000/play/a0bo/index.m3u8
-#EXTINF:-1 group-title="115.42",KAY 2
-http://115.42.65.142:8000/play/a0bs/index.m3u8
-#EXTINF:-1 group-title="115.42",KCS-CARTOON NETWORK
-http://115.42.65.142:8000/play/a0d5/index.m3u8
-#EXTINF:-1 group-title="115.42",KHYBER NEWS
-http://115.42.65.142:8000/play/a0br/index.m3u8
-#EXTINF:-1 group-title="115.42",KIDSZONE PLUS
-http://115.42.65.142:8000/play/a0c4/index.m3u8
-#EXTINF:-1 group-title="115.42",KOHINOOR NEWS
-http://115.42.65.142:8000/play/a09q/index.m3u8
-#EXTINF:-1 group-title="115.42",KSA SPORTS 1HD
-http://115.42.65.142:8000/play/a0b0/index.m3u8
-#EXTINF:-1 group-title="115.42",KSA SPORTS 2HD
-http://115.42.65.142:8000/play/a0b5/index.m3u8
-#EXTINF:-1 group-title="115.42",KSA SPORTS 3
-http://115.42.65.142:8000/play/a0b4/index.m3u8
-#EXTINF:-1 group-title="115.42",KSA SPORTS 4
-http://115.42.65.142:8000/play/a0b1/index.m3u8
-#EXTINF:-1 group-title="115.42",KTN NEWS 
-http://115.42.65.142:8000/play/a0bp/index.m3u8
-#EXTINF:-1 group-title="115.42",KTN TV
-http://115.42.65.142:8000/play/a0bn/index.m3u8
-#EXTINF:-1 group-title="115.42",LAHORE NEWS
-http://115.42.65.142:8000/play/a08o/index.m3u8
-#EXTINF:-1 group-title="115.42",LAHORE RUNG HD
-http://115.42.65.142:8000/play/a0bu/index.m3u8
-#EXTINF:-1 group-title="115.42",LION TV
-http://115.42.65.142:8000/play/a09x/index.m3u8
-#EXTINF:-1 group-title="115.42",LTN FAMILY 
-http://115.42.65.142:8000/play/a0ab/index.m3u8
-#EXTINF:-1 group-title="115.42",MADNI TV
-http://115.42.65.142:8000/play/a0bm/index.m3u8
-#EXTINF:-1 group-title="115.42",MASALA TV
-http://115.42.65.142:8000/play/a09m/index.m3u8
-#EXTINF:-1 group-title="115.42",MAX
-http://115.42.65.142:8000/play/a0b8/index.m3u8
-#EXTINF:-1 group-title="115.42",MBC ACTION HD
-http://115.42.65.142:8000/play/a0cs/index.m3u8
-#EXTINF:-1 group-title="115.42",MBC MAX HD
-http://115.42.65.142:8000/play/a0ct/index.m3u8
-#EXTINF:-1 group-title="115.42",MEHRAN TV
-http://115.42.65.142:8000/play/a09r/index.m3u8
-#EXTINF:-1 group-title="115.42",MIFA MUSIC HD
-http://115.42.65.142:8000/play/a0bg/index.m3u8
-#EXTINF:-1 group-title="115.42",MN+ HD-Rs 10
-http://115.42.65.142:8000/play/a04e/index.m3u8
-#EXTINF:-1 group-title="115.42",MNET
-http://115.42.65.142:8000/play/a0cl/index.m3u8
-#EXTINF:-1 group-title="115.42",MNET MOVIES ACTION
-http://115.42.65.142:8000/play/a0cc/index.m3u8
-#EXTINF:-1 group-title="115.42",MNET MOVIES PREMIER 
-http://115.42.65.142:8000/play/a0cd/index.m3u8
-#EXTINF:-1 group-title="115.42",MNET PLUS
-http://115.42.65.142:8000/play/a0ck/index.m3u8
-#EXTINF:-1 group-title="115.42",MNET ZONE
-http://115.42.65.142:8000/play/a0cn/index.m3u8
-#EXTINF:-1 group-title="115.42",MOVIES NO-Rs 10
-http://115.42.65.142:8000/play/a050/index.m3u8
-#EXTINF:-1 group-title="115.42",MUNTAZIR TV
-http://115.42.65.142:8000/play/a09l/index.m3u8
-#EXTINF:-1 group-title="115.42",MUSIC 24
-http://115.42.65.142:8000/play/a0bc/index.m3u8
-#EXTINF:-1 group-title="115.42",NATGEO WILD HD
-http://115.42.65.142:8000/play/a047/index.m3u8
-#EXTINF:-1 group-title="115.42",NEO NEWS HD
-http://115.42.65.142:8000/play/a0bt/index.m3u8
-#EXTINF:-1 group-title="115.42",NEWS ONE
-http://115.42.65.142:8000/play/a092/index.m3u8
-#EXTINF:-1 group-title="115.42",NHK WORLD HD
-http://115.42.65.142:8000/play/a0c6/index.m3u8
-#EXTINF:-1 group-title="115.42",NHK WORLD JAPAN
-http://115.42.65.142:8000/play/a0aq/index.m3u8
-#EXTINF:-1 group-title="115.42",NOW TV
-http://115.42.65.142:8000/play/a09f/index.m3u8
-#EXTINF:-1 group-title="115.42",National G-Rs10
-http://115.42.65.142:8000/play/a04h/index.m3u8
-#EXTINF:-1 group-title="115.42",Nick Jr. - Rs1
-http://115.42.65.142:8000/play/a04r/index.m3u8
-#EXTINF:-1 group-title="115.42",ONYX HD
-http://115.42.65.142:8000/play/a0be/index.m3u8
-#EXTINF:-1 group-title="115.42",OSN MOVIES
-http://115.42.65.142:8000/play/a0cf/index.m3u8
-#EXTINF:-1 group-title="115.42",OSN MOVIES ACTION
-http://115.42.65.142:8000/play/a0cg/index.m3u8
-#EXTINF:-1 group-title="115.42",OSN MOVIES FIRST
-http://115.42.65.142:8000/play/a0ch/index.m3u8
-#EXTINF:-1 group-title="115.42",OXYGEN MUSIC
-http://115.42.65.142:8000/play/a0bj/index.m3u8
-#EXTINF:-1 group-title="115.42",P5-2
-http://115.42.65.142:8000/play/a08m/index.m3u8
-#EXTINF:-1 group-title="115.42",PAIGHAM PASHTOO
-http://115.42.65.142:8000/play/a0aw/index.m3u8
-#EXTINF:-1 group-title="115.42",PAIGHAM URUD
-http://115.42.65.142:8000/play/a0ax/index.m3u8
-#EXTINF:-1 group-title="115.42",PIX HD - Rs 15
-http://115.42.65.142:8000/play/a05n/index.m3u8
-#EXTINF:-1 group-title="115.42",PLAY ENTERTAINMENT
-http://115.42.65.142:8000/play/a08y/index.m3u8
-#EXTINF:-1 group-title="115.42",PNN NEWS HD
-http://115.42.65.142:8000/play/a09e/index.m3u8
-#EXTINF:-1 group-title="115.42",POP KIDS
-http://115.42.65.142:8000/play/a09g/index.m3u8
-#EXTINF:-1 group-title="115.42",PRAISE TV
-http://115.42.65.142:8000/play/a0ay/index.m3u8
-#EXTINF:-1 group-title="115.42",PTV BOLAN
-http://115.42.65.142:8000/play/a09p/index.m3u8
-#EXTINF:-1 group-title="115.42",PTV GLOBAL 
-http://115.42.65.142:8000/play/a0a2/index.m3u8
-#EXTINF:-1 group-title="115.42",PTV HOME
-http://115.42.65.142:8000/play/a0a0/index.m3u8
-#EXTINF:-1 group-title="115.42",PTV NATIONAL 
-http://115.42.65.142:8000/play/a0bl/index.m3u8
-#EXTINF:-1 group-title="115.42",PTV NEWS
-http://115.42.65.142:8000/play/a0a1/index.m3u8
-#EXTINF:-1 group-title="115.42",PTV SPORTS 
-http://115.42.65.142:8000/play/a0a3/index.m3u8
-#EXTINF:-1 group-title="115.42",PTV WORLD
-http://115.42.65.142:8000/play/a0a4/index.m3u8
-#EXTINF:-1 group-title="115.42",PUBLIC NEWS HD
-http://115.42.65.142:8000/play/a099/index.m3u8
-#EXTINF:-1 group-title="115.42",PUNJAB TV
-http://115.42.65.142:8000/play/a0c3/index.m3u8
-#EXTINF:-1 group-title="115.42",Pogo - Rs 4.25
-http://115.42.65.142:8000/play/a04q/index.m3u8
-#EXTINF:-1 group-title="115.42",ROHI TV
-http://115.42.65.142:8000/play/a08r/index.m3u8
-#EXTINF:-1 group-title="115.42",RT
-http://115.42.65.142:8000/play/a0ar/index.m3u8
-#EXTINF:-1 group-title="115.42",Romedy NOW-Rs 6
-http://115.42.65.142:8000/play/a052/index.m3u8
-#EXTINF:-1 group-title="115.42",SAB ENTERTAINMENT
-http://115.42.65.142:8000/play/a08s/index.m3u8
-#EXTINF:-1 group-title="115.42",SAMAA NEWS
-http://115.42.65.142:8000/play/a093/index.m3u8
-#EXTINF:-1 group-title="115.42",SAUDI QURAN HD
-http://115.42.65.142:8000/play/a0b2/index.m3u8
-#EXTINF:-1 group-title="115.42",SAUDI SUNNAH HD
-http://115.42.65.142:8000/play/a0b3/index.m3u8
-#EXTINF:-1 group-title="115.42",SAUDI TV HD
-http://115.42.65.142:8000/play/a0b6/index.m3u8
-#EXTINF:-1 group-title="115.42",SET HD - Rs 19
-http://115.42.65.142:8000/play/a058/index.m3u8
-#EXTINF:-1 group-title="115.42",SILVER SCREEN
-http://115.42.65.142:8000/play/a0at/index.m3u8
-#EXTINF:-1 group-title="115.42",SKY CINEMA ACTION
-http://115.42.65.142:8000/play/a0cq/index.m3u8
-#EXTINF:-1 group-title="115.42",SKY CINEMA HITS
-http://115.42.65.142:8000/play/a0cm/index.m3u8
-#EXTINF:-1 group-title="115.42",SKY CINEMA HORRO
-http://115.42.65.142:8000/play/a0cp/index.m3u8
-#EXTINF:-1 group-title="115.42",SKY CINEMA PREMIER 
-http://115.42.65.142:8000/play/a0co/index.m3u8
-#EXTINF:-1 group-title="115.42",SKY SPORTS CRICKET
-http://115.42.65.142:8000/play/a08k/index.m3u8
-#EXTINF:-1 group-title="115.42",SKY SPORTS EPL
-http://115.42.65.142:8000/play/a08l/index.m3u8
-#EXTINF:-1 group-title="115.42",SONIC- Rs 2
-http://115.42.65.142:8000/play/a04p/index.m3u8
-#EXTINF:-1 group-title="115.42",SONY MAX 2 - Rs 1
-http://115.42.65.142:8000/play/a06r/index.m3u8
-#EXTINF:-1 group-title="115.42",SONY MAX HD
-http://115.42.65.142:8000/play/a046/index.m3u8
-#EXTINF:-1 group-title="115.42",SONY SIX HD
-http://115.42.65.142:8000/play/a043/index.m3u8
-#EXTINF:-1 group-title="115.42",SONY TEN 1HD
-http://115.42.65.142:8000/play/a042/index.m3u8
-#EXTINF:-1 group-title="115.42",SONY TEN 3HD
-http://115.42.65.142:8000/play/a049/index.m3u8
-#EXTINF:-1 group-title="115.42",STAR BHARA-Rs19
-http://115.42.65.142:8000/play/a05h/index.m3u8
-#EXTINF:-1 group-title="115.42",STAR LITE
-http://115.42.65.142:8000/play/a09h/index.m3u8
-#EXTINF:-1 group-title="115.42",STAR MOVI-Rs 19
-http://115.42.65.142:8000/play/a04f/index.m3u8
-#EXTINF:-1 group-title="115.42",STAR SPORTS 1HD
-http://115.42.65.142:8000/play/a044/index.m3u8
-#EXTINF:-1 group-title="115.42",STAR SPORTS 2HD
-http://115.42.65.142:8000/play/a041/index.m3u8
-#EXTINF:-1 group-title="115.42",STAR WORLD -Rs9
-http://115.42.65.142:8000/play/a03z/index.m3u8
-#EXTINF:-1 group-title="115.42",STAR WORLD P-Rs9
-http://115.42.65.142:8000/play/a08h/index.m3u8
-#EXTINF:-1 group-title="115.42",SUCH NEWS HD
-http://115.42.65.142:8000/play/a0bx/index.m3u8
-#EXTINF:-1 group-title="115.42",SUPER SLAM
-http://115.42.65.142:8000/play/a0ce/index.m3u8
-#EXTINF:-1 group-title="115.42",SUPER SPORTS CRICKET
-http://115.42.65.142:8000/play/a0ca/index.m3u8
-#EXTINF:-1 group-title="115.42",Sony BBC EarHD-Rs10
-http://115.42.65.142:8000/play/a05m/index.m3u8
-#EXTINF:-1 group-title="115.42",Sony Ten 2 HD- Rs 17
-http://115.42.65.142:8000/play/a05r/index.m3u8
-#EXTINF:-1 group-title="115.42",Star GOLD -Rs10
-http://115.42.65.142:8000/play/a05j/index.m3u8
-#EXTINF:-1 group-title="115.42",Star Gold 2- Rs 1
-http://115.42.65.142:8000/play/a06p/index.m3u8
-#EXTINF:-1 group-title="115.42",Star Gold SelHD-Rs10
-http://115.42.65.142:8000/play/a05l/index.m3u8
-#EXTINF:-1 group-title="115.42",Star Movi-Rs 10
-http://115.42.65.142:8000/play/a04g/index.m3u8
-#EXTINF:-1 group-title="115.42",Star Plus -Rs19
-http://115.42.65.142:8000/play/a054/index.m3u8
-#EXTINF:-1 group-title="115.42",Star Sport-Rs10
-http://115.42.65.142:8000/play/a05q/index.m3u8
-#EXTINF:-1 group-title="115.42",Star Sport-Rs19
-http://115.42.65.142:8000/play/a040/index.m3u8
-#EXTINF:-1 group-title="115.42",Star Sport-Rs19
-http://115.42.65.142:8000/play/a05p/index.m3u8
-#EXTINF:-1 group-title="115.42",Star Sports 3 Rs 4
-http://115.42.65.142:8000/play/a04a/index.m3u8
-#EXTINF:-1 group-title="115.42",TIME NEWS HD
-http://115.42.65.142:8000/play/a0by/index.m3u8
-#EXTINF:-1 group-title="115.42",TLC HD- Rs3
-http://115.42.65.142:8000/play/a04c/index.m3u8
-#EXTINF:-1 group-title="115.42",TRT WORLD HD
-http://115.42.65.142:8000/play/a0c5/index.m3u8
-#EXTINF:-1 group-title="115.42",TV ONE
-http://115.42.65.142:8000/play/a091/index.m3u8
-#EXTINF:-1 group-title="115.42",TV2DAY HD
-http://115.42.65.142:8000/play/a09z/index.m3u8
-#EXTINF:-1 group-title="115.42",TV5
-http://115.42.65.142:8000/play/a0au/index.m3u8
-#EXTINF:-1 group-title="115.42",UNION TV 
-http://115.42.65.142:8000/play/a09s/index.m3u8
-#EXTINF:-1 group-title="115.42",URDU 1
-http://115.42.65.142:8000/play/a0aa/index.m3u8
-#EXTINF:-1 group-title="115.42",UTV ACTION-Rs 2
-http://115.42.65.142:8000/play/a06o/index.m3u8
-#EXTINF:-1 group-title="115.42",UTV MOVIES-Rs 2
-http://115.42.65.142:8000/play/a06n/index.m3u8
-#EXTINF:-1 group-title="115.42",VOD-NEXT DRAMA
-http://115.42.65.142:8000/play/a0dc/index.m3u8
-#EXTINF:-1 group-title="115.42",VOD-NEXT FILMI
-http://115.42.65.142:8000/play/a0d9/index.m3u8
-#EXTINF:-1 group-title="115.42",VOD-NEXT MOVIES
-http://115.42.65.142:8000/play/a0da/index.m3u8
-#EXTINF:-1 group-title="115.42",VOD-NEXT MUSIC
-http://115.42.65.142:8000/play/a0d8/index.m3u8
-#EXTINF:-1 group-title="115.42",VOD-NEXT SARAIKI
-http://115.42.65.142:8000/play/a0db/index.m3u8
-#EXTINF:-1 group-title="115.42",WASEEB TV
-http://115.42.65.142:8000/play/a090/index.m3u8
-#EXTINF:-1 group-title="115.42",WATAN 2
-http://115.42.65.142:8000/play/a0c7/index.m3u8
-#EXTINF:-1 group-title="115.42",WATAN NEWS HD 
-http://115.42.65.142:8000/play/a0bd/index.m3u8
-#EXTINF:-1 group-title="115.42",ZEE CINEMA-Rs19
-http://115.42.65.142:8000/play/a05g/index.m3u8
-#EXTINF:-1 group-title="115.42",ZEE Cafe H-Rs19
-http://115.42.65.142:8000/play/a04d/index.m3u8
-#EXTINF:-1 group-title="115.42",ZEE TV HD-Rs 19
-http://115.42.65.142:8000/play/a055/index.m3u8
-#EXTINF:-1 group-title="115.42",ZINDAGI TV
-http://115.42.65.142:8000/play/a09t/index.m3u8
-#EXTINF:-1 group-title="115.42",Zoom - 50p
-http://115.42.65.142:8000/play/a06c/index.m3u8
-#EXTINF:-1 group-title="115.42",colors INFIN-Rs9
-http://115.42.65.142:8000/play/a06g/index.m3u8
-#EXTINF:-1 group-title="115.42",hungama tv-Rs 6
-http://115.42.65.142:8000/play/a04l/index.m3u8
-#EXTINF:-1 group-title="115.42",nick - Rs 6
-http://115.42.65.142:8000/play/a068/index.m3u8
-#EXTINF:-1 group-title="115.42",nick HD+- Rs 10
-http://115.42.65.142:8000/play/a06h/index.m3u8
 
 
 + + + + + 139.99.84.196:8822 + + + + + DOWN
@@ -17425,517 +16796,6 @@ http://iptvtasks.lan/m3u4u/fromm3u4u.m3u8
 
 
 + + + + + http://212.159.163.109:9981/extjs.html + + + + + GB + admin | palmira123
-
-#EXTINF:-1 group-title="212.159",Antena 3
-http://212.159.163.109:9981/stream/channelid/1963902118?ticket=AA243F395A8BF2EEC64D214B120174D1300899A6&profile=matroska
-#EXTINF:-1 group-title="212.159",ARTV
-http://212.159.163.109:9981/stream/channelid/2010672262?ticket=736E43732F54F3E5E43B35550871B45CD7BE9C8F&profile=matroska
-#EXTINF:-1 group-title="212.159",Baby TV
-http://212.159.163.109:9981/stream/channelid/1972731933?ticket=C3E877DC60B4B92A4FC697132D9261C9C3397C6A&profile=matroska
-#EXTINF:-1 group-title="212.159",Cadena 100
-http://212.159.163.109:9981/stream/channelid/1981605788?ticket=AF09DF9ADE85B94BDE3C9FB73554C15CEE1EBC7F&profile=matroska
-#EXTINF:-1 group-title="212.159",Canal Q
-http://212.159.163.109:9981/stream/channelid/1930176428?ticket=07E2542DBA025EF15F818A83F6859518DA2C2BC5&profile=matroska
-#EXTINF:-1 group-title="212.159",CaĿa e Pesca
-http://212.159.163.109:9981/stream/channelid/1923426586?ticket=4E219328A5EE364BC19CB622EE7773F9B67A54AA&profile=matroska
-#EXTINF:-1 group-title="212.159",CMTV
-http://212.159.163.109:9981/stream/channelid/1988277726?ticket=8C2045198375E8415D269533A2FE77DD6C405D42&profile=matroska
-#EXTINF:-1 group-title="212.159",CNN
-http://212.159.163.109:9981/stream/channelid/1791573176?ticket=2E9B8A5978F38EC6A786AE1641AB0B6BCED07A00&profile=matroska
-#EXTINF:-1 group-title="212.159",COPE
-http://212.159.163.109:9981/stream/channelid/1886397590?ticket=F047C74AB26A2DDB96B6829B8FC4CC028162830B&profile=matroska
-#EXTINF:-1 group-title="212.159",COPE
-http://212.159.163.109:9981/stream/channelid/1946555989?ticket=BFE79B2216E5954947AD43B869C6EF6A2B975651&profile=matroska
-#EXTINF:-1 group-title="212.159",Disney Channel
-http://212.159.163.109:9981/stream/channelid/2135647724?ticket=4727DD5B94EF742754DDDA892CE577AA812A0659&profile=matroska
-#EXTINF:-1 group-title="212.159",DVB-S Network/12360H/{PMT:817}
-http://212.159.163.109:9981/stream/channelid/1850897091?ticket=04730ECCA9D3A7C59BC8A81A05459CFE39614F94&profile=matroska
-#EXTINF:-1 group-title="212.159",DVB-S Network/12360H/{PMT:817}
-http://212.159.163.109:9981/stream/channelid/1861851247?ticket=829F38D392E6BC15C404B9145AA6F442C7AF6697&profile=matroska
-#EXTINF:-1 group-title="212.159",DVB-S Network/12437H/{PMT:817}
-http://212.159.163.109:9981/stream/channelid/1800687038?ticket=CB7A200D2A11B8F96559B238D747D2118EAF2403&profile=matroska
-#EXTINF:-1 group-title="212.159",Eleven 2 HD
-http://212.159.163.109:9981/stream/channelid/2018611634?ticket=46A264421E5088F670977D77DF39DB50CCD287CE&profile=matroska
-#EXTINF:-1 group-title="212.159",Eleven 3
-http://212.159.163.109:9981/stream/channelid/2118127019?ticket=7444307233AED7B13BCD846F78CF17EB11F95732&profile=matroska
-#EXTINF:-1 group-title="212.159",Eleven Sports 2
-http://212.159.163.109:9981/stream/channelid/1876184423?ticket=0DB9A964B9C33CA2051308C97AE755DBC7F160A5&profile=matroska
-#EXTINF:-1 group-title="212.159",Eleven Sports 2
-http://212.159.163.109:9981/stream/channelid/2054094056?ticket=219EAD38D4B7DD21A997D01D445E644E8817D06E&profile=matroska
-#EXTINF:-1 group-title="212.159",Eleven Sports 4
-http://212.159.163.109:9981/stream/channelid/2104266541?ticket=B2F4EA0BAEA00727FA27A037DC825C68B49D8906&profile=matroska
-#EXTINF:-1 group-title="212.159",Eleven Sports 6
-http://212.159.163.109:9981/stream/channelid/1799142388?ticket=D86DB8173D865B9D5168D4B8F9E7AFF484BC79B6&profile=matroska
-#EXTINF:-1 group-title="212.159",Europa FM
-http://212.159.163.109:9981/stream/channelid/2082477528?ticket=B5A55FC47EAACA25EB21ABCC759BA43596EFFE84&profile=matroska
-#EXTINF:-1 group-title="212.159",Eurosport 2
-http://212.159.163.109:9981/stream/channelid/1772990096?ticket=9B38B01286CE4E60B9E1827BCBD823844A5908D7&profile=matroska
-#EXTINF:-1 group-title="212.159",EXTREMADURA FM
-http://212.159.163.109:9981/stream/channelid/1860727984?ticket=C4EBE8A2EEF2EB8D789568EEABC1790E4B3D43ED&profile=matroska
-#EXTINF:-1 group-title="212.159",FM ZARAGOZA
-http://212.159.163.109:9981/stream/channelid/1981641693?ticket=7360CA6251F76F73B262C0A670B19448591C8DFD&profile=matroska
-#EXTINF:-1 group-title="212.159",FOX HD
-http://212.159.163.109:9981/stream/channelid/1776424055?ticket=53EDB35430010F7AF1663780C58A2ED143152463&profile=matroska
-#EXTINF:-1 group-title="212.159",FOX Life HD
-http://212.159.163.109:9981/stream/channelid/2079286587?ticket=6D0357D2679AE42A0B880FDA29BCC9425CB8BBA6&profile=matroska
-#EXTINF:-1 group-title="212.159",FOX Movies
-http://212.159.163.109:9981/stream/channelid/1781858835?ticket=92D75B69825787826B7FCFCE3316B1E5C43C70EB&profile=matroska
-#EXTINF:-1 group-title="212.159",HIT FM
-http://212.159.163.109:9981/stream/channelid/1853708827?ticket=2168E244550FF7AC5F3ABFB7A74891B3BF3FE46D&profile=matroska
-#EXTINF:-1 group-title="212.159",ID Investigation Discovery
-http://212.159.163.109:9981/stream/channelid/1826321384?ticket=9846B67347A97BA88A9F6B3E06E9BB0E26B3FA04&profile=matroska
-#EXTINF:-1 group-title="212.159",Kiss FM
-http://212.159.163.109:9981/stream/channelid/1985898114?ticket=EDAF35A72238B7C2E19F252BD345205063686FB3&profile=matroska
-#EXTINF:-1 group-title="212.159",Kuriakos TV HD
-http://212.159.163.109:9981/stream/channelid/2120004748?ticket=7E7B80F9C264C89F5F2DDF023B3ACF5B499C4E7C&profile=matroska
-#EXTINF:-1 group-title="212.159",LusitÐnia
-http://212.159.163.109:9981/stream/channelid/2033227570?ticket=5FAB134CA5D3AFE13C9F15F730F448EE9D01E6E7&profile=matroska
-#EXTINF:-1 group-title="212.159",Mezzo
-http://212.159.163.109:9981/stream/channelid/2098807000?ticket=7375E1FC03DBF509884BF7E877EFF86DBD13E9D0&profile=matroska
-#EXTINF:-1 group-title="212.159",MTV Portugal
-http://212.159.163.109:9981/stream/channelid/1858539315?ticket=D93A4C4C16F352EA3D4E97DFAEA555A3452FF2D8&profile=matroska
-#EXTINF:-1 group-title="212.159",National Geographic HD
-http://212.159.163.109:9981/stream/channelid/1990216134?ticket=9B734A80EA92DCC4283BBEB9B7735E9388630ADE&profile=matroska
-#EXTINF:-1 group-title="212.159",National Geographic WILD
-http://212.159.163.109:9981/stream/channelid/1969036402?ticket=0F331F9C2C9CAE65915A23375E378B65FE142044&profile=matroska
-#EXTINF:-1 group-title="212.159",NG_Zapper_Intek
-http://212.159.163.109:9981/stream/channelid/2020207864?ticket=2D75BA3C3B216FF41EF7A13E614060807F104017&profile=matroska
-#EXTINF:-1 group-title="212.159",Nickelodeon
-http://212.159.163.109:9981/stream/channelid/1984938832?ticket=38C3552FCFED8B84BF07D3AD7676971BEBE6207D&profile=matroska
-#EXTINF:-1 group-title="212.159",NOS Studios HD
-http://212.159.163.109:9981/stream/channelid/1804683318?ticket=CC2DFC15EC8570932A161C97493B0E8E97E09B1B&profile=matroska
-#EXTINF:-1 group-title="212.159",Onda Cero
-http://212.159.163.109:9981/stream/channelid/1866248026?ticket=04FC50DA850CB7F813ECF55E35C5365F8BFCEC90&profile=matroska
-#EXTINF:-1 group-title="212.159",Onda Cero
-http://212.159.163.109:9981/stream/channelid/1932073600?ticket=31B68D7F45F8223F17DDCCDE6DA177D68CFDC6C6&profile=matroska
-#EXTINF:-1 group-title="212.159",Radar
-http://212.159.163.109:9981/stream/channelid/1774364203?ticket=EEB2AD5414217CFDF470515CF4ACFCF8C4A895D9&profile=matroska
-#EXTINF:-1 group-title="212.159",RTP AĿores
-http://212.159.163.109:9981/stream/channelid/1907253105?ticket=B797677B76CC2077C01F5EE6049C498D460BC2D0&profile=matroska
-#EXTINF:-1 group-title="212.159",RTP rica
-http://212.159.163.109:9981/stream/channelid/1897518727?ticket=D73DAD84330A74E8754689AC5DC012EC3F5FA5E7&profile=matroska
-#EXTINF:-1 group-title="212.159",RTP rica
-http://212.159.163.109:9981/stream/channelid/2137276520?ticket=4AFC96A921E63D98CD961093AB39256165FDC742&profile=matroska
-#EXTINF:-1 group-title="212.159",RÆdio Comercial
-http://212.159.163.109:9981/stream/channelid/1835242907?ticket=F06E2E0E9AF3996BF2ACC0BA426F63BDF22B8A30&profile=matroska
-#EXTINF:-1 group-title="212.159",RÆdio LusitÐnia
-http://212.159.163.109:9981/stream/channelid/1852100763?ticket=5180E9230F717DF63F58973AB74E2D4240F6CEBB&profile=matroska
-#EXTINF:-1 group-title="212.159",RÆdio RenascenĿa
-http://212.159.163.109:9981/stream/channelid/1858123136?ticket=0C08B501E7A797C96344E981555649DF4B8862C3&profile=matroska
-#EXTINF:-1 group-title="212.159",SIC Mulher
-http://212.159.163.109:9981/stream/channelid/1928640161?ticket=F0D353BC3E5F32FDEFF615D1F6FDAD3B61D7FBF7&profile=matroska
-#EXTINF:-1 group-title="212.159",Smooth FM
-http://212.159.163.109:9981/stream/channelid/1957331832?ticket=57584249BC334822F0212F75F5B302A274EED644&profile=matroska
-#EXTINF:-1 group-title="212.159",SPORT TV 1
-http://212.159.163.109:9981/stream/channelid/2088908836?ticket=5F3B87112A3955FFA925B71948C2AFCE86B1321C&profile=matroska
-#EXTINF:-1 group-title="212.159",Sport TV 1 HD
-http://212.159.163.109:9981/stream/channelid/1977042694?ticket=AEF54925C037B27439FA7D3E3FCF7A498210A616&profile=matroska
-#EXTINF:-1 group-title="212.159",Sport TV 3
-http://212.159.163.109:9981/stream/channelid/2112461826?ticket=1554708EEF07C6565D8548108FB013457D708B31&profile=matroska
-#EXTINF:-1 group-title="212.159",TLC
-http://212.159.163.109:9981/stream/channelid/1918378577?ticket=174FD132F76BD30CBF50654F401F6CA64EF8BCFE&profile=matroska
-#EXTINF:-1 group-title="212.159",TSF
-http://212.159.163.109:9981/stream/channelid/1787841356?ticket=A07D04C1983F2F1E5D8D772BA2975204F9E2D76B&profile=matroska
-#EXTINF:-1 group-title="212.159",TV Galicia
-http://212.159.163.109:9981/stream/channelid/1762701600?ticket=03D257663BCB91A0C420766363B2BA36DBA25B9F&profile=matroska
-#EXTINF:-1 group-title="212.159",TVCine TOP HD
-http://212.159.163.109:9981/stream/channelid/1975396871?ticket=1A26FF6EBC3EC4557B0F4D0355F76896751DA69D&profile=matroska
-#EXTINF:-1 group-title="212.159",TVE Internacional
-http://212.159.163.109:9981/stream/channelid/2039973129?ticket=549D49E3F732AFB00803BE51BC6136506F112EAF&profile=matroska
-#EXTINF:-1 group-title="212.159",TVI HD
-http://212.159.163.109:9981/stream/channelid/1948312377?ticket=5ADCB289857DEF3BC34EDCFDBC9C4A98D23F3774&profile=matroska
-#EXTINF:-1 group-title="212.159",RTP1
-http://212.159.163.109:9981/stream/channelid/1045442168?ticket=6A200F76F4CEF4679FAB5C716AE626BDDFA23313&profile=matroska
-#EXTINF:-1 group-title="212.159",RTP1
-http://212.159.163.109:9981/stream/channelid/1359916784?ticket=584FA5A92D0FE401128D06CF86FAD67590B7B4F9&profile=matroska
-#EXTINF:-1 group-title="212.159",RTP2
-http://212.159.163.109:9981/stream/channelid/775065901?ticket=42708505ECD95A1F9A5C65C6E8585F4883258ABC&profile=matroska
-#EXTINF:-1 group-title="212.159",RTP2
-http://212.159.163.109:9981/stream/channelid/1706232302?ticket=C4BF13F1DD22B81105CACD73EC56D8ACD3C9AA56&profile=matroska
-#EXTINF:-1 group-title="212.159",RTP2
-http://212.159.163.109:9981/stream/channelid/1793014386?ticket=34503B664C2C58C5B959B5BA03963BA42BF4C85D&profile=matroska
-#EXTINF:-1 group-title="212.159",SIC
-http://212.159.163.109:9981/stream/channelid/27214034?ticket=6CA511ABCFCF9B95404A8C3F3FA43F3854B878CC&profile=matroska
-#EXTINF:-1 group-title="212.159",SIC
-http://212.159.163.109:9981/stream/channelid/1192409604?ticket=7053625CA0B2505181EE2B113BF226CA71401AEF&profile=matroska
-#EXTINF:-1 group-title="212.159",TVI
-http://212.159.163.109:9981/stream/channelid/1030661714?ticket=DBB061C1066E91063A0AFDE8C457FDC255CD0E59&profile=matroska
-#EXTINF:-1 group-title="212.159",TVI
-http://212.159.163.109:9981/stream/channelid/1903367877?ticket=C1DFCF89AD63BA55A7906A9F00290783FAAB6935&profile=matroska
-#EXTINF:-1 group-title="212.159",SIC NotŦcias
-http://212.159.163.109:9981/stream/channelid/2092759223?ticket=A4EE2FFE6F5A293C0BBE8056162DDF1A1C6AD44D&profile=matroska
-#EXTINF:-1 group-title="212.159",RTP3
-http://212.159.163.109:9981/stream/channelid/148024599?ticket=700AFB2851E173A69E838A25F6273580E6A8AD19&profile=matroska
-#EXTINF:-1 group-title="212.159",RTP3
-http://212.159.163.109:9981/stream/channelid/1279345064?ticket=F401102135E7FE44B5B09A7DEF68D66010CF528D&profile=matroska
-#EXTINF:-1 group-title="212.159",TVI24
-http://212.159.163.109:9981/stream/channelid/1345264872?ticket=9843D7AF807739A557F5FEAB2892D63941156B8C&profile=matroska
-#EXTINF:-1 group-title="212.159",TVI24
-http://212.159.163.109:9981/stream/channelid/1953689871?ticket=7D32410576A87ABB14205A78AF2785D78957399E&profile=matroska
-#EXTINF:-1 group-title="212.159",CMTV
-http://212.159.163.109:9981/stream/channelid/296266433?ticket=C4AC4A2CFE622056B1F418B95FBA0B89F22CE041&profile=matroska
-#EXTINF:-1 group-title="212.159",CMTV
-http://212.159.163.109:9981/stream/channelid/1870476546?ticket=D7A542291D962B9B441D957E4FBC8B291A1D25AC&profile=matroska
-#EXTINF:-1 group-title="212.159",SIC Mulher
-http://212.159.163.109:9981/stream/channelid/1035371682?ticket=4B162F224E992AC00D179A3880B9979940CD718D&profile=matroska
-#EXTINF:-1 group-title="212.159",Globo
-http://212.159.163.109:9981/stream/channelid/1090586455?ticket=07E629F01C68AFBA843C8E0C07BEB320615B7309&profile=matroska
-#EXTINF:-1 group-title="212.159",Globo
-http://212.159.163.109:9981/stream/channelid/2109193101?ticket=72862C853FC0594CBA032AD853D6A3D2F93BF969&profile=matroska
-#EXTINF:-1 group-title="212.159",11
-http://212.159.163.109:9981/stream/channelid/1420919471?ticket=DFE45B50AD6F1B5D2636E3B217D01A0F6FDD0B8A&profile=matroska
-#EXTINF:-1 group-title="212.159",TVI FicĿªo
-http://212.159.163.109:9981/stream/channelid/764832058?ticket=65AFF4667FBFAA56304075B59D5C72BF81CB9CC4&profile=matroska
-#EXTINF:-1 group-title="212.159",A Bola TV
-http://212.159.163.109:9981/stream/channelid/33465144?ticket=2D526F41841998457C58CBBF5A54BA288DB03DCE&profile=matroska
-#EXTINF:-1 group-title="212.159",A Bola TV
-http://212.159.163.109:9981/stream/channelid/495405314?ticket=3E656A62BE0BB853C4B04321E09F5519D1E750E5&profile=matroska
-#EXTINF:-1 group-title="212.159",SPORT TV +
-http://212.159.163.109:9981/stream/channelid/557777736?ticket=AA431849211915CC325066849513F60B8CFFC30F&profile=matroska
-#EXTINF:-1 group-title="212.159",Porto Canal
-http://212.159.163.109:9981/stream/channelid/330807387?ticket=6099A9B8E6CD429323656DBA2F4BEC8649E67FB2&profile=matroska
-#EXTINF:-1 group-title="212.159",Porto Canal
-http://212.159.163.109:9981/stream/channelid/1035380636?ticket=C8E865B485559B23FD5636700622C0EBFD1D2324&profile=matroska
-#EXTINF:-1 group-title="212.159",MEO
-http://212.159.163.109:9981/stream/channelid/1557154626?ticket=4B0DED11E764D2DCC0E20EEF182D7C3A44E38FBE&profile=matroska
-#EXTINF:-1 group-title="212.159",MEO
-http://212.159.163.109:9981/stream/channelid/1728931805?ticket=58702F938FBD75486B57761958DEC89DDA62FFED&profile=matroska
-#EXTINF:-1 group-title="212.159",RTP AĿores
-http://212.159.163.109:9981/stream/channelid/810370365?ticket=C217F2B02D8552605D2F49054B720E1353A19747&profile=matroska
-#EXTINF:-1 group-title="212.159",RTP AĿores
-http://212.159.163.109:9981/stream/channelid/1681187549?ticket=ACF6A8D4CFF785B2495905FECB85822679B6A961&profile=matroska
-#EXTINF:-1 group-title="212.159",RTP Madeira
-http://212.159.163.109:9981/stream/channelid/928537854?ticket=2C0307E26116926E74017631CFADEAE4A06D2654&profile=matroska
-#EXTINF:-1 group-title="212.159",RTP Madeira
-http://212.159.163.109:9981/stream/channelid/940459002?ticket=EAA7D129EB058C44262EAEFB6DD30427E46E4A54&profile=matroska
-#EXTINF:-1 group-title="212.159",SPORT TV 1 HD
-http://212.159.163.109:9981/stream/channelid/540247234?ticket=1A5F46527E3E9F2724B69DFE1CDF29C9C0D313DF&profile=matroska
-#EXTINF:-1 group-title="212.159",SPORT TV 1 HD
-http://212.159.163.109:9981/stream/channelid/919697982?ticket=D937A6F30257048833B0ACCA0BE7EB79C586174F&profile=matroska
-#EXTINF:-1 group-title="212.159",SPORT TV 2 HD
-http://212.159.163.109:9981/stream/channelid/2104220937?ticket=A4A85706728CE3A79FBA32835CF4038CB82B11C0&profile=matroska
-#EXTINF:-1 group-title="212.159",SPORT TV 3 HD
-http://212.159.163.109:9981/stream/channelid/83852084?ticket=82E958E56E7380092FDE92D724D1D19152D0DEDE&profile=matroska
-#EXTINF:-1 group-title="212.159",SPORT TV 3 HD
-http://212.159.163.109:9981/stream/channelid/1909361654?ticket=580498CD3EF7083B44EC1F11202C6B816AA46631&profile=matroska
-#EXTINF:-1 group-title="212.159",SPORT TV 4 HD
-http://212.159.163.109:9981/stream/channelid/1591131198?ticket=B658223BFB161E12D3E99F889F94A2397C72DDF9&profile=matroska
-#EXTINF:-1 group-title="212.159",Sport TV 5 HD
-http://212.159.163.109:9981/stream/channelid/1755701401?ticket=8A3FE9E6C40139F9F5D969F9DE1C802F2CA386CE&profile=matroska
-#EXTINF:-1 group-title="212.159",Sport TV 6 HD
-http://212.159.163.109:9981/stream/channelid/1944315102?ticket=ACB23D369903C51A9D24E576E759C4AA6AFA4345&profile=matroska
-#EXTINF:-1 group-title="212.159",NBA TV HD
-http://212.159.163.109:9981/stream/channelid/1365598122?ticket=6ECB01C3A96A07A3074C5DDDB521CD4D77A5621F&profile=matroska
-#EXTINF:-1 group-title="212.159",BTV HD
-http://212.159.163.109:9981/stream/channelid/152498444?ticket=C190040E5D287B4CED395014FF219332FFAAF87C&profile=matroska
-#EXTINF:-1 group-title="212.159",BTV HD
-http://212.159.163.109:9981/stream/channelid/1271772151?ticket=E42C1E7AB88953938037E652E618B129AA8E02EE&profile=matroska
-#EXTINF:-1 group-title="212.159",Eleven 1 HD
-http://212.159.163.109:9981/stream/channelid/883727827?ticket=209400B63665BE0EBDD23CBDF2AAAB4D1F468FFB&profile=matroska
-#EXTINF:-1 group-title="212.159",Eleven 2 HD
-http://212.159.163.109:9981/stream/channelid/260898519?ticket=BC0C02F1EE7A8B66C29439CB479DFD4C7C644EA7&profile=matroska
-#EXTINF:-1 group-title="212.159",Eleven 2 HD
-http://212.159.163.109:9981/stream/channelid/1523493786?ticket=D08321710EC7D80A59E4DB672EA55153ECB84E1F&profile=matroska
-#EXTINF:-1 group-title="212.159",Eleven 3
-http://212.159.163.109:9981/stream/channelid/777602781?ticket=F3E9CC0E9934C49A00D702A5AE0172149A5F5733&profile=matroska
-#EXTINF:-1 group-title="212.159",Eleven 3
-http://212.159.163.109:9981/stream/channelid/1249441715?ticket=4976EDA57AB82673DC954F1A57C924026B927B61&profile=matroska
-#EXTINF:-1 group-title="212.159",Eleven 4
-http://212.159.163.109:9981/stream/channelid/2039800679?ticket=EB626A69B12609F25367AB35EB8FE17B90BCFB1B&profile=matroska
-#EXTINF:-1 group-title="212.159",Eleven 5
-http://212.159.163.109:9981/stream/channelid/532273602?ticket=D63EEF9C3E1D1DC7CB4A04158ACC127873A66AD6&profile=matroska
-#EXTINF:-1 group-title="212.159",Eleven 6
-http://212.159.163.109:9981/stream/channelid/999216877?ticket=4E344A30D3669DFAFF049BF3361A545C688200B7&profile=matroska
-#EXTINF:-1 group-title="212.159",Eleven 6
-http://212.159.163.109:9981/stream/channelid/2119241088?ticket=D8E277538D3624F878607DD0E856A38DF70AA3E7&profile=matroska
-#EXTINF:-1 group-title="212.159",Sporting TV
-http://212.159.163.109:9981/stream/channelid/1107627655?ticket=356FD3FD4020C796B128482D3CEC50D352A84DB8&profile=matroska
-#EXTINF:-1 group-title="212.159",Eurosport 1 HD
-http://212.159.163.109:9981/stream/channelid/172562955?ticket=FB329D83DBD885796D1AD1F09F1F6A6244DD744A&profile=matroska
-#EXTINF:-1 group-title="212.159",Eurosport 2
-http://212.159.163.109:9981/stream/channelid/78516083?ticket=F36E28110CC79D393D97B4A345DA5361841546DF&profile=matroska
-#EXTINF:-1 group-title="212.159",Disney Channel
-http://212.159.163.109:9981/stream/channelid/1347199739?ticket=AB6EEDE33E0182AEFBE08BB8EBB8CC55CA796D5A&profile=matroska
-#EXTINF:-1 group-title="212.159",Cartoon Network
-http://212.159.163.109:9981/stream/channelid/1923012318?ticket=7A7DB120D0193C63D46FF80CE8AE62429354E21F&profile=matroska
-#EXTINF:-1 group-title="212.159",Biggs
-http://212.159.163.109:9981/stream/channelid/1022634233?ticket=900A45FDE5CCF74BDF15E72B53B5F45AEA9D9C8B&profile=matroska
-#EXTINF:-1 group-title="212.159",SIC K
-http://212.159.163.109:9981/stream/channelid/997323975?ticket=9E0EF1F24CD5FD4411C192CCFA0851B7345C13F4&profile=matroska
-#EXTINF:-1 group-title="212.159",SIC K
-http://212.159.163.109:9981/stream/channelid/1758465127?ticket=2D44342F08970835F2E22AACAC488824164DDD62&profile=matroska
-#EXTINF:-1 group-title="212.159",Nickelodeon
-http://212.159.163.109:9981/stream/channelid/1948603666?ticket=CE6166743458098F67D0805A427479EB4662DD63&profile=matroska
-#EXTINF:-1 group-title="212.159",Disney Jœnior
-http://212.159.163.109:9981/stream/channelid/1478434002?ticket=1DA5976CE2FE57A397E728F33555EF202237A2BA&profile=matroska
-#EXTINF:-1 group-title="212.159",Canal Panda
-http://212.159.163.109:9981/stream/channelid/521838694?ticket=21CAE421EE38DCE13256AA48E28F1F9A037F6192&profile=matroska
-#EXTINF:-1 group-title="212.159",Jim Jam
-http://212.159.163.109:9981/stream/channelid/1798239836?ticket=1E58DF85374ACC2B85E0B7A860B58C9758D122F9&profile=matroska
-#EXTINF:-1 group-title="212.159",Jim Jam
-http://212.159.163.109:9981/stream/channelid/1912452918?ticket=9A2DCA7A15FCABE407D68A5EDC20EFCDAA8C4839&profile=matroska
-#EXTINF:-1 group-title="212.159",Baby TV
-http://212.159.163.109:9981/stream/channelid/916103059?ticket=6D395CB1057ED499D57FAC1DAA2207E5C3D3B05F&profile=matroska
-#EXTINF:-1 group-title="212.159",Baby TV
-http://212.159.163.109:9981/stream/channelid/1345965295?ticket=BA608F5FEE777AEAA14572027238BB478B69B888&profile=matroska
-#EXTINF:-1 group-title="212.159",Lolly Kids
-http://212.159.163.109:9981/stream/channelid/1510065897?ticket=5A93D360921A2AEE090EC2B22B7329F1ADB45887&profile=matroska
-#EXTINF:-1 group-title="212.159",Lolly Kids
-http://212.159.163.109:9981/stream/channelid/1915930736?ticket=703D29982A21631472610EC0202AF365290BA380&profile=matroska
-#EXTINF:-1 group-title="212.159",Panda Kids
-http://212.159.163.109:9981/stream/channelid/811144917?ticket=5896E649EF730FEFA86F0A7E229A905A9032B03F&profile=matroska
-#EXTINF:-1 group-title="212.159",Panda Kids
-http://212.159.163.109:9981/stream/channelid/1156270815?ticket=7089ED54050F2CA3FD6628E51B380955E4C12985&profile=matroska
-#EXTINF:-1 group-title="212.159",TV Cine Top HD
-http://212.159.163.109:9981/stream/channelid/2042699265?ticket=13A9051613A77472D65BCC795ABD422D58A6ABAD&profile=matroska
-#EXTINF:-1 group-title="212.159",TV Cine Edition HD
-http://212.159.163.109:9981/stream/channelid/723870273?ticket=5BF55132226CDCE43BE6EDC3E3EAC75CA30E6ADF&profile=matroska
-#EXTINF:-1 group-title="212.159",TV Cine Emotion HD
-http://212.159.163.109:9981/stream/channelid/1771949109?ticket=4E9B82DFDE87BED3F705B6EB30A1A621B09B866A&profile=matroska
-#EXTINF:-1 group-title="212.159",TV Cine Action HD
-http://212.159.163.109:9981/stream/channelid/312973151?ticket=E1082C8266D575702511FE8C8A35820E4EE27DF3&profile=matroska
-#EXTINF:-1 group-title="212.159",Cinemundo
-http://212.159.163.109:9981/stream/channelid/1264919396?ticket=0A65A1F07DFDF8B1D2166CBFE39E46449950615E&profile=matroska
-#EXTINF:-1 group-title="212.159",Cinemundo
-http://212.159.163.109:9981/stream/channelid/2080600649?ticket=A1B92A9F40008E956DEBD161A4E253F92CEED898&profile=matroska
-#EXTINF:-1 group-title="212.159",Hollywood HD
-http://212.159.163.109:9981/stream/channelid/456207713?ticket=2D8F96142744732C2AB7E9C34064C975107B0566&profile=matroska
-#EXTINF:-1 group-title="212.159",FOX Movies
-http://212.159.163.109:9981/stream/channelid/598412545?ticket=B89B6089BA32F2BCB263BFD6A9972D5776CC4DCC&profile=matroska
-#EXTINF:-1 group-title="212.159",AMC HD
-http://212.159.163.109:9981/stream/channelid/1012660503?ticket=A94A5C823A25E1A11227CA72BE37E0AE2D8FA848&profile=matroska
-#EXTINF:-1 group-title="212.159",AXN Movies HD
-http://212.159.163.109:9981/stream/channelid/1869812263?ticket=3EF09C8DE236970313540ABE182D6688F95E7B74&profile=matroska
-#EXTINF:-1 group-title="212.159",FOX HD
-http://212.159.163.109:9981/stream/channelid/707874369?ticket=33CCE0C20E2772020D4689D1581A8030B2F0A165&profile=matroska
-#EXTINF:-1 group-title="212.159",FOX HD
-http://212.159.163.109:9981/stream/channelid/1418350935?ticket=D1801B6C1AECCE8976EFC6B671CA8945307B9482&profile=matroska
-#EXTINF:-1 group-title="212.159",FOX Life HD
-http://212.159.163.109:9981/stream/channelid/1573471441?ticket=8F1C4F40CBB251D3FF725E79CC162C13ABEC5853&profile=matroska
-#EXTINF:-1 group-title="212.159",FOX Crime HD
-http://212.159.163.109:9981/stream/channelid/654964545?ticket=DBB8271B77EE403538DFDF9EFEFA65EBB27517E9&profile=matroska
-#EXTINF:-1 group-title="212.159",Fox Comedy
-http://212.159.163.109:9981/stream/channelid/772327243?ticket=BB6E164024F44E3101189C3FE15FA0EAD3A06330&profile=matroska
-#EXTINF:-1 group-title="212.159",Fox Comedy
-http://212.159.163.109:9981/stream/channelid/1507192594?ticket=B7502A14A26DB497C01B708C32FC209285178238&profile=matroska
-#EXTINF:-1 group-title="212.159",AXN HD
-http://212.159.163.109:9981/stream/channelid/441932205?ticket=B88904F4596DB1C62FE3776D57FC19C9DB8D2EF9&profile=matroska
-#EXTINF:-1 group-title="212.159",AXN White HD
-http://212.159.163.109:9981/stream/channelid/459256800?ticket=C966B57D70F81A0039184D63F1865AB8C1278871&profile=matroska
-#EXTINF:-1 group-title="212.159",SyFy
-http://212.159.163.109:9981/stream/channelid/2105170195?ticket=6430B5117F3E647A348BD43033AAC7AC16A335D7&profile=matroska
-#EXTINF:-1 group-title="212.159",Discovery Channel HD
-http://212.159.163.109:9981/stream/channelid/76076084?ticket=CB39D8EBCE823D11B3F5A01511C76E28D02348B5&profile=matroska
-#EXTINF:-1 group-title="212.159",Histðria
-http://212.159.163.109:9981/stream/channelid/620992876?ticket=1B2178E4A03FDC97FE353598C3E2078F854985E8&profile=matroska
-#EXTINF:-1 group-title="212.159",Histðria
-http://212.159.163.109:9981/stream/channelid/774040410?ticket=010AF2C53F5094A308AEBBC02CD4A41C05250DCF&profile=matroska
-#EXTINF:-1 group-title="212.159",Odisseia
-http://212.159.163.109:9981/stream/channelid/1937183155?ticket=0777FC9196154A04320FB5086E8AFCD4DE87A5BC&profile=matroska
-#EXTINF:-1 group-title="212.159",National Geographic HD
-http://212.159.163.109:9981/stream/channelid/2093801628?ticket=D0BA17F0608F7430B0377CFBA1EC963C98FA7B61&profile=matroska
-#EXTINF:-1 group-title="212.159",National Geographic Wild
-http://212.159.163.109:9981/stream/channelid/1239496421?ticket=E0B862D18B167987DCDA8CB39E7D3ED5BE1C30E9&profile=matroska
-#EXTINF:-1 group-title="212.159",TVI Reality - O Amor Acontece
-http://212.159.163.109:9981/stream/channelid/327618959?ticket=02A6B1EEDB333BD0EE99F106ECB1D5D243709DEE&profile=matroska
-#EXTINF:-1 group-title="212.159",RTP Memðria
-http://212.159.163.109:9981/stream/channelid/498161677?ticket=03A4E20CE1068A1E7B69F181FF51D567FA72A7A1&profile=matroska
-#EXTINF:-1 group-title="212.159",RTP Memðria
-http://212.159.163.109:9981/stream/channelid/1467928468?ticket=95DFF12F15A4CDB5AE97A54A6EC83F996822F12B&profile=matroska
-#EXTINF:-1 group-title="212.159",Canal Q
-http://212.159.163.109:9981/stream/channelid/785657653?ticket=365A8A694A060CE5F84E23E614A398D2EAC0A72F&profile=matroska
-#EXTINF:-1 group-title="212.159",SIC Radical
-http://212.159.163.109:9981/stream/channelid/1531546326?ticket=34F8B8904B84036ED4676BC6B4B95C47A13F6679&profile=matroska
-#EXTINF:-1 group-title="212.159",MTV Portugal
-http://212.159.163.109:9981/stream/channelid/973634930?ticket=A57FDF0F565A0C6611288811E015D829CCF3F42E&profile=matroska
-#EXTINF:-1 group-title="212.159",MTV Portugal
-http://212.159.163.109:9981/stream/channelid/1712933113?ticket=AC1A9EC290CF8C1F893E64DDD8EAF0F2924F4381&profile=matroska
-#EXTINF:-1 group-title="212.159",Blaze
-http://212.159.163.109:9981/stream/channelid/636106596?ticket=90E4F1A535E62B75D5F2D638EC6A5927E999D44D&profile=matroska
-#EXTINF:-1 group-title="212.159",Fuel TV
-http://212.159.163.109:9981/stream/channelid/990530829?ticket=FA0762FEDD062AFD22E2D83B9D700F7AF9F9E53F&profile=matroska
-#EXTINF:-1 group-title="212.159",Crime+Investigation
-http://212.159.163.109:9981/stream/channelid/1773342421?ticket=053DAB9866C296135893FC0F420A0E716508B0E0&profile=matroska
-#EXTINF:-1 group-title="212.159",CBS Reality
-http://212.159.163.109:9981/stream/channelid/141379071?ticket=3A7366E334E4F8BABC64AF1F383F5537DB3C1912&profile=matroska
-#EXTINF:-1 group-title="212.159",CBS Reality
-http://212.159.163.109:9981/stream/channelid/339910703?ticket=7C39DE689F3CC3065E8980CDBEEDB2F901E1AA21&profile=matroska
-#EXTINF:-1 group-title="212.159",TLC
-http://212.159.163.109:9981/stream/channelid/1935849350?ticket=1A6FC96B811BF7505B59F09B6908AC5AD7448527&profile=matroska
-#EXTINF:-1 group-title="212.159",SIC Caras
-http://212.159.163.109:9981/stream/channelid/1959617838?ticket=07C0F389B841221C4297D3BED4F834FD4441010F&profile=matroska
-#EXTINF:-1 group-title="212.159",E! Entertainment
-http://212.159.163.109:9981/stream/channelid/1085559468?ticket=039B542ED5316C79C7DF72669B28F82C39F302D6&profile=matroska
-#EXTINF:-1 group-title="212.159",24 Kitchen HD
-http://212.159.163.109:9981/stream/channelid/1070447362?ticket=93569618E07F092DCBA6B483922BAA9F9D5EE9BD&profile=matroska
-#EXTINF:-1 group-title="212.159",FTV
-http://212.159.163.109:9981/stream/channelid/1736173400?ticket=A62A9995B77494C64BF772435887ADFE3959B709&profile=matroska
-#EXTINF:-1 group-title="212.159",MTV 00s
-http://212.159.163.109:9981/stream/channelid/2128546692?ticket=578572AA0CDDBF5448BAEB57D88115BDC1C00C9A&profile=matroska
-#EXTINF:-1 group-title="212.159",Trace Urban
-http://212.159.163.109:9981/stream/channelid/271518931?ticket=F9EBFDCE872A7FCB6AE66D8B69C1E76914006E29&profile=matroska
-#EXTINF:-1 group-title="212.159",MCM POP
-http://212.159.163.109:9981/stream/channelid/1257171183?ticket=924E26774C4D85A5032BB0099341F5128235B079&profile=matroska
-#EXTINF:-1 group-title="212.159",Afro Music
-http://212.159.163.109:9981/stream/channelid/700242148?ticket=958133DA13FD123E9413E0313C96CC22F91F5EFD&profile=matroska
-#EXTINF:-1 group-title="212.159",Trace Toca
-http://212.159.163.109:9981/stream/channelid/957427387?ticket=2CC25D7CDE8DF1DCA67DB9960674FEE2D38C74AD&profile=matroska
-#EXTINF:-1 group-title="212.159",Mezzo
-http://212.159.163.109:9981/stream/channelid/1493009719?ticket=F959DA2049A5F8B5559712D9C61B5C58BCCEAFC5&profile=matroska
-#EXTINF:-1 group-title="212.159",RTP AĿores
-http://212.159.163.109:9981/stream/channelid/1564741575?ticket=069FE8EF08CC468AAA88A47C32E23E6A220AA391&profile=matroska
-#EXTINF:-1 group-title="212.159",RTP AĿores
-http://212.159.163.109:9981/stream/channelid/1798325901?ticket=5781E467EC5A71E14BEE1AAD46130E88D34BEA9A&profile=matroska
-#EXTINF:-1 group-title="212.159",RTP Madeira
-http://212.159.163.109:9981/stream/channelid/189138882?ticket=9E456651B9A5E18BF04394EF6F813C1137E6AB34&profile=matroska
-#EXTINF:-1 group-title="212.159",RTP Madeira
-http://212.159.163.109:9981/stream/channelid/1247624609?ticket=ED58EF66526D0DF37FA59DE82D1556C352B8485E&profile=matroska
-#EXTINF:-1 group-title="212.159",ARTV
-http://212.159.163.109:9981/stream/channelid/1289057183?ticket=585332ADE6D69D739CB436A719BE5AF4481244D1&profile=matroska
-#EXTINF:-1 group-title="212.159",ARTV
-http://212.159.163.109:9981/stream/channelid/1887696176?ticket=128B461F397406DC043345561B7A449B793EC067&profile=matroska
-#EXTINF:-1 group-title="212.159",Toros TV
-http://212.159.163.109:9981/stream/channelid/973099737?ticket=6FEA9FA0D03739BFC4F4404C11CDC2287C0707F9&profile=matroska
-#EXTINF:-1 group-title="212.159",CaĿavision
-http://212.159.163.109:9981/stream/channelid/1004478780?ticket=B5E870EE999616E6391DDE9638F01F36B0FF0D84&profile=matroska
-#EXTINF:-1 group-title="212.159",CaĿavision
-http://212.159.163.109:9981/stream/channelid/1562844609?ticket=10FFC229E1B1031FDB40E38458EE6ECC3BD8975D&profile=matroska
-#EXTINF:-1 group-title="212.159",Kuriakos TV
-http://212.159.163.109:9981/stream/channelid/2135614407?ticket=12B98BB641B8E79C6BD3738EEC2FE0EFB058B39F&profile=matroska
-#EXTINF:-1 group-title="212.159",CanĿªo Nova
-http://212.159.163.109:9981/stream/channelid/1256379809?ticket=67DBAB078ED9F785625C71CF2F1CE59B143C9774&profile=matroska
-#EXTINF:-1 group-title="212.159",PFC
-http://212.159.163.109:9981/stream/channelid/1035758153?ticket=347243B1D87A583D4883694CDDCE5095667F6E6B&profile=matroska
-#EXTINF:-1 group-title="212.159",Globo News
-http://212.159.163.109:9981/stream/channelid/1763187729?ticket=187B58D1CAF04DDF7A3784498A808490599990A8&profile=matroska
-#EXTINF:-1 group-title="212.159",TV Record
-http://212.159.163.109:9981/stream/channelid/857784571?ticket=FCC03472B1DB6BB6C93F10135AC2E4D6F69B3CAA&profile=matroska
-#EXTINF:-1 group-title="212.159",TV Record
-http://212.159.163.109:9981/stream/channelid/962289128?ticket=79A4C93771AD1B80727B5D262F0029B7669D477F&profile=matroska
-#EXTINF:-1 group-title="212.159",Euronews
-http://212.159.163.109:9981/stream/channelid/1565972676?ticket=39A07AEECD979D2A9685C30E180998BB948271E0&profile=matroska
-#EXTINF:-1 group-title="212.159",RTP rica
-http://212.159.163.109:9981/stream/channelid/647298585?ticket=1DF084BFC1A1F0C71C17D7CCE3981DC7A6AFD15E&profile=matroska
-#EXTINF:-1 group-title="212.159",RTP rica
-http://212.159.163.109:9981/stream/channelid/1259507642?ticket=642F1A63C08A88285F52447BF6B81C322C35791E&profile=matroska
-#EXTINF:-1 group-title="212.159",CNN
-http://212.159.163.109:9981/stream/channelid/1057432689?ticket=20DF9044FC082A911DF8115D880C7A4B883DDE69&profile=matroska
-#EXTINF:-1 group-title="212.159",Bloomberg
-http://212.159.163.109:9981/stream/channelid/1873631067?ticket=701BD8878A7BBF916DCE6B8E28A0CA74DC0654E8&profile=matroska
-#EXTINF:-1 group-title="212.159",CNBC Europe
-http://212.159.163.109:9981/stream/channelid/312195406?ticket=D01E046621D815A60038DCE5D04DA9D1F1AF02CA&profile=matroska
-#EXTINF:-1 group-title="212.159",SKY News
-http://212.159.163.109:9981/stream/channelid/437343682?ticket=A77FFD43C48734C40445866D737C6D2E4955FACA&profile=matroska
-#EXTINF:-1 group-title="212.159",BBC World News
-http://212.159.163.109:9981/stream/channelid/1213091349?ticket=791D9FB2E5BD2B9A752DB3BB568B916C8F4E826D&profile=matroska
-#EXTINF:-1 group-title="212.159",BBC Entertainment
-http://212.159.163.109:9981/stream/channelid/1092350468?ticket=1D3F0E1C50B03631CC387C35E1A996602F6364DA&profile=matroska
-#EXTINF:-1 group-title="212.159",France 24
-http://212.159.163.109:9981/stream/channelid/864451984?ticket=6016BAE3B9E115984A84E49B49FEB6C6A37E2E46&profile=matroska
-#EXTINF:-1 group-title="212.159",NHK World Japan
-http://212.159.163.109:9981/stream/channelid/1293221502?ticket=0E8A074F078EAFD33F384DBB1A0912E0419309B4&profile=matroska
-#EXTINF:-1 group-title="212.159",Channel 1 Russia
-http://212.159.163.109:9981/stream/channelid/975212469?ticket=93763684312CB83CA0B7E496D471F3DB8192B473&profile=matroska
-#EXTINF:-1 group-title="212.159",Channel 1 Russia
-http://212.159.163.109:9981/stream/channelid/1458324748?ticket=FD40CE6BA23E146F501517555E97A6E7F9DB7333&profile=matroska
-#EXTINF:-1 group-title="212.159",TVEi
-http://212.159.163.109:9981/stream/channelid/1165181455?ticket=F5D1F4872405499619AF2CA82CC5EBE83EEDD230&profile=matroska
-#EXTINF:-1 group-title="212.159",TVE 24H
-http://212.159.163.109:9981/stream/channelid/1806906838?ticket=56287D0FD75ABE13B6EC55D8B7628F399C4A8A5E&profile=matroska
-#EXTINF:-1 group-title="212.159",TV Galicia
-http://212.159.163.109:9981/stream/channelid/459973331?ticket=3012666503C491D0B3EE65695FEE69F4DF8E0612&profile=matroska
-#EXTINF:-1 group-title="212.159",TV5 Monde
-http://212.159.163.109:9981/stream/channelid/513785937?ticket=2EF295635BF156D0BDAA672E8B13724B30D97694&profile=matroska
-#EXTINF:-1 group-title="212.159",Deutsche Welle (A)
-http://212.159.163.109:9981/stream/channelid/1445102828?ticket=23F90ABDC404FC202F8635A0469345F2DA097052&profile=matroska
-#EXTINF:-1 group-title="212.159",Venus
-http://212.159.163.109:9981/stream/channelid/1643167216?ticket=D9B42D2A4F54CB5D8DFA2EAF8088643ED26618A0&profile=matroska
-#EXTINF:-1 group-title="212.159",HOT
-http://212.159.163.109:9981/stream/channelid/1992034485?ticket=1A4C016A5D5572A6A00F43F6C5CDB965DCC26484&profile=matroska
-#EXTINF:-1 group-title="212.159",Playboy TV
-http://212.159.163.109:9981/stream/channelid/1060469321?ticket=FE82C690F6D59C7769A5951F39A9135C155BDC65&profile=matroska
-#EXTINF:-1 group-title="212.159",DVB-S Network/12283.7H/{PMT:257}
-http://212.159.163.109:9981/stream/channelid/1031905036?ticket=E7D28AA754D5EEA6F66277C001CCB9DAEC4E6116&profile=matroska
-#EXTINF:-1 group-title="212.159",EEC SecundÆrio
-http://212.159.163.109:9981/stream/channelid/1825036786?ticket=3338DE3E92DC8F9A7634B928F77A872F78D5089F&profile=matroska
-#EXTINF:-1 group-title="212.159",EEC SecundÆrio
-http://212.159.163.109:9981/stream/channelid/2110616731?ticket=6BCDF3B711376B7C24140B7767DFEB5BD4C8D472&profile=matroska
-#EXTINF:-1 group-title="212.159",RFM
-http://212.159.163.109:9981/stream/channelid/588253002?ticket=8FDEBDD7F8CFCA604F301A09CD08FB4B5AD4C92C&profile=matroska
-#EXTINF:-1 group-title="212.159",RFM
-http://212.159.163.109:9981/stream/channelid/2128176762?ticket=3064ED1F5754F811159D72E71C86AAEBC791D3A9&profile=matroska
-#EXTINF:-1 group-title="212.159",RenascenĿa
-http://212.159.163.109:9981/stream/channelid/945562528?ticket=1057ADB9FF30BEB3B9FAACDA8991FD48A2306820&profile=matroska
-#EXTINF:-1 group-title="212.159",RenascenĿa
-http://212.159.163.109:9981/stream/channelid/1008225127?ticket=B993332B43C21E5E8AFDD379C67ABA4EF7DC0AAD&profile=matroska
-#EXTINF:-1 group-title="212.159",Mega Hits
-http://212.159.163.109:9981/stream/channelid/799223523?ticket=EB5F16263A4982ADF5E7F049E3A98066FDFFDA5E&profile=matroska
-#EXTINF:-1 group-title="212.159",Mega Hits
-http://212.159.163.109:9981/stream/channelid/956072619?ticket=DC3574542750E7BE1885F6895B28C7516BF90861&profile=matroska
-#EXTINF:-1 group-title="212.159",80s RFM
-http://212.159.163.109:9981/stream/channelid/668350383?ticket=138E24193AB7C997A2F0B7C1FF5D04C536C1044C&profile=matroska
-#EXTINF:-1 group-title="212.159",80s RFM
-http://212.159.163.109:9981/stream/channelid/1816936374?ticket=A2D19EDD9E177BF05B7C913476F92B3CB6A6FB74&profile=matroska
-#EXTINF:-1 group-title="212.159",RFM Clubbing
-http://212.159.163.109:9981/stream/channelid/26170009?ticket=77EF1DE2422DD00AB1FB25D7D04BC646101102AE&profile=matroska
-#EXTINF:-1 group-title="212.159",RFM Clubbing
-http://212.159.163.109:9981/stream/channelid/1711630667?ticket=B90F82E28EDF2A53E8B1B5A3D853A5E951EA8D2A&profile=matroska
-#EXTINF:-1 group-title="212.159",Oceano PacŦfico
-http://212.159.163.109:9981/stream/channelid/794442502?ticket=FCEA2C988961FF2BAF2F5533D47B9F49932A0446&profile=matroska
-#EXTINF:-1 group-title="212.159",Oceano PacŦfico
-http://212.159.163.109:9981/stream/channelid/1897215996?ticket=521C4BBC2BB2DF976E559A932382B19E6CB27CBD&profile=matroska
-#EXTINF:-1 group-title="212.159",RÆdio Comercial
-http://212.159.163.109:9981/stream/channelid/1525086651?ticket=B8663B36368AE53A14DCA64D3A771EBE2C8ADB6C&profile=matroska
-#EXTINF:-1 group-title="212.159",RÆdio Comercial
-http://212.159.163.109:9981/stream/channelid/1540112306?ticket=B191CC95B194F3D3011C42E4B980C612F5A01A03&profile=matroska
-#EXTINF:-1 group-title="212.159",M80
-http://212.159.163.109:9981/stream/channelid/41109396?ticket=4F98C9300B7EDFF33F3A3708EE7E5C68AAD2A562&profile=matroska
-#EXTINF:-1 group-title="212.159",M80
-http://212.159.163.109:9981/stream/channelid/1270198279?ticket=4BE8319E3C539752544E1EEC170350372D8136B6&profile=matroska
-#EXTINF:-1 group-title="212.159",Cidade FM
-http://212.159.163.109:9981/stream/channelid/221841923?ticket=7E4D191C361BEFBBCB1FDB817F7B4B80EB12DC4B&profile=matroska
-#EXTINF:-1 group-title="212.159",Cidade FM
-http://212.159.163.109:9981/stream/channelid/421758889?ticket=88089CEF9C14C408D411FCFEAB4BF52B09F27397&profile=matroska
-#EXTINF:-1 group-title="212.159",Smooth FM
-http://212.159.163.109:9981/stream/channelid/1089588354?ticket=372E6B15CA7DD89603287E28EDB743A9095BE086&profile=matroska
-#EXTINF:-1 group-title="212.159",Smooth FM
-http://212.159.163.109:9981/stream/channelid/1611409337?ticket=A923E631D112F8C7BCC2D59AD1A0F253853ED1E3&profile=matroska
-#EXTINF:-1 group-title="212.159",Antena 1
-http://212.159.163.109:9981/stream/channelid/588685534?ticket=0D6FD6FC102B411860540912BFD75FAEF39F58C2&profile=matroska
-#EXTINF:-1 group-title="212.159",Antena 1
-http://212.159.163.109:9981/stream/channelid/731011916?ticket=6C0CE2FB3D3505B60AB1BD10F6086EAF5C702573&profile=matroska
-#EXTINF:-1 group-title="212.159",Antena 2
-http://212.159.163.109:9981/stream/channelid/371114333?ticket=7BC2F5709F8D18CF0EA0CCEDFA2B6B978507D222&profile=matroska
-#EXTINF:-1 group-title="212.159",Antena 2
-http://212.159.163.109:9981/stream/channelid/1336431619?ticket=7D551A5052B1AF093AF5D82B5334BC58CE6FFDDC&profile=matroska
-#EXTINF:-1 group-title="212.159",Antena 3
-http://212.159.163.109:9981/stream/channelid/221034584?ticket=D337A3CCC5176B0750341A7B0C940D8F864EEEA4&profile=matroska
-#EXTINF:-1 group-title="212.159",Antena 3
-http://212.159.163.109:9981/stream/channelid/793905953?ticket=B55F1AE4B4C2D45C4542F0BEAA8751392A4749DF&profile=matroska
-#EXTINF:-1 group-title="212.159",RDP rica
-http://212.159.163.109:9981/stream/channelid/104030976?ticket=7704C49628F22B83FF098F983DB155C4BC94DA81&profile=matroska
-#EXTINF:-1 group-title="212.159",RDP rica
-http://212.159.163.109:9981/stream/channelid/1295037134?ticket=26C25D838AEF02E41E74FBFCC740DD5F22FFD447&profile=matroska
-#EXTINF:-1 group-title="212.159",LusitÐnia
-http://212.159.163.109:9981/stream/channelid/1010234074?ticket=5CF52BA421517D7431F3F44FDA7D8472A3ECEB50&profile=matroska
-#EXTINF:-1 group-title="212.159",LusitÐnia
-http://212.159.163.109:9981/stream/channelid/1920953715?ticket=ADA308A55A0F82F180F530991B4FD4E16449D63D&profile=matroska
-#EXTINF:-1 group-title="212.159",Antena 1 - Fado
-http://212.159.163.109:9981/stream/channelid/1313383110?ticket=0F2293A044C99BE569698C52832FC12D2229565A&profile=matroska
-#EXTINF:-1 group-title="212.159",Antena 1 - Fado
-http://212.159.163.109:9981/stream/channelid/1328811183?ticket=B41D276C5D07B8ED3D2EB1ABA9FDB41B20BF6D62&profile=matroska
-#EXTINF:-1 group-title="212.159",Antena 2 - ©pera
-http://212.159.163.109:9981/stream/channelid/75933996?ticket=7028D3846E5F43BDB8C3BF141F4E9977EF505847&profile=matroska
-#EXTINF:-1 group-title="212.159",Antena 2 - ©pera
-http://212.159.163.109:9981/stream/channelid/628709527?ticket=62CDE8640E3A852275A81F090C0BA8D69D17F455&profile=matroska
-#EXTINF:-1 group-title="212.159",Antena 1 - Vida
-http://212.159.163.109:9981/stream/channelid/1629348812?ticket=C62CCA84D44514735760A8EA2263534D95894D8F&profile=matroska
-#EXTINF:-1 group-title="212.159",Antena 1 - Vida
-http://212.159.163.109:9981/stream/channelid/1899170606?ticket=BF12CCC1C212DF1034FF56C6EE135D68E89100A2&profile=matroska
-#EXTINF:-1 group-title="212.159",Antena 1 - Memðria
-http://212.159.163.109:9981/stream/channelid/400753432?ticket=D75946700C5E54806C292FE127A973B869D61FCE&profile=matroska
-#EXTINF:-1 group-title="212.159",Antena 1 - Memðria
-http://212.159.163.109:9981/stream/channelid/643077824?ticket=994354A5B2179F8C8E7BC4D761D470232F6FD2E6&profile=matroska
 
 
 + + + + + http://222.255.50.244:9981/playlist/channels + + + + + 
