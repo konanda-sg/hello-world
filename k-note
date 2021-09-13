@@ -4432,6 +4432,8 @@ https://d2ko4czujk9652.cloudfront.net/hls/cnasctv/master.m3u8
 https://d2ko4czujk9652.cloudfront.net/hls/clr4ctv_cnas/master.m3u8
 https://d11h6a6nhl9kj9.cloudfront.net/hls/clr4ctv_suria/master.m3u8
 
+#EXTINF:-1 group-title="SG",CNA HD
+http://45.126.83.51/uq2663/h/h29/index2.m3u8
 
 #EXTINF:-1 group-title="SG",Channel newsAsia HD
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
