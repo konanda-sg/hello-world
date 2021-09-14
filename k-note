@@ -1142,7 +1142,7 @@ http://new-pro.tv:8080/get.php?username=Hotel-2021&password=Allroom&type=m3u < 2
 
 
 
-http://89.187.182.181:9090/SM_FHD_ENG_STARMOVIES/tracks-v1a1/index.m3u8
+
 
 #EXTINF:-1 group-title="BamarTV/Sports",beIN SPORTS 1PRE
 https://www.wopep.com/02_epl1_720p_UK/chunklist.m3u8
@@ -21322,6 +21322,7 @@ http://89.187.182.181:9090/SM_FHD-HINDI-STARPLUS/tracks-v1a1/index.m3u8
 http://89.41.180.253:8080/INDIA_HINDI/SONY_MIX/tracks-v1a1/mono.m3u8 N.A.
 
 
+
 #EXTINF:-1 group-title="misc/IN",SonyMaxHD |103
 http://103.213.238.194:8080/SonyMaxHD/index.m3u8
 #EXTINF:-1 group-title="misc/IN",SonyPix |103
@@ -21571,10 +21572,10 @@ STAR
 http://148.72.155.84/ENC-14/index.m3u8
 nick HD+
 http://148.72.155.84/ENC-15/index.m3u8
-#EXTINF:-1 group-title="misc/IN",&flix HD |TATAsky
+#EXTINF:-1 group-title="misc/IN",&flix HD |TATAsky *offline
 http://148.72.155.84/ENC-16/index.m3u8
 http://148.72.155.84/ENC-16/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="misc/IN",STAR MOVIES HD |TATAsky
+#EXTINF:-1 group-title="misc/IN",STAR MOVIES HD |TATAsky *offline
 http://148.72.155.84/ENC-17/index.m3u8
 http://148.72.155.84/ENC-17/tracks-v1a1/mono.m3u8
 http://tvflix03.ddns.net/ENC-17/tracks-v1a1/mono.m3u8 < offline
@@ -21614,8 +21615,9 @@ nick HD+
 http://jupiter.bdcabletv.com/ENC-15/index.m3u8
 #EXTINF:-1 group-title="misc/IN",&flix HD |TATAsky
 http://jupiter.bdcabletv.com/ENC-16/index.m3u8
-#EXTINF:-1 group-title="misc/IN",STAR MOVIES HD |TATAsky
+#EXTINF:-1 group-title="misc/IN",STAR MOVIES HD |TATAsky *offline
 http://jupiter.bdcabletv.com/ENC-17/index.m3u8
+http://jupiter.bdcabletv.com/ENC-17/mono.m3u8
 CN HD+
 http://jupiter.bdcabletv.com/ENC-18/index.m3u8
 #EXTINF:-1 group-title="misc/IN",TEN 1 |TATAsky
