@@ -1,0 +1,4 @@
+#EXTM3U 
+#EXT-X-VERSION:3 
+#EXT-X-STREAM-INF:BANDWIDTH=494100,RESOLUTION=320x180,NAME="180p"
+http://tigerfights.xyz:80/live/Cadillac/Cadillac/3041854.m3u8
