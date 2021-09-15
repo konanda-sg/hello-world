@@ -841,43 +841,7 @@ https://wowzaprodhd35-lh.akamaihd.net/i/a9af8597_1@355233/master.m3u8
 >>> http://www.totalsportek.tv/watch/sport-tv-5/ 
 <<<<<<< HEAD:k-note
 
-http://server.sibfungold.info:8080/get.php?username=gaicu84&password=Vv094Vv094wOlsHwOlsH&type=m3u < 200-198
 
-
-#EXTINF:-1group-title="Sport",Bein premium 1
-http://ycn1.bawsaraskhou.xyz.global.prod.fastly.net:80/live/6161655/index.m3u8
-#EXTINF:-1group-title="Sport",Bein premium2
-http://ycn1.bawsaraskhou.xyz.global.prod.fastly.net:80/live/616194987/index.m3u8
-#EXTINF:-1group-title="Sport",Bein premium3
-http://ycn1.bawsaraskhou.xyz.global.prod.fastly.net:80/live/6151278887/index.m3u8
-#EXTINF:-1group-title="Sport",Bein Sport1
-http://55.1-bour.xyz:80/live/918454578/index.m3u8
-#EXTINF:-1group-title="Sport",Bein Sport2
-http://55.1-bour.xyz:80/live/69854211/index.m3u8
-#EXTINF:-1group-title="Sport",Bein Sport3
-http://55.1-bour.xyz:80/live/645587700/index.m3u8
-#EXTINF:-1group-title="Sport",Bein Sport4
-http://55.abdakaroukhai.xyz:80/live/9787488847/index.m3u8
-#EXTINF:-1group-title="Sport",Bein Sport5
-http://55.abdakaroukhai.xyz:80/live/610303030/index.m3u8
-#EXTINF:-1group-title="Sport",Bein Sport6
-http://55.abdakaroukhai.xyz:80/live/1515000000/index.m3u8
-#EXTINF:-1group-title="Sport",Bein Sport7
-http://55.abdakaroukhai.xyz:80/live/791001144/index.m3u8
-#EXTINF:-1group-title="Sport",Bein SportExtera1
-http://55.abdakaroukhai.xyz:80/live/9962564400/index.m3u8
-#EXTINF:-1group-title="Sport",Bein SportExtera2
-http://55.abdakaroukhai.xyz:80/live/880025552/index.m3u8
-
-#EXTINF:-1group-title="Sport",FOX Sport1
-https://vips-livecdn.fptplay.net/hda2/foxsports_vhls.smil/chunklist.m3u8
-https://vips-livecdn.fptplay.net/hda2/foxsports_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1group-title="Sport",FOX Sport2
-https://vips-livecdn.fptplay.net/hda3/foxsports2_vhls.smil/chunklist.m3u8
-https://vips-livecdn.fptplay.net/hda3/foxsports2_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1group-title="Sport",FOX Sport3
-https://vips-livecdn.fptplay.net/hda2/foxsports3_vhls.smil/chunklist.m3u8
-https://vips-livecdn.fptplay.net/hda2/foxsports3_vhls.smil/chunklist_b5000000.m3u8
 
 http://www.sportdoofree.com/tv-online?kp=epl1&dd=epl1
 http://sportdoofree.com/tv-online?kp=epl1&dd=epl1
@@ -1178,7 +1142,7 @@ http://new-pro.tv:8080/get.php?username=Hotel-2021&password=Allroom&type=m3u < 2
 
 
 
-
+http://89.187.182.181:9090/SM_FHD_ENG_STARMOVIES/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 group-title="BamarTV/Sports",beIN SPORTS 1PRE
 https://www.wopep.com/02_epl1_720p_UK/chunklist.m3u8
@@ -4104,27 +4068,20 @@ http://104275ooyala-lh.akamaihd.net/i/forevergroup_02@449366/master.m3u8
 
 + + + + + myanmarcast / MMnet + + + + +
 
-#EXTINF:-1 group-title="MM /misc",Channelk
-https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_hi/index.m3u8
-https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_mobile/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.myanmarcast.com/sites/default/files/inline-images/dvb.jpg" group-title="MM /misc", DVB TV |MNet
 https://l1-xl1.myanmarnet.com/relay/dvb/ch1/stream.m3u8
 #EXTINF:-1 tvg-logo="http://www.myanmarcast.com/sites/default/files/inline-images/Eleven-Broadcasting-Logo---851x315.jpg", Eleven Media |MNet
 https://l1-xl1.myanmarnet.com/relay/eleven/ch1/stream_hi/index.m3u8
 https://l1-xl1.myanmarnet.com/relay/eleven/ch1/stream.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.myanmarcast.com/sites/default/files/inline-images/mcs.jpg", MCS* |MNet
 https://l1-xl1.myanmarnet.com/relay2/mcs/ch1/stream_hi/index.m3u8
 https://l1-xl1.myanmarnet.com/relay2/mcs/ch1/stream.m3u8
 https://l1-xl1.myanmarnet.com/relay2/mcs/ch1/stream_standard/index.m3u8
 https://l1-xl1.myanmarnet.com/relay2/mcs/ch1/stream_mobile/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.mizzima.tv/wp-content/uploads/2018/03/mizzima_tv_logo_transparant.png", Mizzima TV |MNet
 https://l1-xl1.myanmarnet.com/relay/mizzima/ch1/stream_hi/index.m3u8
 https://l1-xl1.myanmarnet.com/relay/mizzima/ch1/stream.m3u8
 https://l1-xl1.myanmarnet.com/relay/mizzima/ch1/stream_standard/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.myanmarcast.com/sites/default/files/inline-images/MNTV%2Blogo.png" group-title="MM /misc", mntv |MNet
 https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream_hi/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.myanmarcast.com/sites/default/files/inline-images/MNTV%2Blogo.png" group-title="MM /misc", mntv' |MNet
@@ -4179,7 +4136,6 @@ https://edge-stream-07.otv.co.th/livestream/Channel7.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/Channel_9.png", Channel 9 |mmplay
 https://5a13fe32ef748.streamlock.net/mmplay/channel9/chunklist.m3u8
-https://5a13fe32ef748.streamlock.net/mmplay/channel9/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDIwIDE6MDY6MjAgUE0maGFzaF92YWx1ZT1XeVNiRmx6OTVuK2Mxemg5Nlp1NFJnPT0mdmFsaWRtaW51dGVzPTI1JnN0cm1fbGVuPTE1
 
 #EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/Channel_9.png", Channel 9 |otv
 https://cdn-edge.otv.co.th/mmplay/channel9/playlist.m3u8
@@ -4227,7 +4183,6 @@ https://edge-stream-07.otv.co.th/livestream/MRTV.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://static.pyoneplay.com/static/channel/ch_logo_1578471575.png", MRTV-4 |mmplay
 https://5a13fe32ef748.streamlock.net/mmplay/mrtv-4/chunklist.m3u8
-https://5a13fe32ef748.streamlock.net/mmplay/mrtv-4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://static.pyoneplay.com/static/channel/ch_logo_1578471575.png", MRTV-4 |otv
 https://cdn-edge.otv.co.th/mmplay/mrtv-4/playlist.m3u8
@@ -4236,7 +4191,6 @@ https://edge-stream-07.otv.co.th/livestream/MRTV-4.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/MRTV-E.png", MRTV Entertainment |mmplay
 https://5a13fe32ef748.streamlock.net/mmplay/mrtv-entertainment/chunklist.m3u8
-https://5a13fe32ef748.streamlock.net/mmplay/mrtv-entertainment/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDIwIDE6MDk6NDggUE0maGFzaF92YWx1ZT14bmFGNVhHRWlmS3Z0eEFyVW44R293PT0mdmFsaWRtaW51dGVzPTI1JnN0cm1fbGVuPTI1
 
 #EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/MRTV-E.png", MRTV Entertainment |otv
 https://cdn-edge.otv.co.th/mmplay/mrtv-entertainment/playlist.m3u8
@@ -7797,7 +7751,7 @@ http://178.62.107.180/woh/index.m3u8?id=47856
 n.a. http://178.62.107.180/woh/index.m3u8?id=47857
 #EXTINF:-1 group-title="178.62/IN",STAR WORLD
 http://178.62.107.180/woh/index.m3u8?id=47858
-#EXTINF:-1 group-title="178.62/IN",STAR MOVIES SELECT *offline
+#EXTINF:-1 group-title="178.62/IN",STAR MOVIES SELECT
 http://178.62.107.180/woh/index.m3u8?id=47859
 #EXTINF:-1 group-title="178.62/IN",STAR WORLD
 http://178.62.107.180/woh/index.m3u8?id=47860
@@ -18526,6 +18480,37 @@ http://50.7.34.155:2200/BR/disneyxd-br/tracks-v1a1/mono.m3u8 < OK << to check fo
 http://50.7.34.155:2200/EX/BEIN_SPORTS_MAX1HD-ar/tracks-v1a1/mono.m3u8?token=
 
 
+
+Fox Life
+NATGEO
+NATGEO WILD
+STAR MOVIES / STAR MOVIES SELECT
+STAR SPORTS 1,2
+STAR SPORTS SELECT 1,2
+STAR WORLD
+STAR WORLD PREMIER
+STAR WORLD LIFT
+
+SONY MAX
+SONY MAX 2
+SONY WAH
+SONY PIX
+SONY SIZ
+SONY TEN 1,2,3,4
+
+ZEE CAFE
+&flix
+&prive
+Zee World
+Zee Smile
+Zee Bollynova
+Zee Bollymovies
+
+HINDI - ZEE CINEMA, & TV, &pictures, &xplor
+
+Movies Now, MNX, Romedy Now, MN+, 
+
+
 + + + 
 
 http://156.146.43.241:2200 < NO
@@ -19167,7 +19152,7 @@ http://46.105.112.116/?watch=R-EX/ENGLISH_HBO_HD-in/index.m3u8?token=
 
 #EXTINF:-1 group-title="46/IN",STAR MOVIES HD |46
 http://46.105.112.116/?watch=R-EX/ENGLISH_STAR_MOVIES_HD-in/index.m3u8?token=
-#EXTINF:-1 group-title="46/IN",STAR MOVIES SELECT |46 *offline
+#EXTINF:-1 group-title="46/IN",STAR MOVIES SELECT |46
 http://46.105.112.116/?watch=R-EX/ENGLISH_STAR_MOVIES_SELECT_HD-in/index.m3u8?token=
 http://46.105.112.116/?watch=R-EX/ENGLISH_STAR_MOVIES_SELECT_HD-in/tracks-v1a1/mono.m3u8?token=
 
@@ -21337,7 +21322,6 @@ http://89.187.182.181:9090/SM_FHD-HINDI-STARPLUS/tracks-v1a1/index.m3u8
 http://89.41.180.253:8080/INDIA_HINDI/SONY_MIX/tracks-v1a1/mono.m3u8 N.A.
 
 
-
 #EXTINF:-1 group-title="misc/IN",SonyMaxHD |103
 http://103.213.238.194:8080/SonyMaxHD/index.m3u8
 #EXTINF:-1 group-title="misc/IN",SonyPix |103
@@ -21587,10 +21571,10 @@ STAR
 http://148.72.155.84/ENC-14/index.m3u8
 nick HD+
 http://148.72.155.84/ENC-15/index.m3u8
-#EXTINF:-1 group-title="misc/IN",&flix HD |TATAsky *offline
+#EXTINF:-1 group-title="misc/IN",&flix HD |TATAsky
 http://148.72.155.84/ENC-16/index.m3u8
 http://148.72.155.84/ENC-16/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="misc/IN",STAR MOVIES HD |TATAsky *offline
+#EXTINF:-1 group-title="misc/IN",STAR MOVIES HD |TATAsky
 http://148.72.155.84/ENC-17/index.m3u8
 http://148.72.155.84/ENC-17/tracks-v1a1/mono.m3u8
 http://tvflix03.ddns.net/ENC-17/tracks-v1a1/mono.m3u8 < offline
@@ -21630,9 +21614,8 @@ nick HD+
 http://jupiter.bdcabletv.com/ENC-15/index.m3u8
 #EXTINF:-1 group-title="misc/IN",&flix HD |TATAsky
 http://jupiter.bdcabletv.com/ENC-16/index.m3u8
-#EXTINF:-1 group-title="misc/IN",STAR MOVIES HD |TATAsky *offline
+#EXTINF:-1 group-title="misc/IN",STAR MOVIES HD |TATAsky
 http://jupiter.bdcabletv.com/ENC-17/index.m3u8
-http://jupiter.bdcabletv.com/ENC-17/mono.m3u8
 CN HD+
 http://jupiter.bdcabletv.com/ENC-18/index.m3u8
 #EXTINF:-1 group-title="misc/IN",TEN 1 |TATAsky
@@ -22584,7 +22567,8 @@ Real Url: 185.30.145.49:25461     Status: Active    Created: 8/8/2021 7:15:22 AM
 
 
 
-
+http://194.233.66.151:25461/get.php?username=rumah&password=home&type=m3u
+Real Url: 194.233.66.151:25461     Status: Active    Created: 15/6/2021 10:27:32 AM     Expires: Null    Active Connections: 77     Maximum Connections: 10000     Formats: "m3u8","ts","rtmp"
 
 http://194.233.73.66:2082/get.php?username=freehitv&password=freehitv&type=m3u
 Real Url: 194.233.73.66:2082     Status: Active    Created: 10/9/2021 11:52:42 AM     Expires: Null    Active Connections: 8     Maximum Connections: 100     Formats: "m3u8","ts","rtmp"
@@ -23128,8 +23112,7 @@ Real Url: 191.243.149.178:25461     Status: Active    Created: 24/6/2021 10:11:0
 + + + + + 194.233.66.151:25461 + + + + + Null + + + + +
 
 http://194.233.66.151:25461/get.php?username=rumah&password=home&type=m3u
-Real Url: 194.233.66.151:25461     Status: Active    Created: 15/6/2021 10:27:32 AM     Expires: Null    Active Connections: 23     Maximum Connections: 10000     Formats: "m3u8","ts","rtmp" < SEA CH << DOWN
-
+Real Url: 194.233.66.151:25461     Status: Active    Created: 15/6/2021 10:27:32 AM     Expires: Null    Active Connections: 23     Maximum Connections: 10000     Formats: "m3u8","ts","rtmp" < SEA CH <<
 
 #EXTINF:-1 group-title="194.233/MY",Mission Impossible
 http://194.233.66.151:25461/streaming/clients_live.php?extension=ts&username=rumah&password=home&stream=299
@@ -25524,6 +25507,10 @@ Real Url: thespeedmedia.watch:2086     Status: Active    Created: 18/1/2021 6:18
 
 
 + + + + + tigerfights.xyz:80 + + + + + https://rebrand.ly/tigfig
+
+
+http://tigerfights.xyz/get.php?username=Cadillac&password=Cadillac&type=m3u
+Real Url: tigerfights.xyz:80     Status: Active    Created: 26/6/2021 1:10:37 PM     Expires: 6/10/2021 12:21:26 AM     Maximum Connections: 4     Formats: "m3u8","ts","rtmp"
 
 http://tigerfights.xyz:80/get.php?username=Marques&password=Marques&type=m3u
 Real Url: tigerfights.xyz:80     Status: Active    Created: 28/1/2020 2:00:45 AM     Expires: 21/2/2022 11:00:25 PM     Maximum Connections: 4     Formats: "m3u8","ts","rtmp"
