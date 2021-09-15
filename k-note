@@ -23114,6 +23114,8 @@ Real Url: 191.243.149.178:25461     Status: Active    Created: 24/6/2021 10:11:0
 http://194.233.66.151:25461/get.php?username=rumah&password=home&type=m3u
 Real Url: 194.233.66.151:25461     Status: Active    Created: 15/6/2021 10:27:32 AM     Expires: Null    Active Connections: 23     Maximum Connections: 10000     Formats: "m3u8","ts","rtmp" < SEA CH <<
 
+
+
 #EXTINF:-1 group-title="194.233/MY",Mission Impossible
 http://194.233.66.151:25461/streaming/clients_live.php?extension=ts&username=rumah&password=home&stream=299
 http://194.233.66.151:25461/live/rumah/home/299.m3u8
@@ -25512,6 +25514,9 @@ Real Url: thespeedmedia.watch:2086     Status: Active    Created: 18/1/2021 6:18
 http://tigerfights.xyz/get.php?username=Cadillac&password=Cadillac&type=m3u
 Real Url: tigerfights.xyz:80     Status: Active    Created: 26/6/2021 1:10:37 PM     Expires: 6/10/2021 12:21:26 AM     Maximum Connections: 4     Formats: "m3u8","ts","rtmp"
 
+http://tigerfights.xyz/get.php?username=SHAWN&password=SHAWN&type=m3u
+Real Url: tigerfights.xyz:80     Status: Active    Created: 13/1/2021 6:54:49 PM     Expires: 15/10/2021 12:57:53 AM     Maximum Connections: 6     Formats: "m3u8","ts","rtmp"
+
 http://tigerfights.xyz:80/get.php?username=Marques&password=Marques&type=m3u
 Real Url: tigerfights.xyz:80     Status: Active    Created: 28/1/2020 2:00:45 AM     Expires: 21/2/2022 11:00:25 PM     Maximum Connections: 4     Formats: "m3u8","ts","rtmp"
 
@@ -25522,6 +25527,7 @@ Real Url: tigerfights.xyz:80     Status: Active    Created: 2/9/2020 12:00:00 AM
 http://tigerfights.xyz:80/live/57101910/08426299/2855698.ts
 #EXTINF:-1 group-title="TigFig",PC: Premier League TV
 http://tigerfights.xyz:80/live/57101910/08426299/2855720.ts
+https://www.dropbox.com/s/dl/fom7yfnqnry9v4q/PL-TV.m3u8
 #EXTINF:-1 group-title="TigFig",PC: Peacock PPV 1
 http://tigerfights.xyz:80/live/57101910/08426299/2855678.ts
 #EXTINF:-1 group-title="TigFig",PC: Peacock PPV 2
@@ -25545,6 +25551,9 @@ http://tigerfights.xyz:80/live/57101910/08426299/2855687.ts
 
 #EXTINF:-1 group-title="TigFig",SPORTS: NBC Sports Network
 http://tigerfights.xyz:80/live/57101910/08426299/3041854.ts
+http://tigerfights.xyz:80/live/Cadillac/Cadillac/3041854.m3u8
+https://www.dropbox.com/s/dl/4240g1vobfeboe6/nbcsn.m3u8
+http://streamwat.ch/custom/player/#https://www.dropbox.com/s/dl/4240g1vobfeboe6/nbcsn.m3u8
 
 #EXTINF:-1 group-title="TigFig",MY: ASTRO ASSP HD
 http://tigerfights.xyz:80/live/57101910/08426299/2599208.ts
@@ -25651,6 +25660,71 @@ http://tigerfights.xyz:80/live/57101910/08426299/2107272.ts
 http://tigerfights.xyz:80/live/57101910/08426299/2107273.ts
 #EXTINF:-1 group-title="TigFig",DSTV: SuperSport Variety 4
 http://tigerfights.xyz:80/live/57101910/08426299/2107274.ts
+
+
+#EXTINF:-1,Live Events 01: 
+http://tigerfights.xyz:80/Cadillac/Cadillac/3161746.m3u8
+#EXTINF:-1,Live Events 02: http://tigerfights.xyz:80/Cadillac/Cadillac/3161734.m3u8
+#EXTINF:-1,Live Events 03: 
+http://tigerfights.xyz:80/Cadillac/Cadillac/3161735.m3u8
+#EXTINF:-1,Live Events 04: http://tigerfights.xyz:80/Cadillac/Cadillac/3161736.m3u8
+#EXTINF:-1,Live Events 05: 
+http://tigerfights.xyz:80/Cadillac/Cadillac/3161737.m3u8
+#EXTINF:-1,Live Events 06: http://tigerfights.xyz:80/Cadillac/Cadillac/3161738.m3u8
+#EXTINF:-1,Live Events 07: 
+http://tigerfights.xyz:80/Cadillac/Cadillac/3161739.m3u8
+#EXTINF:-1,Live Events 08: 
+http://tigerfights.xyz:80/Cadillac/Cadillac/3161740.m3u8
+#EXTINF:-1,Live Events 09: 
+http://tigerfights.xyz:80/Cadillac/Cadillac/3161741.m3u8
+#EXTINF:-1,Live Events 10: http://tigerfights.xyz:80/Cadillac/Cadillac/3161742.m3u8
+#EXTINF:-1,Live Events 11: 
+http://tigerfights.xyz:80/Cadillac/Cadillac/3161743.m3u8
+#EXTINF:-1,Live Events 12: 
+http://tigerfights.xyz:80/Cadillac/Cadillac/3161744.m3u8
+#EXTINF:-1,Live Events 13: 
+http://tigerfights.xyz:80/Cadillac/Cadillac/3161745.m3u8
+
+#EXTINF:-1,PC: Peacock PPV 1
+http://tigerfights.xyz:80/Cadillac/Cadillac/2855678.m3u8
+#EXTINF:-1,PC: Peacock PPV 2
+http://tigerfights.xyz:80/Cadillac/Cadillac/2855679.m3u8
+#EXTINF:-1,PC: Peacock PPV 3
+http://tigerfights.xyz:80/Cadillac/Cadillac/2855680.m3u8
+#EXTINF:-1,PC: Peacock PPV 4
+http://tigerfights.xyz:80/Cadillac/Cadillac/2855681.m3u8
+#EXTINF:-1,PC: Peacock PPV 5
+http://tigerfights.xyz:80/Cadillac/Cadillac/2855682.m3u8
+#EXTINF:-1,PC: Peacock PPV 6
+http://tigerfights.xyz:80/Cadillac/Cadillac/2855683.m3u8
+#EXTINF:-1,PC: Peacock PPV 7
+http://tigerfights.xyz:80/Cadillac/Cadillac/2855684.m3u8
+#EXTINF:-1,PC: Peacock PPV 8
+http://tigerfights.xyz:80/Cadillac/Cadillac/2855685.m3u8
+#EXTINF:-1,PC: Peacock PPV 9
+http://tigerfights.xyz:80/Cadillac/Cadillac/2855686.m3u8
+#EXTINF:-1,PC: Peacock PPV 10
+http://tigerfights.xyz:80/Cadillac/Cadillac/2855687.m3u8
+#EXTINF:-1,PC: Peacock PPV 11
+http://tigerfights.xyz:80/Cadillac/Cadillac/2855688.m3u8
+#EXTINF:-1,PC: Peacock PPV 12
+http://tigerfights.xyz:80/Cadillac/Cadillac/2855689.m3u8
+#EXTINF:-1,PC: Peacock PPV 13
+http://tigerfights.xyz:80/Cadillac/Cadillac/2855690.m3u8
+#EXTINF:-1,PC: Peacock PPV 14
+http://tigerfights.xyz:80/Cadillac/Cadillac/2855691.m3u8
+#EXTINF:-1,PC: Peacock PPV 15
+http://tigerfights.xyz:80/Cadillac/Cadillac/2855692.m3u8
+#EXTINF:-1,PC: Peacock PPV 16
+http://tigerfights.xyz:80/Cadillac/Cadillac/2855693.m3u8
+#EXTINF:-1,PC: Peacock PPV 17
+http://tigerfights.xyz:80/Cadillac/Cadillac/2855694.m3u8
+#EXTINF:-1,PC: Peacock PPV 18
+http://tigerfights.xyz:80/Cadillac/Cadillac/2855695.m3u8
+#EXTINF:-1,PC: Peacock PPV 19
+http://tigerfights.xyz:80/Cadillac/Cadillac/2855696.m3u8
+#EXTINF:-1,PC: Peacock PPV 20
+http://tigerfights.xyz:80/Cadillac/Cadillac/2855697.m3u8
 
 #EXTINF:-1 group-title="TigFig",USA: MTV
 http://tigerfights.xyz:80/live/57101910/08426299/3086995.ts
