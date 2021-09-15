@@ -1401,7 +1401,7 @@ https://live.andaman888th.com/live/tpf1/playlist.m3u8
 https://live.andaman888th.com/live/tpf3/playlist.m3u8
 
 
-+ + + + mazystream + + + 
++ + + + mazystream + + + http://www.mazystreams.xyz/ + + + 
 
 http://england.mazystreams.xyz/live/1/chunks.m3u8
 http://eu.mazystreams.xyz/live/1/chunks.m3u8
@@ -2143,8 +2143,9 @@ https://channelstream.watch/rmcsport_1.php
 https://channelstream.watch/rmcsport_2.php
 
 
-+ + + + + https://www.usagoals.net/b/football.html + + + + + 
++ + + + + https://www.usagoals.net/b/football.html + + + + + https://www.usagoals.net/b/football.html + + + many ADs
 
+http://www.sports-stream.site/usagoals/ch5.html
 
 https://href.li/?http://www.usagoals.video/iptv/btsport2.htm
 
@@ -2269,7 +2270,7 @@ http://techoreels.com/clip/s1.html < TOR S1
 http://techoreels.com/clip/s1.html
 http://techoreels.com/clip/s3.html < TOR S3
 
->> cr7 > mazystream + ++ http://streamwat.ch/custom/player/#http://londonb.mazystreams.xyz/live/1/playlist.m3u8 <<< * * * 
+>> cr7 > http://www.mazystreams.xyz/ + ++ http://streamwat.ch/custom/player/#http://londonb.mazystreams.xyz/live/1/playlist.m3u8 <<< * * * 
 
 mazy 1
 http://londonb.mazystreams.xyz/live/1/playlist.m3u8?wmsAuthSign=
@@ -2573,8 +2574,16 @@ https://href.li/?http://yoursports.stream/ing/nbcsn NBCSN
 
 
 
-+ + + + + http://livesport24.net/ + + + + + all.ive.zone
++ + + + + http://livesport24.net/ + + + + + all.ive.zone 
++ + + + http://livesport24.net/football-streams/#source-1 + + + + + many ADs
+http://emb.apl64.me/player/live.php?id=168501
+<iframe allowFullScreen frameborder=0 marginheight=0 marginwidth=0 scrolling='no'src="//emb.apl64.me/player/live.php?id=168501&w=700&h=480" style="width: 700px; height: 480px">no iframe</iframe>
 
+http://timesports.cc/match2.php
+http://timesports.cc/match3.php
+
+
+-/-/-/-/-/-
 https://all.ive.zone/ch1.php
 https://all.ive.zone/ch2.php
 https://all.ive.zone/ch3.php
@@ -3092,11 +3101,26 @@ https://teleriumtv.net/ingest09/25535.m3u8?sf=MzVwczEwU2JE&token=g-n-mYn-3ZICzSx
 
 
 
-+ + + + http://www.ovostreams.com/soccerstreams/ + + + + + 
-
++ + + + http://www.ovostreams.com/soccerstreams/ + + + + + VPN
 
 http://www.ovostreams.com/stream1.php
 
+
+-/-/-/-/- 15/09/2021 -/-/-/-
+http://137.184.57.55/live/abr_s-1/playlist.m3u8?wmsAuthSign=
+http://142.93.234.240/live/abr_s-1/playlist.m3u8?wmsAuthSign=
+http://68.183.34.96/live/abr_s-2/playlist.m3u8?wmsAuthSign=
+http://178.62.113.144/live/abr_s-3/playlist.m3u8?wmsAuthSign=
+http://139.59.168.61/live/abr_s-4/playlist.m3u8?wmsAuthSign=
+http://138.68.152.221/live/abr_s-5/playlist.m3u8?wmsAuthSign=
+
+-/-/-/-/-/-
+http://138.68.152.221/live/abr_s-1/playlist.m3u8?wmsAuthSign=
+http://139.59.168.61/live/abr_s-3/playlist.m3u8?wmsAuthSign=
+http://167.172.43.98/live/abr_s-1/playlist.m3u8?wmsAuthSign=
+http://178.62.78.129/live/abr_s-4/playlist.m3u8?wmsAuthSign=
+http://178.62.78.129/live/abr_s-5/playlist.m3u8?wmsAuthSign=
+http://68.183.34.253/live/abr_s-2/playlist.m3u8?wmsAuthSign=
 
 
 
@@ -25662,28 +25686,36 @@ http://tigerfights.xyz:80/live/57101910/08426299/2107273.ts
 http://tigerfights.xyz:80/live/57101910/08426299/2107274.ts
 
 
-#EXTINF:-1,Live Events 01: 
+#EXTINF:-1,EVENT 1"
 http://tigerfights.xyz:80/Cadillac/Cadillac/3161746.m3u8
-#EXTINF:-1,Live Events 02: http://tigerfights.xyz:80/Cadillac/Cadillac/3161734.m3u8
-#EXTINF:-1,Live Events 03: 
+https://www.dropbox.com/s/dl/ktipnn2x9mfoliy/event1.m3u8
+#EXTINF:-1,EVENT 2"
+http://tigerfights.xyz:80/Cadillac/Cadillac/3161734.m3u8
+https://www.dropbox.com/s/dl/h5xmw5jq212341m/event2.m3u8
+#EXTINF:-1,EVENT 3"
 http://tigerfights.xyz:80/Cadillac/Cadillac/3161735.m3u8
-#EXTINF:-1,Live Events 04: http://tigerfights.xyz:80/Cadillac/Cadillac/3161736.m3u8
-#EXTINF:-1,Live Events 05: 
+https://www.dropbox.com/s/dl/y1ovbqh3kuctrf7/event3.m3u8
+#EXTINF:-1,EVENT 4"
+http://tigerfights.xyz:80/Cadillac/Cadillac/3161736.m3u8
+https://www.dropbox.com/s/dl/s56m5219cgz0q60/event4.m3u8
+#EXTINF:-1,EVENT 5"
 http://tigerfights.xyz:80/Cadillac/Cadillac/3161737.m3u8
-#EXTINF:-1,Live Events 06: http://tigerfights.xyz:80/Cadillac/Cadillac/3161738.m3u8
-#EXTINF:-1,Live Events 07: 
+https://www.dropbox.com/s/dl/8g14pvxecdsrlk3/event5.m3u8
+#EXTINF:-1,EVENT 6"
+http://tigerfights.xyz:80/Cadillac/Cadillac/3161738.m3u8
+https://www.dropbox.com/s/dl/irxljbmtqz44cid/event6.m3u8
+#EXTINF:-1,EVENT 7"
 http://tigerfights.xyz:80/Cadillac/Cadillac/3161739.m3u8
-#EXTINF:-1,Live Events 08: 
+https://www.dropbox.com/s/dl/jfst0ync8s4bv6b/event7.m3u8
+#EXTINF:-1,EVENT 8"
 http://tigerfights.xyz:80/Cadillac/Cadillac/3161740.m3u8
-#EXTINF:-1,Live Events 09: 
+https://www.dropbox.com/s/dl/5b772zwh5utzkof/event8.m3u8
+#EXTINF:-1,EVENT 9"
 http://tigerfights.xyz:80/Cadillac/Cadillac/3161741.m3u8
-#EXTINF:-1,Live Events 10: http://tigerfights.xyz:80/Cadillac/Cadillac/3161742.m3u8
-#EXTINF:-1,Live Events 11: 
-http://tigerfights.xyz:80/Cadillac/Cadillac/3161743.m3u8
-#EXTINF:-1,Live Events 12: 
-http://tigerfights.xyz:80/Cadillac/Cadillac/3161744.m3u8
-#EXTINF:-1,Live Events 13: 
-http://tigerfights.xyz:80/Cadillac/Cadillac/3161745.m3u8
+https://www.dropbox.com/s/dl/6ypd7wb6vhzgykm/event9.m3u8
+#EXTINF:-1,EVENT 10"
+http://tigerfights.xyz:80/Cadillac/Cadillac/3161742.m3u8
+https://www.dropbox.com/s/dl/kuo8n5xjhdi1ht6/event10.m3u8
 
 #EXTINF:-1,PC: Peacock PPV 1
 http://tigerfights.xyz:80/Cadillac/Cadillac/2855678.m3u8
