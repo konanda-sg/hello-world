@@ -18509,7 +18509,7 @@ http://212.224.98.208:2200/EX/FR_RMC_SPORT6_HD-fr/index.m3u8?token=
 http://212.224.98.208:2200/EX/FR_RMC_SPORT7_HD-fr/index.m3u8?token=
 http://212.224.98.208:2200/EX/FR_RMC_SPORT8_HD-fr/index.m3u8?token=
 http://212.224.98.208:2200/EX/FR_RMC_SPORT9_HD-fr/index.m3u8?token=
-
+http://212.224.98.212:2200/BR/Fox_Sports_2_HD-br/index.m3u8?token=
 
 token=123zzzaaaxxaazzzxxx987
 token=1f9a2a0ab1c254253c82d5ee2d2abea8
@@ -18678,6 +18678,801 @@ https://wyjs.tk/index.php/http://212.102.60.40:2200/R-EX/HINDI_STAR_GOLD_SELECT_
 https://wyjs.tk/index.php/http://212.224.98.208:2200/EX/FR_RMC_SPORT1_HD-fr/index.m3u8?token=
 
 
+-/-/-/-/-/- 212.102.60.40:2200 -/-/-/-/-/-  
+
+http://212.102.60.40:2200/R-EX/TELUGU_STAR_MAA_HD-in/index.m3u8?token=
+http://212.102.60.40:2200/EX/bein1FHD-ar/index.m3u8?token=
+
+#EXTINF:-1 group-title="212/IN",SuperSport Cricket |212
+http://212.102.60.40:2200/AFR-EX/SuperSport_Cricket_FHD-dstv/index.m3u8?token=
+#EXTINF:-1 tvg-id="ss.football.ze" tvg-name="ss.football.ze" group-title="212/IN",SuperSport Football |212
+http://212.102.60.40:2200/AFR-EX/SuperSport_Football_FHD-dstv/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",SuperSport Golf |212
+http://212.102.60.40:2200/AFR-EX/Supersport_Golf_FHD-dstv/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",SuperSport Grandstand |212
+http://212.102.60.40:2200/AFR-EX/SuperSport_Grandstand_FHD-dstv/index.m3u8?token=
+#EXTINF:-1 tvg-id="ss.la.liga.ze" tvg-name="ss.la.liga.ze" group-title="212/IN",SuperSport LaLiga |212
+http://212.102.60.40:2200/AFR-EX/SuperSport_LaLiga_FHD-dstv/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",SuperSport PSL |212
+http://212.102.60.40:2200/AFR-EX/SuperSport_PSL_FHD-dstv/index.m3u8?token=
+#EXTINF:-1 tvg-id="ss.premier.league.ze" tvg-name="ss.premier.league.ze" group-title="212/IN",SuperSport Premier League |212
+http://212.102.60.40:2200/AFR-EX/SuperSport_Premier_League_FHD-dstv/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",SuperSport Rugby |212
+http://212.102.60.40:2200/AFR-EX/SuperSport_Rugby_FHD-dstv/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",SuperSport Tennis |212
+http://212.102.60.40:2200/AFR-EX/SuperSport_Tennis_FHD-dstv/index.m3u8?token=
+#EXTINF:-1 tvg-id="ss.variety.1.ze" tvg-name="ss.variety.1.ze" group-title="212/IN",SuperSport Variety_1 |212
+http://212.102.60.40:2200/AFR-EX/SuperSport_Variety_1_FHD-dstv/index.m3u8?token=
+#EXTINF:-1 tvg-id="ss.variety.2.ze" tvg-name="ss.variety.2.ze" group-title="212/IN",SuperSport Variety_2 |212
+http://212.102.60.40:2200/AFR-EX/SuperSport_Variety_2_FHD-dstv/index.m3u8?token=
+#EXTINF:-1 tvg-id="ss.variety.4.ze" tvg-name="ss.variety.4.ze" group-title="212/IN",SuperSport Variety_4 |212
+http://212.102.60.40:2200/AFR-EX/SuperSport_Variety_4_FHD-dstv/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",SuperSport WWE |212
+http://212.102.60.40:2200/AFR-EX/SuperSport_WWE_FHD-dstv/index.m3u8?token=
+http://212.102.60.40:2200/AFR-EX/SuperSport_Cricket_AZ_FHD-dstv/index.m3u8?token=
+#EXTINF:-1 tvg-id="ss.mximo.1.ze" tvg-name="ss.mximo.1.ze" group-title="212/IN",SuperSport Maximo 1 |212
+http://212.102.60.40:2200/AFR-EX/SuperSport_Maximo_1_HD-dstv/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",SuperSport MotorSport |212
+http://212.102.60.40:2200/AFR-EX/SuperSport_MotorSport_HD-dstv/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",SuperSport Play |212
+http://212.102.60.40:2200/AFR-EX/Super_Sport_Play_HD_-dstv/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",SuperSport Blitz |212
+http://212.102.60.40:2200/AFR-EX/Supersport_Blitz_FHD-dstv/index.m3u8?token=
+
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="bandsports.br" group-title="212/IN",Band Sports HD |212
+http://212.102.60.40:2200/BR/Band_Sports_HD-br/index.m3u8?token=
+http://212.224.98.212:2200/BR/cnninternational-br/index.m3u8?token=
+http://212.102.60.40:2200/BR/cnninternational-br/index.m3u8?token=
+
+#EXTINF:-1 tvg-id="fox.premium.2.br" tvg-name="fox.premium.2.br" group-title="212/IN",Fox Premium 2_HD |212
+http://212.102.60.40:2200/BR/Fox_Premium_2_HD-br/index.m3u8?token=
+#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="fox.sports.2.br" group-title="212/IN",Fox Sports 2HD |212
+http://212.102.60.40:2200/BR/Fox_Sports_2_HD-br/index.m3u8?token=
+http://212.102.60.40:2200/BR/Fox_Sports_2_HD-br/index.m3u8?token=RED&m3u8
+#EXTINF:-1 tvg-id="fox.sports.br" tvg-name="fox.sports.br" group-title="212/IN",Fox Sports HD |212
+http://212.102.60.40:2200/BR/Fox_Sports_HD-br/index.m3u8?token=
+http://212.224.98.211:2200/BR/Fox_Sports_HD-br/index.m3u8?token=
+
+#EXTINF:-1 tvg-id="mtv.brasil.br" tvg-name="mtv.brasil.br" group-title="212/IN",MTV_HD |212
+http://212.102.60.40:2200/BR/MTV_HD-br/index.m3u8?token=
+
+#EXTINF:-1 group-title="212/IN",Premiere Clubes HD |212
+http://212.102.60.40:2200/BR/Premiere_Clubes_HD-br/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",Premiere 1 HD |212
+http://212.102.60.40:2200/BR/Premiere_1_HD-br/index.m3u8?token=
+#EXTINF:-1 tvg-id="premiere.2.br" tvg-name="premiere.2.br" group-title="212/IN",Premiere 2 HD |212
+http://212.102.60.40:2200/BR/Premiere_2_HD-br/index.m3u8?token=
+#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="premiere.3.br" group-title="212/IN",Premiere 3 HD |212
+http://212.102.60.40:2200/BR/Premiere_3_HD-br/index.m3u8?token=
+#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="premiere.4.br" group-title="212/IN",Premiere 4 HD |212
+http://212.102.60.40:2200/BR/Premiere_4_HD-br/index.m3u8?token=
+#EXTINF:-1 tvg-id="premiere.5.br" tvg-name="premiere.5.br" group-title="212/IN",Premiere 5 HD |212
+http://212.102.60.40:2200/BR/Premiere_5_HD-br/index.m3u8?token=
+#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="premiere.6.br" group-title="212/IN",Premiere 6 HD |212
+http://212.102.60.40:2200/BR/Premiere_6_HD-br/index.m3u8?token=
+#EXTINF:-1 tvg-id="premiere.7.br" tvg-name="premiere.7.br" group-title="212/IN",Premiere 7 HD |212
+http://212.102.60.40:2200/BR/Premiere_7_HD-br/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",Sportv 1
+http://212.102.60.40:2200/BR/Sportv_1_HD-br/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",Sportv 2
+http://212.102.60.40:2200/BR/Sportv_2_HD-br/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",Sportv 3
+http://212.102.60.40:2200/BR/Sportv_3_HD-br/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",Viva |212
+http://212.102.60.40:2200/BR/Viva_HD-br/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",WB TV |212
+http://212.102.60.40:2200/BR/Warner_Channel_HD-br/index.m3u8?token=
+
+#EXTINF:-1 group-title="212/IN",&pictures |212
+http://212.102.60.40:2200/EX/andpictureshd-in/index.m3u8?token=
+
+#EXTINF:-1 tvg-id="b4u.movies.in" tvg-name="b4u.movies.in" group-title="212/IN",B4U Movies |212
+http://212.102.60.40:2200/EX/b4umovie-in/index.m3u8?token=
+
+#EXTINF:-1 tvg-id="beINSports1.qa" tvg-name="beINSports1.qa" group-title="212/IN",beIN SPORT 1FHD |212
+http://212.102.60.40:2200/EX/bein1FHD-ar/index.m3u8?token=
+#EXTINF:-1 tvg-id="beINSports2.qa" tvg-name="beINSports2.qa" group-title="212/IN",beIN SPORT 2FHD |212
+http://212.102.60.40:2200/EX/bein2FHD-ar/index.m3u8?token=
+#EXTINF:-1 tvg-id="beINSports3.qa" tvg-name="beINSports3.qa" group-title="212/IN",beIN SPORT 3FHD |212
+http://212.102.60.40:2200/EX/bein3FHD-ar/index.m3u8?token=
+#EXTINF:-1 tvg-id="beINSports4.qa" tvg-name="beINSports4.qa" group-title="212/IN",beIN SPORT 4FHD |212
+http://212.102.60.40:2200/EX/bein4FHD-ar/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",beIN SPORT 5FHD |212
+http://212.102.60.40:2200/EX/bein5FHD-ar/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",beIN SPORT 6FHD |212
+http://212.102.60.40:2200/EX/bein6FHD-ar/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",beIN SPORT 7FHD |212
+http://212.102.60.40:2200/EX/bein7FHD-ar/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",beIN SPORT 1PRE' |212
+http://212.102.60.40:2200/EX/bein8FHD-ar/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",beIN SPORT 2PRE' |212
+http://212.102.60.40:2200/EX/bein9FHD-ar/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",beIN SPORT 3PRE' |212
+http://212.102.60.40:2200/EX/bein10FHD-ar/index.m3u8?token=
+
+#EXTINF:-1 tvg-id="beINSports1.qa" tvg-name="beINSports1.qa" group-title="212/IN",beIN SPORT 1HD |212
+http://212.102.60.40:2200/EX/bein1hd-ar/index.m3u8?token=
+http://212.102.60.40:2200/EX/bein1sd-ar/index.m3u8?token=
+#EXTINF:-1 tvg-id="beINSports2.qa" tvg-name="beINSports2.qa" group-title="212/IN",beIN SPORT 2HD |212
+http://212.102.60.40:2200/EX/bein2hd-ar/index.m3u8?token=
+http://212.102.60.40:2200/EX/bein2sd-ar/index.m3u8?token=
+#EXTINF:-1 tvg-id="beINSports3.qa" tvg-name="beINSports3.qa" group-title="212/IN",beIN SPORT 3HD |212
+http://212.102.60.40:2200/EX/bein3hd-ar/index.m3u8?token=
+http://212.102.60.40:2200/EX/bein3sd-ar/index.m3u8?token=
+#EXTINF:-1 tvg-id="beINSports4.qa" tvg-name="beINSports4.qa" group-title="212/IN",beIN SPORT 4HD |212
+http://212.102.60.40:2200/EX/bein4hd-ar/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",beIN SPORT 5HD |212
+http://212.102.60.40:2200/EX/bein5hd-ar/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",beIN SPORT 6HD |212
+http://212.102.60.40:2200/EX/bein6hd-ar/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",beIN SPORT 7HD |212
+http://212.102.60.40:2200/EX/bein7hd-ar/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",beIN SPORT 1PRE |212
+http://212.102.60.40:2200/EX/bein8hd-ar/index.m3u8?token=
+http://212.102.60.40:2200/EX/bein8sd-ar/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",beIN SPORT 2PRE |212
+http://212.102.60.40:2200/EX/bein9hd-ar/index.m3u8?token=
+http://212.102.60.40:2200/EX/bein9sd-ar/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",beIN SPORT 3PRE |212
+http://212.102.60.40:2200/EX/bein10hd-ar/index.m3u8?token=
+http://212.102.60.40:2200/EX/bein10sd-ar/index.m3u8?token=
+#EXTINF:-1 tvg-id="beINSports11.qa" tvg-name="beINSports11.qa" group-title="212/IN",beIN SPORT 1EN |212
+http://212.102.60.40:2200/EX/bein11hd-ar/index.m3u8?token=
+http://212.102.60.40:2200/EX/bein11sd-ar/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",beIN SPORT 2EN |212
+http://212.102.60.40:2200/EX/bein12hd-ar/index.m3u8?token=
+http://212.102.60.40:2200/EX/bein12sd-ar/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",beIN SPORT 3EN |212
+http://212.102.60.40:2200/EX/beIN_Sports_13_HD-ar/index.m3u8?token=
+http://212.102.60.40:2200/EX/beIN_Sports_13_HD-ar/mpegts?token=
+http://212.102.60.40:2200/EX/bein13sd-ar/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",beIN SPORT 1FR |212
+http://212.102.60.40:2200/EX/bein14hd-ar/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",beIN SPORT 2FR |212
+http://212.102.60.40:2200/EX/bein15hd-ar/index.m3u8?token=
+
+#EXTINF:-1 group-title="212/IN",beIN SPORT MAX 1HD |212
+http://212.102.60.40:2200/EX/BEIN_SPORTS_MAX1HD-ar/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",beIN SPORT MAX 2HD |212
+http://212.102.60.40:2200/EX/BEIN_SPORTS_MAX2HD-ar/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",beIN SPORT MAX 3HD |212
+http://212.102.60.40:2200/EX/BEIN_SPORTS_MAX3HD-ar/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",beIN SPORT MAX 4HD |212
+http://212.102.60.40:2200/EX/BEIN_SPORTS_MAX4HD-ar/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",beIN SPORT MAX 5HD |212
+http://212.102.60.40:2200/EX/BEIN_SPORTS_MAX5HD-ar/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",beIN SPORT MAX 6HD |212
+http://212.102.60.40:2200/EX/BEIN_SPORTS_MAX6HD-ar/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",beIN MAX 1TR
+http://212.102.60.40:2200/EX/beinmax1hd-tr/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",beIN MAX 2TR
+http://212.102.60.40:2200/EX/beinmax2hd-tr/index.m3u8?token=
+
+#EXTINF:-1 group-title="212/IN",beIN SPORTS 1TR' |212
+http://212.102.60.40:2200/EX/beinsports1uhd-tr/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",beIN SPORTS 1TR |212
+http://212.102.60.40:2200/EX/beinsports1hd-tr/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",beIN SPORTS 2TR' |212
+http://212.102.60.40:2200/EX/beinsports2uhd-tr/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",beIN SPORTS 2TR |212
+http://212.102.60.40:2200/EX/beinsports2hd-tr/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",beIN SPORTS 3TR' |212
+http://212.102.60.40:2200/EX/beinsports3uhd-tr/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",beIN SPORTS 3TR |212
+http://212.102.60.40:2200/EX/beinsports3hd-tr/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",beIN SPORTS 4TR' |212
+http://212.102.60.40:2200/EX/beinsports4uhd-tr/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",beIN SPORTS 4TR |212
+http://212.102.60.40:2200/EX/beinsports4hd-tr/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",beIN NBA HD |212
+http://212.102.60.40:2200/EX/beIN_NBA_HD-ar/index.m3u8?token=
+
+#EXTINF:-1 group-title="212/IN",ZEE BANGLA |212
+http://212.102.60.40:2200/EX/BENGALI_ZEE_BANGLA_HD-in/index.m3u8?token=
+http://212.102.60.40:2200/EX/BENGALI_ZEE_BANGLA_HD-in/tracks-v1a1/index.m3u8?token=
+
+#EXTINF:-1 group-title="212/IN",Boxnation |212
+http://212.102.60.40:2200/EX/Boxnation-uk/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",E4
+http://212.102.60.40:2200/EX/E4_HD-uk/index.m3u8?token=
+
+#EXTINF:-1 group-title="212/IN",EUROSPORT 1RU
+http://212.102.60.40:2200/EX/eurosport1hd-ru/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",EUROSPORT 2RU
+http://212.102.60.40:2200/EX/eurosport2hd-ru/index.m3u8?token=
+
+#EXTINF:-1 tvg-id="bt.sport.1.uk" tvg-name="bt.sport.1.uk" group-title="212/IN",BT SPORT 1UHD |212
+http://212.102.60.40:2200/EX/UK_BT_SPORTS_1_FHD-uk/index.m3u8?token=
+#EXTINF:-1 tvg-id="bt.sport.1.uk" tvg-name="bt.sport.1.uk" group-title="212/IN",BT SPORT 1HD |212
+http://212.102.60.40:2200/EX/BT_Sport_1_HD-uk/index.m3u8?token=
+#EXTINF:-1 tvg-id="bt.sport.2.uk" tvg-name="bt.sport.2.uk" group-title="212/IN",BT SPORT 2UHD |212
+http://212.102.60.40:2200/EX/UK_BT_SPORTS_2_FHD-uk/index.m3u8?token=
+#EXTINF:-1 tvg-id="bt.sport.2.uk" tvg-name="bt.sport.2.uk" group-title="212/IN",BT SPORT 2HD |212
+http://212.102.60.40:2200/EX/BT_Sport_2_HD-uk/index.m3u8?token=
+#EXTINF:-1 tvg-id="bt.sport.3.uk" tvg-name="bt.sport.3.uk" group-title="212/IN",BT SPORT 3UHD |212
+http://212.102.60.40:2200/EX/UK_BT_SPORTS_3_FHD-uk/index.m3u8?token=
+#EXTINF:-1 tvg-id="bt.sport.3.uk" tvg-name="bt.sport.3.uk" group-title="212/IN",BT SPORT 3HD |212
+http://212.102.60.40:2200/EX/BT_Sport_3_HD-uk/index.m3u8?token=
+http://212.102.60.40:2200/EX/BT_Sport_ESPN_HD-uk/index.m3u8?token=
+
+#EXTINF:-1 group-title="212/IN",CANAL+ SPORT2
+http://212.102.60.40:2200/EX/canalplussport2hd-po/index.m3u8?token=
+
+http://212.102.60.40:2200/EX/tvpsporthd-po/index.m3u8?token=
+
+
+#EXTINF:-1 tvg-id="channel.4.uk" tvg-name="channel.4.uk" group-title="212/IN",Channel 4 HD |212
+http://212.102.60.40:2200/EX/Channel_4_HD-uk/index.m3u8?token=
+#EXTINF:-1 tvg-id="channel.5.uk" tvg-name="channel.5.uk" group-title="212/IN",Channel 5 HD |212
+http://212.102.60.40:2200/EX/Channel_5_HD-uk/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",Eurosport 1HD |212
+http://212.102.60.40:2200/EX/Eurosport_1_HD-uk/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",Eurosport 2HD |212
+http://212.102.60.40:2200/EX/Eurosport_2_HD-uk/index.m3u8?token=
+
+#EXTINF:-1 group-title="212/IN",RMC SPORT1
+http://212.102.60.40:2200/EX/FR_RMC_SPORT1_HD-fr/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",RMC SPORT2
+http://212.102.60.40:2200/EX/FR_RMC_SPORT2_HD-fr/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",RMC SPORT3
+http://212.102.60.40:2200/EX/FR_RMC_SPORT3_HD-fr/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",RMC SPORT4
+http://212.102.60.40:2200/EX/FR_RMC_SPORT4_HD-fr/index.m3u8?token=
+
+#EXTINF:-1 group-title="212/IN",MATCH |212
+http://212.102.60.40:2200/EX/match-ru/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",FOOTBALL 1 |212
+http://212.102.60.40:2200/EX/matchfutbol1-ru/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",FOOTBALL 2 |212
+http://212.102.60.40:2200/EX/matchfutbol2-ru/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",FOOTBALL 3 |212
+http://212.102.60.40:2200/EX/matchfutbol3-ru/index.m3u8?token=
+
+#EXTINF:-1 group-title="212/IN",Nick Jr Too |212
+http://212.102.60.40:2200/EX/Nick_Jr_Too-uk/index.m3u8?token=
+
+#EXTINF:-1 group-title="212/IN",OPTUS SPORT 1 |212
+http://212.102.60.40:2200/EX/Optus_Sports_1_HD_-uk/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",OPTUS SPORT 2 |212
+http://212.102.60.40:2200/EX/Optus_Sports_2_HD_-uk/index.m3u8?token=
+
+#EXTINF:-1 group-title="212/IN",Premier Sports 1HD |212
+http://212.102.60.40:2200/EX/Premier_Sports_1_HD-uk/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",Premier Sports 2HD |212
+http://212.102.60.40:2200/EX/Premier_Sports_2_HD-uk/index.m3u8?token=
+
+#EXTINF:-1 group-title="212/IN",RishteyCineplex |212
+http://212.102.60.40:2200/EX/RishteyCineplex-in/index.m3u8?token=
+
+#EXTINF:-1 group-title="212/IN",S SPORT 2
+http://212.102.60.40:2200/EX/S_SPORT_2_FHD-tr/index.m3u8?token=
+
+#EXTINF:-1 group-title="212/IN",Setanta sports
+http://212.102.60.40:2200/EX/setantasportshd-ru/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",Setanta sports+
+http://212.102.60.40:2200/EX/setantasportsplushd-ru/index.m3u8?token=
+
+#EXTINF:-1 tvg-id="sky.cinema.animation.uk" tvg-name="sky.cinema.animation.uk" group-title="212/IN",Sky Cinema Animation FHD |212
+http://212.102.60.40:2200/EX/Sky_Cinema_Animation_FHD-uk/index.m3u8?token=
+http://212.102.60.40:2200/EX/Sky_Cinema_Action_FHD-uk/index.m3u8?token= < N.A
+#EXTINF:-1 tvg-id="sky.cinema.comedy.uk" tvg-name="sky.cinema.comedy.uk" group-title="212/IN",Sky Cinema Comedy FHD |212
+http://212.102.60.40:2200/EX/Sky_Cinema_Comedy_FHD-uk/index.m3u8?token=
+http://212.102.60.40:2200/EX/Sky_Cinema_Disney_FHD-uk < N.A
+http://212.102.60.40:2200/EX/Sky_Cinema_Family_FHD-uk < N.A
+http://212.102.60.40:2200/EX/Sky_Cinema_Greats_FHD-uk < N.A
+#EXTINF:-1 tvg-id="sky.cinema.hits.uk" tvg-name="sky.cinema.hits.uk" group-title="212/IN",Sky Cinema Hits FHD |212
+http://212.102.60.40:2200/EX/Sky_Cinema_Hits_FHD-uk/index.m3u8?token=
+http://212.102.60.40:2200/EX/Sky_Cinema_Premier_FHD-uk < N.A
+http://212.102.60.40:2200/EX/Sky_Cinema_Romance_FHD-uk < N.A
+#EXTINF:-1 tvg-id="sky.cinema.select.uk" tvg-name="sky.cinema.select.uk" group-title="212/IN",Sky Cinema Select FHD |212
+http://212.102.60.40:2200/EX/Sky_Cinema_Select_FHD-uk/index.m3u8?token=
+http://212.102.60.40:2200/EX/Sky_Cinema_Thriller_FHD-uk < N.A
+
+#EXTINF:-1 tvg-id="sky.cinema.action.uk" tvg-name="sky.cinema.action.uk" group-title="212/IN",Sky Cinema Action HD |212
+http://212.102.60.40:2200/EX/Sky_Cinema_Action_HD-uk/index.m3u8?token=
+#EXTINF:-1 tvg-id="sky.cinema.comedy.uk" tvg-name="sky.cinema.comedy.uk" group-title="212/IN",Sky Cinema Comedy HD |212
+http://212.102.60.40:2200/EX/Sky_Cinema_Comedy_HD-uk/index.m3u8?token=
+#EXTINF:-1 tvg-id="sky.cinema.disney.uk" tvg-name="sky.cinema.disney.uk" group-title="212/IN",Sky Cinema Disney HD |212
+http://212.102.60.40:2200/EX/Sky_Cinema_Disney_HD-uk/index.m3u8?token=
+#EXTINF:-1 tvg-id="sky.cinema.family.uk" tvg-name="sky.cinema.family.uk" group-title="212/IN",Sky Cinema Family HD |212
+http://212.102.60.40:2200/EX/Sky_Cinema_Family_HD-uk/index.m3u8?token=
+http://212.102.60.40:2200/EX/Sky_Cinema_Greats_HD-uk < N.A
+#EXTINF:-1 tvg-id="sky.cinema.hits.uk" tvg-name="sky.cinema.hits.uk" group-title="212/IN",Sky Cinema Hits HD |212
+http://212.102.60.40:2200/EX/Sky_Cinema_Hits_HD-uk/index.m3u8?token=
+http://212.102.60.40:2200/EX/Sky_Cinema_Premier_HD-uk < N.A
+http://212.102.60.40:2200/EX/Sky_Cinema_Romance_HD-uk < N.A
+#EXTINF:-1 tvg-id="sky.cinema.select.uk" tvg-name="sky.cinema.select.uk" group-title="212/IN",Sky Cinema Select HD |212
+http://212.102.60.40:2200/EX/Sky_Cinema_Select_HD-uk/index.m3u8?token=
+#EXTINF:-1 tvg-id="sky.cinema.thriller.uk" tvg-name="sky.cinema.thriller.uk" group-title="212/IN",Sky Cinema Thriller HD |212
+http://212.102.60.40:2200/EX/Sky_Cinema_Thriller_HD-uk/index.m3u8?token=
+
+http://212.102.60.40:2200/EX/Sky_Cinema_Action_SD-uk < N.A
+http://212.102.60.40:2200/EX/Sky_Cinema_Comedy_SD-uk/index.m3u8?token=/index.m3u8?token=
+http://212.102.60.40:2200/EX/Sky_Cinema_Disney_SD-uk/index.m3u8?token=/index.m3u8?token=
+http://212.102.60.40:2200/EX/Sky_Cinema_Family_SD-uk/index.m3u8?token=/index.m3u8?token=
+http://212.102.60.40:2200/EX/Sky_Cinema_Greats_SD-uk < N.A
+http://212.102.60.40:2200/EX/Sky_Cinema_Hits_SD-uk < N.A
+http://212.102.60.40:2200/EX/Sky_Cinema_Premier_SD-uk < N.A
+http://212.102.60.40:2200/EX/Sky_Cinema_Romance_SD-uk < N.A
+http://212.102.60.40:2200/EX/Sky_Cinema_Select_SD-uk/index.m3u8?token=/index.m3u8?token=
+http://212.102.60.40:2200/EX/Sky_Cinema_Thriller_SD-uk/index.m3u8?token=/index.m3u8?token=
+
+#EXTINF:-1 group-title="212/IN",Sky Sports Arena FHD |212
+http://212.102.60.40:2200/EX/Sky_Sports_Arena_FHD-uk/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",Sky Sports Cricket HD |212
+http://212.102.60.40:2200/EX/Sky_Sports_Cricket_HD-uk/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",Sky Sports F1 HD |212
+http://212.102.60.40:2200/EX/Sky_Sports_F1_HD-uk/index.m3u8?token=
+#EXTINF:-1 tvg-id="lvupvmnk.ss" tvg-name="lvupvmnk.ss" group-title="212/IN",Sky Sports Football FHD |212
+http://212.102.60.40:2200/EX/Sky_Sports_Football_FHD-uk/index.m3u8?token=
+#EXTINF:-1 tvg-id="lvupvmnk.ss" tvg-name="lvupvmnk.ss" group-title="212/IN",Sky Sports Football HD |212
+http://212.102.60.40:2200/EX/Sky_Sports_Football_HD-uk/index.m3u8?token=
+
+#EXTINF:-1 tvg-id="eppvjpkd.ss" tvg-name="eppvjpkd.ss" group-title="212/IN",sky sports mainevent' |212
+http://212.102.60.40:2200/EX/Sky_Sports_Main_Event_FHD-uk/index.m3u8?token=
+#EXTINF:-1 tvg-id="eppvjpkd.ss" tvg-name="eppvjpkd.ss" group-title="212/IN",sky sports mainevent |212
+http://212.102.60.40:2200/EX/Sky_Sports_Main_Event_HD-uk/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",sky sports mix |212
+http://212.102.60.40:2200/EX/Sky_Sports_Mix_HD-uk/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",Sky Sports News FHD |212
+http://212.102.60.40:2200/EX/Sky_Sports_News_FHD-uk/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",Sky Sports News HD |212
+http://212.102.60.40:2200/EX/Sky_Sports_News_HD-uk/index.m3u8?token=
+http://212.102.60.40:2200/EX/Sky_Sports_NFL_HD-uk/index.m3u8?token=
+#EXTINF:-1 tvg-id="diiefbxx.ss" tvg-name="diiefbxx.ss" group-title="212/IN",Sky Sports Premier League FHD |212
+http://212.102.60.40:2200/EX/Sky_Sports_Premier_League_FHD-uk/index.m3u8?token=
+
+#EXTINF:-1 group-title="212/IN",SONY MAX UK |212
+http://212.102.60.40:2200/EX/sonymaxuk-in/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",SONY S MAX EN
+http://212.102.60.40:2200/EX/sonysetmax-in/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",SONY TV EN
+http://212.102.60.40:2200/EX/sonytv-in/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",StarPlus
+http://212.102.60.40:2200/EX/starplus-in/index.m3u8?token=?token=
+
+#EXTINF:-1 tvg-id="sk.1.hr" tvg-name="sk.1.hr" group-title="212/IN",SK 1HD |212
+http://212.102.60.40:2200/EX/Sport_Klub_1-balkan/index.m3u8?token=
+#EXTINF:-1 tvg-id="sk.2.hr" tvg-name="sk.2.hr" group-title="212/IN",SK 2HD |212
+http://212.102.60.40:2200/EX/Sport_Klub_2-balkan/index.m3u8?token=
+#EXTINF:-1 tvg-id="sk.3.hr" tvg-name="sk.3.hr" group-title="212/IN",SK 3HD |212
+http://212.102.60.40:2200/EX/Sport_Klub_3-balkan/index.m3u8?token=
+#EXTINF:-1 tvg-id="sk.4.hr" tvg-name="sk.4.hr" group-title="212/IN",SK 4HD |212
+http://212.102.60.40:2200/EX/Sport_Klub_4-balkan/index.m3u8?token=
+#EXTINF:-1 tvg-id="sk.5.hr" tvg-name="sk.5.hr" group-title="212/IN",SK 5HD |212
+http://212.102.60.40:2200/EX/Sport_Klub_5-balkan/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",SK 6HD |212
+http://212.102.60.40:2200/EX/Sport_Klub_6-balkan/index.m3u8?token=
+
+#EXTINF:-1 group-title="212/IN",StarPlus UK
+http://212.102.60.40:2200/EX/UKSD_Star_Plus-uk/index.m3u8?token=
+
+#EXTINF:-1 group-title="212/IN",Utsav Bharat EN
+http://212.102.60.40:2200/EX/starbharat-in/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",Utsav Gold
+http://212.102.60.40:2200/EX/stargold-in/index.m3u8?token=
+
+#EXTINF:-1 group-title="212/IN",starsports 1hd |212
+http://212.102.60.40:2200/EX/starsports1hd-in/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",starsports 2hd |212
+http://212.102.60.40:2200/EX/starsports2hd-in/index.m3u8?token=
+
+#EXTINF:-1 group-title="212/IN",Sky Nature |212
+http://212.102.60.40:2200/EX/UKFHD_Sky_Nature-uk/index.m3u8?token=
+
+#EXTINF:-1 group-title="212/IN",ZEE ACTION
+http://212.102.60.40:2200/EX/zeeaction-in/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",ZEE CINEMA
+http://212.102.60.40:2200/EX/zeecinema-in/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",ZEETV HD |212
+http://212.102.60.40:2200/EX/zeetvhd-in/index.m3u8?token=
+
+#EXTINF:-1 group-title="212/IN", B4U MOVIES |212
+http://212.102.60.40:2200/NL/b4umovies-in/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN", B4U MUSIC |212
+http://212.102.60.40:2200/NL/b4umusic-in/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN", BBC NEWS |212
+http://212.102.60.40:2200/NL/bbcnews-uk/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN", BBC ONE |212
+http://212.102.60.40:2200/NL/bbcone-uk/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN", 4 |212
+http://212.102.60.40:2200/NL/channel4-uk/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN", 5 |212
+http://212.102.60.40:2200/NL/channel5-uk/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",CNBC |212
+http://212.102.60.40:2200/NL/cnbc-uk/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",CNN |212
+http://212.102.60.40:2200/NL/cnn-uk/index.m3u8?token=
+
+#EXTINF:-1 group-title="212/IN",Barca TV
+http://212.102.60.40:2200/NL/barcatv-esp/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 group-title="212/IN",Real Madrid TV
+http://212.102.60.40:2200/NL/realmadridtv-esp/index.m3u8?token=
+
+#EXTINF:-1 group-title="212/IN",DAZN 1DE |212
+http://212.102.60.40:2200/NL/dazn1hd-de/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",DAZN 2DE |212
+http://212.102.60.40:2200/NL/dazn2hd-de/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",DAZN 1ES |212
+http://212.102.60.40:2200/NL/dazn1hd-esp/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",DAZN 2ES |212
+http://212.102.60.40:2200/NL/dazn2hd-esp/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",DAZN 3ES |212
+http://212.102.60.40:2200/NL/dazn3hd-esp/index.m3u8?token=
+http://212.102.60.40:2200/NL/dazn4hd-esp/index.m3u8?token=
+
+#EXTINF:-1 group-title="212/IN",ELEVEN 1HD |212
+http://212.102.60.40:2200/NL/elevensports1hd-por/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",ELEVEN 2HD |212
+http://212.102.60.40:2200/NL/elevensports2hd-por/index.m3u8?token=
+
+#EXTINF:-1 group-title="212/IN",ELEVEN 3 |212
+http://212.102.60.40:2200/NL/elevensports3-por/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",ELEVEN 4 |212
+http://212.102.60.40:2200/NL/elevensports4-por/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",ELEVEN 5 |212
+http://212.102.60.40:2200/NL/elevensports5-por/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",ELEVEN 6 |212
+http://212.102.60.40:2200/NL/elevensports6-por/index.m3u8?token=
+
+#EXTINF:-1 group-title="212/IN",EUROSPORT 1
+http://212.102.60.40:2200/NL/eurosport1-esp/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",EUROSPORT 2
+http://212.102.60.40:2200/NL/eurosport2-esp/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",FOX MOVIES |212
+http://212.102.60.40:2200/NL/foxmovies-por/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",GOL |212
+http://212.102.60.40:2200/NL/gol-esp/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",la 1
+http://212.102.60.40:2200/NL/la1hd-esp/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",M Deportes
+http://212.102.60.40:2200/NL/mdeporteshd-esp/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",DAZN F1 |212
+http://212.102.60.40:2200/NL/mformula1hd-esp/index.m3u8?token=
+http://212.102.60.40:2200/NL/mformula1hd-esp/tracks-v1/mono.m3u8?token=
+#EXTINF:-1 group-title="212/IN",M LaLiga
+http://212.102.60.40:2200/NL/mlaligahd-esp/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",M LaLiga2
+http://212.102.60.40:2200/NL/mlaliga2hd-esp/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",M Champeones
+http://212.102.60.40:2200/NL/mlcampeonhd-esp/playlist.m3u8?token=
+#EXTINF:-1 group-title="212/IN",M Champeones 1
+http://212.102.60.40:2200/NL/mlcampeon1hd-esp/playlist.m3u8?token=
+#EXTINF:-1 group-title="212/IN",M Champeones 2
+http://212.102.60.40:2200/NL/mlcampeon2hd-esp/playlist.m3u8?token=
+#EXTINF:-1 group-title="212/IN",RealMadrid TV
+http://212.102.60.40:2200/NL/realmadridtv-esp/index.m3u8?token=
+
+#EXTINF:-1 group-title="212/IN",SONY SAB EN |212
+http://212.102.60.40:2200/NL/sonysab-uk/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",SONY TV  ASIA |212
+http://212.102.60.40:2200/NL/sonytvasia-in/index.m3u8?token=
+
+#EXTINF:-1 group-title="212/IN",SPORT.TV |212
+http://212.102.60.40:2200/NL/sportingtv-por/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",SPORT.TV+ |212
+http://212.102.60.40:2200/NL/sporttvplus-por/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",SPORT.TV1 |212
+http://212.102.60.40:2200/NL/sporttv1-por/index.m3u8?token=
+http://212.102.60.40:2200/NL/sporttv1-por/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 group-title="212/IN",SPORT.TV2 |212
+http://212.102.60.40:2200/NL/sporttv2-por/index.m3u8?token=
+http://212.102.60.40:2200/NL/sporttv2-por/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 group-title="212/IN",SPORT.TV3 |212
+http://212.102.60.40:2200/NL/sporttv3-por/index.m3u8?token=
+http://212.102.60.40:2200/NL/sporttv3-por/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 group-title="212/IN",SPORT.TV4 NBA |212
+http://212.102.60.40:2200/NL/sporttv4-por/index.m3u8?token=
+http://212.102.60.40:2200/NL/sporttv4-por/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 group-title="212/IN",SPORT.TV5 |212
+http://212.102.60.40:2200/NL/sporttv5-por/index.m3u8?token=
+http://212.102.60.40:2200/NL/sporttv5-por/tracks-v1a1/mono.m3u8?token=
+
+#EXTINF:-1 group-title="212/IN",Sport.TV1 HD |212
+http://212.102.60.40:2200/NL-N/Sport_TV_1_HD-por/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",Sport.TV2 HD |212
+http://212.102.60.40:2200/NL-N/Sport_TV_2_HD-por/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",Sport.TV3 HD |212
+http://212.102.60.40:2200/NL-N/Sport_TV_3_HD-por/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",Sport.TV4 HD |212
+http://212.102.60.40:2200/NL-N/Sport_TV_4_HD-por/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",Sport.TV5 HD |212
+http://212.102.60.40:2200/NL-N/Sport_TV_5_HD-por/index.m3u8?token=
+
+#EXTINF:-1 group-title="212/IN",ELEVEN 1 |212
+http://212.102.60.40:2200/NL-N/Eleven_Sports_1_HD-por/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",ELEVEN 2 |212
+http://212.102.60.40:2200/NL-N/Eleven_Sports_2_HD-por/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",EUROSPORT1 |212
+http://212.102.60.40:2200/NL-N/Eurosport_1_HD-por/index.m3u8?token=
+
+#EXTINF:-1 group-title="212/IN",MTV LIVEHD |212
+http://212.102.60.40:2200/NLH/Mtv_HD_NL-nl/index.m3u8?token=
+
+#EXTINF:-1 group-title="212/IN",Fox Premium 1 |212
+http://212.102.60.40:2200/PY-N/Fox_Premium_1_HD-br/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",Fox Premium 2 |212
+http://212.102.60.40:2200/PY-N/Fox_Premium_2_HD-br/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",Fox Sports 2 |212
+http://212.102.60.40:2200/PY-N/Fox_Sports_2_HD-br/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",Fox Sports |212
+http://212.102.60.40:2200/PY-N/Fox_Sports_HD-br/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",MTV HD |212
+http://212.102.60.40:2200/PY-N/MTV_HD-br/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",Music Box |212
+http://212.102.60.40:2200/PY-N/Music_Box_HD-br/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",Premiere  |212
+http://212.102.60.40:2200/PY-N/Premiere_HD-br/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",Premiere 2 |212
+http://212.102.60.40:2200/PY-N/Premiere_2_HD-br/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",Premiere 3 |212
+http://212.102.60.40:2200/PY-N/Premiere_3_HD-br/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",Premiere 4 |212
+http://212.102.60.40:2200/PY-N/Premiere_4_HD-br/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",Premiere 5 |212
+http://212.102.60.40:2200/PY-N/Premiere_5_HD-br/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",Premiere 6 |212
+http://212.102.60.40:2200/PY-N/Premiere_6_HD-br/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",Premiere 7 |212
+http://212.102.60.40:2200/PY-N/Premiere_7_HD-br/index.m3u8?token=
+http://212.102.60.40:2200/PY-N/Premiere_Clubes_HD-br/index.m3u8?token=
+
+http://212.102.60.40:2200/PY-N/VH1_HD-br/index.m3u8?token=
+http://212.102.60.40:2200/PY-N/Viva_HD-br/index.m3u8?token=
+http://212.102.60.40:2200/PY-N/Warner_Channel_HD-br/index.m3u8?token=
+
+#EXTINF:-1 group-title="212/IN",&xplor HD |212
+http://212.102.60.40:2200/R-EX/ANDXPLOR_HD_-in/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",ENTER 10 BANGLA
+http://212.102.60.40:2200/R-EX/BANGLA_ENTER_10_BANGLA-in/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",NAT GEO BENGALI
+http://212.102.60.40:2200/R-EX/BENGALI_NAT_GEO_BENGALI_HD-in/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",Star Jalsha HD Bengali |212
+http://212.102.60.40:2200/R-EX/BENGALI_STAR_JALSHA_HD-in/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",ZEE BANGLA HD |212
+http://212.102.60.40:2200/R-EX/BENGALI_ZEE_BANGLA_HD-in/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",ZEE BANGLA CINEMA
+http://212.102.60.40:2200/R-EX/BENGALI_ZEE_BANGLA_CINEMA-in/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",COLOR RISHTEY
+http://212.102.60.40:2200/R-EX/COLOR_RISHTEY_-in/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",DANGAL
+http://212.102.60.40:2200/R-EX/DANGAL_-in/index.m3u8?token=
+
+#EXTINF:-1 group-title="212/IN",BBC earth |212
+http://212.102.60.40:2200/R-EX/ENGLISH_BBC_EARTH_HD-in/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",COLORS INFINITY
+http://212.102.60.40:2200/R-EX/ENGLISH_COLORS_INFINITY_HD-in/index.m3u8?token=
+HBO HD |offline
+http://212.102.60.40:2200/R-EX/ENGLISH_HBO_HD-in/index.m3u8?token=
+
+#EXTINF:-1 group-title="212/IN",STAR MOVIES HD |212
+http://212.102.60.40:2200/R-EX/ENGLISH_STAR_MOVIES_HD-in/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",STAR MOVIES SELECT |212
+http://212.102.60.40:2200/R-EX/ENGLISH_STAR_MOVIES_SELECT_HD-in/index.m3u8?token=
+http://212.102.60.40:2200/R-EX/ENGLISH_STAR_MOVIES_SELECT_HD-in/tracks-v1a1/mono.m3u8?token=
+
+#EXTINF:-1 group-title="212/IN",Star World HD En |212
+http://212.102.60.40:2200/R-EX/ENGLISH_STAR_WORLD_HD-in/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",STAR WORLD PREMIER |212
+http://212.102.60.40:2200/R-EX/ENGLISH_STAR_WORLD_PREMIER_HD-in/index.m3u8?token=
+
+#EXTINF:-1 group-title="212/IN",AND PICTURES FHD |212
+http://212.102.60.40:2200/R-EX/FHD_AND_PICTURES_-in/index.m3u8?token=
+http://212.102.60.40:2200/R-EX/FHD_AND_PRIVE_-in/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",AND TV FHD |212
+http://212.102.60.40:2200/R-EX/FHD_AND_TV_-in/index.m3u8?token=
+
+#EXTINF:-1 group-title="212/IN",MOVIES ACTIVE |212
+http://212.102.60.40:2200/R-EX/FHD_MOVIES_ACTIVE-in/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",nick HD |212
+http://212.102.60.40:2200/R-EX/FHD_NICK_-in/index.m3u8?token=
+
+#EXTINF:-1 group-title="212/IN",STAR GOLD FHD |212
+http://212.102.60.40:2200/R-EX/FHD_STAR_GOLD_-in/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",STAR MOVIES FHD |212
+http://212.102.60.40:2200/R-EX/FHD_STAR_MOVIES_-in/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",STAR PLUS
+http://212.102.60.40:2200/R-EX/FHD_STAR_PLUS_-in/index.m3u8?token=
+
+#EXTINF:-1 group-title="212/IN",COLORS GUJARATI
+http://212.102.60.40:2200/R-EX/GUJARATI_COLORS_GUJARATI_CINEMA-in/index.m3u8?token=
+
+http://212.102.60.40:2200/R-EX/HINDI_AND_EXPLORE_HD-in/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",AND FLIX HD |212
+http://212.102.60.40:2200/R-EX/HINDI_AND_FLIX_HD-in/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",AND PICTURES HD |212
+http://212.102.60.40:2200/R-EX/HINDI_AND_PICTURES_HD-in/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",AND PRIVE HD |212
+http://212.102.60.40:2200/R-EX/HINDI_AND_PRIVE_HD-in/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",AND TV |212
+http://212.102.60.40:2200/R-EX/HINDI_AND_TV_HD-in/index.m3u8?token=
+
+#EXTINF:-1 group-title="212/IN",ANIMAL PLANET WORLD |212
+http://212.102.60.40:2200/R-EX/HINDI_ANIMAL_PLANET_WORLD_HD-in/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",B4U MOVIES |212
+http://212.102.60.40:2200/R-EX/HINDI_B4U_MOVIES-in/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",B4U MUSIC |212
+http://212.102.60.40:2200/R-EX/HINDI_B4U_MUSIC-in/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",Sony BBC Earth HD Hindi |212
+http://212.102.60.40:2200/R-EX/HINDI_BBC_EARTH_HD-in/index.m3u8?token=
+
+CINEMA TV |OFFLINE
+http://212.102.60.40:2200/R-EX/HINDI_CINEMA_TV_-in/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",CINEPLEX HD |212
+http://212.102.60.40:2200/R-EX/HINDI_CINEPLEX_HD-in/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",COLORS HD |212
+http://212.102.60.40:2200/R-EX/HINDI_COLORS_HD-in/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",ENTER 10 MOVIES
+http://212.102.60.40:2200/R-EX/HINDI_ENTER_10_MOVIES-in/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",Dish Evergreen Classics Active Hindi |212
+http://212.102.60.40:2200/R-EX/HINDI_EVERGREEN_CLASSIC-in/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",Fox Life |212
+http://212.102.60.40:2200/R-EX/HINDI_FOX_LIFE_HD-in/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",HISTORY TV |212
+http://212.102.60.40:2200/R-EX/HINDI_HISTORY_TV_18_HD-in/index.m3u8?token=
+
+#EXTINF:-1 group-title="212/IN",Miniplex Hindi |212
+http://212.102.60.40:2200/R-EX/HINDI_MINIPLEX_HD-in/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",MN+ HD English |212
+http://212.102.60.40:2200/R-EX/HINDI_MN_PLUS_HD-in/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",MOVIES NOW HD |212
+http://212.102.60.40:2200/R-EX/HINDI_MOVIES_NOW_HD-in/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",MTV BEATS HD |212
+http://212.102.60.40:2200/R-EX/HINDI_MTV_BEATS_HD-in/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",MTV+ HD |212
+http://212.102.60.40:2200/R-EX/HINDI_MTV_PLUS_HD-in/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",Nat Geo HD Hindi |212
+http://212.102.60.40:2200/R-EX/HINDI_NAT_GEO_HD-in/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",Nat Geo Wild Hindi |212
+http://212.102.60.40:2200/R-EX/HINDI_NAT_GEO_WILD_HD-in/index.m3u8?token=
+
+#EXTINF:-1 group-title="212/IN",SONY MAX HD |212
+http://212.102.60.40:2200/R-EX/HINDI_SONY_MAX_HD-in/index.m3u8?token=
+#EXTINF:-1 tvg-id="sony.max.2.in" tvg-name="sony.max.2.in" group-title="212/IN",SONY MAX 2 |212
+http://212.102.60.40:2200/R-EX/HINDI_SONY_MAX_2-in/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",SONY PIX HD |212
+http://212.102.60.40:2200/R-EX/HINDI_SONY_PIX_HD-in/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",SONY SAB HD |212
+http://212.102.60.40:2200/R-EX/HINDI_SONY_SAB_HD-in/index.m3u8?token=
+#EXTINF:-1 tvg-id="star.gold.in" tvg-name="star.gold.in" group-title="212/IN",STAR GOLD HD |212
+
+#EXTINF:-1 group-title="212/IN",Star Bharat HD Hindi |212
+http://212.102.60.40:2200/R-EX/HINDI_STAR_BHARAT_HD-in/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",STAR GOLD HD |212
+http://212.102.60.40:2200/R-EX/HINDI_STAR_GOLD_HD-in/index.m3u8?token=
+#EXTINF:-1 tvg-id="star.gold.select.in" tvg-name="star.gold.select.in" group-title="212/IN",STAR GOLD SELECT HD |212
+http://212.102.60.40:2200/R-EX/HINDI_STAR_GOLD_SELECT_HD-in/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",StarPlus HD |212
+http://212.102.60.40:2200/R-EX/HINDI_STAR_PLUS_HD-in/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",Star Movies HD En |212
+http://212.102.60.40:2200/R-EX/HINDI_STAR_UTSAV_MOVIES-in/index.m3u8?token=
+
+#EXTINF:-1,UTV Action Hindi |212
+http://212.102.60.40:2200/R-EX/HINDI_UTV_ACTION-in/index.m3u8?token=
+#EXTINF:-1,UTV HD Hindi |212
+http://212.102.60.40:2200/R-EX/HINDI_UTV_HD-in/index.m3u8?token=
+#EXTINF:-1,UTV Movies Hindi |212
+http://212.102.60.40:2200/R-EX/HINDI_UTV_MOVIES-in/index.m3u8?token=
+
+#EXTINF:-1 group-title="212/IN",ZEE ACTION |212
+http://212.102.60.40:2200/R-EX/HINDI_ZEE_ACTION-in/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",ZEE ANMOL CINEMA |212
+http://212.102.60.40:2200/R-EX/HINDI_ZEE_ANMOL_CINEMA-in/index.m3u8?token=
+#EXTINF:-1 tvg-id="zee.cinema.in" tvg-name="zee.cinema.in" group-title="212/IN",ZEE CINEMA HD |212
+http://212.102.60.40:2200/R-EX/HINDI_ZEE_CINEMA_HD-in/index.m3u8?token=
+#EXTINF:-1 tvg-id="zee.tv.in" tvg-name="zee.tv.in" group-title="212/IN",ZEE TV HD |212
+http://212.102.60.40:2200/R-EX/HINDI_ZEE_TV_HD-in/index.m3u8?token=
+
+#EXTINF:-1 group-title="212/IN",JALSA MOVIES
+http://212.102.60.40:2200/R-EX/JALSA_MOVIES_HD-in/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",UDAYA MOVIES
+http://212.102.60.40:2200/R-EX/KANNADA_UDAYA_MOVIES-in/index.m3u8?token=
+
+ASIANET HD |212
+http://212.102.60.40:2200/R-EX/MALAYALAM_ASIANET_HD-in/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",Asianet Movies Malayalam |212
+http://212.102.60.40:2200/R-EX/MALAYALAM_ASIANET_MOVIE-in/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",Asianet plus HD Malayalam |212
+http://212.102.60.40:2200/R-EX/MALAYALAM_ASIANET_PLUS-in/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",Surya HD Malayalam |212
+http://212.102.60.40:2200/R-EX/MALAYALAM_SURYA_HD-in/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",Surya Movies Malayalam |212
+http://212.102.60.40:2200/R-EX/MALAYALAM_SURYA_MOVIES-in/index.m3u8?token=
+
+#EXTINF:-1 group-title="212/IN",ZEE PUNJABI |212
+http://212.102.60.40:2200/R-EX/PUNJABI_ZEE_PUNJABI-in/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",RISHTY CINEPLEX
+http://212.102.60.40:2200/R-EX/RISHTY_CINEPLEX-in/index.m3u8?token=
+
+#EXTINF:-1 group-title="212/IN",SONY HD
+http://212.102.60.40:2200/R-EX/SONY_HD_-in/index.m3u8?token=
+
+#EXTINF:-1 tvg-id="sony.six.in" tvg-name="sony.six.in" group-title="212/IN",SONY SIX HD |212
+http://212.102.60.40:2200/R-EX/SPORTS_SONY_SIX_HD-in/index.m3u8?token=
+
+#EXTINF:-1 group-title="212/IN",STAR SPORTS 1EN |212
+http://212.102.60.40:2200/R-EX/SPORTS_STAR_SPORTS_1_ENGLISH_HD-in/index.m3u8?token=
+http://212.102.60.40:2200/R-EX/SPORTS_STAR_SPORTS_2_HD-in/index.m3u8?token=
+http://212.102.60.40:2200/R-EX/SPORTS_STAR_SPORTS_1_HINDI_HD-in/index.m3u8?token=
+http://212.102.60.40:2200/R-EX/SPORTS_STAR_SPORTS_3_-in/index.m3u8?token=
+
+#EXTINF:-1 tvg-id="star.sports.select.1.hd.in" tvg-name="star.sports.select.1.hd.in" group-title="212/IN",STAR SPORTS SELECT 1HD |212
+http://212.102.60.40:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_1_HD-in/index.m3u8?token=
+#EXTINF:-1 tvg-id="star.sports.select.2.hd.in" tvg-name="star.sports.select.2.hd.in" group-title="212/IN",STAR SPORTS SELECT 2HD |212
+http://212.102.60.40:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_2_HD-in/index.m3u8?token=
+
+#EXTINF:-1 group-title="212/IN",Star Sports Tamil |212
+http://212.102.60.40:2200/R-EX/SPORTS_STAR_SPORTS_TAMIL-in/index.m3u8?token=
+
+#EXTINF:-1 group-title="212/IN",STAR GOLD 2 |212
+http://212.102.60.40:2200/R-EX/STAR_GOLD_2-in/index.m3u8?token=
+
+#EXTINF:-1 group-title="212/IN",STAR SPORTS HD1 |212
+http://212.102.60.40:2200/R-EX/STAR_SPORTSHINDI_HD_1-in/index.m3u8?token=
+http://212.102.60.40:2200/R-EX/STAR_SPORTSHINDI_HD_1-in/tracks-v1a1/mono.m3u8?token=
+
+#EXTINF:-1 tvg-id="sony.ten.1.in" tvg-name="sony.ten.1.in" group-title="212/IN",TEN 1HD |212
+http://212.102.60.40:2200/R-EX/SPORTS_TEN_1_HD-in/index.m3u8?token=
+#EXTINF:-1 tvg-id="sony.ten.2.in" tvg-name="sony.ten.2.in" group-title="212/IN",TEN 2HD |212
+http://212.102.60.40:2200/R-EX/SPORTS_TEN_2_HD-in/index.m3u8?token=
+#EXTINF:-1 tvg-id="sony.ten.3.in" tvg-name="sony.ten.3.in" group-title="212/IN",TEN 3HD |212
+http://212.102.60.40:2200/R-EX/SPORTS_TEN_3_HD-in/index.m3u8?token=
+
+#EXTINF:-1 group-title="212/IN",Vijay Music Tamil |212
+http://212.102.60.40:2200/R-EX/Star_Viyaj_Music-in/index.m3u8?token=
+
+#EXTINF:-1 group-title="212/IN",T Sports |212
+http://212.102.60.40:2200/R-EX/T_SPORTS_HD-in/index.m3u8?token=
+
+#EXTINF:-1 group-title="212/IN",Colors Tamil HD |212
+http://212.102.60.40:2200/R-EX/TAMIL_COLORS_HD-in/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",J Movie Tamil |212
+http://212.102.60.40:2200/R-EX/TAMIL_J_MOVIES-in/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",Jaya Max Tamil |212
+http://212.102.60.40:2200/R-EX/TAMIL_JAYA_MAX-in/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",Jaya Plus Tamil |212
+http://212.102.60.40:2200/R-EX/TAMIL_JAYA_PLUS-in/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",Jaya TV HD Tamil |212
+http://212.102.60.40:2200/R-EX/TAMIL_JAYA_TV_HD-in/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",KTV HD Tamil |212
+http://212.102.60.40:2200/R-EX/TAMIL_KTV_HD-in/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",Polimer TV Tamil |212
+http://212.102.60.40:2200/R-EX/TAMIL_POLIMER_TV-in/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",Raj Digital Plus Tamil |212
+http://212.102.60.40:2200/R-EX/TAMIL_RAJ_DIGITAL_PLUS-in/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",Raj Musix Tamil |212
+http://212.102.60.40:2200/R-EX/TAMIL_RAJ_MUSIX-in/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",Raj TV Tamil |212
+http://212.102.60.40:2200/R-EX/TAMIL_RAJ_TV-in/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",Star Vijay Tamil |212
+http://212.102.60.40:2200/R-EX/TAMIL_STAR_VIJAY_HD-in/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",Sun Music HD Tamil |212
+http://212.102.60.40:2200/R-EX/TAMIL_SUN_MUSIC_HD-in/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",Sun TV Tamil |212
+http://212.102.60.40:2200/R-EX/TAMIL_SUN_TV_HD-in/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",Vijay Super Tamil |212
+http://212.102.60.40:2200/R-EX/TAMIL_VIJAY_SUPER-in/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",Zee Tamil |212
+http://212.102.60.40:2200/R-EX/TAMIL_ZEE_TAMIL_HD-in/index.m3u8?token=
+
+#EXTINF:-1 group-title="212/IN",ETV HD Telugu |212
+http://212.102.60.40:2200/R-EX/TELUGU_ETV_HD-in/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",ETV CINEMA HD Telugu |212
+http://212.102.60.40:2200/R-EX/TELUGU_ETV_CINEMA_TELUGU_-in/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",ETV Life Telugu |212
+http://212.102.60.40:2200/R-EX/TELUGU_ETV_LIFE-in/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",ETV Plus Telugu |212
+http://212.102.60.40:2200/R-EX/TELUGU_ETV_PLUS-in/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",GEMINI |212
+http://212.102.60.40:2200/R-EX/TELUGU_GEMINI_HD-in/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",GEMINI MOVIES |212
+http://212.102.60.40:2200/R-EX/TELUGU_GEMINI_MOVIES_HD-in/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",History TV18 HD Telugu |212
+http://212.102.60.40:2200/R-EX/TELUGU_HISTORY_TV_18_HD-in/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",Star Maa HD Telugu |212
+http://212.102.60.40:2200/R-EX/TELUGU_STAR_MAA_HD-in/index.m3u8?token=
+#EXTINF:-1 group-title="212/IN",Star Maa Movies HD Telugu |212
+http://212.102.60.40:2200/R-EX/TELUGU_STAR_MAA_MOVIES_HD-in/index.m3u8?token=
 
 
 -/-/-/-/-/- 46.105.112.116/?watch= -/-/-/-/-/-  
@@ -18690,6 +19485,7 @@ http://46.105.112.116/?watch=AFR-EX/SuperSport_Action_FHD-dstv/index.m3u8
 http://46.105.112.116/?watch=AFR-EX/SuperSport_Action_FHD-dstv/tracks-v1a1/mono.m3u8?token=
 http://46.105.112.116/?watch=AFR-EX/SuperSport_Action_FHD-dstv/mono.m3u8?token=
 http://46.105.112.116/?watch=AFR-EX/SuperSport_Action_FHD-dstv/mpegts?token=
+
 
 #EXTINF:-1 group-title="46/IN",SuperSport Cricket |46
 http://46.105.112.116/?watch=AFR-EX/SuperSport_Cricket_FHD-dstv/index.m3u8?token=
@@ -21283,7 +22079,7 @@ https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
 
 http://185.90.242.200/?watch=BR/NHK-br&token= < http://185.90.242.200/?watch=BR/NHK-br/index.m3u8?token= K- - not work
 
-http://212.224.98.212:2200/BR/Fox_Sports_2_HD-br/index.m3u8?token=
+
 
 
 http://5.255.94.248:8080/IN:STAR-SPORTS-HINDI/tracks-v1a1/mono.m3u8?token=JuylOjZl90 < ac deactivated
