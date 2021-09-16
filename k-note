@@ -25545,7 +25545,8 @@ http://tigerfights.xyz:80/get.php?username=Marques&password=Marques&type=m3u
 Real Url: tigerfights.xyz:80     Status: Active    Created: 28/1/2020 2:00:45 AM     Expires: 21/2/2022 11:00:25 PM     Maximum Connections: 4     Formats: "m3u8","ts","rtmp"
 
 http://tigerfights.xyz:80/get.php?username=57101910&password=08426299&type=m3u
-Real Url: tigerfights.xyz:80     Status: Active    Created: 2/9/2020 12:00:00 AM     Expires: Null     Maximum Connections: 5     Formats: "m3u8","ts","rtmp" < Fite & 24/7 + xxx << need to check later
+Real Url: tigerfights.xyz:80     Status: Active    Created: 2/9/2020 12:00:00 AM     Expires: 7/10/2021 11:04:16 PM     Maximum Connections: 5     Formats: "m3u8","ts","rtmp"
+
 
 #EXTINF:-1 group-title="TigFig",PC: NBC Sports
 http://tigerfights.xyz:80/live/57101910/08426299/2855698.ts
