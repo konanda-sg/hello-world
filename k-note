@@ -6,10 +6,10 @@ x-tvg-url="https://guidexl.tv4.live/"
 
 http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 
->> to check how to do with vimeo
 
-https://player.vimeo.com/external/525696991.m3u8?s=52bfc0cf9cec79027e89aef30cc6b3c81d1f218c
 
+http://s.pdsrv.io:9972/get.php?username=gvlzqivy&password=eamF0010&type=m3u
+Real Url: s.pdsrv.io:80     Status: Active    Created: 10/2/2020 3:00:00 AM     Expires: 10/2/2022 3:00:00 AM    Active Connections: 2     Maximum Connections: 2     Formats: "m3u8","ts","rtmp"
 
 + + + + 
 
@@ -25534,6 +25534,8 @@ Real Url: thespeedmedia.watch:2086     Status: Active    Created: 18/1/2021 6:18
 
 + + + + + tigerfights.xyz:80 + + + + + https://rebrand.ly/tigfig
 
+http://tigerfights.xyz:80/get.php?username=CHRISTINE&password=CHRISTINE&type=m3u
+Real Url: tigerfights.xyz:80     Status: Active    Created: 31/12/2020 7:32:22 PM     Expires: 3/10/2021 7:32:22 PM     Maximum Connections: 2     Formats: "m3u8","ts","rtmp"
 
 http://tigerfights.xyz/get.php?username=Cadillac&password=Cadillac&type=m3u
 Real Url: tigerfights.xyz:80     Status: Active    Created: 26/6/2021 1:10:37 PM     Expires: 6/10/2021 12:21:26 AM     Maximum Connections: 4     Formats: "m3u8","ts","rtmp"
@@ -25546,6 +25548,10 @@ Real Url: tigerfights.xyz:80     Status: Active    Created: 28/1/2020 2:00:45 AM
 
 http://tigerfights.xyz:80/get.php?username=57101910&password=08426299&type=m3u
 Real Url: tigerfights.xyz:80     Status: Active    Created: 2/9/2020 12:00:00 AM     Expires: 7/10/2021 11:04:16 PM     Maximum Connections: 5     Formats: "m3u8","ts","rtmp"
+
+http://tigerfights.xyz:80/get.php?username=mskSx6eJ&password=p2WFJU9E&type=m3u
+Real Url: tigerfights.xyz:80     Status: Active    Created: 16/1/2021 6:50:27 PM     Expires: 16/5/2022 6:50:27 PM     Maximum Connections: 4     Formats: "m3u8","ts","rtmp" K<<<
+
 
 
 #EXTINF:-1 group-title="TigFig",PC: NBC Sports
