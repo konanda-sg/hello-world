@@ -6,7 +6,8 @@ x-tvg-url="https://guidexl.tv4.live/"
 
 http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 
-
+http://iptvrestream.online:88/get.php?username=alinuk&password=alinuk&type=m3u
+Real Url: iptvrestream.online:88     Status: Active    Created: 11/6/2021 6:27:44 PM     Expires: Null    Active Connections: 0     Maximum Connections: 3     Formats: "m3u8","ts","rtmp"
 
 http://s.pdsrv.io:9972/get.php?username=gvlzqivy&password=eamF0010&type=m3u
 Real Url: s.pdsrv.io:80     Status: Active    Created: 10/2/2020 3:00:00 AM     Expires: 10/2/2022 3:00:00 AM    Active Connections: 2     Maximum Connections: 2     Formats: "m3u8","ts","rtmp"
