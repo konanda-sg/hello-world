@@ -18583,37 +18583,6 @@ http://50.7.34.155:2200/BR/disneyxd-br/tracks-v1a1/mono.m3u8 < OK << to check fo
 http://50.7.34.155:2200/EX/BEIN_SPORTS_MAX1HD-ar/tracks-v1a1/mono.m3u8?token=
 
 
-
-Fox Life
-NATGEO
-NATGEO WILD
-STAR MOVIES / STAR MOVIES SELECT
-STAR SPORTS 1,2
-STAR SPORTS SELECT 1,2
-STAR WORLD
-STAR WORLD PREMIER
-STAR WORLD LIFT
-
-SONY MAX
-SONY MAX 2
-SONY WAH
-SONY PIX
-SONY SIZ
-SONY TEN 1,2,3,4
-
-ZEE CAFE
-&flix
-&prive
-Zee World
-Zee Smile
-Zee Bollynova
-Zee Bollymovies
-
-HINDI - ZEE CINEMA, & TV, &pictures, &xplor
-
-Movies Now, MNX, Romedy Now, MN+, 
-
-
 + + + 
 
 http://156.146.43.241:2200 < NO
@@ -18679,6 +18648,7 @@ https://wyjs.tk/index.php/http://212.224.98.208:2200/EX/FR_RMC_SPORT1_HD-fr/inde
 
 
 -/-/-/-/-/- 212.102.60.40:2200 -/-/-/-/-/-  
+
 
 http://212.102.60.40:2200/R-EX/TELUGU_STAR_MAA_HD-in/index.m3u8?token=
 http://212.102.60.40:2200/EX/bein1FHD-ar/index.m3u8?token=
@@ -18918,6 +18888,13 @@ http://212.102.60.40:2200/EX/FR_RMC_SPORT2_HD-fr/index.m3u8?token=
 http://212.102.60.40:2200/EX/FR_RMC_SPORT3_HD-fr/index.m3u8?token=
 #EXTINF:-1 group-title="212/IN",RMC SPORT4
 http://212.102.60.40:2200/EX/FR_RMC_SPORT4_HD-fr/index.m3u8?token=
+http://212.102.60.40:2200/EX/FR_RMC_SPORT5_HD-fr/index.m3u8?token=
+http://212.102.60.40:2200/EX/FR_RMC_SPORT6_HD-fr/index.m3u8?token=
+http://212.102.60.40:2200/EX/FR_RMC_SPORT7_HD-fr/index.m3u8?token=
+http://212.102.60.40:2200/EX/FR_RMC_SPORT8_HD-fr/index.m3u8?token=
+http://212.102.60.40:2200/EX/FR_RMC_SPORT9_HD-fr/index.m3u8?token=
+http://212.102.60.40:2200/EX/FR_RMC_SPORT10_HD-fr/index.m3u8?token=
+
 
 #EXTINF:-1 group-title="212/IN",MATCH |212
 http://212.102.60.40:2200/EX/match-ru/index.m3u8?token=
