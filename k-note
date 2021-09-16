@@ -12,6 +12,15 @@ Real Url: iptvrestream.online:88     Status: Active    Created: 11/6/2021 6:27:4
 http://s.pdsrv.io:9972/get.php?username=gvlzqivy&password=eamF0010&type=m3u
 Real Url: s.pdsrv.io:80     Status: Active    Created: 10/2/2020 3:00:00 AM     Expires: 10/2/2022 3:00:00 AM    Active Connections: 2     Maximum Connections: 2     Formats: "m3u8","ts","rtmp"
 
+#EXTINF:-1,CNN Live
+https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
+#EXTINF:-1,cnn
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1,cnn
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/master.m3u8
+
+
+
 + + + + 
 
 http://geoiptv.me:8880/get.php?username=iptvtree&password=yfL7uQLwXl&type=m3u
