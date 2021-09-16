@@ -19453,7 +19453,7 @@ http://46.105.112.116/?watch=R-EX/TELUGU_STAR_MAA_HD-in/index.m3u8?token=
 http://46.105.112.116/?watch=R-EX/TELUGU_STAR_MAA_MOVIES_HD-in/index.m3u8?token=
 
 
--/-/-/-/- http://51.178.220.156/?watch= -/-/-/-/- 
+-/-/-/-/- http://51.178.220.156/?watch= -/-/-/-/- OFFLINE 
  
 %2Findex.m3u8%3Ftoken%3D => /index.m3u8?token=
 http://xlx723.dyndns.org/iproxy/miniProxy.php/
@@ -19461,10 +19461,13 @@ http://xlx723.dyndns.org/iproxy/miniProxy.php/http://185.180.15.17:2200/
 http://xlx723.dyndns.org/iproxy/miniProxy.php/http://212.224.98.208:2200/
 
 http://51.178.220.156/?watch=AFR-EX/SuperSport_Action_FHD-dstv&token= < http://51.178.220.156/?watch=AFR-EX/SuperSport_Action_FHD-dstv/index.m3u8?token=
-
+http://51.178.220.156/?watch=R-EX/SPORTS_TEN_1_HD-in/index.m3u8?token=
 
 
 -/-/-/-/- http://46.105.112.116/?watch= -/-/-/-/- check later -/-/-/-/-
+
+
+http://51.178.220.156/?watch=R-EX/SPORTS_TEN_1_HD-in/index.m3u8?token=
 
 http://46.105.112.116/?watch=AFR-EX/SuperSport_Action_FHD-dstv/index.m3u8?token=%2Findex.m3u8%3Ftoken%3D
 http://46.105.112.116/?watch=BR/aehd-br/index.m3u8?token=
@@ -21164,7 +21167,6 @@ http://185.246.209.207/HINDI_ZEE_CINEMA_INDIA/tracks-v1a1/mono.m3u8
 -/-/-/-/-/- 208.115.215.42/ -/-/-/-/-/- NOT WORK > TO CHECK LATER
 
 
-
 #EXTINF:-1 group-title="208.155",Sony_Max
 http://208.115.215.42/Sony_Max_HD/tracks-v1a1/mono.m3u8
 http://208.115.215.42:80/Sony_Max_HD/tracks-v1a1/mono.m3u8
@@ -21192,6 +21194,7 @@ http://208.115.215.42/ZEE_Bollywood_HD/tracks-v1a1/mono.m3u8
 http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="208.155",ZEE_Tv
 http://208.115.215.42/ZEE_Tv_HD_02/tracks-v1a1/mono.m3u8
+
 
 + + + + + 221.120.204.4 + + + + +
 
@@ -21254,10 +21257,7 @@ https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
 http://185.90.242.200/?watch=BR/NHK-br&token= < http://185.90.242.200/?watch=BR/NHK-br/index.m3u8?token= K- - not work
 
 
-
-
 http://5.255.94.248:8080/IN:STAR-SPORTS-HINDI/tracks-v1a1/mono.m3u8?token=JuylOjZl90 < ac deactivated
-
 
 
 https://itvoign.multitvsolution.com/idvo/discoverykidshindi_240p/index.m3u8
@@ -21280,8 +21280,6 @@ https://streams.simpaisa.com:8443/pitvlive3/bbcnews.smil/chunklist_w1561877641_b
 #EXTINF:-1 group-title="misc/IN",CNN
 https://streams.simpaisa.com:8443/pitvlive4/cnn.smil/playlist.m3u8
 https://streams.simpaisa.com:8443/pitvlive3/cnn.smil/playlist.m3u8
-
-
 
 
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
@@ -21333,6 +21331,7 @@ http://84.17.41.7/StarMoviesHD-Hin/mono.m3u8
 http://84.17.41.7:80/UTVACTION-Hin/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="misc/IN",UTVMOVIES
 http://84.17.41.7:80/UTVMOVIES-Hin/tracks-v1a1/mono.m3u8
+
 
 -/-/-/-/-
 
@@ -22284,8 +22283,6 @@ http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 http://209.126.120.153/hls/andpicture.m3u8
 
 
-
-
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8
 http://d2whc8q9z2af8n.cloudfront.net/MO1.m3u8
 http://singamcloud.in:1935/rasinetwork/rasihindi/playlist.m3u8
@@ -22313,8 +22310,8 @@ https://viacom-b.multitvsolution.com/viacomhls/suryacinema_360p/index.m3u8
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
 
 
-
 -/-/-/-/- OFFLINE -/-/-/-/-/
+
 &TV HD
 https://z5ams.akamaized.net/out/v1/81b68c3858bf4481ad93679fd4253cf6/index.m3u8?hdnts=st=1626783862~exp=1626786862~acl=/*~hmac=a856ac325b87884074e7574672687f528c1a0d6bb548af0db058c1dabb4823e4
 ZEE CINEMA HD
@@ -22328,44 +22325,7 @@ https://z5ams.akamaized.net/out/v1/8cb6a17f49784fda88939f24b083af45/index.m3u8?h
 https://z5ams.akamaized.net/out/v1/1d59d08fec89495584d2b7e4059492a4/index.m3u8?hdnts=st=1626787160~exp=1626790160~acl=/*~hmac=23f3b235934145020ed57070fdfc0aa029ba48a52989428b6cb8fd5c01dc13bb
 
 
-
 + + + + + https://y5w8j4a9.ssl.hwcdn.net + + + + +
-
-
-
-#EXTINF:-1 group-title="IN/y5",&Flix HD
-#EXTINF:-1 group-title="IN/y5",&PRIVE HD
-#EXTINF:-1 group-title="IN/y5",&TV HD*
-#EXTINF:-1 group-title="IN/y5",&flix HD
-#EXTINF:-1 group-title="IN/y5",&flix*
-#EXTINF:-1 group-title="IN/y5",&pictures HD*
-#EXTINF:-1 group-title="IN/y5",&prive HD EN
-#EXTINF:-1 group-title="IN/y5",ZEE ANMOL CINEMA
-#EXTINF:-1 group-title="IN/y5",ZEE BANGLA CINEMA
-#EXTINF:-1 group-title="IN/y5",ZEE BOLLYWOOD
-#EXTINF:-1 group-title="IN/y5",ZEE CINEMA ME
-#EXTINF:-1 group-title="IN/y5",ZEE CINEMA UK
-#EXTINF:-1 group-title="IN/y5",ZEE CINEMA US
-#EXTINF:-1 group-title="IN/y5",ZEE CINEMA US*
-#EXTINF:-1 group-title="IN/y5",ZEE Cafe
-#EXTINF:-1 group-title="IN/y5",ZEE Cafe HD En
-#EXTINF:-1 group-title="IN/y5",ZEE Cinema Me
-#EXTINF:-1 group-title="IN/y5",ZEE Living
-#EXTINF:-1 group-title="IN/y5",ZEE MAGIC
-#EXTINF:-1 group-title="IN/y5",ZEE MARATHIU
-#EXTINF:-1 group-title="IN/y5",ZEE Mundo
-#EXTINF:-1 group-title="IN/y5",ZEE SMILE US
-#EXTINF:-1 group-title="IN/y5",ZEE WORLD
-#EXTINF:-1 group-title="IN/y5",ZEE5
-#EXTINF:-1 group-title="IN/y5",ZEETV CA
-#EXTINF:-1 group-title="IN/y5",ZEETV HD US
-#EXTINF:-1 group-title="IN/y5",ZEETV ME EN
-#EXTINF:-1 group-title="IN/y5",ZEETV RU
-#EXTINF:-1 group-title="IN/y5",ZEETV SEA
-#EXTINF:-1 group-title="IN/y5",ZING UK
-#EXTINF:-1 group-title="IN/y5",Zing
-#EXTINF:-1 group-title="IN/y5",andflix
-#EXTINF:-1 group-title="IN/y5",classic
 
 
 https://y5w8j4a9.ssl.hwcdn.net/24ghanta/tracks-v1a1/index.m3u8
@@ -22469,7 +22429,6 @@ https://y5w8j4a9.ssl.hwcdn.net/russia/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/russia/mono.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/russia/tracks-v1a1/mono.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/russia/tracks-v2a1/index.m3u8
-#EXTINF:-1 group-title="IN/y5",smileusa
 https://y5w8j4a9.ssl.hwcdn.net/smileusa/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/smileusa/mono.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/smileusa/tracks-v1a1/index.m3u8
@@ -22637,8 +22596,6 @@ Real Url: 178.18.245.114:8080     Status: Active    Created: 7/9/2021 11:06:34 A
 
 http://185.30.145.49:25461/get.php?username=www7w7w7w77w7w7w88r8r8r88r8ttt7t9t9t9t66hgg3g3g3gh1hhh1h1&password=1e1r1t4g7h536j33y3t22r2dds2s&type=m3u
 Real Url: 185.30.145.49:25461     Status: Active    Created: 8/8/2021 7:15:22 AM     Expires: Null    Active Connections: 55     Maximum Connections: 200     Formats: "m3u8","ts","rtmp" < SS & Arina Sports
-
-
 
 http://194.233.66.151:25461/get.php?username=rumah&password=home&type=m3u
 Real Url: 194.233.66.151:25461     Status: Active    Created: 15/6/2021 10:27:32 AM     Expires: Null    Active Connections: 77     Maximum Connections: 10000     Formats: "m3u8","ts","rtmp"
