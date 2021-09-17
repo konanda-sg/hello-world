@@ -18499,12 +18499,6 @@ offline http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/2641e8
 
 
 http://212.224.98.196:2200/R-EX/UEFA Euro 2020_SONY_SIX_HD-in/tracks-v1a1/mono.m3u8
-http://212.224.98.208:2200/EX/FR_RMC_SPORT10_HD-fr/index.m3u8?token=
-http://212.224.98.208:2200/EX/FR_RMC_SPORT5_HD-fr/index.m3u8?token=
-http://212.224.98.208:2200/EX/FR_RMC_SPORT6_HD-fr/index.m3u8?token=
-http://212.224.98.208:2200/EX/FR_RMC_SPORT7_HD-fr/index.m3u8?token=
-http://212.224.98.208:2200/EX/FR_RMC_SPORT8_HD-fr/index.m3u8?token=
-http://212.224.98.208:2200/EX/FR_RMC_SPORT9_HD-fr/index.m3u8?token=
 http://212.224.98.212:2200/BR/Fox_Sports_2_HD-br/index.m3u8?token=
 
 token=123zzzaaaxxaazzzxxx987
@@ -18896,6 +18890,18 @@ http://46.105.112.116/?watch=EX/FR_RMC_SPORT2_HD-fr/index.m3u8?token=
 http://46.105.112.116/?watch=EX/FR_RMC_SPORT3_HD-fr/index.m3u8?token=
 #EXTINF:-1 group-title="46/IN",RMC SPORT4
 http://46.105.112.116/?watch=EX/FR_RMC_SPORT4_HD-fr/index.m3u8?token=
+#EXTINF:-1 group-title="46/IN",RMC SPORT5
+http://46.105.112.116/?watch=EX/FR_RMC_SPORT5_HD-fr/index.m3u8?token=
+#EXTINF:-1 group-title="46/IN",RMC SPORT6
+http://46.105.112.116/?watch=EX/FR_RMC_SPORT6_HD-fr/index.m3u8?token=
+#EXTINF:-1 group-title="46/IN",RMC SPORT7
+http://46.105.112.116/?watch=EX/FR_RMC_SPORT7_HD-fr/index.m3u8?token=
+#EXTINF:-1 group-title="46/IN",RMC SPORT8
+http://46.105.112.116/?watch=EX/FR_RMC_SPORT8_HD-fr/index.m3u8?token=
+#EXTINF:-1 group-title="46/IN",RMC SPORT9
+http://46.105.112.116/?watch=EX/FR_RMC_SPORT9_HD-fr/index.m3u8?token=
+#EXTINF:-1 group-title="46/IN",RMC SPORT10
+http://46.105.112.116/?watch=EX/FR_RMC_SPORT10_HD-fr/index.m3u8?token=
 
 #EXTINF:-1 group-title="46/IN",MATCH |46
 http://46.105.112.116/?watch=EX/match-ru/index.m3u8?token=
