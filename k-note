@@ -21426,9 +21426,9 @@ http://143.244.60.10/ENGLISH__STAR_MOVIES_SELECT_HD/tracks-v1a1/mono.m3u8?token=
 http://143.244.60.10/HINDI__AND_PICTURES_HD/mono.m3u8?token=test
 #EXTINF:-1 group-title="misc/IN",B4U_MOVIES |offline
 http://143.244.60.10/HINDI__B4U_MOVIES/mono.m3u8?token=test
-#EXTINF:-1 group-title="misc/IN",MN_PLUS
+#EXTINF:-1 group-title="misc/IN",MN_PLUS |offline
 http://143.244.60.10/HINDI__MN_PLUS_HD/mono.m3u8?token=test
-#EXTINF:-1 group-title="misc/IN",MOVIES_NOW
+#EXTINF:-1 group-title="misc/IN",MOVIES_NOW |offline
 http://143.244.60.10/HINDI__MOVIES_NOW_HD/mono.m3u8?token=test
 #EXTINF:-1 group-title="misc/IN",SONY_MAX_2
 http://143.244.60.10/HINDI__SONY_MAX_2/mono.m3u8?token=test
@@ -21538,6 +21538,9 @@ https://feed.play.mv/live/10005200/jmW41EycvT/master.m3u8
 https://feed.play.mv/live/10005200/jmW41EycvT/1.m3u8
 #EXTINF:-1 group-title="misc/IN",SONY TEN 1
 https://feed.play.mv/live/10005200/fMLTkj4OJC/master.m3u8
+#EXTINF:-1 group-title="misc/IN",SONY TEN 2
+https://feed.play.mv/live/10005200/ONheoZY3w4/master.m3u8
+
 #EXTINF:-1 group-title="misc/IN",MARVEL HQ
 https://feed.play.mv/live/10005200/niZoVrR2vD/master.m3u8
 #EXTINF:-1 group-title="misc/IN",ANIMAX EN
@@ -21556,6 +21559,8 @@ ANIMAX
 https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
 Discovery HD
 https://feed.play.mv/live/10005200/2Lkn0sCJBz/master.m3u8
+H
+https://feed.play.mv/live/10005200/isb9Qf3P5M/master.m3u8
 Trvl
 https://feed.play.mv/live/10005200/2dPCepc9DA/master.m3u8
 BBC earth
@@ -21572,6 +21577,16 @@ HUM HD
 https://feed.play.mv/live/1009/h5T18oYbas/master.m3u8
 HUM MASALA
 https://feed.play.mv/live/1009/uRdwlkNe1U/master.m3u8
+#EXTINF:-1UTV Movies
+https://feed.play.mv/live/1009/h8ICfEsHxv/master.m3u8
+#EXTINF:-1ZEE CINEMA
+https://feed.play.mv/live/1009/U4igJyzIbn/master.m3u8
+#EXTINF:-1ZEE TV
+https://feed.play.mv/live/10005200/HXW3hMDfn5/master.m3u8
+Zoomoo
+https://feed.play.mv/live/10005200/sdwa8BgXE4/master.m3u8
+
+
 
 
 #EXTINF:-1 group-title="misc/IN",Animal Planet
@@ -21994,6 +22009,8 @@ https://streamer-1.toffeelive.com/mobile_hls/six_1/5/04dfcf51f5f17bc7739a41f294e
 
 http://51.79.84.156:8082/ZeeTvIn/index.m3u8
 
+
+https://f8e7y4c6.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 
 https://f8e7y4c6.ssl.hwcdn.net/24ghanta/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="IN/f8",Zee Action
