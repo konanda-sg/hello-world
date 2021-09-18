@@ -4,6 +4,17 @@ x-tvg-url="https://guidexl.tv4.live/"
 
 00:04:4B:CC:FF:2E < Shield 
 
+
+http://84.17.41.7:80/StarGoldHD-Hin/tracks-v1a1/mono.m3u8
+http://tvflix02.ddns.net/SPORTS__STAR_SPORTS_SELECT_2_HD/tracks-v1a1/mono.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
+https://uefaliveshow-lh.akamaihd.net/i/20210826_UCL_1@693433/index_3200_av-b.m3u8?sd=10
+http://208.115.215.42/Sony_Max_HD/playlist.m3u8
+https://alchimie-mmatv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+http://208.115.215.42/Utsav_Gold_HD/tracks-v1a1/mono.m3u8
+
+
 http://new-pro.tv:8080/get.php?username=Hotel-2021&password=Allroom&type=m3u
 
 http://pie.buzz:83/get.php?username=Peter.nyr1909&password=6547736256&type=m3u
@@ -18652,7 +18663,9 @@ http://212.102.60.40:2200/R-EX/TELUGU_STAR_MAA_HD-in/index.m3u8?token=RED_vqojro
 http://212.102.60.40:2200/R-EX/TELUGU_STAR_MAA_HD-in/index.m3u8?token=
 
 
--/-/-/-/-/- 46.105.112.116/?watch= -/-/-/-/-/-  
+-/-/-/-/-/- 46.105.112.116/?watch= -/-/-/-/-/-  http://46.105.112.116:80/?watch= + + +
+
+http://185.246.209.207/ << to check
 
 #EXTINF:-1 group-title="46/IN",SuperSport Action |46
 http://46.105.112.116/?watch=AFR-EX/SuperSport_Action_FHD-dstv/index.m3u8?token=/index.m3u8?token=
@@ -18662,6 +18675,8 @@ http://46.105.112.116/?watch=AFR-EX/SuperSport_Action_FHD-dstv/tracks-v1a1/mono.
 http://46.105.112.116/?watch=AFR-EX/SuperSport_Action_FHD-dstv/mono.m3u8?token=
 http://46.105.112.116/?watch=AFR-EX/SuperSport_Action_FHD-dstv/mpegts?token=
 
+http://46.105.112.116/?watch=EX/andpictureshd-in&token=RK
+http://46.105.112.116:80/?watch=AFR-EX/SuperSport_Premier_League_FHD-dstv&token=
 
 #EXTINF:-1 group-title="46/IN",SuperSport Cricket |46
 http://46.105.112.116/?watch=AFR-EX/SuperSport_Cricket_FHD-dstv/index.m3u8?token=
@@ -22020,6 +22035,10 @@ http://51.79.84.156:8082/ZeeTvIn/index.m3u8
 
 
 https://f8e7y4c6.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+
+https://f8e7y4c6.ssl.hwcdn.net/zee5_romance/index.m3u8
+
+
 
 https://f8e7y4c6.ssl.hwcdn.net/24ghanta/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="IN/f8",Zee Action
