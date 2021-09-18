@@ -19142,17 +19142,17 @@ http://46.105.112.116/?watch=EX/bein14hd-ar/index.m3u8?token=
 #EXTINF:-1 group-title="46/IN",beIN SPORT 2FR |46
 http://46.105.112.116/?watch=EX/bein15hd-ar/index.m3u8?token=
 
-#EXTINF:-1 group-title="46/IN",beIN SPORT MAX 1HD |46
+ group-title="46/IN",beIN SPORT MAX 1HD |46
 http://46.105.112.116/?watch=EX/BEIN_SPORTS_MAX1HD-ar/index.m3u8?token=
-#EXTINF:-1 group-title="46/IN",beIN SPORT MAX 2HD |46
+ group-title="46/IN",beIN SPORT MAX 2HD |46
 http://46.105.112.116/?watch=EX/BEIN_SPORTS_MAX2HD-ar/index.m3u8?token=
-#EXTINF:-1 group-title="46/IN",beIN SPORT MAX 3HD |46
+ group-title="46/IN",beIN SPORT MAX 3HD |46
 http://46.105.112.116/?watch=EX/BEIN_SPORTS_MAX3HD-ar/index.m3u8?token=
-#EXTINF:-1 group-title="46/IN",beIN SPORT MAX 4HD |46
+ group-title="46/IN",beIN SPORT MAX 4HD |46
 http://46.105.112.116/?watch=EX/BEIN_SPORTS_MAX4HD-ar/index.m3u8?token=
-#EXTINF:-1 group-title="46/IN",beIN SPORT MAX 5HD |46
+ group-title="46/IN",beIN SPORT MAX 5HD |46
 http://46.105.112.116/?watch=EX/BEIN_SPORTS_MAX5HD-ar/index.m3u8?token=
-#EXTINF:-1 group-title="46/IN",beIN SPORT MAX 6HD |46
+ group-title="46/IN",beIN SPORT MAX 6HD |46
 http://46.105.112.116/?watch=EX/BEIN_SPORTS_MAX6HD-ar/index.m3u8?token=
 #EXTINF:-1 group-title="46/IN",beIN MAX 1TR
 http://46.105.112.116/?watch=EX/beinmax1hd-tr/index.m3u8?token=
