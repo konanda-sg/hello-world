@@ -4,6 +4,27 @@ x-tvg-url="https://guidexl.tv4.live/"
 
 00:04:4B:CC:FF:2E < Shield 
 
+http://us.bestvideostreaming.is/7711/index.m3u8
+http://us.bestvideostreaming.is/7722/index.m3u8
+http://us.bestvideostreaming.is/8704/playlist.m3u8
+http://us.bestvideostreaming.is/8705/index.m3u8
+http://us.bestvideostreaming.is/8708/index.m3u8
+http://us.bestvideostreaming.is/8711/index.m3u8
+http://us.bestvideostreaming.is/8716/playlist.m3u8
+http://us.bestvideostreaming.is/8717/index.m3u8
+http://us.bestvideostreaming.is/8748/playlist.m3u8
+http://us.bestvideostreaming.is/8749/playlist.m3u8
+http://us.bestvideostreaming.is/8779/playlist.m3u8
+http://us.bestvideostreaming.is/8784/index.m3u8
+http://us.bestvideostreaming.is/8788/playlist.m3u8
+http://us.bestvideostreaming.is/8789/index.m3u8
+http://us.bestvideostreaming.is/8793/playlist.m3u8
+http://us.bestvideostreaming.is/8795/index.m3u8
+http://us.bestvideostreaming.is/8817/index.m3u8
+http://us.bestvideostreaming.is/8821/index.m3u8
+http://us.bestvideostreaming.is/8823/index.m3u8
+http://us.bestvideostreaming.is/8852/index.m3u8
+
 
 http://84.17.41.7:80/StarGoldHD-Hin/tracks-v1a1/mono.m3u8
 http://tvflix02.ddns.net/SPORTS__STAR_SPORTS_SELECT_2_HD/tracks-v1a1/mono.m3u8
@@ -853,7 +874,7 @@ http://116.202.245.40:9191/play/a03p
 
 http://130.185.150.79:1935/trunk/SONY-SIX/playlist.m3u8 < DOWN
 http://138.0.229.88:8000/playlist.m3u8 < few Spt
-http://14.199.164.20:4001/playlist.m3u8 < IN
+
 http://143.244.60.78/BEINSport1ENHD/tracks-v1a1/mono.m3u8?token= offline
 http://143.244.60.78/BEINSport2ENHD/tracks-v1a1/mono.m3u8?token=
 http://143.244.60.78/BEINSport3ENHD/tracks-v1a1/mono.m3u8?token=
@@ -911,7 +932,7 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
 https://raw.githubusercontent.com/angahjee1994/tv/master/hbofam.m3u8
 https://raw.githubusercontent.com/dpch21/IPTV/main/dpCH-Free-IPTV
-https://stitcher.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+
 https://streamspass.com/team/ukraine
 https://wowzaprodhd35-lh.akamaihd.net/i/a9af8597_1@355233/master.m3u8
 
@@ -7247,7 +7268,7 @@ http://4digital.ddns.net:9981/stream/service/99f88d9c4feac218e92515e726d04d13
 http://4digital.ddns.net:9981/stream/service/4d7237235f530a1d3a03fdac43073d8f
 http://4digital.ddns.net:9981/stream/service/7fc35a92848c47d9305c80a12c35f3ca
 
-#EXTINF:-1 group-title="4digit/TH",FOX MOVIES
+#EXTINF:-1 group-title="4digit/TH",FOX MOVIES <<
 http://4digital.ddns.net:11222/ts/0
 #EXTINF:-1,11223 | SKYNET SP HD
 http://4digital.ddns.net:11223/ts/0
@@ -10836,7 +10857,7 @@ https://mediasv.online/tvchannel_x2/starchinesemovies/playlist.m3u8
 
 + + + + + + + + + 
 
-https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
+
 
 https://www.dropbox.com/s/nndfo2od0ctfvfh/MAX-low.m3u8?dl=1
 https://dl.dropboxusercontent.com/s/cxgr1ongofirbrb/hbo_sd.m3u8
@@ -11073,7 +11094,75 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4ec10ed9636f00089
 #EXTINF:-1 group-title="pluto",KIDS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ede448d3d50590007a4419e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=261&deviceId=5ede448d3d50590007a4419e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=51.2993&deviceLon=9.4910&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false
 
+https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
+https://stitcher.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad8d3a31b95267e225e4e09/master.m3u8?
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b68a18823ecb93393cba2f1/master.m3u8?
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c3f8f12a93c2d61b9990a4e/master.m3u8?
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca670f6593a5d78f0e85aed/master.m3u8?
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d134a74ca91eedee1630faa/master.m3u8?
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d2c571faeb3e2738ae27933/master.m3u8?
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d2c57ee4f9ddf73da8a0ba5/master.m3u8?
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d4ae94ef1a1bbb350ca41bb/master.m3u8?
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d4af2ffa9506ab29cf38c38/master.m3u8?
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d7677c0edace7cff8180b16/master.m3u8?
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d7677fa2ec536ce1d587eeb/master.m3u8?
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d767857f65029ce2385b217/master.m3u8?
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dae0b4841a7d0000938ddbd/master.m3u8?
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db0510962948d000961d3c6/master.m3u8?
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcc42446750e200093b15e2/master.m3u8?
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddf8ea0d000120009bcad83/master.m3u8?
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddf901280e3550009139c86/master.m3u8?
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddf91149880d60009d35d27/master.m3u8?
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddf91f19c2c3300098ce961/master.m3u8?
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddf930548ff9b00090d5686/master.m3u8?
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e46ae801f347500099d461a/master.m3u8?
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ea18cd42ee5410007e349dc/master.m3u8?
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff5eb810e2996000768c0e2/master.m3u8?
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff5ebe299d30c0007b1f12a/master.m3u8?
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff5ec5500d4c70007341c7c/master.m3u8?
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff5ed0bb61f1200072ca4cd/master.m3u8?
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff5ed9ba24f6a00074a9b91/master.m3u8?
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ffebb618f6cb4000728082c/master.m3u8?
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ffebbeabd18520007b37709/master.m3u8?
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fff211667854f00079a9b5b/master.m3u8?
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600ad8f86e1eba00081da3ce/master.m3u8?
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/602cf8963b4bc90007454541/master.m3u8?
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604f8d6c7877d40007791af0/master.m3u8?
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604f8de01b479400078fb1e7/master.m3u8?
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60549a8d8f1b53000768bc52/master.m3u8?
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60549c238c3f21000753d3e0/master.m3u8?
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60549d97cd7b090007c73314/master.m3u8?
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60549e98061b5f000776866a/master.m3u8?
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60803e541a829e0008e91641/master.m3u8?
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6080411af03506000759916e/master.m3u8?
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60812fc8539963000707d1e1/master.m3u8?
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6081310e48d3200007afaf3b/master.m3u8?
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60817e1aa6997500072d0d6d/master.m3u8?
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6092544e7639460007d4835e/master.m3u8?
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60925a44f0350600075a1fdc/master.m3u8?
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/609a33d06972da0007748ecf/master.m3u8?
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60afa1508284e60007163c08/master.m3u8?
+http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5812b821249444e05d09cc4c/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-
+http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5aea40b35126c2157123aa64/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-
+http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5b64a245a202b3337f09e51d/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-
+http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5be4c6311843b56328bce619/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-
+http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c12ba66eae03059cbdc77f2/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-
+http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-
+http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-
+http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d40855b3fb0855028c99b6f/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-
+http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d48678d34ceb37d3c458a55/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-
+http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d51ddf0369acdb278dfb05e/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-
+http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d11baeb31c5a43b77bf59/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-
+http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e84db2db3851800077c871e/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-
+http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e84dbf4a838b60007ffbba1/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-
+http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f24662bebe0f0000767de32/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-
 
 + + + + + https://freetvdd.com*/TH + + + + + +
 
@@ -12631,6 +12720,8 @@ http://14.192.144.14:8000/play/a05t/index.m3u8
 
 + + + + + http://14.199.164.20:4001/playlist.m3u8 + + + + +
 
+http://14.199.164.20:4001/playlist.m3u8 < IN
+
 #EXTINF:-1 group-title="14.199",9X JALWA
 http://14.199.164.20:4001/play/a0nc/index.m3u8
 #EXTINF:-1 group-title="14.199",B4U Bhojpuri
@@ -13044,6 +13135,200 @@ http://58.27.219.166:8000/play/a04z/index.m3u8
 http://65.95.162.87:9981/play/ticket/stream/channel/252cb57884060d72be8149730223cdd8?title=NBC%20SPORTS
 http://65.95.162.87:9981/play/ticket/stream/channel/7c608ace1d3dce4b5eaf30b5e588d991?title=PPV%201
 http://65.95.162.87:9981/play/ticket/stream/channel/fbca1a4700d7ac672556b9c169874552?title=SKY%20CINEMA%20Disney
+
+
++ + + + + http://72.255.34.227:8000/playlist.m3u8 + + + + + 
+
+#EXTINF:-1 group-title="72.255",&PRIVE HD-Rs 19
+http://72.255.34.227:8000/play/a01y/index.m3u8
+#EXTINF:-1,&flix HD-Rs19
+http://72.255.34.227:8000/play/a025/index.m3u8
+#EXTINF:-1,&tv HD - Rs 19
+http://72.255.34.227:8000/play/a04f/index.m3u8
+#EXTINF:-1,ANIMAL PLAN-Rs
+http://72.255.34.227:8000/play/a01q/index.m3u8
+#EXTINF:-1,Amedia 1
+http://72.255.34.227:8000/play/a06a/index.m3u8
+#EXTINF:-1,Amedia 2
+http://72.255.34.227:8000/play/a05u/index.m3u8
+#EXTINF:-1,Amedia Premium HD
+http://72.255.34.227:8000/play/a069/index.m3u8
+#EXTINF:-1,Ani
+http://72.255.34.227:8000/play/a06t/index.m3u8
+#EXTINF:-1,Animal Planet
+http://72.255.34.227:8000/play/a07g/index.m3u8
+#EXTINF:-1,Animal Planet HD
+http://72.255.34.227:8000/play/a067/index.m3u8
+#EXTINF:-1,BRIDGE TV
+http://72.255.34.227:8000/play/a06d/index.m3u8
+#EXTINF:-1,BRIDGE TV Classic
+http://72.255.34.227:8000/play/a06w/index.m3u8
+#EXTINF:-1,BRIDGE TV Hits
+http://72.255.34.227:8000/play/a06v/index.m3u8
+#EXTINF:-1,Cartoon Network
+http://72.255.34.227:8000/play/a068/index.m3u8
+#EXTINF:-1,Colors HD-Rs 19
+http://72.255.34.227:8000/play/a024/index.m3u8
+#EXTINF:-1,DTX
+http://72.255.34.227:8000/play/a06k/index.m3u8
+#EXTINF:-1,Discovery Channel
+http://72.255.34.227:8000/play/a07f/index.m3u8
+#EXTINF:-1,Discovery HD-Rs6
+http://72.255.34.227:8000/play/a08m/index.m3u8
+#EXTINF:-1,Discovery S-Rs1
+http://72.255.34.227:8000/play/a07j/index.m3u8
+#EXTINF:-1,Discovery Science
+http://72.255.34.227:8000/play/a07b/index.m3u8
+#EXTINF:-1,Discovery T-Rs1
+http://72.255.34.227:8000/play/a07k/index.m3u8
+#EXTINF:-1,Disney
+http://72.255.34.227:8000/play/a05t/index.m3u8
+#EXTINF:-1,Enterr10 Movies- Free
+http://72.255.34.227:8000/play/a05h/index.m3u8
+#EXTINF:-1,EuroSports HD-Rs 6
+http://72.255.34.227:8000/play/a028/index.m3u8
+#EXTINF:-1,FOX Life HD-Rs1
+http://72.255.34.227:8000/play/a081/index.m3u8
+#EXTINF:-1,Fashion HD
+http://72.255.34.227:8000/play/a077/index.m3u8
+#EXTINF:-1,Gagsnetwork
+http://72.255.34.227:8000/play/a07d/index.m3u8
+#EXTINF:-1,HISTORY TV1-Rs7
+http://72.255.34.227:8000/play/a01r/index.m3u8
+#EXTINF:-1,History
+http://72.255.34.227:8000/play/a06x/index.m3u8
+#EXTINF:-1,Home and Garden
+http://72.255.34.227:8000/play/a07e/index.m3u8
+#EXTINF:-1,ID: Investigation Discovery
+http://72.255.34.227:8000/play/a07i/index.m3u8
+#EXTINF:-1,Kazakh TV
+http://72.255.34.227:8000/play/a06r/index.m3u8
+#EXTINF:-1,Khabar 24
+http://72.255.34.227:8000/play/a06j/index.m3u8
+#EXTINF:-1,M NET 4 MOVIES
+http://72.255.34.227:8000/play/a03x/index.m3u8
+#EXTINF:-1,M NET MOVIES 2
+http://72.255.34.227:8000/play/a040/index.m3u8
+#EXTINF:-1,MAX HD -Rs 17
+http://72.255.34.227:8000/play/a08b/index.m3u8
+#EXTINF:-1,MH ONE - Free
+http://72.255.34.227:8000/play/a03q/index.m3u8
+#EXTINF:-1,MN+ HD-Rs 10
+http://72.255.34.227:8000/play/a08i/index.m3u8
+#EXTINF:-1,MTV
+http://72.255.34.227:8000/play/a060/index.m3u8
+#EXTINF:-1,Mezzo Classic-Jazz TV
+http://72.255.34.227:8000/play/a06i/index.m3u8
+#EXTINF:-1,NAT Geo Wild HD-Rs 5
+http://72.255.34.227:8000/play/a08c/index.m3u8
+#EXTINF:-1,National G HD-Rs10
+http://72.255.34.227:8000/play/a08l/index.m3u8
+#EXTINF:-1,Nick Jr.
+http://72.255.34.227:8000/play/a06y/index.m3u8
+#EXTINF:-1,Nickelodeon
+http://72.255.34.227:8000/play/a061/index.m3u8
+#EXTINF:-1,Nicktoons
+http://72.255.34.227:8000/play/a063/index.m3u8
+#EXTINF:-1,Ocean TV
+http://72.255.34.227:8000/play/a075/index.m3u8
+#EXTINF:-1,PIX HD -
+http://72.255.34.227:8000/play/a01t/index.m3u8
+#EXTINF:-1,PTC PUNJABI- Free
+http://72.255.34.227:8000/play/a03r/index.m3u8
+#EXTINF:-1,PTC chakde-Free
+http://72.255.34.227:8000/play/a03t/index.m3u8
+#EXTINF:-1,Paramount Channel
+http://72.255.34.227:8000/play/a062/index.m3u8
+#EXTINF:-1,Paramount Comedy
+http://72.255.34.227:8000/play/a064/index.m3u8
+#EXTINF:-1,RTG TV
+http://72.255.34.227:8000/play/a06c/index.m3u8
+#EXTINF:-1,SAB HD - Rs 19
+http://72.255.34.227:8000/play/a05f/index.m3u8
+#EXTINF:-1,SET HD - Rs 19
+http://72.255.34.227:8000/play/a026/index.m3u8
+#EXTINF:-1,SIX HD - Rs 19
+http://72.255.34.227:8000/play/a088/index.m3u8
+#EXTINF:-1,SKY CRICKET
+http://72.255.34.227:8000/play/a044/index.m3u8
+#EXTINF:-1,SONY MAX 2 - Rs 1
+http://72.255.34.227:8000/play/a07y/index.m3u8
+#EXTINF:-1,STAR BHARAT HD-Rs19
+http://72.255.34.227:8000/play/a05k/index.m3u8
+#EXTINF:-1,STAR MOV HD-Rs 19
+http://72.255.34.227:8000/play/a08j/index.m3u8
+#EXTINF:-1,STAR WOR P HD-Rs9
+http://72.255.34.227:8000/play/a083/index.m3u8
+#EXTINF:-1,STAR WORLD HD -Rs9
+http://72.255.34.227:8000/play/a084/index.m3u8
+#EXTINF:-1,SUPER SPORTS CRICKET
+http://72.255.34.227:8000/play/a03y/index.m3u8
+#EXTINF:-1,Shant Serial
+http://72.255.34.227:8000/play/a07c/index.m3u8
+#EXTINF:-1,Sony BBC EarHD-Rs10
+http://72.255.34.227:8000/play/a01s/index.m3u8
+#EXTINF:-1,Sony Channel
+http://72.255.34.227:8000/play/a05x/index.m3u8
+#EXTINF:-1,Sony SciFi
+http://72.255.34.227:8000/play/a05y/index.m3u8
+#EXTINF:-1,Sony Ten 1 HD- Rs 19
+http://72.255.34.227:8000/play/a087/index.m3u8
+#EXTINF:-1,Sony Ten 2 HD- Rs 17
+http://72.255.34.227:8000/play/a01w/index.m3u8
+#EXTINF:-1,Sony Ten 3 HD- Rs 17
+http://72.255.34.227:8000/play/a08d/index.m3u8
+#EXTINF:-1,Sony Turbo
+http://72.255.34.227:8000/play/a05z/index.m3u8
+#EXTINF:-1,Star GOLD HD -Rs10
+http://72.255.34.227:8000/play/a05l/index.m3u8
+#EXTINF:-1,Star Gold 2- Rs 1
+http://72.255.34.227:8000/play/a07t/index.m3u8
+#EXTINF:-1,Star Gold SelHD-Rs10
+http://72.255.34.227:8000/play/a049/index.m3u8
+#EXTINF:-1,Star Plus -Rs19
+http://72.255.34.227:8000/play/a022/index.m3u8
+#EXTINF:-1,Star S Hin 1 HD- Rs19
+http://72.255.34.227:8000/play/a089/index.m3u8
+#EXTINF:-1,Star Spo 1 HD-Rs19
+http://72.255.34.227:8000/play/a085/index.m3u8
+#EXTINF:-1,Star Spo 2 HD- Rs19
+http://72.255.34.227:8000/play/a086/index.m3u8
+#EXTINF:-1,Star Sport-Rs10
+http://72.255.34.227:8000/play/a01v/index.m3u8
+#EXTINF:-1,Star Sport-Rs19
+http://72.255.34.227:8000/play/a020/index.m3u8
+#EXTINF:-1,StarMov S HD-Rs 10
+http://72.255.34.227:8000/play/a08k/index.m3u8
+#EXTINF:-1,TELLY TRACK
+http://72.255.34.227:8000/play/a041/index.m3u8
+#EXTINF:-1,TLC HD- Rs3
+http://72.255.34.227:8000/play/a08g/index.m3u8
+#EXTINF:-1,TLC Russia
+http://72.255.34.227:8000/play/a07h/index.m3u8
+#EXTINF:-1,TRAVEL CHANNEL
+http://72.255.34.227:8000/play/a046/index.m3u8
+#EXTINF:-1,Test-412
+http://72.255.34.227:8000/play/a06m/index.m3u8
+#EXTINF:-1,UK-PREMIER SPORTS 1
+http://72.255.34.227:8000/play/a045/index.m3u8
+#EXTINF:-1,UTV ACTION-Rs 2
+http://72.255.34.227:8000/play/a07r/index.m3u8
+#EXTINF:-1,UTV MOVIES-Rs 2
+http://72.255.34.227:8000/play/a07q/index.m3u8
+#EXTINF:-1,VH1 Classic
+http://72.255.34.227:8000/play/a06l/index.m3u8
+#EXTINF:-1,ZEE BOLLYWO-Rs2
+http://72.255.34.227:8000/play/a07w/index.m3u8
+#EXTINF:-1,ZEE CINEMA HD-Rs19
+http://72.255.34.227:8000/play/a05j/index.m3u8
+#EXTINF:-1,ZEE Cafe H-Rs19
+http://72.255.34.227:8000/play/a08h/index.m3u8
+#EXTINF:-1,ZEE TV HD-Rs 19
+http://72.255.34.227:8000/play/a023/index.m3u8
+#EXTINF:-1,colors INFINITY-Rs9
+http://72.255.34.227:8000/play/a03m/index.m3u8
+#EXTINF:-1 group-title="72.255",nick HD+- Rs 10
+http://72.255.34.227:8000/play/a04a/index.m3u8
 
 
 + + + + + 73.68.128.14:9981/playlist + + + + + 24/7 movie IT
@@ -23438,6 +23723,54 @@ https://cdn.cinemabaaz.live/&privatehd/mono.m3u8
 #EXTINF:-1 group-title="misc/IN",SonyMaxHD
 https://cdn.cinemabaaz.live/SonyMaxHD/mono.m3u8
 
+http://cdn.ihub.live:8080/&privatehd/tracks-v1a1/mono.m3u8
+http://cdn.ihub.live:8080/ADSPORTS3/tracks-v1a1/mono.m3u8
+http://cdn.ihub.live:8080/AnimalPlanet/tracks-v1a1/mono.m3u8
+http://cdn.ihub.live:8080/BTVWorld/tracks-v1a1/mono.m3u8
+http://cdn.ihub.live:8080/Bflix/tracks-v1a1/mono.m3u8
+http://cdn.ihub.live:8080/DubaiOne/tracks-v1a1/mono.m3u8
+http://cdn.ihub.live:8080/EkattorTV/tracks-v1a1/mono.m3u8
+http://cdn.ihub.live:8080/NagorikTV/tracks-v1a1/mono.m3u8
+http://cdn.ihub.live:8080/Nick/tracks-v1a1/mono.m3u8
+http://cdn.ihub.live:8080/SonyPix/tracks-v1a1/mono.m3u8
+http://cdn.ihub.live:8080/SonySAB/tracks-v1a1/mono.m3u8
+http://cdn.ihub.live:8080/SonySix/tracks-v1a1/mono.m3u8
+http://cdn.ihub.live:8080/SonyTen2/tracks-v1a1/mono.m3u8
+http://cdn.ihub.live:8080/SonyTen3/tracks-v1a1/mono.m3u8
+http://cdn.ihub.live:8080/SonyYay/tracks-v1a1/mono.m3u8
+http://cdn.ihub.live:8080/TLCHD/tracks-v1a1/mono.m3u8
+http://cdn.ihub.live:8080/ZeeCinema/tracks-v1a1/mono.m3u8
+http://cdn.ihub.live:8080/j-ATNBangla/tracks-v1a1/mono.m3u8
+http://cdn.ihub.live:8080/j-ATNNews/tracks-v1a1/mono.m3u8
+http://cdn.ihub.live:8080/j-Aljazeera/tracks-v1a1/mono.m3u8
+http://cdn.ihub.live:8080/j-BanglaVision/tracks-v1a1/mono.m3u8
+http://cdn.ihub.live:8080/j-BijoyTV/tracks-v1a1/mono.m3u8
+http://cdn.ihub.live:8080/j-BoishakhiTV/tracks-v1a1/mono.m3u8
+http://cdn.ihub.live:8080/j-Channel24/tracks-v1a1/mono.m3u8
+http://cdn.ihub.live:8080/j-Channel9/tracks-v1a1/mono.m3u8
+http://cdn.ihub.live:8080/j-ChannelI/tracks-v1a1/mono.m3u8
+http://cdn.ihub.live:8080/j-DBCNews/tracks-v1a1/mono.m3u8
+http://cdn.ihub.live:8080/j-DW/tracks-v1a1/mono.m3u8
+http://cdn.ihub.live:8080/j-DeeptoTV/tracks-v1a1/mono.m3u8
+http://cdn.ihub.live:8080/j-GTV/tracks-v1a1/mono.m3u8
+http://cdn.ihub.live:8080/j-GaanBangla/tracks-v1a1/mono.m3u8
+http://cdn.ihub.live:8080/j-IndependentTV/tracks-v1a1/mono.m3u8
+http://cdn.ihub.live:8080/j-JamunaTV/tracks-v1a1/mono.m3u8
+http://cdn.ihub.live:8080/j-Maasranga/tracks-v1a1/mono.m3u8
+http://cdn.ihub.live:8080/j-MohonaTV/tracks-v1a1/mono.m3u8
+http://cdn.ihub.live:8080/j-MyTV/tracks-v1a1/mono.m3u8
+http://cdn.ihub.live:8080/j-News24/tracks-v1a1/mono.m3u8
+http://cdn.ihub.live:8080/j-SATV/tracks-v1a1/mono.m3u8
+http://cdn.ihub.live:8080/j-SomoyTv/tracks-v1a1/mono.m3u8
+http://cdn.ihub.live:8080/j-Sony-MAX-HD/tracks-v1a1/mono.m3u8
+http://cdn.ihub.live:8080/j-Sony-Ten1/tracks-v1a1/mono.m3u8
+http://cdn.ihub.live:8080/j-SonyTV/tracks-v1a1/mono.m3u8
+http://cdn.ihub.live:8080/j-TSports/tracks-v1a1/mono.m3u8
+http://cdn.ihub.live:8080/j-TimesNow/tracks-v1a1/mono.m3u8
+http://cdn.ihub.live:8080/j-Zee-Bangla-Cinema/tracks-v1a1/mono.m3u8
+http://cdn.ihub.live:8080/j-colors-hd/tracks-v1a1/mono.m3u8
+http://cdn.ihub.live:8080/j-star-gold-hd/tracks-v1a1/mono.m3u8
+
 
 + + + + cloudfront.net + + + 
 
@@ -24510,6 +24843,41 @@ https://y5w8j4a9.ssl.hwcdn.net:80/ztvhdusa/index.m3u8
 
 
 + + + + + https://z5amshls.akamaized.net + + + + +
+
+
+http://z5amshls.akamaized.net/action/playlist.m3u8
+http://z5amshls.akamaized.net/andflix/playlist.m3u8
+http://z5amshls.akamaized.net/andflixhd/playlist.m3u8
+http://z5amshls.akamaized.net/andpicshd/playlist.m3u8
+http://z5amshls.akamaized.net/andpicssd/playlist.m3u8
+http://z5amshls.akamaized.net/andprivehd/playlist.m3u8
+http://z5amshls.akamaized.net/apacsea/playlist.m3u8
+http://z5amshls.akamaized.net/bigganga/playlist.m3u8
+http://z5amshls.akamaized.net/bigmagic/playlist.m3u8
+http://z5amshls.akamaized.net/canadahd/playlist.m3u8
+http://z5amshls.akamaized.net/cinemauk/playlist.m3u8
+http://z5amshls.akamaized.net/cinemausa/playlist.m3u8
+http://z5amshls.akamaized.net/classic/playlist.m3u8
+http://z5amshls.akamaized.net/etcpnjbiusa/playlist.m3u8
+http://z5amshls.akamaized.net/magic/playlist.m3u8
+http://z5amshls.akamaized.net/punjabi/tracks-v1a1/index.m3u8
+http://z5amshls.akamaized.net/smileusa/playlist.m3u8
+http://z5amshls.akamaized.net/world/tracks-v1a1/playlist.m3u8
+http://z5amshls.akamaized.net/zanmolcnm/playlist.m3u8
+http://z5amshls.akamaized.net/zcinemahd/playlist.m3u8
+http://z5amshls.akamaized.net/zeecafehd/playlist.m3u8
+http://z5amshls.akamaized.net/zeecafesd/playlist.m3u8
+http://z5amshls.akamaized.net/zeecinemame/playlist.m3u8
+http://z5amshls.akamaized.net/zeevajwa/playlist.m3u8
+http://z5amshls.akamaized.net/zing/playlist.m3u8
+http://z5amshls.akamaized.net/zinguk/playlist.m3u8
+http://z5amshls.akamaized.net/zlive_prod/playlist.m3u8
+http://z5amshls.akamaized.net/ztvhdusa/playlist.m3u8
+http://z5amshls.akamaized.net/ztvme/tracks-v1a1/index.m3u8
+http://z5amshls.akamaized.net/ztvsdusa/playlist.m3u8
+http://z5amshls.akamaized.net/zzesthd/playlist.m3u8
+http://z5amshls.akamaized.net/zzestsd/playlist.m3u8
+
 
 + + + + + 0cvt7o9ka933roqvtma4b7g.caja.live + + + + +
 
