@@ -943,7 +943,20 @@ https://wowzaprodhd35-lh.akamaihd.net/i/a9af8597_1@355233/master.m3u8
 >>> http://www.totalsportek.tv/watch/sport-tv-5/ 
 <<<<<<< HEAD:k-note
 
+>>> to put at LIVE EVENT section
 
+>> OVO
+
+>> crackstreams
+http://thecrackstreams.net/soccer/wolverhampton-wanderers-brentford-live-stream/694106
+>> Cycling Stream
+http://thecyclingentertainment.com/novo/events/18-wolves/
+
+>> Cappuccino
+https://nflscoop.net/d2d2/ < CpCn 1
+
+
++ + + + +
 
 http://www.sportdoofree.com/tv-online?kp=epl1&dd=epl1
 http://sportdoofree.com/tv-online?kp=epl1&dd=epl1
@@ -2262,6 +2275,14 @@ http://crichd.ws/update/skys4.php ss golf
 https://href.li/?http://crichd.ws/update/skys5.php ss premier league
 
 
+
+>> http://thecrackstreams.net/
+
+http://thecrackstreams.net/soccer/wolverhampton-wanderers-brentford-live-stream/694106
+
+
+
+
 + + + + + https://redd.crackstreams.gg/ + + + + + 
 
 
@@ -2351,6 +2372,10 @@ http://www.cyfostreams.com/streams/cyfo8.php > http://77.247.109.15/live/s8/play
 + + + + + https://footybite.cc/ + + + + +
 
 >> Weak_Spell < https://play.google.com/store/apps/details?id=com.bcgroup.sport
+>> http://weakstreams.com/ << many ads
+
+http://weakstreams.com/streams/9576397
+
 http://liveonscore.tv/streams/9576132 LOS S1 * too much AD
 <iframe frameborder=0 height=100% width=100% src="http://liveonscore.tv/streams/9576132" allowfullscreen scrolling=no allowtransparency></iframe>
 http://liveonscore.tv/streams/9576190
@@ -2368,6 +2393,7 @@ http://cdn.tastyfood10.xyz/hls/S1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDIxI
 
 MediaStreams > Techoreels << many AD 
 http://techoreels.com/clip/s1.html < TOR S1
+http://techoreels.com/clip/s1.html
 http://techoreels.com/clip/s1.html
 http://techoreels.com/clip/s3.html < TOR S3
 
@@ -2657,6 +2683,9 @@ https://soccer-100.club/2021/07/07/tv-channel-27/?sport=soccer > https://soccer-
 + + + + + http://iwizwig.online/ + + + + + no sound 
 
 http://iwizwig.online/2021/04/24/watch-stream-43-live-in-hd-free/?sport=soccer > https://nbalaker.xyz/pub/pubstreams-43.php
+
+
+
 
 
 + + + + + yosports.net + + + + + sound have GOOD
@@ -19192,25 +19221,25 @@ http://46.105.112.116/?watch=EX/Eurosport_1_HD-uk/index.m3u8?token=
 #EXTINF:-1 group-title="46/IN",Eurosport 2HD |46
 http://46.105.112.116/?watch=EX/Eurosport_2_HD-uk/index.m3u8?token=
 
-#EXTINF:-1 group-title="46/IN",RMC SPORT1
+#EXTINF:-1 group-title="46/IN",RMC SPORT1 |46
 http://46.105.112.116/?watch=EX/FR_RMC_SPORT1_HD-fr/index.m3u8?token=
-#EXTINF:-1 group-title="46/IN",RMC SPORT2
+#EXTINF:-1 group-title="46/IN",RMC SPORT2 |46
 http://46.105.112.116/?watch=EX/FR_RMC_SPORT2_HD-fr/index.m3u8?token=
-#EXTINF:-1 group-title="46/IN",RMC SPORT3
+#EXTINF:-1 group-title="46/IN",RMC SPORT3 |46
 http://46.105.112.116/?watch=EX/FR_RMC_SPORT3_HD-fr/index.m3u8?token=
-#EXTINF:-1 group-title="46/IN",RMC SPORT4
+#EXTINF:-1 group-title="46/IN",RMC SPORT4 |46
 http://46.105.112.116/?watch=EX/FR_RMC_SPORT4_HD-fr/index.m3u8?token=
-#EXTINF:-1 group-title="46/IN",RMC SPORT5
+#EXTINF:-1 group-title="46/IN",RMC SPORT5 |46
 http://46.105.112.116/?watch=EX/FR_RMC_SPORT5_HD-fr/index.m3u8?token=
-#EXTINF:-1 group-title="46/IN",RMC SPORT6
+#EXTINF:-1 group-title="46/IN",RMC SPORT6 |46
 http://46.105.112.116/?watch=EX/FR_RMC_SPORT6_HD-fr/index.m3u8?token=
-#EXTINF:-1 group-title="46/IN",RMC SPORT7
+#EXTINF:-1 group-title="46/IN",RMC SPORT7 |46
 http://46.105.112.116/?watch=EX/FR_RMC_SPORT7_HD-fr/index.m3u8?token=
-#EXTINF:-1 group-title="46/IN",RMC SPORT8
+#EXTINF:-1 group-title="46/IN",RMC SPORT8 |46
 http://46.105.112.116/?watch=EX/FR_RMC_SPORT8_HD-fr/index.m3u8?token=
-#EXTINF:-1 group-title="46/IN",RMC SPORT9
+#EXTINF:-1 group-title="46/IN",RMC SPORT9 |46
 http://46.105.112.116/?watch=EX/FR_RMC_SPORT9_HD-fr/index.m3u8?token=
-#EXTINF:-1 group-title="46/IN",RMC SPORT10
+#EXTINF:-1 group-title="46/IN",RMC SPORT10 |46
 http://46.105.112.116/?watch=EX/FR_RMC_SPORT10_HD-fr/index.m3u8?token=
 
 #EXTINF:-1 group-title="46/IN",MATCH |46
