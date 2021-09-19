@@ -4848,6 +4848,7 @@ rtmp://pub.ggboxtv.tw:1936/live/565
 #EXTINF:-1,BBC WORLD NEWS |CS
 https://cloud-service.best/hplus.php?play&id=73425
 #EXTINF:-1,BBC WORLD NEWS |rsc
+http://1111296894.rsc.cdn77.org/LS-ATL-54548-6/index.m3u8
 http://1111296894.rsc.cdn77.org/LS-ATL-54548-11/tracks-v1a1/mono.m3u8
 #EXTINF:-1,BBC WORLD NEWS
 http://84.22.33.214/bbc/tracks-v1a1/mono.m3u8
@@ -27756,7 +27757,20 @@ Real Url: tigerfights.xyz:80     Status: Active    Created: 16/1/2021 6:50:27 PM
 http://tigerfights.xyz:2052/get.php?username=t7xSeark&password=oZGmqdb0&type=m3u
 Real Url: tigerfights.xyz:2052     Status: Active    Created: 9/7/2020 3:53:58 AM     Expires: Null    Active Connections: 250     Maximum Connections: 1000     Formats: "m3u8","ts","rtmp" < DOWN
 
+>> to check
+00:1A:79:03:F1:B8 February 23, 2022 Active 2 0 http://tigerfights.xyz:80/get.php?type=m3u&username=zkP4gfB2&password=3APznZLNuy
+00:1A:79:09:B8:57 Unlimited Active 2 0 http://tigerfights.xyz:80/get.php?type=m3u&username=KkaSYcSPrn&password=uqTVnL7UAR
+00:1A:79:31:82:3A September 26, 2021 Active 2 0 http://tigerfights.xyz:80/get.php?type=m3u&username=kjG8Xe3x&password=8GWsmo7kHl
+00:1A:79:33:23:F4 September 14, 2021 Active 2 0 http://tigerfights.xyz:80/get.php?type=m3u&username=wTCmgWZe&password=Q0CvCGefDq
+00:1A:79:5D:E3:70 February 20, 2022 Active 1 0 http://tigerfights.xyz:80/get.php?type=m3u&username=rt4NEfGz&password=sXHGPXpU7Q
+00:1A:79:AF:15:A1 December 16, 2021 Active 2 0 http://tigerfights.xyz:80/get.php?type=m3u&username=nk0K9WFr&password=0FdOtExufh
+
+
+
 http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=
+
+
+
 
 #EXTINF:-1 group-title="TigFig",PC: NBC Sports
 http://tigerfights.xyz:80/live/57101910/08426299/2855698.ts
