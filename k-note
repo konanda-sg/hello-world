@@ -4,27 +4,9 @@ x-tvg-url="https://guidexl.tv4.live/"
 
 00:04:4B:CC:FF:2E < Shield 
 
-http://us.bestvideostreaming.is/7711/index.m3u8
-http://us.bestvideostreaming.is/7722/index.m3u8
-http://us.bestvideostreaming.is/8704/playlist.m3u8
-http://us.bestvideostreaming.is/8705/index.m3u8
-http://us.bestvideostreaming.is/8708/index.m3u8
-http://us.bestvideostreaming.is/8711/index.m3u8
-http://us.bestvideostreaming.is/8716/playlist.m3u8
-http://us.bestvideostreaming.is/8717/index.m3u8
-http://us.bestvideostreaming.is/8748/playlist.m3u8
-http://us.bestvideostreaming.is/8749/playlist.m3u8
-http://us.bestvideostreaming.is/8779/playlist.m3u8
-http://us.bestvideostreaming.is/8784/index.m3u8
-http://us.bestvideostreaming.is/8788/playlist.m3u8
-http://us.bestvideostreaming.is/8789/index.m3u8
-http://us.bestvideostreaming.is/8793/playlist.m3u8
-http://us.bestvideostreaming.is/8795/index.m3u8
-http://us.bestvideostreaming.is/8817/index.m3u8
-http://us.bestvideostreaming.is/8821/index.m3u8
-http://us.bestvideostreaming.is/8823/index.m3u8
-http://us.bestvideostreaming.is/8852/index.m3u8
 
+http://beams-tv.stream:80/get.php?username=madturnip07@yahoo.com&password=8832554033&type=m3u
+Real Url: 45.137.21.226:80     Status: Active    Created: 18/3/2021 7:50:40 PM     Expires: 18/3/2022 12:00:00 AM    Active Connections: 3     Maximum Connections: 4     Formats: "m3u8","ts","rtmp"
 
 http://84.17.41.7:80/StarGoldHD-Hin/tracks-v1a1/mono.m3u8
 http://tvflix02.ddns.net/SPORTS__STAR_SPORTS_SELECT_2_HD/tracks-v1a1/mono.m3u8
@@ -71,10 +53,7 @@ http://idvd.multitvsolution.com/idvo/animalplanethindi_540p/index.m3u8
 https://idvd.multitvsolution.com/idvo/discoveryeng_540p/index.m3u8
 #EXTINF:-1,turbo
 https://idvd.multitvsolution.com/idvo/turboeng_540p/index.m3u8
-#EXTINF:-1,kairali
-https://idvd.multitvsolution.com/idvo/kairaliarabia_540p/index.m3u8
-#EXTINF:-1,ibc24
-https://idvd.multitvsolution.com:443/idvo/ibc24_540p/index.m3u8
+
 #EXTINF:-1,Discovery Kids
 https://idvd.multitvsolution.com/idvo/discoverykidseng_540p/index.m3u8
 #EXTINF:-1,Discovery
@@ -89,18 +68,7 @@ https://idvd.multitvsolution.com/idvo/turboeng_360p/index.m3u8
 https://idvd.multitvsolution.com/idvo/turboeng_240p/index.m3u8
 #EXTINF:-1,Discovery Turbo
 https://idvd.multitvsolution.com/idvo/turboeng_144p/index.m3u8
-#EXTINF:-1,Kairali Arabia
-https://idvd.multitvsolution.com/idvo/kairaliarabia_360p/index.m3u8
-#EXTINF:-1,Kairali Arabia
-https://idvd.multitvsolution.com/idvo/kairaliarabia_240p/index.m3u8
-#EXTINF:-1,Kairali Arabia
-https://idvd.multitvsolution.com/idvo/kairaliarabia_144p/index.m3u8
-#EXTINF:-1,IBC 24
-https://idvd.multitvsolution.com:443/idvo/ibc24_360p/index.m3u8
-#EXTINF:-1,IBC 24
-https://idvd.multitvsolution.com:443/idvo/ibc24_240p/index.m3u8
-#EXTINF:-1,IBC 24
-https://idvd.multitvsolution.com:443/idvo/ibc24_144p/index.m3u8
+
 #EXTINF:-1,Discovery Kids
 https://idvd.multitvsolution.com/idvo/discoverykidseng_360p/index.m3u8
 #EXTINF:-1,Discovery Kids
@@ -109,14 +77,6 @@ https://idvd.multitvsolution.com/idvo/discoverykidseng_240p/index.m3u8
 https://idvd.multitvsolution.com/idvo/discoverykidseng_144p/index.m3u8
 #EXTINF:-1,TLC HD Hindi
 http://idvd.multitvsolution.com/idvo/tlchdhindi.m3u8
-#EXTINF:-1,TLC HD Hindi
-http://idvd.multitvsolution.com/idvo/tlchdhindi_144p/index.m3u8
-#EXTINF:-1,TLC HD Hindi
-http://idvd.multitvsolution.com/idvo/tlchdhindi_240p/index.m3u8
-#EXTINF:-1,TLC HD Hindi
-http://idvd.multitvsolution.com/idvo/tlchdhindi_360p/index.m3u8
-#EXTINF:-1,TLC HD Hindi
-http://idvd.multitvsolution.com/idvo/tlchdhindi_540p/index.m3u8
 
 
 + + + + 
