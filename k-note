@@ -23392,7 +23392,7 @@ http://84.17.41.7/B4UMusic-Hin/index.m3u8
 #EXTINF:-1 group-title="misc/IN",JS Movies
 http://84.17.41.7:80/JS_MoviesOK_Hin/mono.m3u8
 http://84.17.41.7:80/JS_MoviesOK_Hin/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="misc/IN",MNX HD
+#EXTINF:-1 group-title="misc/IN",MNX HD |offline
 http://84.17.41.7:80/MNXHD/HIN/tracks-v1a1/mono.m3u8
 http://84.17.41.7/MNXHD/HIN/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="misc/IN",MTV+ HD
@@ -23447,6 +23447,7 @@ http://89.187.182.181:9090/SM_FHD_ENG_STARMOVIES/index.m3u8
 http://89.187.182.181:9090/SM_FHD_ENG_STARMOVIES/playlist.m3u8
 #EXTINF:-1 group-title="misc/IN",STAR MOVIES FHD |89"
 http://89.187.182.181:9090/SM_FHD_ENG_STARMOVIES/tracks-v1a1/index.m3u8
+http://streamwat.ch/custom/player/#http://89.187.182.181:9090/SM_FHD_ENG_STARMOVIES/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 group-title="misc/IN",STAR MOVIES SELECT FHD |89
 http://89.187.182.181:9090/SM_FHD_ENG_STARMOVIESSELECT/index.m3u8
@@ -23747,6 +23748,7 @@ http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-ENG-SONYPIX/tracks-v1a1/index.m3u8?to
 #EXTINF:-1 group-title="misc/IN",S Ent | ecm
 http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_HINDI_SONYTV/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ed01782c16859e302eb12c21ef1aa16c691ebc4b8ef71d40de5923e678098d05535c0afe645789016b7f6df7c8dc1cf4f3516320326e8676b19f62a984837555b2b89e390a8e0a18d44d31fc26883ebbccb5c4829292a2e5347ee875eb8f91&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
 
+#EXTINF:-1 group-title="misc/IN",STARMOVIES | ecm
 http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_ENG_STARMOVIES/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39e301782c428ed290f867e554a01803391e8c4b7a6aaad7d48e3e787343a8016a19f53525901742eec53149fdab8b48638675db1861b214b3bb6fc805c4d74009919a599ed109eed659786102baca816127c71a6dbbaf76e1e70877ded5b130fe58&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
 
 
@@ -27761,26 +27763,6 @@ http://tigerfights.xyz:80/live/57101910/08426299/2855698.ts
 #EXTINF:-1 group-title="TigFig",PC: Premier League TV
 http://tigerfights.xyz:80/live/57101910/08426299/2855720.ts
 https://www.dropbox.com/s/dl/fom7yfnqnry9v4q/PL-TV.m3u8
-#EXTINF:-1 group-title="TigFig",PC: Peacock PPV 1
-http://tigerfights.xyz:80/live/57101910/08426299/2855678.ts
-#EXTINF:-1 group-title="TigFig",PC: Peacock PPV 2
-http://tigerfights.xyz:80/live/57101910/08426299/2855679.ts
-#EXTINF:-1 group-title="TigFig",PC: Peacock PPV 3
-http://tigerfights.xyz:80/live/57101910/08426299/2855680.ts
-#EXTINF:-1 group-title="TigFig",PC: Peacock PPV 4
-http://tigerfights.xyz:80/live/57101910/08426299/2855681.ts
-#EXTINF:-1 group-title="TigFig",PC: Peacock PPV 5
-http://tigerfights.xyz:80/live/57101910/08426299/2855682.ts
-#EXTINF:-1 group-title="TigFig",PC: Peacock PPV 6
-http://tigerfights.xyz:80/live/57101910/08426299/2855683.ts
-#EXTINF:-1 group-title="TigFig",PC: Peacock PPV 7
-http://tigerfights.xyz:80/live/57101910/08426299/2855684.ts
-#EXTINF:-1 group-title="TigFig",PC: Peacock PPV 8
-http://tigerfights.xyz:80/live/57101910/08426299/2855685.ts
-#EXTINF:-1 group-title="TigFig",PC: Peacock PPV 9
-http://tigerfights.xyz:80/live/57101910/08426299/2855686.ts
-#EXTINF:-1 group-title="TigFig",PC: Peacock PPV 10
-http://tigerfights.xyz:80/live/57101910/08426299/2855687.ts
 
 #EXTINF:-1 group-title="TigFig",SPORTS: NBC Sports Network
 http://tigerfights.xyz:80/live/57101910/08426299/3041854.ts
@@ -27925,47 +27907,6 @@ https://www.dropbox.com/s/dl/6ypd7wb6vhzgykm/event9.m3u8
 #EXTINF:-1,EVENT 10"
 http://tigerfights.xyz:80/Cadillac/Cadillac/3161742.m3u8
 https://www.dropbox.com/s/dl/kuo8n5xjhdi1ht6/event10.m3u8
-
-#EXTINF:-1,PC: Peacock PPV 1
-http://tigerfights.xyz:80/Cadillac/Cadillac/2855678.m3u8
-#EXTINF:-1,PC: Peacock PPV 2
-http://tigerfights.xyz:80/Cadillac/Cadillac/2855679.m3u8
-#EXTINF:-1,PC: Peacock PPV 3
-http://tigerfights.xyz:80/Cadillac/Cadillac/2855680.m3u8
-#EXTINF:-1,PC: Peacock PPV 4
-http://tigerfights.xyz:80/Cadillac/Cadillac/2855681.m3u8
-#EXTINF:-1,PC: Peacock PPV 5
-http://tigerfights.xyz:80/Cadillac/Cadillac/2855682.m3u8
-#EXTINF:-1,PC: Peacock PPV 6
-http://tigerfights.xyz:80/Cadillac/Cadillac/2855683.m3u8
-#EXTINF:-1,PC: Peacock PPV 7
-http://tigerfights.xyz:80/Cadillac/Cadillac/2855684.m3u8
-#EXTINF:-1,PC: Peacock PPV 8
-http://tigerfights.xyz:80/Cadillac/Cadillac/2855685.m3u8
-#EXTINF:-1,PC: Peacock PPV 9
-http://tigerfights.xyz:80/Cadillac/Cadillac/2855686.m3u8
-#EXTINF:-1,PC: Peacock PPV 10
-http://tigerfights.xyz:80/Cadillac/Cadillac/2855687.m3u8
-#EXTINF:-1,PC: Peacock PPV 11
-http://tigerfights.xyz:80/Cadillac/Cadillac/2855688.m3u8
-#EXTINF:-1,PC: Peacock PPV 12
-http://tigerfights.xyz:80/Cadillac/Cadillac/2855689.m3u8
-#EXTINF:-1,PC: Peacock PPV 13
-http://tigerfights.xyz:80/Cadillac/Cadillac/2855690.m3u8
-#EXTINF:-1,PC: Peacock PPV 14
-http://tigerfights.xyz:80/Cadillac/Cadillac/2855691.m3u8
-#EXTINF:-1,PC: Peacock PPV 15
-http://tigerfights.xyz:80/Cadillac/Cadillac/2855692.m3u8
-#EXTINF:-1,PC: Peacock PPV 16
-http://tigerfights.xyz:80/Cadillac/Cadillac/2855693.m3u8
-#EXTINF:-1,PC: Peacock PPV 17
-http://tigerfights.xyz:80/Cadillac/Cadillac/2855694.m3u8
-#EXTINF:-1,PC: Peacock PPV 18
-http://tigerfights.xyz:80/Cadillac/Cadillac/2855695.m3u8
-#EXTINF:-1,PC: Peacock PPV 19
-http://tigerfights.xyz:80/Cadillac/Cadillac/2855696.m3u8
-#EXTINF:-1,PC: Peacock PPV 20
-http://tigerfights.xyz:80/Cadillac/Cadillac/2855697.m3u8
 
 #EXTINF:-1 group-title="TigFig",USA: MTV
 http://tigerfights.xyz:80/live/57101910/08426299/3086995.ts
