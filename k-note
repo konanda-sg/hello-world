@@ -1977,7 +1977,7 @@ http://scontent.1xcdn.xyz/j2/Ten2_HD_HLS.m3u8
 #EXTINF:-1 group-title="BamarTV/Sports",SONY TEN 3
 http://scontent.1xcdn.xyz/j2/Ten3_HD_HLS.m3u8
 
-http://31.220.41.86:8081/live/skysports-cricket1.stream/playlist.m3u8?token=rk <<< to check and convert
+
 
 beIN SP 1PR
 https://streamcdn.getloconow.com/DUIAV7E2ZF_c113a376-2e87-414d-89de-da8622074455/DUIAV7E2ZF_c113a376-2e87-414d-89de-da8622074455_hi/manifest.m3u8
@@ -3589,6 +3589,21 @@ https://dreamtv.livebox.co.in/bflixouthls/live.m3u8?Live-TV™
 #EXTINF:-1 group-title="BamarTV",crackle
 https://crackle-plex.amagi.tv/playlist.m3u8
 https://crackle-plex.amagi.tv/playlist720p.m3u8
+
+>> http://streamwat.ch/custom/player/#
+WB TV
+https://d1wwtskvr1r98k.cloudfront.net/2725d7761f9b462997b6ab804a13ee19/index.m3u8
+https://d1wwtskvr1r98k.cloudfront.net/522752a704da4d93b18eeb077042ccff/index.m3u8
+PARAMOUNT
+http://d31ii3fk8fd7mh.cloudfront.net/89192ec7abc24480bac975aa4ab2dffe/index.m3u8
+Sony HD
+http://d31ii3fk8fd7mh.cloudfront.net/9fdb3c3ec36c48a1847cbd25e8e763c6/index.m3u8
+A&E
+http://d1wwtskvr1r98k.cloudfront.net/3c9cf3a801dd4728a868f96f1ed032d2/index.m3u8
+CNA
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index.m3u8
+
 
 #EXTINF:-1,cine vault westerns
 http://gsn-cinevault-westerns-1-us.vizio.wurl.tv/playlist.m3u8
@@ -5683,6 +5698,12 @@ http://xristo2121.amazzin.pw/iptv/WPCRZ9TNLSUBDK/155/index.m3u8
 #EXTINF:0 group-title="EDEM",Mezzo Live |RU
 http://xristo2121.amazzin.pw/iptv/WPCRZ9TNLSUBDK/217/index.m3u8
 
+
++ + + 31.220.41.86:8081 + + + TVTAP << 
+
+http://31.220.41.86:8081/live/klub1.stream/chunks.m3u8
+http://31.220.41.86:8081/live/klub3.stream/chunks.m3u8
+http://31.220.41.86:8081/live/skysports-cricket1.stream/playlist.m3u8?token=rk <<< to check and convert
 
 + + + 31.220.41.87:8081 + + + TVTAP << 
 
@@ -27721,15 +27742,58 @@ Real Url: tigerfights.xyz:80     Status: Active    Created: 16/1/2021 6:50:27 PM
 http://tigerfights.xyz:2052/get.php?username=t7xSeark&password=oZGmqdb0&type=m3u
 Real Url: tigerfights.xyz:2052     Status: Active    Created: 9/7/2020 3:53:58 AM     Expires: Null    Active Connections: 250     Maximum Connections: 1000     Formats: "m3u8","ts","rtmp" < DOWN
 
->> to check
-00:1A:79:03:F1:B8 February 23, 2022 Active 2 0 http://tigerfights.xyz:80/get.php?type=m3u&username=zkP4gfB2&password=3APznZLNuy
-00:1A:79:09:B8:57 Unlimited Active 2 0 http://tigerfights.xyz:80/get.php?type=m3u&username=KkaSYcSPrn&password=uqTVnL7UAR
-00:1A:79:31:82:3A September 26, 2021 Active 2 0 http://tigerfights.xyz:80/get.php?type=m3u&username=kjG8Xe3x&password=8GWsmo7kHl
-00:1A:79:33:23:F4 September 14, 2021 Active 2 0 http://tigerfights.xyz:80/get.php?type=m3u&username=wTCmgWZe&password=Q0CvCGefDq
-00:1A:79:5D:E3:70 February 20, 2022 Active 1 0 http://tigerfights.xyz:80/get.php?type=m3u&username=rt4NEfGz&password=sXHGPXpU7Q
-00:1A:79:AF:15:A1 December 16, 2021 Active 2 0 http://tigerfights.xyz:80/get.php?type=m3u&username=nk0K9WFr&password=0FdOtExufh
+>> checked
+00:1A:79:03:F1:B8 February 23, 2022 Active 2 0 http://tigerfights.xyz:80/get.php?username=zkP4gfB2&password=3APznZLNuy&type=m3u K- - not active 
+00:1A:79:09:B8:57 Unlimited Active 2 0 http://tigerfights.xyz:80/get.php?username=KkaSYcSPrn&password=uqTVnL7UAR&type=m3u K- - not active 
+00:1A:79:31:82:3A September 26, 2021 Active 2 0 http://tigerfights.xyz:80/get.php?username=kjG8Xe3x&password=8GWsmo7kHl&type=m3u
+00:1A:79:33:23:F4 September 14, 2021 Active 2 0 http://tigerfights.xyz:80/get.php?username=wTCmgWZe&password=Q0CvCGefDq&type=m3u
+00:1A:79:5D:E3:70 February 20, 2022 Active 1 0 http://tigerfights.xyz:80/get.php?username=rt4NEfGz&password=sXHGPXpU7Q&type=m3u
+00:1A:79:AF:15:A1 December 16, 2021 Active 2 0 http://tigerfights.xyz:80/get.php?username=nk0K9WFr&password=0FdOtExufh&type=m3u
+
+ℙ𝕠𝕣𝕥𝕒𝕝 𝕌𝕣𝕝 ➾ http://tigerblood.xyz:2052/c/
+ℝ𝕖𝕒𝕝 𝕌𝕣𝕝 ➾ http://tigerfights.xyz:80
+𝕄𝔸ℂ ➾ 00:1A:79:2B:E6:FB
+𝔼𝕩𝕡𝕚𝕣𝕖 ➾ October 15, 2021 K- - -
+𝕊𝕖𝕣𝕚𝕒𝕝 ℂ𝕦𝕥 ➾ 6DEF089C6FD10
+𝔻𝕖𝕧𝕚𝕔𝕖 𝕀𝔻 ➾ 3C03F16CFB27E7E190E7CF6115F461205C9254805DBF361038B9151332CCAF6D
+𝕊𝕚𝕘𝕟𝕒𝕥𝕦𝕣𝕖 ➾ 9E4EF29C4D8E38BD380DCB221797F7CED045E4B21156004E99375AD26CEE5269
+
+ℙ𝕠𝕣𝕥𝕒𝕝 𝕌𝕣𝕝 ➾ http://tigerblood.xyz:2052/c/
+ℝ𝕖𝕒𝕝 𝕌𝕣𝕝 ➾ http://tigerfights.xyz:80
+𝕄𝔸ℂ ➾ 00:1A:79:E5:41:C2 K- - not active
+𝔼𝕩𝕡𝕚𝕣𝕖 ➾ December 21, 2021, 1:48 pm
+𝕊𝕖𝕣𝕚𝕒𝕝 ℂ𝕦𝕥 ➾ 11134C100C6DC
+𝔻𝕖𝕧𝕚𝕔𝕖 𝕀𝔻 ➾ 87B7A7A22107CEAFE5D0C7F25C3341690FE18B88DAB44E676A18779417B3BE6B
+𝕊𝕚𝕘𝕟𝕒𝕥𝕦𝕣𝕖 ➾ DA41DD8EC859B57AA1A6C19566B6384CCA6F6BC5CCDDAE64A61D5FAD1398879E
+
+ℙ𝕠𝕣𝕥𝕒𝕝 𝕌𝕣𝕝 ➾ http://tigerblood.xyz:2052/c/
+ℝ𝕖𝕒𝕝 𝕌𝕣𝕝 ➾ http://tigerfights.xyz:80
+𝕄𝔸ℂ ➾ 00:1A:79:57:97:A4 K- - not active
+𝔼𝕩𝕡𝕚𝕣𝕖 ➾ March 13, 2022, 11:00 pm
+𝕊𝕖𝕣𝕚𝕒𝕝 ℂ𝕦𝕥 ➾ 5333A1FC35E75
+𝔻𝕖𝕧𝕚𝕔𝕖 𝕀𝔻 ➾ C45F7142A3161E390B202858179B9E7F84A5A908BD1212954FA6FD4D68CE925E
+𝕊𝕚𝕘𝕟𝕒𝕥𝕦𝕣𝕖 ➾ 239CC2530DAB7B248249A90962A6378D3F9AE60C34B74F877C8366785E6CDC50
+
+ℙ𝕠𝕣𝕥𝕒𝕝 𝕌𝕣𝕝 ➾ http://tigerblood.xyz:2052/c/
+ℝ𝕖𝕒𝕝 𝕌𝕣𝕝 ➾ http://tigerfights.xyz:80
+𝕄𝔸ℂ ➾ 00:1A:79:06:18:35 K- - not active 
+𝔼𝕩𝕡𝕚𝕣𝕖 ➾ March 13, 2022, 11:00 pm
+𝕊𝕖𝕣𝕚𝕒𝕝 ℂ𝕦𝕥 ➾ 8A7BAC0B98441
+𝔻𝕖𝕧𝕚𝕔𝕖 𝕀𝔻 ➾ 052529BBF5311AD18C163378F801756E6A5D501BA39098912B7923B1AC093601
+𝕊𝕚𝕘𝕟𝕒𝕥𝕦𝕣𝕖 ➾ A5E60FD2576621BDF35F3811E898C292F3682D0952250786CE533D783ADB0E35
 
 
+http://tigerfights.xyz:2052/c
+00:1A:79:03:F1:B8
+00:1A:79:09:B8:57
+00:1A:79:2A:AC:CB
+00:1A:79:30:6A:01
+00:1A:79:31:82:3A
+00:1A:79:33:23:F4
+00:1A:79:4C:72:74
+00:1A:79:5D:E3:70
+00:1A:79:92:91:BD
+00:1A:79:AF:15:A1
 
 http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=
 
