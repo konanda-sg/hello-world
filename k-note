@@ -26256,6 +26256,10 @@ Real Url: tigerfights.xyz:80     Status: Active    Created: 2/9/2020 12:00:00 AM
 http://tigerfights.xyz:80/get.php?username=mskSx6eJ&password=p2WFJU9E&type=m3u
 Real Url: tigerfights.xyz:80     Status: Active    Created: 16/1/2021 6:50:27 PM     Expires: 16/5/2022 6:50:27 PM     Maximum Connections: 4     Formats: "m3u8","ts","rtmp" K<<<
 
+http://tigerfights.xyz:80/get.php?username=anh&password=123&type=m3u
+Real Url: tigerfights.xyz:80     Status: Active    Created: 11/8/2020 1:12:45 AM     Expires: 21/10/2021 12:10:36 AM     Maximum Connections: 2     Formats: "m3u8","ts","rtmp"
+
+
 http://tigerfights.xyz:2052/get.php?username=t7xSeark&password=oZGmqdb0&type=m3u
 Real Url: tigerfights.xyz:2052     Status: Active    Created: 9/7/2020 3:53:58 AM     Expires: Null    Active Connections: 250     Maximum Connections: 1000     Formats: "m3u8","ts","rtmp" < DOWN
 
