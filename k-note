@@ -21109,6 +21109,1649 @@ http://iptv.prosto.tv:7000/ch142/video.m3u8
 
 -/-/-/-/-/-/-/-/-/-/-/- astra / TVHeadend -/-/-/-/-/-
 
++ + + + + http://103.150.209.246:9981/extjs.html + + + + PK + + not play
++ + + + + http://103.157.237.18:8000/playlist.m3u8 + + + + + BD + + DOWN
++ + + + + http://103.223.12.154:8000/playlist.m3u8 + + + + NOT PLAY
++ + + + + http://108.48.50.123:9981/extjs.html + + + + * | * + + + + + jayel:samsung7 or *:* + + + + + default:default$27 | PSe0WeZ4DuTCJAFY3b2g0uErXVYo + + one CH OK < DOWN
++ + + + + http://108.48.50.123:9981/extjs.html + + + + not play
++ + + + + http://109.193.229.153:9981/extjs.html + + + + + DE sky + + + DOWN
++ + + + + http://115.42.65.142:8000/playlist.m3u8 + + + + +  NOT PLAY
++ + + + + http://116.206.186.183:9981/stream/channelid/982200088
++ + + + + http://116.255.19.58:9981/extjs.html + + + + + DOWN + + + + + INDIA + SPORTS
++ + + + + http://116.255.19.70:9981/extjs.html + + + + + DOWN
++ + + + + http://116.255.9.228:9981//extjs.html + + + + + DOWN
++ + + + + http://139.99.84.196:8822 + + + + + DOWN
++ + + + + http://139.99.84.196:8822/extjs.html + + + + + SG + + + + + + DOWN
++ + + + + http://14.192.144.14:8000/playlist.m3u8 + + + + + PK + + not play 
++ + + + + http://14.192.144.7:8000/ < PK + + not play
+
++ + + + + http://14.199.164.20:4001/playlist.m3u8 + + + + +
+
+http://14.199.164.20:4001/playlist.m3u8 < IN
+
+#EXTINF:-1 group-title="14.199",9X JALWA
+http://14.199.164.20:4001/play/a0nc/index.m3u8
+#EXTINF:-1 group-title="14.199",B4U Bhojpuri
+http://14.199.164.20:4001/play/a0nq/index.m3u8
+#EXTINF:-1 group-title="14.199",B4U Hitz
+http://14.199.164.20:4001/play/a0wh/index.m3u8
+#EXTINF:-1 group-title="14.199",B4U KADAK
+http://14.199.164.20:4001/play/a0nd/index.m3u8
+#EXTINF:-1 group-title="14.199",B4U Plus
+http://14.199.164.20:4001/play/a0wi/index.m3u8
+#EXTINF:-1 group-title="14.199",B4U_MOVIES_INDIA
+http://14.199.164.20:4001/play/a0wj/index.m3u8
+#EXTINF:-1 group-title="14.199",B4U_MUSIC_INDIA
+http://14.199.164.20:4001/play/a0wk/index.m3u8
+#EXTINF:-1 group-title="14.199",Bflix Movies
+http://14.199.164.20:4001/play/a0pd/index.m3u8
+#EXTINF:-1 group-title="14.199",Box Cinema
+http://14.199.164.20:4001/play/a0su/index.m3u8
+#EXTINF:-1 group-title="14.199",CINEMA TV INDIA
+http://14.199.164.20:4001/play/a0n4/index.m3u8
+#EXTINF:-1 group-title="14.199",MAX 2 MPEG 4
+http://14.199.164.20:4001/play/a0yn/index.m3u8
+#EXTINF:-1 group-title="14.199",MAX HINDI
+http://14.199.164.20:4001/play/a0yt/index.m3u8
+#EXTINF:-1 group-title="14.199",MAX India MPEG 4
+http://14.199.164.20:4001/play/a0ym/index.m3u8
+#EXTINF:-1 group-title="14.199",MAX Tamil
+http://14.199.164.20:4001/play/a0yq/index.m3u8
+#EXTINF:-1 group-title="14.199",MAX Telugu
+http://14.199.164.20:4001/play/a0yu/index.m3u8
+#EXTINF:-1 group-title="14.199",MIX India
+http://14.199.164.20:4001/play/a0yf/index.m3u8
+#EXTINF:-1 group-title="14.199",MK SIX
+http://14.199.164.20:4001/play/a0ks/index.m3u8
+#EXTINF:-1 group-title="14.199",PIX India
+http://14.199.164.20:4001/play/a0ye/index.m3u8
+#EXTINF:-1 group-title="14.199",PIX India Tamil
+http://14.199.164.20:4001/play/a0yr/index.m3u8
+#EXTINF:-1 group-title="14.199",PIX India Telugu
+http://14.199.164.20:4001/play/a0ys/index.m3u8
+#EXTINF:-1 group-title="14.199",R PLUS
+http://14.199.164.20:4001/play/a0sb/index.m3u8
+#EXTINF:-1 group-title="14.199",R TV
+http://14.199.164.20:4001/play/a0ht/index.m3u8
+#EXTINF:-1 group-title="14.199",R-PLUS GOLD
+http://14.199.164.20:4001/play/a0sf/index.m3u8
+#EXTINF:-1 group-title="14.199",SIX SD Bengali
+http://14.199.164.20:4001/play/a0yw/index.m3u8
+#EXTINF:-1 group-title="14.199",SIX SD IS20
+http://14.199.164.20:4001/play/a0yh/index.m3u8
+#EXTINF:-1 group-title="14.199",SIX SD Malayalam
+http://14.199.164.20:4001/play/a0yv/index.m3u8
+#EXTINF:-1 group-title="14.199",Zing
+http://14.199.164.20:4001/play/a0wm/index.m3u8
+
++ + + + + http://144.48.122.22:9981/playlist/channels + + + + + LOCKED
++ + + + + http://159.196.149.67:9981/stream/channelid/1754503102
++ + + + + http://167.172.33.223:9981/extjs.html + + + + + Viasat/ Canal+/ RMC beIN + + + not play 
++ + + + + http://171.4.161.216:9981/extjs.html + + + + + DOWN
++ + + + + http://176.170.240.98:9981/extjs.html + + + + + @amin:amin2020
++ + + + + http://176.170.240.98:9981/extjs.html + + + + + file:///config/amin2020.m3u + + + DOWN
++ + + + + http://182.182.25.117:8000/playlist.m3u8 + + + + + DOWN
++ + + + + http://184.82.147.223:9981/playlist/channels + + + + + DOWN? + + + + +
++ + + + + http://185.238.0.145:1313/c/livedo/ + + + + +
++ + + + + http://188.30.138.25:9981/extjs.html + + + + + DOWN 
++ + + + + http://188.30.138.25:9981/extjs.html + + sky + + + + DOWN
++ + + + + http://195.154.118.212:9981/extjs.html + + + CA + + Supersport + sky + adam:cirrus1991 + + + + +
++ + + + + http://196.53.249.42:9981/extjs.html / https://rebrand.ly/sn-hd-196 + + + + + DOWN
++ + + + + http://2.42.143.96:9981/extjs.html + + + + + mago2:kooora20 + mago2:htpc  + + + DOWN
++ + + + + http://200.115.190.213:8000/playlist.m3u8 + + + + + DOWN
++ + + + + http://202.65.84.105:9981/extjs.html + + + + + andrew:0411737777@ + + + PMqWWZkCv.enUnJyRAKRi5jQ-zfs + + + DOWN
++ + + + + http://202.65.84.105:9981/stream/channelid/1497837135
++ + + + + http://203.135.57.173:8000/playlist.m3u8 + + + + + PK + not play
++ + + + + http://212.159.163.109:9981/extjs.html + + + + + GB + admin | palmira123
++ + + + + http://222.255.50.244:9981/playlist/channels + + + + + 
++ + + + + http://223.204.95.106:9981/playlist/channels + + + + + 
+
++ + + + + http://27.255.58.178:8000/playlist.m3u8 + + + + +
+
+#EXTINF:-1 group-title="27.255",&PRIVE HD-Rs 19
+http://27.255.58.178:8000/play/a01y/index.m3u8
+#EXTINF:-1 group-title="27.255",&flix HD-Rs19
+http://27.255.58.178:8000/play/a025/index.m3u8
+#EXTINF:-1 group-title="27.255",&tv HD - Rs 19
+http://27.255.58.178:8000/play/a04f/index.m3u8
+#EXTINF:-1 group-title="27.255",13 Ulica HD
+http://27.255.58.178:8000/play/a00y/index.m3u8
+#EXTINF:-1 group-title="27.255",4Fun Dance
+http://27.255.58.178:8000/play/a00i/index.m3u8
+#EXTINF:-1 group-title="27.255",4Fun Kids
+http://27.255.58.178:8000/play/a00h/index.m3u8
+#EXTINF:-1 group-title="27.255",4Fun.TV
+http://27.255.58.178:8000/play/a00g/index.m3u8
+#EXTINF:-1 group-title="27.255",ANIMAL PLAN-Rs
+http://27.255.58.178:8000/play/a01q/index.m3u8
+#EXTINF:-1 group-title="27.255",AXN SPIN
+http://27.255.58.178:8000/play/a03p/index.m3u8
+#EXTINF:-1 group-title="27.255",Amedia Premium HD
+http://27.255.58.178:8000/play/a03k/index.m3u8
+#EXTINF:-1 group-title="27.255",B4U Music- Free
+http://27.255.58.178:8000/play/a050/index.m3u8
+#EXTINF:-1 group-title="27.255",BBC Earth HD
+http://27.255.58.178:8000/play/a004/index.m3u8
+#EXTINF:-1 group-title="27.255",BBC FIRST
+http://27.255.58.178:8000/play/a003/index.m3u8
+#EXTINF:-1 group-title="27.255",BRIDGE TV Classic
+http://27.255.58.178:8000/play/a036/index.m3u8
+#EXTINF:-1 group-title="27.255",BRIDGE TV HITS
+http://27.255.58.178:8000/play/a035/index.m3u8
+#EXTINF:-1 group-title="27.255",Boomerang HD
+http://27.255.58.178:8000/play/a00m/index.m3u8
+#EXTINF:-1 group-title="27.255",Cartoon Network
+http://27.255.58.178:8000/play/a02k/index.m3u8
+#EXTINF:-1 group-title="27.255",Colors HD-Rs 19
+http://27.255.58.178:8000/play/a024/index.m3u8
+#EXTINF:-1 group-title="27.255",Discovery Channel
+http://27.255.58.178:8000/play/a02o/index.m3u8
+#EXTINF:-1 group-title="27.255",Discovery Science
+http://27.255.58.178:8000/play/a03j/index.m3u8
+#EXTINF:-1 group-title="27.255",Eska TV Extra
+http://27.255.58.178:8000/play/a00p/index.m3u8
+#EXTINF:-1 group-title="27.255",EuroSports HD-Rs 6
+http://27.255.58.178:8000/play/a028/index.m3u8
+#EXTINF:-1 group-title="27.255",Eurosport 1 HD
+http://27.255.58.178:8000/play/a01a/index.m3u8
+#EXTINF:-1 group-title="27.255",Extreme Sport
+http://27.255.58.178:8000/play/a02i/index.m3u8
+#EXTINF:-1 group-title="27.255",FOX Life HD-Rs1
+http://27.255.58.178:8000/play/a027/index.m3u8
+#EXTINF:-1 group-title="27.255",Fashion HD
+http://27.255.58.178:8000/play/a02w/index.m3u8
+#EXTINF:-1 group-title="27.255",Fightbox HD
+http://27.255.58.178:8000/play/a00w/index.m3u8
+#EXTINF:-1 group-title="27.255",Golf Channel
+http://27.255.58.178:8000/play/a00v/index.m3u8
+#EXTINF:-1 group-title="27.255",HBO2 HD
+http://27.255.58.178:8000/play/a005/index.m3u8
+#EXTINF:-1 group-title="27.255",HBO3 HD
+http://27.255.58.178:8000/play/a006/index.m3u8
+#EXTINF:-1 group-title="27.255",HISTORY TV1-Rs7
+http://27.255.58.178:8000/play/a01r/index.m3u8
+#EXTINF:-1 group-title="27.255",History
+http://27.255.58.178:8000/play/a02r/index.m3u8
+#EXTINF:-1 group-title="27.255",ID: Investigation Discovery
+http://27.255.58.178:8000/play/a02q/index.m3u8
+#EXTINF:-1 group-title="27.255",JK 24x7 New-Free
+http://27.255.58.178:8000/play/a052/index.m3u8
+#EXTINF:-1 group-title="27.255",M NET 4 MOVIES
+http://27.255.58.178:8000/play/a03x/index.m3u8
+#EXTINF:-1 group-title="27.255",M NET MOVIES 2
+http://27.255.58.178:8000/play/a040/index.m3u8
+#EXTINF:-1 group-title="27.255",MH ONE - Free
+http://27.255.58.178:8000/play/a03q/index.m3u8
+#EXTINF:-1 group-title="27.255",MTV
+http://27.255.58.178:8000/play/a02z/index.m3u8
+#EXTINF:-1 group-title="27.255",MTV Hits
+http://27.255.58.178:8000/play/a033/index.m3u8
+#EXTINF:-1 group-title="27.255",Mezzo Classic-Jazz TV
+http://27.255.58.178:8000/play/a02m/index.m3u8
+#EXTINF:-1 group-title="27.255",Nick Jr.
+http://27.255.58.178:8000/play/a02s/index.m3u8
+#EXTINF:-1 group-title="27.255",Nickelodeon
+http://27.255.58.178:8000/play/a02y/index.m3u8
+#EXTINF:-1 group-title="27.255",OUTDOR
+http://27.255.58.178:8000/play/a02j/index.m3u8
+#EXTINF:-1 group-title="27.255",Ocean TV
+http://27.255.58.178:8000/play/a02v/index.m3u8
+#EXTINF:-1 group-title="27.255",PIX HD -
+http://27.255.58.178:8000/play/a01t/index.m3u8
+#EXTINF:-1 group-title="27.255",PTC PUNJABI- Free
+http://27.255.58.178:8000/play/a03r/index.m3u8
+#EXTINF:-1 group-title="27.255",PTC chakde-Free
+http://27.255.58.178:8000/play/a03t/index.m3u8
+#EXTINF:-1 group-title="27.255",Paramount Channel
+http://27.255.58.178:8000/play/a02x/index.m3u8
+#EXTINF:-1 group-title="27.255",Paramount Comedy
+http://27.255.58.178:8000/play/a031/index.m3u8
+#EXTINF:-1 group-title="27.255",Red Carpet TV
+http://27.255.58.178:8000/play/a002/index.m3u8
+#EXTINF:-1 group-title="27.255",SAB HD - Rs 19
+http://27.255.58.178:8000/play/a04g/index.m3u8
+#EXTINF:-1 group-title="27.255",SET
+http://27.255.58.178:8000/play/a02f/index.m3u8
+#EXTINF:-1 group-title="27.255",SET HD - Rs 19
+http://27.255.58.178:8000/play/a026/index.m3u8
+#EXTINF:-1 group-title="27.255",SKY CRICKET
+http://27.255.58.178:8000/play/a044/index.m3u8
+#EXTINF:-1 group-title="27.255",SONY SAB - Rs 19
+http://27.255.58.178:8000/play/a04c/index.m3u8
+#EXTINF:-1 group-title="27.255",SONY TURBO
+http://27.255.58.178:8000/play/a02h/index.m3u8
+#EXTINF:-1 group-title="27.255",SUPER SPORTS ACTION
+http://27.255.58.178:8000/play/a042/index.m3u8
+#EXTINF:-1 group-title="27.255",SUPER SPORTS CRICKET
+http://27.255.58.178:8000/play/a03y/index.m3u8
+#EXTINF:-1 group-title="27.255",SciFi HD
+http://27.255.58.178:8000/play/a00s/index.m3u8
+#EXTINF:-1 group-title="27.255",Sony BBC EarHD-Rs10
+http://27.255.58.178:8000/play/a01s/index.m3u8
+#EXTINF:-1 group-title="27.255",Sony SciFi
+http://27.255.58.178:8000/play/a02g/index.m3u8
+#EXTINF:-1 group-title="27.255",Sony Ten 2 HD- Rs 17
+http://27.255.58.178:8000/play/a01w/index.m3u8
+#EXTINF:-1 group-title="27.255",Spike
+http://27.255.58.178:8000/play/a030/index.m3u8
+#EXTINF:-1 group-title="27.255",Star Gold SelHD-Rs10
+http://27.255.58.178:8000/play/a049/index.m3u8
+#EXTINF:-1 group-title="27.255",Star Plus -Rs19
+http://27.255.58.178:8000/play/a022/index.m3u8
+#EXTINF:-1 group-title="27.255",Star Sport-Rs10
+http://27.255.58.178:8000/play/a01v/index.m3u8
+#EXTINF:-1 group-title="27.255",Star Sport-Rs19
+http://27.255.58.178:8000/play/a020/index.m3u8
+#EXTINF:-1 group-title="27.255",Sundance HD
+http://27.255.58.178:8000/play/a019/index.m3u8
+#EXTINF:-1 group-title="27.255",TELLY TRACK
+http://27.255.58.178:8000/play/a041/index.m3u8
+#EXTINF:-1 group-title="27.255",TEST
+http://27.255.58.178:8000/play/a02t/index.m3u8
+#EXTINF:-1 group-title="27.255",TLC Russia
+http://27.255.58.178:8000/play/a02p/index.m3u8
+#EXTINF:-1 group-title="27.255",TRAVEL CHANNEL
+http://27.255.58.178:8000/play/a046/index.m3u8
+#EXTINF:-1 group-title="27.255",TVP Sport HD
+http://27.255.58.178:8000/play/a01e/index.m3u8
+#EXTINF:-1 group-title="27.255",UDRD1
+http://27.255.58.178:8000/play/a05b/index.m3u8
+#EXTINF:-1 group-title="27.255",UK-PREMIER SPORTS 1
+http://27.255.58.178:8000/play/a045/index.m3u8
+#EXTINF:-1 group-title="27.255",VH1 Classic
+http://27.255.58.178:8000/play/a032/index.m3u8
+#EXTINF:-1 group-title="27.255",WWE
+http://27.255.58.178:8000/play/a03z/index.m3u8
+#EXTINF:-1 group-title="27.255",ZEE TV HD-Rs 19
+http://27.255.58.178:8000/play/a023/index.m3u8
+#EXTINF:-1 group-title="27.255",animal plant
+http://27.255.58.178:8000/play/a05c/index.m3u8
+#EXTINF:-1 group-title="27.255",bindass - Rs 1
+http://27.255.58.178:8000/play/a03n/index.m3u8
+#EXTINF:-1 group-title="27.255",colors INFINITY-Rs9
+http://27.255.58.178:8000/play/a03m/index.m3u8
+#EXTINF:-1 group-title="27.255",geo super
+http://27.255.58.178:8000/play/a05a/index.m3u8
+#EXTINF:-1 group-title="27.255",nick HD+- Rs 10
+http://27.255.58.178:8000/play/a04a/index.m3u8
+#EXTINF:-1 group-title="27.255",ptv
+http://27.255.58.178:8000/play/a029/index.m3u8
+#EXTINF:-1 group-title="27.255",test-ptv
+http://27.255.58.178:8000/play/a054/index.m3u8
+#EXTINF:-1 group-title="27.255",СТС Love
+http://27.255.58.178:8000/play/a02e/index.m3u8
+#EXTINF:-1 group-title="27.255",ТНТ (+4)
+http://27.255.58.178:8000/play/a034/index.m3u8
+#EXTINF:-1 group-title="27.255",ТНТ Music
+http://27.255.58.178:8000/play/a02d/index.m3u8
+#EXTINF:-1 group-title="27.255",ТНТ4
+http://27.255.58.178:8000/play/a02c/index.m3u8
+
++ + + + + http://3.0.20.58:8000/playlist.m3u8  + + + DOWN?
++ + + + + http://3.239.35.218:9981/extjs.html + + + PK + + + CAN'T WORK
++ + + + + http://39.62.59.102:8000/playlist.m3u8 + + + + + DOWN
++ + + + + http://42.201.169.159:8000/playlist.m3u8 + + + PK  + +
++ + + + + http://45.182.20.194:8000/playlist.m3u8 + + + + + DOWN
++ + + + + http://50.7.75.182:9981/playlist/channels + + + + + NOT WORK
++ + + + + http://50.7.75.182:9981/playlist/channels + + + + + login + NOT WORK
++ + + + + http://58.27.219.166:8000/playlist.m3u8 + + + not play
++ + + + + http://62.249.165.216:9981/extjs.html + + + + + kas:lkab91gtt (91gtt) / tvh:tvh / bruker:bruker / Fjellet:Fjellet / user:user / + + + + + OFFLINE 
++ + + + + http://65.95.162.87:9981/extjs.html + + + + + dredmon1/mcslab20 + dredmon/mcslab20 + */* + + + DOWN
+
++ + + + + http://72.255.34.227:8000/playlist.m3u8 + + + + + 
+
+#EXTINF:-1 group-title="72.255",&PRIVE HD-Rs 19
+http://72.255.34.227:8000/play/a01y/index.m3u8
+#EXTINF:-1,&flix HD-Rs19
+http://72.255.34.227:8000/play/a025/index.m3u8
+#EXTINF:-1,&tv HD - Rs 19
+http://72.255.34.227:8000/play/a04f/index.m3u8
+#EXTINF:-1,ANIMAL PLAN-Rs
+http://72.255.34.227:8000/play/a01q/index.m3u8
+#EXTINF:-1,Amedia 1
+http://72.255.34.227:8000/play/a06a/index.m3u8
+#EXTINF:-1,Amedia 2
+http://72.255.34.227:8000/play/a05u/index.m3u8
+#EXTINF:-1,Amedia Premium HD
+http://72.255.34.227:8000/play/a069/index.m3u8
+#EXTINF:-1,Ani
+http://72.255.34.227:8000/play/a06t/index.m3u8
+#EXTINF:-1,Animal Planet
+http://72.255.34.227:8000/play/a07g/index.m3u8
+#EXTINF:-1,Animal Planet HD
+http://72.255.34.227:8000/play/a067/index.m3u8
+#EXTINF:-1,BRIDGE TV
+http://72.255.34.227:8000/play/a06d/index.m3u8
+#EXTINF:-1,BRIDGE TV Classic
+http://72.255.34.227:8000/play/a06w/index.m3u8
+#EXTINF:-1,BRIDGE TV Hits
+http://72.255.34.227:8000/play/a06v/index.m3u8
+#EXTINF:-1,Cartoon Network
+http://72.255.34.227:8000/play/a068/index.m3u8
+#EXTINF:-1,Colors HD-Rs 19
+http://72.255.34.227:8000/play/a024/index.m3u8
+#EXTINF:-1,DTX
+http://72.255.34.227:8000/play/a06k/index.m3u8
+#EXTINF:-1,Discovery Channel
+http://72.255.34.227:8000/play/a07f/index.m3u8
+#EXTINF:-1,Discovery HD-Rs6
+http://72.255.34.227:8000/play/a08m/index.m3u8
+#EXTINF:-1,Discovery S-Rs1
+http://72.255.34.227:8000/play/a07j/index.m3u8
+#EXTINF:-1,Discovery Science
+http://72.255.34.227:8000/play/a07b/index.m3u8
+#EXTINF:-1,Discovery T-Rs1
+http://72.255.34.227:8000/play/a07k/index.m3u8
+#EXTINF:-1,Disney
+http://72.255.34.227:8000/play/a05t/index.m3u8
+#EXTINF:-1,Enterr10 Movies- Free
+http://72.255.34.227:8000/play/a05h/index.m3u8
+#EXTINF:-1,EuroSports HD-Rs 6
+http://72.255.34.227:8000/play/a028/index.m3u8
+#EXTINF:-1,FOX Life HD-Rs1
+http://72.255.34.227:8000/play/a081/index.m3u8
+#EXTINF:-1,Fashion HD
+http://72.255.34.227:8000/play/a077/index.m3u8
+#EXTINF:-1,Gagsnetwork
+http://72.255.34.227:8000/play/a07d/index.m3u8
+#EXTINF:-1,HISTORY TV1-Rs7
+http://72.255.34.227:8000/play/a01r/index.m3u8
+#EXTINF:-1,History
+http://72.255.34.227:8000/play/a06x/index.m3u8
+#EXTINF:-1,Home and Garden
+http://72.255.34.227:8000/play/a07e/index.m3u8
+#EXTINF:-1,ID: Investigation Discovery
+http://72.255.34.227:8000/play/a07i/index.m3u8
+#EXTINF:-1,Kazakh TV
+http://72.255.34.227:8000/play/a06r/index.m3u8
+#EXTINF:-1,Khabar 24
+http://72.255.34.227:8000/play/a06j/index.m3u8
+#EXTINF:-1,M NET 4 MOVIES
+http://72.255.34.227:8000/play/a03x/index.m3u8
+#EXTINF:-1,M NET MOVIES 2
+http://72.255.34.227:8000/play/a040/index.m3u8
+#EXTINF:-1,MAX HD -Rs 17
+http://72.255.34.227:8000/play/a08b/index.m3u8
+#EXTINF:-1,MH ONE - Free
+http://72.255.34.227:8000/play/a03q/index.m3u8
+#EXTINF:-1,MN+ HD-Rs 10
+http://72.255.34.227:8000/play/a08i/index.m3u8
+#EXTINF:-1,MTV
+http://72.255.34.227:8000/play/a060/index.m3u8
+#EXTINF:-1,Mezzo Classic-Jazz TV
+http://72.255.34.227:8000/play/a06i/index.m3u8
+#EXTINF:-1,NAT Geo Wild HD-Rs 5
+http://72.255.34.227:8000/play/a08c/index.m3u8
+#EXTINF:-1,National G HD-Rs10
+http://72.255.34.227:8000/play/a08l/index.m3u8
+#EXTINF:-1,Nick Jr.
+http://72.255.34.227:8000/play/a06y/index.m3u8
+#EXTINF:-1,Nickelodeon
+http://72.255.34.227:8000/play/a061/index.m3u8
+#EXTINF:-1,Nicktoons
+http://72.255.34.227:8000/play/a063/index.m3u8
+#EXTINF:-1,Ocean TV
+http://72.255.34.227:8000/play/a075/index.m3u8
+#EXTINF:-1,PIX HD -
+http://72.255.34.227:8000/play/a01t/index.m3u8
+#EXTINF:-1,PTC PUNJABI- Free
+http://72.255.34.227:8000/play/a03r/index.m3u8
+#EXTINF:-1,PTC chakde-Free
+http://72.255.34.227:8000/play/a03t/index.m3u8
+#EXTINF:-1,Paramount Channel
+http://72.255.34.227:8000/play/a062/index.m3u8
+#EXTINF:-1,Paramount Comedy
+http://72.255.34.227:8000/play/a064/index.m3u8
+#EXTINF:-1,RTG TV
+http://72.255.34.227:8000/play/a06c/index.m3u8
+#EXTINF:-1,SAB HD - Rs 19
+http://72.255.34.227:8000/play/a05f/index.m3u8
+#EXTINF:-1,SET HD - Rs 19
+http://72.255.34.227:8000/play/a026/index.m3u8
+#EXTINF:-1,SIX HD - Rs 19
+http://72.255.34.227:8000/play/a088/index.m3u8
+#EXTINF:-1,SKY CRICKET
+http://72.255.34.227:8000/play/a044/index.m3u8
+#EXTINF:-1,SONY MAX 2 - Rs 1
+http://72.255.34.227:8000/play/a07y/index.m3u8
+#EXTINF:-1,STAR BHARAT HD-Rs19
+http://72.255.34.227:8000/play/a05k/index.m3u8
+#EXTINF:-1,STAR MOV HD-Rs 19
+http://72.255.34.227:8000/play/a08j/index.m3u8
+#EXTINF:-1,STAR WOR P HD-Rs9
+http://72.255.34.227:8000/play/a083/index.m3u8
+#EXTINF:-1,STAR WORLD HD -Rs9
+http://72.255.34.227:8000/play/a084/index.m3u8
+#EXTINF:-1,SUPER SPORTS CRICKET
+http://72.255.34.227:8000/play/a03y/index.m3u8
+#EXTINF:-1,Shant Serial
+http://72.255.34.227:8000/play/a07c/index.m3u8
+#EXTINF:-1,Sony BBC EarHD-Rs10
+http://72.255.34.227:8000/play/a01s/index.m3u8
+#EXTINF:-1,Sony Channel
+http://72.255.34.227:8000/play/a05x/index.m3u8
+#EXTINF:-1,Sony SciFi
+http://72.255.34.227:8000/play/a05y/index.m3u8
+#EXTINF:-1,Sony Ten 1 HD- Rs 19
+http://72.255.34.227:8000/play/a087/index.m3u8
+#EXTINF:-1,Sony Ten 2 HD- Rs 17
+http://72.255.34.227:8000/play/a01w/index.m3u8
+#EXTINF:-1,Sony Ten 3 HD- Rs 17
+http://72.255.34.227:8000/play/a08d/index.m3u8
+#EXTINF:-1,Sony Turbo
+http://72.255.34.227:8000/play/a05z/index.m3u8
+#EXTINF:-1,Star GOLD HD -Rs10
+http://72.255.34.227:8000/play/a05l/index.m3u8
+#EXTINF:-1,Star Gold 2- Rs 1
+http://72.255.34.227:8000/play/a07t/index.m3u8
+#EXTINF:-1,Star Gold SelHD-Rs10
+http://72.255.34.227:8000/play/a049/index.m3u8
+#EXTINF:-1,Star Plus -Rs19
+http://72.255.34.227:8000/play/a022/index.m3u8
+#EXTINF:-1,Star S Hin 1 HD- Rs19
+http://72.255.34.227:8000/play/a089/index.m3u8
+#EXTINF:-1,Star Spo 1 HD-Rs19
+http://72.255.34.227:8000/play/a085/index.m3u8
+#EXTINF:-1,Star Spo 2 HD- Rs19
+http://72.255.34.227:8000/play/a086/index.m3u8
+#EXTINF:-1,Star Sport-Rs10
+http://72.255.34.227:8000/play/a01v/index.m3u8
+#EXTINF:-1,Star Sport-Rs19
+http://72.255.34.227:8000/play/a020/index.m3u8
+#EXTINF:-1,StarMov S HD-Rs 10
+http://72.255.34.227:8000/play/a08k/index.m3u8
+#EXTINF:-1,TELLY TRACK
+http://72.255.34.227:8000/play/a041/index.m3u8
+#EXTINF:-1,TLC HD- Rs3
+http://72.255.34.227:8000/play/a08g/index.m3u8
+#EXTINF:-1,TLC Russia
+http://72.255.34.227:8000/play/a07h/index.m3u8
+#EXTINF:-1,TRAVEL CHANNEL
+http://72.255.34.227:8000/play/a046/index.m3u8
+#EXTINF:-1,Test-412
+http://72.255.34.227:8000/play/a06m/index.m3u8
+#EXTINF:-1,UK-PREMIER SPORTS 1
+http://72.255.34.227:8000/play/a045/index.m3u8
+#EXTINF:-1,UTV ACTION-Rs 2
+http://72.255.34.227:8000/play/a07r/index.m3u8
+#EXTINF:-1,UTV MOVIES-Rs 2
+http://72.255.34.227:8000/play/a07q/index.m3u8
+#EXTINF:-1,VH1 Classic
+http://72.255.34.227:8000/play/a06l/index.m3u8
+#EXTINF:-1,ZEE BOLLYWO-Rs2
+http://72.255.34.227:8000/play/a07w/index.m3u8
+#EXTINF:-1,ZEE CINEMA HD-Rs19
+http://72.255.34.227:8000/play/a05j/index.m3u8
+#EXTINF:-1,ZEE Cafe H-Rs19
+http://72.255.34.227:8000/play/a08h/index.m3u8
+#EXTINF:-1,ZEE TV HD-Rs 19
+http://72.255.34.227:8000/play/a023/index.m3u8
+#EXTINF:-1,colors INFINITY-Rs9
+http://72.255.34.227:8000/play/a03m/index.m3u8
+#EXTINF:-1 group-title="72.255",nick HD+- Rs 10
+http://72.255.34.227:8000/play/a04a/index.m3u8
+
++ + + + + http://73.68.128.14:9981/playlist + + + + + 24/7 movie IT
++ + + + + http://73.85.95.69:9981 + + + + + 
++ + + + + http://73.85.95.69:9981/extjs.html + + + + tv:tv + + + + + EMPTY
++ + + + + http://73.85.95.69:9981/playlist/channels + + + + + DOWN
++ + + + + http://79.119.56.193:9981/extjs.html + + + + + DOWN
++ + + + + http://80.229.42.129:9981/extjs.html + + + + + 
++ + + + + http://81.228.189.5:9981/extjs.html + + + + + debi88:debi88  + + + + DOWN
+
++ + + + + http://82.45.49.11:9981/extjs.html + + + + + connor:str94eEt@
+
+http://connor:str94eEt@82.45.49.11:9981/playlist/channels
+http://SantosSingh:SantosSingh94eEt@82.45.49.11:9981/playlist < forbidden
+http://lewis:LewGay1@82.45.49.11:9981/playlist < forbidden
+http://Santos:SantosSantalini@82.45.49.11:9981/playlist < forbidden
+http://Matthew:Lawyer123@82.45.49.11:9981/playlist < forbidden
+
+SantosSingh|SantosSingh94eEt / connor|str94eEt / lewis|LewGay1 / Santos|SantosSantalini / Matthew|Lawyer123 
+
+to make like below * * *
+http://connor:str94eEt@82.45.49.11:9981/stream/mux/5720e126eb7fe97e77405ab2ceb1cd02
+
+to make like below * * *
+http://connor:str94eEt@82.45.49.11:9981/stream/service/4cbeb49f266de768d395d9ac989bb403
+
+
++ + + SantosSingh|SantosSingh94eEt / connor|str94eEt / lewis|LewGay1 / Santos|SantosSantalini / Matthew|Lawyer123 + + +
+
+to make like below * * *
+http://connor:str94eEt@82.45.49.11:9981/stream/channel/ebddead5713cacec4c26722921317fd0
+
+
+#EXTINF:-1 group-title="82.45",4MUSIC
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1790544347?profile=pass
+#EXTINF:-1 group-title="82.45",4SEVEN FHD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/261050914?profile=pass
+#EXTINF:-1 group-title="82.45",4SEVEN HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1724781142?profile=pass
+#EXTINF:-1 group-title="82.45",4SEVEN SD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1043897213?profile=pass
+#EXTINF:-1 group-title="82.45",5 USA
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1997540862?profile=pass
+#EXTINF:-1 group-title="82.45",5SELECT
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1882041732?profile=pass
+#EXTINF:-1 group-title="82.45",5STAR
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1756962486?profile=pass
+#EXTINF:-1 group-title="82.45",ALIBI FHD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/367715449?profile=pass
+#EXTINF:-1 group-title="82.45",ALIBI HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/537188611?profile=pass
+#EXTINF:-1 group-title="82.45",ALIBI SD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/2103148410?profile=pass
+#EXTINF:-1 group-title="82.45",ANIMAL PLANET
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/858275160?profile=pass
+#EXTINF:-1 group-title="82.45",ANIMAL PLANET FHD (DISCOVERY +)
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/546428417?profile=pass
+#EXTINF:-1 group-title="82.45",BABY TV
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1722395351?profile=pass
+#EXTINF:-1 group-title="82.45",BBC ALBA
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/552186735?profile=pass
+#EXTINF:-1 group-title="82.45",BBC FOUR FHD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1209271656?profile=pass
+#EXTINF:-1 group-title="82.45",BBC ONE FHD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1241002319?profile=pass
+#EXTINF:-1 group-title="82.45",BBC ONE HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/559083039?profile=pass
+#EXTINF:-1 group-title="82.45",BBC ONE LONDON
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/134071605?profile=pass
+#EXTINF:-1 group-title="82.45",BBC ONE NI
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1121236644?profile=pass
+#EXTINF:-1 group-title="82.45",BBC ONE SD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/677616334?profile=pass
+#EXTINF:-1 group-title="82.45",BBC TWO FHD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/37344403?profile=pass
+#EXTINF:-1 group-title="82.45",BBC TWO HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1389258878?profile=pass
+#EXTINF:-1 group-title="82.45",BBC TWO NI
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/861931844?profile=pass
+#EXTINF:-1 group-title="82.45",BBC TWO SD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/446551305?profile=pass
+#EXTINF:-1 group-title="82.45",BETFRED TV
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/831787057?profile=pass
+#EXTINF:-1 group-title="82.45",BIG TEN NETWORK
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/2039034836?profile=pass
+#EXTINF:-1 group-title="82.45",BLAZE
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1225845335?profile=pass
+
+#EXTINF:-1 group-title="82.45",BOOMERANG FHD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1152574940?profile=pass
+#EXTINF:-1 group-title="82.45",BOOMERANG HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/468771678?profile=pass
+#EXTINF:-1 group-title="82.45",BOOMERANG SD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/2142397404?profile=pass
+#EXTINF:-1 group-title="82.45",BOXNATION HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1170267217?profile=pass
+#EXTINF:-1 group-title="82.45",BOXNATION SD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1053304696?profile=pass
+#EXTINF:-1 group-title="82.45",BT BOX OFFICE SD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1172137799?profile=pass
+#EXTINF:-1 group-title="82.45",BT SPORT 1 FHD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1073715415?profile=pass
+#EXTINF:-1 group-title="82.45",BT SPORT 1 HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/677991817?profile=pass
+#EXTINF:-1 group-title="82.45",BT SPORT 1 SD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1423582531?profile=pass
+#EXTINF:-1 group-title="82.45",BT SPORT 2 FHD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1566718442?profile=pass
+#EXTINF:-1 group-title="82.45",BT SPORT 2 HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/791251058?profile=pass
+#EXTINF:-1 group-title="82.45",BT SPORT 2 SD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/871006960?profile=pass
+#EXTINF:-1 group-title="82.45",BT SPORT 3 FHD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/945001502?profile=pass
+#EXTINF:-1 group-title="82.45",BT SPORT 3 HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1233503675?profile=pass
+#EXTINF:-1 group-title="82.45",BT SPORT 3 SD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/205012367?profile=pass
+#EXTINF:-1 group-title="82.45",BT SPORT ESPN FHD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/886244626?profile=pass
+#EXTINF:-1 group-title="82.45",BT SPORT ESPN HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/419507262?profile=pass
+#EXTINF:-1 group-title="82.45",BT SPORT ESPN SD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/975341639?profile=pass
+
+#EXTINF:-1 group-title="82.45",CARTOON NETWORK FHD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1923404590?profile=pass
+#EXTINF:-1 group-title="82.45",CARTOON NETWORK HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/859037960?profile=pass
+#EXTINF:-1 group-title="82.45",CARTOON NETWORK SD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1269016041?profile=pass
+#EXTINF:-1 group-title="82.45",CARTOONITO
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/688732036?profile=pass
+#EXTINF:-1 group-title="82.45",CBBC FHD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/369773990?profile=pass
+#EXTINF:-1 group-title="82.45",CBBC HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/2044141740?profile=pass
+#EXTINF:-1 group-title="82.45",CBBC SD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/301839040?profile=pass
+#EXTINF:-1 group-title="82.45",CBEEBIES FHD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/778599545?profile=pass
+#EXTINF:-1 group-title="82.45",CBEEBIES HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1223166348?profile=pass
+#EXTINF:-1 group-title="82.45",CBEEBIES SD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/812805338?profile=pass
+#EXTINF:-1 group-title="82.45",CBS DRAMA
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/752715240?profile=pass
+#EXTINF:-1 group-title="82.45",CBS JUSTICE
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1153350858?profile=pass
+#EXTINF:-1 group-title="82.45",CBS REALITY
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1378370248?profile=pass
+#EXTINF:-1 group-title="82.45",CBSSN
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/460283952?profile=pass
+#EXTINF:-1 group-title="82.45",CELTIC TV (LIVE ONLY)
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1499750046?profile=pass
+#EXTINF:-1 group-title="82.45",CHALLENGE
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/601763010?profile=pass
+#EXTINF:-1 group-title="82.45",CHANNEL 4 FHD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1467377415?profile=pass
+#EXTINF:-1 group-title="82.45",CHANNEL 4 HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/49270818?profile=pass
+#EXTINF:-1 group-title="82.45",CHANNEL 4 SD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1246718964?profile=pass
+#EXTINF:-1 group-title="82.45",CHANNEL 5
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/606948130?profile=pass
+#EXTINF:-1 group-title="82.45",CHANNEL 5 FHD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1235192922?profile=pass
+#EXTINF:-1 group-title="82.45",CHANNEL 5 HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1199034928?profile=pass
+#EXTINF:-1 group-title="82.45",CHANNEL 5 SD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/428194677?profile=pass
+#EXTINF:-1 group-title="82.45",CHANNEL 7
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1065737287?profile=pass
+#EXTINF:-1 group-title="82.45",CHELSEA TV FHD (Live On Matches)
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/851588070?profile=pass
+#EXTINF:-1 group-title="82.45",CINEMAX
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/29942240?profile=pass
+#EXTINF:-1 group-title="82.45",CINEMAX ACTION MAX
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1204538168?profile=pass
+#EXTINF:-1 group-title="82.45",CINEMAX MORE MAX
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1591470424?profile=pass
+#EXTINF:-1 group-title="82.45",CINEMAX MOVIE MAX
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/688874156?profile=pass
+#EXTINF:-1 group-title="82.45",CINEMAX THRILLER MAX
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1527710231?profile=pass
+#EXTINF:-1 group-title="82.45",CLUBLAND TV
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1049770956?profile=pass
+#EXTINF:-1 group-title="82.45",COMEDY CENTRAL HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/201664240?profile=pass
+#EXTINF:-1 group-title="82.45",COMEDY CENTRAL SD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/953036473?profile=pass
+#EXTINF:-1 group-title="82.45",COMEDYXTRA
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/638376099?profile=pass
+#EXTINF:-1 group-title="82.45",CORAL TV 1
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1095756940?profile=pass
+#EXTINF:-1 group-title="82.45",CORAL TV 2
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/220825027?profile=pass
+#EXTINF:-1 group-title="82.45",CRIME INV FHD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/287532380?profile=pass
+#EXTINF:-1 group-title="82.45",CRIME INV HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/767582385?profile=pass
+#EXTINF:-1 group-title="82.45",CRIME INV SD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/572915000?profile=pass
+#EXTINF:-1 group-title="82.45",DAVE FHD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/527457337?profile=pass
+#EXTINF:-1 group-title="82.45",DAVE HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/839387970?profile=pass
+#EXTINF:-1 group-title="82.45",DAVE JA VU
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1867291990?profile=pass
+#EXTINF:-1 group-title="82.45",DAVE SD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/193487783?profile=pass
+#EXTINF:-1 group-title="82.45",DISCOVERY CHANNEL FHD (DISCOVERY +)
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/335267350?profile=pass
+#EXTINF:-1 group-title="82.45",DISCOVERY CHANNEL HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/897901656?profile=pass
+#EXTINF:-1 group-title="82.45",DISCOVERY CHANNEL SD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/621759430?profile=pass
+#EXTINF:-1 group-title="82.45",DISCOVERY DMAX SD (DISCOVERY +)
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/42818234?profile=pass
+#EXTINF:-1 group-title="82.45",DISCOVERY HISTORY
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1660968810?profile=pass
+#EXTINF:-1 group-title="82.45",DISCOVERY HISTORY SD (DISCOVERY +)
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1318045665?profile=pass
+#EXTINF:-1 group-title="82.45",DISCOVERY SCIENCE
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/2090814553?profile=pass
+#EXTINF:-1 group-title="82.45",DISCOVERY SCIENCE SD (DISCOVERY +)
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1445691575?profile=pass
+#EXTINF:-1 group-title="82.45",DISCOVERY TURBO
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1364609832?profile=pass
+#EXTINF:-1 group-title="82.45",DISCOVERY TURBO SD (DISCOVERY +)
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1531582842?profile=pass
+#EXTINF:-1 group-title="82.45",DISNEY CHANNEL
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1117662724?profile=pass
+#EXTINF:-1 group-title="82.45",DISNEY JUNIOR
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1233313221?profile=pass
+#EXTINF:-1 group-title="82.45",DISNEY XD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/988203142?profile=pass
+#EXTINF:-1 group-title="82.45",DMAX
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1198784140?profile=pass
+#EXTINF:-1 group-title="82.45",DRAMA
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/104782347?profile=pass
+#EXTINF:-1 group-title="82.45",E! FHD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1178409659?profile=pass
+#EXTINF:-1 group-title="82.45",E! HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1936881962?profile=pass
+#EXTINF:-1 group-title="82.45",E! SD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1477730880?profile=pass
+#EXTINF:-1 group-title="82.45",E4 FHD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1410459268?profile=pass
+#EXTINF:-1 group-title="82.45",E4 HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1476227051?profile=pass
+#EXTINF:-1 group-title="82.45",E4 SD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1235401072?profile=pass
+
+#EXTINF:-1 group-title="82.45",EDEN FHD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1397912615?profile=pass
+#EXTINF:-1 group-title="82.45",EDEN HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/377064421?profile=pass
+#EXTINF:-1 group-title="82.45",EDEN SD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1848188285?profile=pass
+#EXTINF:-1 group-title="82.45",EIR SPORTS 1 FHD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/47990362?profile=pass
+#EXTINF:-1 group-title="82.45",EIR SPORTS 1 HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/56642961?profile=pass
+#EXTINF:-1 group-title="82.45",EIR SPORTS 1 SD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1976161433?profile=pass
+#EXTINF:-1 group-title="82.45",ELEVEN SPORTS NETWORK
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1208307256?profile=pass
+#EXTINF:-1 group-title="82.45",EPIX
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/340135418?profile=pass
+#EXTINF:-1 group-title="82.45",EPIX 2
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/2045593551?profile=pass
+#EXTINF:-1 group-title="82.45",EPIX DRIVE-IN
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/390364416?profile=pass
+#EXTINF:-1 group-title="82.45",EPIX HITS
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1593167783?profile=pass
+#EXTINF:-1 group-title="82.45",ESPN
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1826448572?profile=pass
+
+#EXTINF:-1 group-title="82.45",ESPN 2
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1927361540?profile=pass
+#EXTINF:-1 group-title="82.45",ESPN U
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/141803374?profile=pass
+
+#EXTINF:-1 group-title="82.45",FILM4 FHD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1544614019?profile=pass
+#EXTINF:-1 group-title="82.45",FILM4 HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1354916735?profile=pass
+#EXTINF:-1 group-title="82.45",FILM4 SD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1178161252?profile=pass
+
+#EXTINF:-1 group-title="82.45",FITE.TV FHD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1076020347?profile=pass
+#EXTINF:-1 group-title="82.45",FITE.TV SD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/295797116?profile=pass
+#EXTINF:-1 group-title="82.45",FNTSY SPORTS NETWORK
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1404982758?profile=pass
+#EXTINF:-1 group-title="82.45",FOOD NETWORK
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/693293057?profile=pass
+#EXTINF:-1 group-title="82.45",FOOD NETWORK FHD (DISCOVERY +)
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1959580141?profile=pass
+#EXTINF:-1 group-title="82.45",FOX SPORTS 1
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1047117557?profile=pass
+#EXTINF:-1 group-title="82.45",FOX SPOTS 2
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1583451488?profile=pass
+#EXTINF:-1 group-title="82.45",FREESPORTS FHD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/384254817?profile=pass
+#EXTINF:-1 group-title="82.45",FREESPORTS HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1059782790?profile=pass
+#EXTINF:-1 group-title="82.45",FXM
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/388412010?profile=pass
+#EXTINF:-1 group-title="82.45",GEO NEWS
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/458737238?profile=pass
+#EXTINF:-1 group-title="82.45",GINX ESPORTS
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1251821122?profile=pass
+#EXTINF:-1 group-title="82.45",GOLD FHD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/706452145?profile=pass
+#EXTINF:-1 group-title="82.45",GOLD HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/175600980?profile=pass
+#EXTINF:-1 group-title="82.45",GOLD SD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/983594256?profile=pass
+#EXTINF:-1 group-title="82.45",GOLTV (ENGLISH)
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1463096137?profile=pass
+#EXTINF:-1 group-title="82.45",GOOD NEWS TV
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/775600121?profile=pass
+#EXTINF:-1 group-title="82.45",HBO 2
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1662900583?profile=pass
+#EXTINF:-1 group-title="82.45",HBO COMEDY
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1672642823?profile=pass
+#EXTINF:-1 group-title="82.45",HBO EAST
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1005649708?profile=pass
+#EXTINF:-1 group-title="82.45",HBO FAMILY
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/490237769?profile=pass
+#EXTINF:-1 group-title="82.45",HBO SIGNATURE
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1605756770?profile=pass
+#EXTINF:-1 group-title="82.45",HBO ZONE
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/479492493?profile=pass
+#EXTINF:-1 group-title="82.45",HDNET MOVIES
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1716691692?profile=pass
+#EXTINF:-1 group-title="82.45",HGTV FHD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/192087342?profile=pass
+#EXTINF:-1 group-title="82.45",HGTV SD (DISCOVERY +)
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1030392240?profile=pass
+#EXTINF:-1 group-title="82.45",HORROR CHANNEL
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/2027105065?profile=pass
+#EXTINF:-1 group-title="82.45",ID SD (DISCOVERY +)
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1860220140?profile=pass
+#EXTINF:-1 group-title="82.45",INDIEPLEX
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1871373576?profile=pass
+#EXTINF:-1 group-title="82.45",INVESTIGATION DISCOVERY
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/47370564?profile=pass
+#EXTINF:-1 group-title="82.45",ITV 1 FHD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/69240791?profile=pass
+#EXTINF:-1 group-title="82.45",ITV BOX OFFICE FHD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/689603238?profile=pass
+#EXTINF:-1 group-title="82.45",ITV BOX OFFICE HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/574783316?profile=pass
+#EXTINF:-1 group-title="82.45",ITV BOX OFFICE SD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1419554487?profile=pass
+
+#EXTINF:-1 group-title="82.45",KISS
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/554559944?profile=pass
+#EXTINF:-1 group-title="82.45",LA LIGA TV
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/255233009?profile=pass
+#EXTINF:-1 group-title="82.45",LADBROKES TV 1
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1081538065?profile=pass
+#EXTINF:-1 group-title="82.45",LADBROKES TV 2
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/2036430043?profile=pass
+#EXTINF:-1 group-title="82.45",LADBROKES TV 3
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1699592978?profile=pass
+#EXTINF:-1 group-title="82.45",LFCTV FHD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/337234196?profile=pass
+#EXTINF:-1 group-title="82.45",LFCTV HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1653226256?profile=pass
+#EXTINF:-1 group-title="82.45",LFCTV SD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1751154070?profile=pass
+#EXTINF:-1 group-title="82.45",LONGHORN NETWORK
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1869433874?profile=pass
+#EXTINF:-1 group-title="82.45",MAGIC SD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/873754373?profile=pass
+#EXTINF:-1 group-title="82.45",MAV TV
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1652430225?profile=pass
+#EXTINF:-1 group-title="82.45",MORE4 FHD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/704598554?profile=pass
+#EXTINF:-1 group-title="82.45",MORE4 HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1377839513?profile=pass
+#EXTINF:-1 group-title="82.45",MORE4 SD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/914627490?profile=pass
+#EXTINF:-1 group-title="82.45",MOVIES 24 SD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1568354013?profile=pass
+#EXTINF:-1 group-title="82.45",MSG
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/990562763?profile=pass
+#EXTINF:-1 group-title="82.45",MSG+
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/2116673103?profile=pass
+#EXTINF:-1 group-title="82.45",MSG2
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1115017230?profile=pass
+#EXTINF:-1 group-title="82.45",MTV BASE SD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/4562380?profile=pass
+#EXTINF:-1 group-title="82.45",MTV CLASSIC
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/500629557?profile=pass
+#EXTINF:-1 group-title="82.45",MTV FHD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1910640868?profile=pass
+#EXTINF:-1 group-title="82.45",MTV HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/435832686?profile=pass
+#EXTINF:-1 group-title="82.45",MTV HITS HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/549889974?profile=pass
+#EXTINF:-1 group-title="82.45",MTV MUSIC
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/2005885430?profile=pass
+#EXTINF:-1 group-title="82.45",MTV SD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1377841587?profile=pass
+#EXTINF:-1 group-title="82.45",MUTV FHD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/72662636?profile=pass
+#EXTINF:-1 group-title="82.45",MUTV HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1375403675?profile=pass
+#EXTINF:-1 group-title="82.45",MUTV SD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/38694279?profile=pass
+#EXTINF:-1 group-title="82.45",NAT GEO FHD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1760831806?profile=pass
+#EXTINF:-1 group-title="82.45",NAT GEO HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/285340483?profile=pass
+#EXTINF:-1 group-title="82.45",NAT GEO SD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/39279695?profile=pass
+#EXTINF:-1 group-title="82.45",NAT GEO WILD HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/361713545?profile=pass
+#EXTINF:-1 group-title="82.45",NAT GEO WILD SD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/922222096?profile=pass
+#EXTINF:-1 group-title="82.45",NBC SPORTS BAY AREA
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1492757486?profile=pass
+#EXTINF:-1 group-title="82.45",NBC SPORTS BAY AREA+
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/760638603?profile=pass
+#EXTINF:-1 group-title="82.45",NBC SPORTS BOSTON
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/948670469?profile=pass
+#EXTINF:-1 group-title="82.45",NBC SPORTS CALIFORNIA
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1894630688?profile=pass
+#EXTINF:-1 group-title="82.45",NBC Sports Chicago
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1508772282?profile=pass
+#EXTINF:-1 group-title="82.45",NBC SPORTS CHICAGO PLUS
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/590980452?profile=pass
+#EXTINF:-1 group-title="82.45",NBC SPORTS NORTHWEST
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1135462144?profile=pass
+#EXTINF:-1 group-title="82.45",NBC SPORTS PHILLY
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/869175162?profile=pass
+#EXTINF:-1 group-title="82.45",NBC SPORTS PHILLY PLUS
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1005922856?profile=pass
+#EXTINF:-1 group-title="82.45",NBC SPORTS WASHINGTON
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/340175407?profile=pass
+#EXTINF:-1 group-title="82.45",NBC SPORTS WASHINGTON PLUS
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/707505700?profile=pass
+#EXTINF:-1 group-title="82.45",NBCSN
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/28527039?profile=pass
+#EXTINF:-1 group-title="82.45",NICK JR HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/973314501?profile=pass
+#EXTINF:-1 group-title="82.45",NICK JR SD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1462856073?profile=pass
+#EXTINF:-1 group-title="82.45",NICK JR TOO
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1634613598?profile=pass
+#EXTINF:-1 group-title="82.45",NICKELODEON
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/523322348?profile=pass
+#EXTINF:-1 group-title="82.45",NICKTOONS
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1232415447?profile=pass
+#EXTINF:-1 group-title="82.45",NOW 70S
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/2031628507?profile=pass
+#EXTINF:-1 group-title="82.45",NOW 80S
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1707049882?profile=pass
+#EXTINF:-1 group-title="82.45",NOW 90s
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/553396330?profile=pass
+#EXTINF:-1 group-title="82.45",OLYMPIC CHANNEL
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/264713679?profile=pass
+#EXTINF:-1 group-title="82.45",Optus 1
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/95718655?profile=pass
+#EXTINF:-1 group-title="82.45",Optus 10
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/34709040?profile=pass
+#EXTINF:-1 group-title="82.45",Optus 2
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1755500652?profile=pass
+#EXTINF:-1 group-title="82.45",Optus 3
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/584696550?profile=pass
+#EXTINF:-1 group-title="82.45",Optus 4
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1041450920?profile=pass
+#EXTINF:-1 group-title="82.45",Optus 5
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/549906146?profile=pass
+#EXTINF:-1 group-title="82.45",Optus 6
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/503055885?profile=pass
+#EXTINF:-1 group-title="82.45",Optus 7
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1066269098?profile=pass
+#EXTINF:-1 group-title="82.45",Optus 8
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1791822865?profile=pass
+
+#EXTINF:-1 group-title="82.45",PARAMOUNT FHD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/760862352?profile=pass
+#EXTINF:-1 group-title="82.45",PARAMOUNT HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/726360090?profile=pass
+#EXTINF:-1 group-title="82.45",PARAMOUNT SD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1255988243?profile=pass
+#EXTINF:-1 group-title="82.45",PBS AMERICA
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/2106596276?profile=pass
+#EXTINF:-1 group-title="82.45",PDC DARTS (Live Events Only)
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/308067751?profile=pass
+#EXTINF:-1 group-title="82.45",PDC DARTS 2 (Live Events Only)
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/435217229?profile=pass
+#EXTINF:-1 group-title="82.45",PICK
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1655293140?profile=pass
+#EXTINF:-1 group-title="82.45",PIXL
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1144953454?profile=pass
+#EXTINF:-1 group-title="82.45",POP
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/841390253?profile=pass
+#EXTINF:-1 group-title="82.45",POP MAX
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1862708815?profile=pass
+
+#EXTINF:-1 group-title="82.45",PREMIER SPORTS 1 FHD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/98976084?profile=pass
+#EXTINF:-1 group-title="82.45",PREMIER SPORTS 1 HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1132772740?profile=pass
+#EXTINF:-1 group-title="82.45",PREMIER SPORTS 1 SD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/291102857?profile=pass
+#EXTINF:-1 group-title="82.45",PREMIER SPORTS 2 FHD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1966212391?profile=pass
+#EXTINF:-1 group-title="82.45",PREMIER SPORTS 2 HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1997857247?profile=pass
+#EXTINF:-1 group-title="82.45",PREMIER SPORTS 2 SD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1523137760?profile=pass
+#EXTINF:-1 group-title="82.45",QUEST FHD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1324802757?profile=pass
+#EXTINF:-1 group-title="82.45",QUEST FHD (DISCOVERY +)
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1235483660?profile=pass
+#EXTINF:-1 group-title="82.45",QUEST HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1869804946?profile=pass
+#EXTINF:-1 group-title="82.45",QUEST RED FHD (DISCOVERY +)
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/68191756?profile=pass
+#EXTINF:-1 group-title="82.45",QUEST SD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/779053271?profile=pass
+#EXTINF:-1 group-title="82.45",RACING UK FHD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/307080052?profile=pass
+#EXTINF:-1 group-title="82.45",RACING UK HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1617962743?profile=pass
+#EXTINF:-1 group-title="82.45",RACING UK SD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1516030818?profile=pass
+#EXTINF:-1 group-title="82.45",RACING.COM
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/788287543?profile=pass
+#EXTINF:-1 group-title="82.45",RANGERS TV (LIVE ONLY)
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/2005873678?profile=pass
+#EXTINF:-1 group-title="82.45",REALLY
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/986022153?profile=pass
+#EXTINF:-1 group-title="82.45",REALLY SD (DISCOVERY +)
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/156644257?profile=pass
+#EXTINF:-1 group-title="82.45",RETROPLEX
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/245475710?profile=pass
+#EXTINF:-1 group-title="82.45",S4C FHD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/125133977?profile=pass
+#EXTINF:-1 group-title="82.45",S4C HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1512367111?profile=pass
+#EXTINF:-1 group-title="82.45",SEC NETWORK
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/822249715?profile=pass
+#EXTINF:-1 group-title="82.45",SHOWCASE
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/669801927?profile=pass
+#EXTINF:-1 group-title="82.45",SHOWTIME
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1616098414?profile=pass
+#EXTINF:-1 group-title="82.45",SHOWTIME 2
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/74419041?profile=pass
+#EXTINF:-1 group-title="82.45",SHOWTIME EXTREME
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/774342388?profile=pass
+#EXTINF:-1 group-title="82.45",SHOWTIME FAMILY ZONE
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1604691413?profile=pass
+#EXTINF:-1 group-title="82.45",SHOWTIME NEXT
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/681513495?profile=pass
+#EXTINF:-1 group-title="82.45",SHOWTIME SHOWCASE
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/452514214?profile=pass
+#EXTINF:-1 group-title="82.45",SHOWTIME WEST
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1822158375?profile=pass
+#EXTINF:-1 group-title="82.45",SHOWTIME WOMEN
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1967039072?profile=pass
+#EXTINF:-1 group-title="82.45",SHO×BET
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1302631693?profile=pass
+#EXTINF:-1 group-title="82.45",SIS ONE
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/354962095?profile=pass
+#EXTINF:-1 group-title="82.45",SIS RACING
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/554274873?profile=pass
+#EXTINF:-1 group-title="82.45",SIS TWO
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/2019041581?profile=pass
+#EXTINF:-1 group-title="82.45",SKY ARTS FHD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/921336762?profile=pass
+#EXTINF:-1 group-title="82.45",SKY ARTS HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1388906835?profile=pass
+#EXTINF:-1 group-title="82.45",SKY ARTS SD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/943389656?profile=pass
+#EXTINF:-1 group-title="82.45",SKY ATLANTIC FHD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1072552195?profile=pass
+#EXTINF:-1 group-title="82.45",SKY ATLANTIC HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1617235249?profile=pass
+#EXTINF:-1 group-title="82.45",SKY ATLANTIC SD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/690836400?profile=pass
+#EXTINF:-1 group-title="82.45",SKY CINEMA ACTION FHD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1073193434?profile=pass
+#EXTINF:-1 group-title="82.45",SKY CINEMA ACTION HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/655422924?profile=pass
+#EXTINF:-1 group-title="82.45",SKY CINEMA ACTION SD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1653631081?profile=pass
+#EXTINF:-1 group-title="82.45",SKY CINEMA ANIMATION FHD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1246410979?profile=pass
+#EXTINF:-1 group-title="82.45",SKY CINEMA ANIMATION HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1195794760?profile=pass
+#EXTINF:-1 group-title="82.45",SKY CINEMA ANIMATION SD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1972789989?profile=pass
+#EXTINF:-1 group-title="82.45",SKY CINEMA COMEDY FHD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/530794232?profile=pass
+#EXTINF:-1 group-title="82.45",SKY CINEMA COMEDY HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1695280437?profile=pass
+#EXTINF:-1 group-title="82.45",SKY CINEMA COMEDY SD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1635183619?profile=pass
+#EXTINF:-1 group-title="82.45",SKY CINEMA FAMILY FHD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/446828327?profile=pass
+#EXTINF:-1 group-title="82.45",SKY CINEMA FAMILY HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/516434391?profile=pass
+#EXTINF:-1 group-title="82.45",SKY CINEMA FAMILY SD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1643384821?profile=pass
+#EXTINF:-1 group-title="82.45",SKY CINEMA GREATS FHD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/619229098?profile=pass
+#EXTINF:-1 group-title="82.45",SKY CINEMA GREATS HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/597768144?profile=pass
+#EXTINF:-1 group-title="82.45",SKY CINEMA GREATS SD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1579006358?profile=pass
+#EXTINF:-1 group-title="82.45",SKY CINEMA HITS HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/917177425?profile=pass
+#EXTINF:-1 group-title="82.45",SKY CINEMA HITS SD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/204506917?profile=pass
+#EXTINF:-1 group-title="82.45",SKY CINEMA OSCARS FHD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1848316955?profile=pass
+#EXTINF:-1 group-title="82.45",SKY CINEMA OSCARS HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/168643929?profile=pass
+#EXTINF:-1 group-title="82.45",SKY CINEMA OSCARS SD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1912856147?profile=pass
+#EXTINF:-1 group-title="82.45",SKY CINEMA PREMIER FHD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1747633098?profile=pass
+#EXTINF:-1 group-title="82.45",SKY CINEMA PREMIERE HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1573038891?profile=pass
+#EXTINF:-1 group-title="82.45",SKY CINEMA PREMIERE SD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/430584635?profile=pass
+#EXTINF:-1 group-title="82.45",SKY CINEMA SCI-FI FHD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/59856459?profile=pass
+#EXTINF:-1 group-title="82.45",SKY CINEMA SCI-FI HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/2027688896?profile=pass
+#EXTINF:-1 group-title="82.45",SKY CINEMA SCI-FI SD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1157133555?profile=pass
+#EXTINF:-1 group-title="82.45",SKY CINEMA SELECT FHD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/592950955?profile=pass
+#EXTINF:-1 group-title="82.45",SKY CINEMA SELECT HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1207052646?profile=pass
+#EXTINF:-1 group-title="82.45",SKY CINEMA SELECT SD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1067704860?profile=pass
+#EXTINF:-1 group-title="82.45",SKY CINEMA THRILLER FHD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/198043836?profile=pass
+#EXTINF:-1 group-title="82.45",SKY CINEMA THRILLER HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/165016454?profile=pass
+#EXTINF:-1 group-title="82.45",SKY CINEMA THRILLER SD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1736527959?profile=pass
+#EXTINF:-1 group-title="82.45",SKY COMEDY FHD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/877023343?profile=pass
+#EXTINF:-1 group-title="82.45",SKY COMEDY HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/2085875710?profile=pass
+#EXTINF:-1 group-title="82.45",SKY COMEDY SD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1333878260?profile=pass
+#EXTINF:-1 group-title="82.45",SKY CRIME FHD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1460518715?profile=pass
+#EXTINF:-1 group-title="82.45",SKY CRIME HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/2095422285?profile=pass
+#EXTINF:-1 group-title="82.45",SKY CRIME SD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/429111086?profile=pass
+#EXTINF:-1 group-title="82.45",SKY DOCUMENTARIES FHD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1850652511?profile=pass
+#EXTINF:-1 group-title="82.45",SKY DOCUMENTARIES HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1178227417?profile=pass
+#EXTINF:-1 group-title="82.45",SKY DOCUMENTARIES SD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1054757460?profile=pass
+#EXTINF:-1 group-title="82.45",SKY HISTORY 2 FHD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/950714123?profile=pass
+#EXTINF:-1 group-title="82.45",SKY HISTORY 2 FHD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/789095891?profile=pass
+#EXTINF:-1 group-title="82.45",SKY HISTORY 2 SD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/246845109?profile=pass
+#EXTINF:-1 group-title="82.45",SKY HISTORY FHD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1208767753?profile=pass
+#EXTINF:-1 group-title="82.45",SKY HISTORY HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/283662565?profile=pass
+#EXTINF:-1 group-title="82.45",SKY HISTORY SD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1072566968?profile=pass
+#EXTINF:-1 group-title="82.45",SKY NATURE FHD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/612438307?profile=pass
+#EXTINF:-1 group-title="82.45",SKY NATURE HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/416585641?profile=pass
+#EXTINF:-1 group-title="82.45",SKY NATURE SD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/2113630205?profile=pass
+#EXTINF:-1 group-title="82.45",SKY SHOWCASE FHD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/310026853?profile=pass
+#EXTINF:-1 group-title="82.45",SKY SHOWCASE HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/55192137?profile=pass
+#EXTINF:-1 group-title="82.45",SKY SHOWCASE SD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1502076434?profile=pass
+#EXTINF:-1 group-title="82.45",SKY SPORTS ARENA FHD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1788499712?profile=pass
+#EXTINF:-1 group-title="82.45",SKY SPORTS ARENA HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/334623798?profile=pass
+#EXTINF:-1 group-title="82.45",SKY SPORTS ARENA SD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/434708979?profile=pass
+#EXTINF:-1 group-title="82.45",SKY SPORTS F1 FHD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1388214970?profile=pass
+#EXTINF:-1 group-title="82.45",SKY SPORTS F1 HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/2749799?profile=pass
+#EXTINF:-1 group-title="82.45",SKY SPORTS F1 SD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1234038377?profile=pass
+#EXTINF:-1 group-title="82.45",SKY SPORTS FOOTBALL FHD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1366466786?profile=pass
+#EXTINF:-1 group-title="82.45",SKY SPORTS FOOTBALL HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/456759939?profile=pass
+#EXTINF:-1 group-title="82.45",SKY SPORTS FOOTBALL SD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/961057508?profile=pass
+#EXTINF:-1 group-title="82.45",SKY SPORTS GOLF FHD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/21612172?profile=pass
+#EXTINF:-1 group-title="82.45",SKY SPORTS GOLF HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/976300690?profile=pass
+#EXTINF:-1 group-title="82.45",SKY SPORTS GOLF SD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/350351441?profile=pass
+#EXTINF:-1 group-title="82.45",SKY SPORTS HUNDRED FHD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1309915581?profile=pass
+#EXTINF:-1 group-title="82.45",SKY SPORTS HUNDRED HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1579760914?profile=pass
+#EXTINF:-1 group-title="82.45",SKY SPORTS HUNDRED SD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1962768435?profile=pass
+#EXTINF:-1 group-title="82.45",SKY SPORTS MAIN EVENT FHD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/910523416?profile=pass
+#EXTINF:-1 group-title="82.45",SKY SPORTS MAIN EVENT HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/221599957?profile=pass
+#EXTINF:-1 group-title="82.45",SKY SPORTS MAIN EVENTS SD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1372572239?profile=pass
+#EXTINF:-1 group-title="82.45",SKY SPORTS MIX FHD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/336706174?profile=pass
+#EXTINF:-1 group-title="82.45",SKY SPORTS MIX HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/238739605?profile=pass
+#EXTINF:-1 group-title="82.45",SKY SPORTS MIX SD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/720536800?profile=pass
+#EXTINF:-1 group-title="82.45",SKY SPORTS NEWS FHD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1309786590?profile=pass
+#EXTINF:-1 group-title="82.45",SKY SPORTS NEWS HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/2126893648?profile=pass
+#EXTINF:-1 group-title="82.45",SKY SPORTS NEWS SD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1282558025?profile=pass
+#EXTINF:-1 group-title="82.45",SKY SPORTS PREMIER LEAGUE FHD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/983656492?profile=pass
+#EXTINF:-1 group-title="82.45",SKY SPORTS PREMIER LEAGUE HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/2031592745?profile=pass
+#EXTINF:-1 group-title="82.45",SKY SPORTS PREMIER LEAGUE SD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1679117942?profile=pass
+#EXTINF:-1 group-title="82.45",SKY SPORTS RACING FHD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1694063885?profile=pass
+#EXTINF:-1 group-title="82.45",SKY SPORTS RACING HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/791986975?profile=pass
+#EXTINF:-1 group-title="82.45",SKY SPORTS RACING SD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1032028995?profile=pass
+
+#EXTINF:-1 group-title="82.45",SKY SPORTS THE LIONS FHD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1766652011?profile=pass
+#EXTINF:-1 group-title="82.45",SKY SPORTS THE LIONS HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/328054730?profile=pass
+#EXTINF:-1 group-title="82.45",SKY SPORTS THE LIONS SD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1728663477?profile=pass
+#EXTINF:-1 group-title="82.45",SKY TWO SD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/389933771?profile=pass
+#EXTINF:-1 group-title="82.45",SKY WITNESS FHD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1127305760?profile=pass
+#EXTINF:-1 group-title="82.45",SKY WITNESS HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1534467156?profile=pass
+#EXTINF:-1 group-title="82.45",SKY WITNESS SD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/172490982?profile=pass
+#EXTINF:-1 group-title="82.45",SONLIFE
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/964436184?profile=pass
+#EXTINF:-1 group-title="82.45",SONY ACTION
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/368685658?profile=pass
+#EXTINF:-1 group-title="82.45",SONY MAX FHD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/636917546?profile=pass
+#EXTINF:-1 group-title="82.45",SONY MAX HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1995834320?profile=pass
+#EXTINF:-1 group-title="82.45",SONY MAX SD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1463211901?profile=pass
+#EXTINF:-1 group-title="82.45",SONY MOVIES SD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1734968798?profile=pass
+#EXTINF:-1 group-title="82.45",SONY TV FHD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/984502879?profile=pass
+#EXTINF:-1 group-title="82.45",SONY TV HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1829048850?profile=pass
+#EXTINF:-1 group-title="82.45",SONY TV SD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/504898711?profile=pass
+
+#EXTINF:-1 group-title="82.45",SPECTRUM SPORTSNET DODGERS
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1207460782?profile=pass
+#EXTINF:-1 group-title="82.45",SPECTRUM SPORTSNET LAKERS
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1342314427?profile=pass
+#EXTINF:-1 group-title="82.45",SPFL | ABERDEEN
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1856889772?profile=pass
+#EXTINF:-1 group-title="82.45",SPFL | CELTIC
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/484598018?profile=pass
+#EXTINF:-1 group-title="82.45",SPFL | DUNDEE FC
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/205003343?profile=pass
+#EXTINF:-1 group-title="82.45",SPFL | DUNDEE UNITED
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/448927372?profile=pass
+#EXTINF:-1 group-title="82.45",SPFL | HIBERNIAN
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1439536467?profile=pass
+#EXTINF:-1 group-title="82.45",SPFL | KILMARNOCK
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/70913081?profile=pass
+#EXTINF:-1 group-title="82.45",SPFL | LIVINGSTON
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1952986592?profile=pass
+#EXTINF:-1 group-title="82.45",SPFL | MOTHERWELL
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1196693156?profile=pass
+#EXTINF:-1 group-title="82.45",SPFL | RANGERS
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1881075914?profile=pass
+#EXTINF:-1 group-title="82.45",SPFL | ROSS COUNTY
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1111523513?profile=pass
+#EXTINF:-1 group-title="82.45",SPFL | ST JOHNSTONE
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/22859724?profile=pass
+#EXTINF:-1 group-title="82.45",SPFL | ST MIRREN
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/425180787?profile=pass
+#EXTINF:-1 group-title="82.45",SPORTSGRID
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1729457898?profile=pass
+#EXTINF:-1 group-title="82.45",SPORTSMAN CHANNEL
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/530784890?profile=pass
+#EXTINF:-1 group-title="82.45",SPORTSNET NY
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/321677160?profile=pass
+#EXTINF:-1 group-title="82.45",SPORTSNET SOUTHWEST
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1932690627?profile=pass
+#EXTINF:-1 group-title="82.45",SPORTSNET SOUTHWEST (ALTERNATE)
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1915848226?profile=pass
+#EXTINF:-1 group-title="82.45",SPORTYSTUFF TV
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/830643826?profile=pass
+#EXTINF:-1 group-title="82.45",STAR GOLD FHD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/400118116?profile=pass
+#EXTINF:-1 group-title="82.45",STAR PLUS FHD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/907395401?profile=pass
+#EXTINF:-1 group-title="82.45",STAR PLUS HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1867733645?profile=pass
+#EXTINF:-1 group-title="82.45",STARZ
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1905858107?profile=pass
+#EXTINF:-1 group-title="82.45",STARZ CINEMA
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/181847520?profile=pass
+#EXTINF:-1 group-title="82.45",STARZ COMEDY
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/12732839?profile=pass
+#EXTINF:-1 group-title="82.45",STARZ EDGE
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1930773289?profile=pass
+#EXTINF:-1 group-title="82.45",STARZ ENCORE
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1210138204?profile=pass
+#EXTINF:-1 group-title="82.45",STARZ ENCORE ACTION
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1220390046?profile=pass
+#EXTINF:-1 group-title="82.45",STARZ ENCORE BLACK
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/479134967?profile=pass
+#EXTINF:-1 group-title="82.45",STARZ ENCORE FAMILY
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/928741270?profile=pass
+#EXTINF:-1 group-title="82.45",STARZ ENCORE SUSPENSE
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/205342496?profile=pass
+#EXTINF:-1 group-title="82.45",STARZ ENCORE WEST
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/873457372?profile=pass
+#EXTINF:-1 group-title="82.45",STARZ ENCORE WESTERNS
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1472124876?profile=pass
+#EXTINF:-1 group-title="82.45",STARZ IN BLACK
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1832109862?profile=pass
+#EXTINF:-1 group-title="82.45",STARZ KIDS & FAMILY
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1648361160?profile=pass
+#EXTINF:-1 group-title="82.45",STARZ WEST
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/727878238?profile=pass
+#EXTINF:-1 group-title="82.45",STV
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/554851327?profile=pass
+#EXTINF:-1 group-title="82.45",SYFY HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1707716384?profile=pass
+#EXTINF:-1 group-title="82.45",SYFY SD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/208980319?profile=pass
+#EXTINF:-1 group-title="82.45",TCM HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/875098037?profile=pass
+#EXTINF:-1 group-title="82.45",TCM SD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1110938338?profile=pass
+#EXTINF:-1 group-title="82.45",TENNIS CHANNEL
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/739886971?profile=pass
+#EXTINF:-1 group-title="82.45",THE COWBOY CHANNEL
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1220103913?profile=pass
+#EXTINF:-1 group-title="82.45",THE FIGHT NETWORK
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/123354591?profile=pass
+#EXTINF:-1 group-title="82.45",THE GOLF CHANNEL
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1008916016?profile=pass
+#EXTINF:-1 group-title="82.45",THE GOLF CHANNEL (SD)
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/531268761?profile=pass
+#EXTINF:-1 group-title="82.45",TINY POP
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/270288094?profile=pass
+#EXTINF:-1 group-title="82.45",TLC FHD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/897552013?profile=pass
+#EXTINF:-1 group-title="82.45",TLC FHD (DISCOVERY +)
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1595464763?profile=pass
+#EXTINF:-1 group-title="82.45",TLC HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/210305686?profile=pass
+#EXTINF:-1 group-title="82.45",TLC SD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/56263932?profile=pass
+#EXTINF:-1 group-title="82.45",TRACE URBAN
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/515222436?profile=pass
+#EXTINF:-1 group-title="82.45",TRACE VAULT
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/437881208?profile=pass
+#EXTINF:-1 group-title="82.45",TURNER CLASSIC MOVIES
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1551763618?profile=pass
+#EXTINF:-1 group-title="82.45",TVG
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/971820277?profile=pass
+#EXTINF:-1 group-title="82.45",TVG2
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/688507482?profile=pass
+#EXTINF:-1 group-title="82.45",UFC FIGHT PASS HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/249293150?profile=pass
+#EXTINF:-1 group-title="82.45",UFC PPV Main Card 1080p
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/2145983258?profile=pass
+#EXTINF:-1 group-title="82.45",UFC PPV MMAIN CARD SD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/734330247?profile=pass
+#EXTINF:-1 group-title="82.45",UFC: #01 Prelims
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1219420537?profile=pass
+#EXTINF:-1 group-title="82.45",UFC: #02 MAIN CARD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1292376580?profile=pass
+#EXTINF:-1 group-title="82.45",UFC: #03 Prelims
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1148645059?profile=pass
+#EXTINF:-1 group-title="82.45",UFC: #04 MAIN CARD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/2088790559?profile=pass
+#EXTINF:-1 group-title="82.45",UFC: 24/7 Fight Pass
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/226680419?profile=pass
+#EXTINF:-1 group-title="82.45",USA CBS SPORTS NETWORK HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1524968725?profile=pass
+#EXTINF:-1 group-title="82.45",USA WWE Network HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/429240859?profile=pass
+#EXTINF:-1 group-title="82.45",UTSAV GOLD FHD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1923772673?profile=pass
+#EXTINF:-1 group-title="82.45",UTSAV GOLD SD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1568425668?profile=pass
+#EXTINF:-1 group-title="82.45",UTSAV PLUS SD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1356961599?profile=pass
+#EXTINF:-1 group-title="82.45",UTV FHD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/499350548?profile=pass
+#EXTINF:-1 group-title="82.45",UTV HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/942627479?profile=pass
+#EXTINF:-1 group-title="82.45",VOX AFRICA
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/368539375?profile=pass
+#EXTINF:-1 group-title="82.45",VSIN
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1179327939?profile=pass
+#EXTINF:-1 group-title="82.45",W FHD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/182107433?profile=pass
+#EXTINF:-1 group-title="82.45",W HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1206411189?profile=pass
+#EXTINF:-1 group-title="82.45",W SD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/141643276?profile=pass
+#EXTINF:-1 group-title="82.45",WE TV
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/280224253?profile=pass
+#EXTINF:-1 group-title="82.45",WE TV (SD)
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/906764544?profile=pass
+
+#EXTINF:-1 group-title="82.45",WWE NETWORK
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/366966581?profile=pass
+#EXTINF:-1 group-title="82.45",BBC ONE Scot
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1738317237?profile=pass
+#EXTINF:-1 group-title="82.45",BBC TWO
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/846968765?profile=pass
+#EXTINF:-1 group-title="82.45",STV
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/44932939?profile=pass
+#EXTINF:-1 group-title="82.45",Channel 4
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/664783764?profile=pass
+#EXTINF:-1 group-title="82.45",Channel 5
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/494660305?profile=pass
+#EXTINF:-1 group-title="82.45",ITV2
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/145672789?profile=pass
+#EXTINF:-1 group-title="82.45",BBC ALBA
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1979959616?profile=pass
+#EXTINF:-1 group-title="82.45",That's TV Scotland
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/741381130?profile=pass
+#EXTINF:-1 group-title="82.45",BBC Scotland
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1639104150?profile=pass
+#EXTINF:-1 group-title="82.45",ITV3
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/316407169?profile=pass
+#EXTINF:-1 group-title="82.45",Sky Arts
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/802506791?profile=pass
+#EXTINF:-1 group-title="82.45",QUEST
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/514005484?profile=pass
+#EXTINF:-1 group-title="82.45",E4
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1054713818?profile=pass
+#EXTINF:-1 group-title="82.45",Film4
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/486945483?profile=pass
+#EXTINF:-1 group-title="82.45",Channel 4+1
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1084273866?profile=pass
+#EXTINF:-1 group-title="82.45",QVC
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1056348410?profile=pass
+#EXTINF:-1 group-title="82.45",Really
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1108184652?profile=pass
+#EXTINF:-1 group-title="82.45",More 4
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1239431635?profile=pass
+#EXTINF:-1 group-title="82.45",Dave
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1397034308?profile=pass
+#EXTINF:-1 group-title="82.45",Drama
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1951358624?profile=pass
+#EXTINF:-1 group-title="82.45",5 USA
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1936105342?profile=pass
+#EXTINF:-1 group-title="82.45",Ideal World
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/555452217?profile=pass
+#EXTINF:-1 group-title="82.45",Dave ja vu
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/2010219898?profile=pass
+#EXTINF:-1 group-title="82.45",BBC FOUR
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1473549055?profile=pass
+#EXTINF:-1 group-title="82.45",ITV4
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/54342859?profile=pass
+#EXTINF:-1 group-title="82.45",Yesterday
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1696025274?profile=pass
+#EXTINF:-1 group-title="82.45",ITVBe
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/42701547?profile=pass
+#EXTINF:-1 group-title="82.45",ITV2 +1
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/2083485280?profile=pass
+#EXTINF:-1 group-title="82.45",E4+1
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1113546117?profile=pass
+#EXTINF:-1 group-title="82.45",4Music
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/928027721?profile=pass
+#EXTINF:-1 group-title="82.45",5STAR
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1974742201?profile=pass
+#EXTINF:-1 group-title="82.45",Paramount Network
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1891485311?profile=pass
+#EXTINF:-1 group-title="82.45",GREAT! movies
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1140271241?profile=pass
+#EXTINF:-1 group-title="82.45",STV+1
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/79882806?profile=pass
+#EXTINF:-1 group-title="82.45",Pick
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/824235611?profile=pass
+#EXTINF:-1 group-title="82.45",QVC Beauty
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1871689611?profile=pass
+#EXTINF:-1 group-title="82.45",QVC Style
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/101246250?profile=pass
+#EXTINF:-1 group-title="82.45",DMAX
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1585505304?profile=pass
+#EXTINF:-1 group-title="82.45",Quest Red
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1756679162?profile=pass
+#EXTINF:-1 group-title="82.45",CBS Justice
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1750784919?profile=pass
+#EXTINF:-1 group-title="82.45",GREAT! movies action
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1029553477?profile=pass
+#EXTINF:-1 group-title="82.45",Food Network
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/342070998?profile=pass
+#EXTINF:-1 group-title="82.45",HGTV
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/735473676?profile=pass
+#EXTINF:-1 group-title="82.45",Gems TV
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1004208755?profile=pass
+#EXTINF:-1 group-title="82.45",Channel 5+1
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/569405073?profile=pass
+#EXTINF:-1 group-title="82.45",Film4+1
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/249172585?profile=pass
+#EXTINF:-1 group-title="82.45",Challenge
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/89321012?profile=pass
+#EXTINF:-1 group-title="82.45",4seven
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1705577016?profile=pass
+#EXTINF:-1 group-title="82.45",GREAT! tv
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/2046805686?profile=pass
+#EXTINF:-1 group-title="82.45",TJC
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1252256135?profile=pass
+#EXTINF:-1 group-title="82.45",GREAT! movies classic
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/95028220?profile=pass
+#EXTINF:-1 group-title="82.45",5SELECT
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1619512728?profile=pass
+#EXTINF:-1 group-title="82.45",Smithsonian Channel
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/23572590?profile=pass
+#EXTINF:-1 group-title="82.45",ITVBe+1
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/211281535?profile=pass
+#EXTINF:-1 group-title="82.45",ITV3+1
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1807046618?profile=pass
+#EXTINF:-1 group-title="82.45",ITV4+1
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/572757717?profile=pass
+#EXTINF:-1 group-title="82.45",GREAT! movies +1
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/432104232?profile=pass
+#EXTINF:-1 group-title="82.45",Blaze
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/514304378?profile=pass
+#EXTINF:-1 group-title="82.45",TBN UK
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1497899636?profile=pass
+#EXTINF:-1 group-title="82.45",CBS Reality
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/237112740?profile=pass
+#EXTINF:-1 group-title="82.45",CBS Drama
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1946342719?profile=pass
+#EXTINF:-1 group-title="82.45",Horror Channel
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1325686021?profile=pass
+#EXTINF:-1 group-title="82.45",QUEST+1
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/526014984?profile=pass
+#EXTINF:-1 group-title="82.45",Jewellery Maker
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/660455677?profile=pass
+#EXTINF:-1 group-title="82.45",Shopping Quarter
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1803986417?profile=pass
+#EXTINF:-1 group-title="82.45",Drama +1
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/732004319?profile=pass
+#EXTINF:-1 group-title="82.45",Yesterday+1
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/533900769?profile=pass
+#EXTINF:-1 group-title="82.45",TCC
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1744816825?profile=pass
+#EXTINF:-1 group-title="82.45",Blaze+1
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1912242194?profile=pass
+#EXTINF:-1 group-title="82.45",TalkingPictures TV
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1021307476?profile=pass
+#EXTINF:-1 group-title="82.45",Together TV
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1879642376?profile=pass
+#EXTINF:-1 group-title="82.45",PBS America
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/858125165?profile=pass
+#EXTINF:-1 group-title="82.45",Craft Store TV
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/823285297?profile=pass
+#EXTINF:-1 group-title="82.45",Ideal Extra
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1362092044?profile=pass
+#EXTINF:-1 group-title="82.45",Create & Craft
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/2093704365?profile=pass
+#EXTINF:-1 group-title="82.45",Freeview
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1530593727?profile=pass
+#EXTINF:-1 group-title="82.45",BBC 1 Scot HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1499792244?profile=pass
+#EXTINF:-1 group-title="82.45",BBC TWO HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/43389609?profile=pass
+#EXTINF:-1 group-title="82.45",STV HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1326775568?profile=pass
+#EXTINF:-1 group-title="82.45",Channel 4 HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1102470074?profile=pass
+#EXTINF:-1 group-title="82.45",Channel 5 HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1902123326?profile=pass
+#EXTINF:-1 group-title="82.45",BBC Scotland HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/638101091?profile=pass
+#EXTINF:-1 group-title="82.45",CBBC
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1840379403?profile=pass
+#EXTINF:-1 group-title="82.45",CBeebies
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1565042751?profile=pass
+#EXTINF:-1 group-title="82.45",CITV
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1056606664?profile=pass
+#EXTINF:-1 group-title="82.45",CBBC HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/116581113?profile=pass
+#EXTINF:-1 group-title="82.45",POP
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1220446420?profile=pass
+#EXTINF:-1 group-title="82.45",Tiny Pop
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1902647529?profile=pass
+#EXTINF:-1 group-title="82.45",Ketchup TV
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1901430673?profile=pass
+#EXTINF:-1 group-title="82.45",YAAAS!
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1901904751?profile=pass
+#EXTINF:-1 group-title="82.45",BBC NEWS
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1773270917?profile=pass
+#EXTINF:-1 group-title="82.45",BBC Parliament
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1541546610?profile=pass
+#EXTINF:-1 group-title="82.45",Sky News
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/552343047?profile=pass
+#EXTINF:-1 group-title="82.45",RT
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1435096268?profile=pass
+#EXTINF:-1 group-title="82.45",Al Jazeera Eng
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1274832881?profile=pass
+#EXTINF:-1 group-title="82.45",GB News
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/795608293?profile=pass
+#EXTINF:-1 group-title="82.45",BBC Red Button
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1909122462?profile=pass
+#EXTINF:-1 group-title="82.45",Kiss Chat & Date
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1114175352?profile=pass
+#EXTINF:-1 group-title="82.45",Proud Dating
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1634308663?profile=pass
+#EXTINF:-1 group-title="82.45",Sonlife
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1623820480?profile=pass
+#EXTINF:-1 group-title="82.45",VisionTV
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1709771152?profile=pass
+#EXTINF:-1 group-title="82.45",On Demand 365
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/967039822?profile=pass
+#EXTINF:-1 group-title="82.45",Arise News
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1122197338?profile=pass
+#EXTINF:-1 group-title="82.45",Channelbox
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/692917478?profile=pass
+#EXTINF:-1 group-title="82.45",Accessible TV Guide
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1861704287?profile=pass
+#EXTINF:-1 group-title="82.45",BBC RB 1
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/788257192?profile=pass
 
 + + + + + http://83.97.16.9:8000/playlist.m3u8 + + + + +
 
@@ -21166,6 +22809,18 @@ http://83.97.16.9:8000/play/a031
 http://83.97.16.9:8000/play/a04g
 #EXTINF:-1 group-title="83.97",sky select (oscars)
 http://83.97.16.9:8000/play/a02o
+
++ + + + + http://85.131.123.13:9981/extjs.html + + + + NO MORE ? DOWN
++ + + + + http://86.142.108.226:9981/extjs.html
++ + + + + http://86.22.232.177:9981/extjs.html + + + + meeko:martii14@ + + + + + NOT PLAY
++ + + + + http://86.28.196.144:9981/extjs.html + + + +
++ + + + + http://86.28.196.144:9981/extjs.html + + + + DOWN + + + + +
++ + + + + http://88.98.232.148:9981/stream/channelid/686013801?profile=pass
++ + + + + http://91.116.47.164:9981/playlist/channels + + + + RO < DOWN
+
+
+
+
 
 
 -/-/-/-/-/-/-/-/-/-/-/- m3u playlist -/-/-/-/-/-
