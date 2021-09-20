@@ -24,7 +24,7 @@ http://pie.buzz:83/get.php?username=Peter.nyr1909&password=6547736256&type=m3u
 Real Url: 194.40.240.171:83     Status: Active    Created: 29/3/2018 12:09:38 PM     Expires: 27/9/2021 5:58:00 AM    Active Connections: 64     Maximum Connections: 100     Formats: "m3u8","ts","rtmp"
 
 
-http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
+
 
 to check there >>
 http://168.205.87.198:8555/live/erick/123456/82.ts
@@ -857,7 +857,7 @@ http://207.244.229.66:25461/Mixtvrv/Mix/1
 http://45.182.20.194:8000/play/32KrDbK8nSLJr5EN/index.m3u8 / http://45.182.20.194:8000/playlist.m3u8 < IN
 http://45.70.237.121:8000/playlist.m3u8 < Ecuador
 http://45.92.69.244:8000/playlist.m3u8 < IT
-http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
+
 http://58.65.171.202:8000/playlist.m3u8 < few CH
 http://79.136.31.148:8000/playlist.m3u8 < few Viasat
 http://81.15.110.54:8180/playlist.m3u8 < few XXX
@@ -7130,6 +7130,8 @@ http://160.119.77.116:8081/iptv/bsb-epl3.stream/playlist.m3u8
 
 + + + + + http://4digital.ddns.net:9981/extjs.html + + + + + locked 
 
+http://4digital.ddns.net:9981/extjs.html
+
 #EXTINF:-1 group-title="4digit/TH", VIP HD1
 http://4digital.ddns.net:9981/stream/mux/a7e489d8448265bf934cd25e59b5b669
 #EXTINF:-1, TS 1
@@ -7414,6 +7416,7 @@ http://4digital.ddns.net:9981/stream/channelid/2097246791?ticket=4068219972CE699
 
 + + + + + 50.7/TH + + + + +
 
+
 http://50.7.161.82:8278//Foxmovie/playlist.m3u8?tid=12323486&tsum=6079b8a2cef1f0c8a95583a5e2424885
 http://50.7.161.82:8278/Aec/playlist.m3u8?tid=m02000000000015751423&ct=18077&tsum=0a1235753bfb672ce47b241f15dc4a3e
 http://50.7.161.82:8278/Aec/playlist.m3u8?tid=m02000000000016302253&ct=17975&tsum=49305fbef37ad7f136193102fbfebea1
@@ -7567,7 +7570,11 @@ http://50.7.161.82:8278/streams/d/Discovery/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Foxactionhd/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Foxfamily/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Foxmovie/playlist.m3u8
+#EXTINF:-1 group-title="50.7/TH",FOXSPORTS
+http://50.7.161.82:8278/streams/d/foxsports_pye/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Foxsports/playlist.m3u8
+#EXTINF:-1 group-title="50.7/TH",FOXSPORTS2
+http://50.7.161.82:8278/streams/d/foxsports2_pye/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Foxsports3/playlist.m3u8
 http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 HBO MY
@@ -7582,6 +7589,7 @@ http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
 http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
+http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Tvnmovie/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Warna/playlist.m3u8
 http://50.7.161.82:8278/streams/d/truepre1_pat/playlist.m3u8
@@ -12230,7 +12238,7 @@ Congiguration > DVB Inputs > Muxes
 Congiguration > DVB Inputs > Services
 Congiguration > Channel / EPG > Channels
 
-http://4digital.ddns.net:9981/extjs.html
+
 http://116.204.181.238:9981/extjs.html
 http://newhostshare.ddns.net:9981/playlist/channels < https://rebrand.ly/nhs-1
 http://newhostshare.ddns.net:9981/extjs.html
@@ -20015,6 +20023,7 @@ https://d20fdzcwhk7szz.cloudfront.net/SONY_YAY.m3u8
 https://d4r942xafddk2.cloudfront.net/ZOOM.m3u8
 #EXTINF:-1 group-title="misc/IN",Travel XP (Hinde)
 
+
 #EXTINF:-1 group-title="misc/IN",EUROSPORT
 https://feed.play.mv/live/1009/H92bfaXp9Z/master.m3u8
 
@@ -20026,6 +20035,7 @@ https://feed.play.mv/live/10005200/ABTuyrBr22/master.m3u8
 https://feed.play.mv/live/10005200/7EsSDh7aX6/1.m3u8
 #EXTINF:-1 group-title="misc/IN",SONY S
 https://feed.play.mv/live/10005200/7Lc21Ikj4q/master.m3u8
+https://feed.play.mv/live/10005200/7Lc21Ikj4q/1.m3u8
 
 #EXTINF:-1 group-title="misc/IN",Sony Max HD
 https://feed.play.mv/live/10005200/Xe5PWNrbRZ/master.m3u8
@@ -20044,23 +20054,18 @@ https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
 #EXTINF:-1 group-title="misc/IN",DIS CH
 https://feed.play.mv/live/10005200/QjZ4g9TmAa/master.m3u8
 
-#EXTINF:-1,SONY HD
-https://feed.play.mv/live/10005200/7Lc21Ikj4q/master.m3u8
 #EXTINF:-1,BBC Earth HD
 https://feed.play.mv/live/10005200/7EsSDh7aX6/master.m3u8
 #EXTINF:-1,Sony Max HD
 https://feed.play.mv/live/10005200/Xe5PWNrbRZ/1.m3u8
 
 ANIMAX
-https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
 Discovery HD
 https://feed.play.mv/live/10005200/2Lkn0sCJBz/master.m3u8
 H
 https://feed.play.mv/live/10005200/isb9Qf3P5M/master.m3u8
 Trvl
 https://feed.play.mv/live/10005200/2dPCepc9DA/master.m3u8
-BBC earth
-https://feed.play.mv/live/10005200/7EsSDh7aX6/master.m3u8
 TLC
 https://feed.play.mv/live/10005200/HE8qFtMl9Q/master.m3u8
 Disney Int.
