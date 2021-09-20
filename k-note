@@ -19830,6 +19830,8 @@ http://89.187.182.181:9090/SM_FHD_ENG_STARMOVIESSELECT/index.m3u8
 http://89.187.182.181:9090/SM_FHD_ENG_STARMOVIESSELECT/playlist.m3u8
 #EXTINF:-1 group-title="misc/IN",STAR MOVIES SELECT FHD |89"
 http://89.187.182.181:9090/SM_FHD_ENG_STARMOVIESSELECT/tracks-v1a1/index.m3u8
+http://89.187.182.181:9090/SM_FHD_ENG_STARMOVIESSELECT/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 group-title="misc/IN",ZEECAFE |89"
 http://89.187.182.181:9090/SM_FHD_ENG_ZEECAFE/tracks-v1a1/index.m3u8
@@ -19876,7 +19878,7 @@ http://103.213.238.194:8080/SonySix/index.m3u8
 
 #EXTINF:-1 group-title="misc/IN",STAR_MOVIES
 http://143.244.60.10/ENGLISH__STAR_MOVIES_HD/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 group-title="misc/IN",STAR_MOVIES_SELECT
+#EXTINF:-1 group-title="misc/IN",STAR_MOVIES_SELECT |offline
 http://143.244.60.10/ENGLISH__STAR_MOVIES_SELECT_HD/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 group-title="misc/IN",AND_PICTURES |offline
 http://143.244.60.10/HINDI__AND_PICTURES_HD/mono.m3u8?token=test
@@ -21918,198 +21920,8 @@ http://27.255.58.178:8000/play/a02c/index.m3u8
 + + + + + http://62.249.165.216:9981/extjs.html + + + + + kas:lkab91gtt (91gtt) / tvh:tvh / bruker:bruker / Fjellet:Fjellet / user:user / + + + + + OFFLINE 
 + + + + + http://65.95.162.87:9981/extjs.html + + + + + dredmon1/mcslab20 + dredmon/mcslab20 + */* + + + DOWN
 
-+ + + + + http://72.255.34.227:8000/playlist.m3u8 + + + + + 
++ + + + + http://72.255.34.227:8000/playlist.m3u8 + + + + + NOT PLAY
 
-#EXTINF:-1 group-title="72.255",&PRIVE HD-Rs 19
-http://72.255.34.227:8000/play/a01y/index.m3u8
-#EXTINF:-1,&flix HD-Rs19
-http://72.255.34.227:8000/play/a025/index.m3u8
-#EXTINF:-1,&tv HD - Rs 19
-http://72.255.34.227:8000/play/a04f/index.m3u8
-#EXTINF:-1,ANIMAL PLAN-Rs
-http://72.255.34.227:8000/play/a01q/index.m3u8
-#EXTINF:-1,Amedia 1
-http://72.255.34.227:8000/play/a06a/index.m3u8
-#EXTINF:-1,Amedia 2
-http://72.255.34.227:8000/play/a05u/index.m3u8
-#EXTINF:-1,Amedia Premium HD
-http://72.255.34.227:8000/play/a069/index.m3u8
-#EXTINF:-1,Ani
-http://72.255.34.227:8000/play/a06t/index.m3u8
-#EXTINF:-1,Animal Planet
-http://72.255.34.227:8000/play/a07g/index.m3u8
-#EXTINF:-1,Animal Planet HD
-http://72.255.34.227:8000/play/a067/index.m3u8
-#EXTINF:-1,BRIDGE TV
-http://72.255.34.227:8000/play/a06d/index.m3u8
-#EXTINF:-1,BRIDGE TV Classic
-http://72.255.34.227:8000/play/a06w/index.m3u8
-#EXTINF:-1,BRIDGE TV Hits
-http://72.255.34.227:8000/play/a06v/index.m3u8
-#EXTINF:-1,Cartoon Network
-http://72.255.34.227:8000/play/a068/index.m3u8
-#EXTINF:-1,Colors HD-Rs 19
-http://72.255.34.227:8000/play/a024/index.m3u8
-#EXTINF:-1,DTX
-http://72.255.34.227:8000/play/a06k/index.m3u8
-#EXTINF:-1,Discovery Channel
-http://72.255.34.227:8000/play/a07f/index.m3u8
-#EXTINF:-1,Discovery HD-Rs6
-http://72.255.34.227:8000/play/a08m/index.m3u8
-#EXTINF:-1,Discovery S-Rs1
-http://72.255.34.227:8000/play/a07j/index.m3u8
-#EXTINF:-1,Discovery Science
-http://72.255.34.227:8000/play/a07b/index.m3u8
-#EXTINF:-1,Discovery T-Rs1
-http://72.255.34.227:8000/play/a07k/index.m3u8
-#EXTINF:-1,Disney
-http://72.255.34.227:8000/play/a05t/index.m3u8
-#EXTINF:-1,Enterr10 Movies- Free
-http://72.255.34.227:8000/play/a05h/index.m3u8
-#EXTINF:-1,EuroSports HD-Rs 6
-http://72.255.34.227:8000/play/a028/index.m3u8
-#EXTINF:-1,FOX Life HD-Rs1
-http://72.255.34.227:8000/play/a081/index.m3u8
-#EXTINF:-1,Fashion HD
-http://72.255.34.227:8000/play/a077/index.m3u8
-#EXTINF:-1,Gagsnetwork
-http://72.255.34.227:8000/play/a07d/index.m3u8
-#EXTINF:-1,HISTORY TV1-Rs7
-http://72.255.34.227:8000/play/a01r/index.m3u8
-#EXTINF:-1,History
-http://72.255.34.227:8000/play/a06x/index.m3u8
-#EXTINF:-1,Home and Garden
-http://72.255.34.227:8000/play/a07e/index.m3u8
-#EXTINF:-1,ID: Investigation Discovery
-http://72.255.34.227:8000/play/a07i/index.m3u8
-#EXTINF:-1,Kazakh TV
-http://72.255.34.227:8000/play/a06r/index.m3u8
-#EXTINF:-1,Khabar 24
-http://72.255.34.227:8000/play/a06j/index.m3u8
-#EXTINF:-1,M NET 4 MOVIES
-http://72.255.34.227:8000/play/a03x/index.m3u8
-#EXTINF:-1,M NET MOVIES 2
-http://72.255.34.227:8000/play/a040/index.m3u8
-#EXTINF:-1,MAX HD -Rs 17
-http://72.255.34.227:8000/play/a08b/index.m3u8
-#EXTINF:-1,MH ONE - Free
-http://72.255.34.227:8000/play/a03q/index.m3u8
-#EXTINF:-1,MN+ HD-Rs 10
-http://72.255.34.227:8000/play/a08i/index.m3u8
-#EXTINF:-1,MTV
-http://72.255.34.227:8000/play/a060/index.m3u8
-#EXTINF:-1,Mezzo Classic-Jazz TV
-http://72.255.34.227:8000/play/a06i/index.m3u8
-#EXTINF:-1,NAT Geo Wild HD-Rs 5
-http://72.255.34.227:8000/play/a08c/index.m3u8
-#EXTINF:-1,National G HD-Rs10
-http://72.255.34.227:8000/play/a08l/index.m3u8
-#EXTINF:-1,Nick Jr.
-http://72.255.34.227:8000/play/a06y/index.m3u8
-#EXTINF:-1,Nickelodeon
-http://72.255.34.227:8000/play/a061/index.m3u8
-#EXTINF:-1,Nicktoons
-http://72.255.34.227:8000/play/a063/index.m3u8
-#EXTINF:-1,Ocean TV
-http://72.255.34.227:8000/play/a075/index.m3u8
-#EXTINF:-1,PIX HD -
-http://72.255.34.227:8000/play/a01t/index.m3u8
-#EXTINF:-1,PTC PUNJABI- Free
-http://72.255.34.227:8000/play/a03r/index.m3u8
-#EXTINF:-1,PTC chakde-Free
-http://72.255.34.227:8000/play/a03t/index.m3u8
-#EXTINF:-1,Paramount Channel
-http://72.255.34.227:8000/play/a062/index.m3u8
-#EXTINF:-1,Paramount Comedy
-http://72.255.34.227:8000/play/a064/index.m3u8
-#EXTINF:-1,RTG TV
-http://72.255.34.227:8000/play/a06c/index.m3u8
-#EXTINF:-1,SAB HD - Rs 19
-http://72.255.34.227:8000/play/a05f/index.m3u8
-#EXTINF:-1,SET HD - Rs 19
-http://72.255.34.227:8000/play/a026/index.m3u8
-#EXTINF:-1,SIX HD - Rs 19
-http://72.255.34.227:8000/play/a088/index.m3u8
-#EXTINF:-1,SKY CRICKET
-http://72.255.34.227:8000/play/a044/index.m3u8
-#EXTINF:-1,SONY MAX 2 - Rs 1
-http://72.255.34.227:8000/play/a07y/index.m3u8
-#EXTINF:-1,STAR BHARAT HD-Rs19
-http://72.255.34.227:8000/play/a05k/index.m3u8
-#EXTINF:-1,STAR MOV HD-Rs 19
-http://72.255.34.227:8000/play/a08j/index.m3u8
-#EXTINF:-1,STAR WOR P HD-Rs9
-http://72.255.34.227:8000/play/a083/index.m3u8
-#EXTINF:-1,STAR WORLD HD -Rs9
-http://72.255.34.227:8000/play/a084/index.m3u8
-#EXTINF:-1,SUPER SPORTS CRICKET
-http://72.255.34.227:8000/play/a03y/index.m3u8
-#EXTINF:-1,Shant Serial
-http://72.255.34.227:8000/play/a07c/index.m3u8
-#EXTINF:-1,Sony BBC EarHD-Rs10
-http://72.255.34.227:8000/play/a01s/index.m3u8
-#EXTINF:-1,Sony Channel
-http://72.255.34.227:8000/play/a05x/index.m3u8
-#EXTINF:-1,Sony SciFi
-http://72.255.34.227:8000/play/a05y/index.m3u8
-#EXTINF:-1,Sony Ten 1 HD- Rs 19
-http://72.255.34.227:8000/play/a087/index.m3u8
-#EXTINF:-1,Sony Ten 2 HD- Rs 17
-http://72.255.34.227:8000/play/a01w/index.m3u8
-#EXTINF:-1,Sony Ten 3 HD- Rs 17
-http://72.255.34.227:8000/play/a08d/index.m3u8
-#EXTINF:-1,Sony Turbo
-http://72.255.34.227:8000/play/a05z/index.m3u8
-#EXTINF:-1,Star GOLD HD -Rs10
-http://72.255.34.227:8000/play/a05l/index.m3u8
-#EXTINF:-1,Star Gold 2- Rs 1
-http://72.255.34.227:8000/play/a07t/index.m3u8
-#EXTINF:-1,Star Gold SelHD-Rs10
-http://72.255.34.227:8000/play/a049/index.m3u8
-#EXTINF:-1,Star Plus -Rs19
-http://72.255.34.227:8000/play/a022/index.m3u8
-#EXTINF:-1,Star S Hin 1 HD- Rs19
-http://72.255.34.227:8000/play/a089/index.m3u8
-#EXTINF:-1,Star Spo 1 HD-Rs19
-http://72.255.34.227:8000/play/a085/index.m3u8
-#EXTINF:-1,Star Spo 2 HD- Rs19
-http://72.255.34.227:8000/play/a086/index.m3u8
-#EXTINF:-1,Star Sport-Rs10
-http://72.255.34.227:8000/play/a01v/index.m3u8
-#EXTINF:-1,Star Sport-Rs19
-http://72.255.34.227:8000/play/a020/index.m3u8
-#EXTINF:-1,StarMov S HD-Rs 10
-http://72.255.34.227:8000/play/a08k/index.m3u8
-#EXTINF:-1,TELLY TRACK
-http://72.255.34.227:8000/play/a041/index.m3u8
-#EXTINF:-1,TLC HD- Rs3
-http://72.255.34.227:8000/play/a08g/index.m3u8
-#EXTINF:-1,TLC Russia
-http://72.255.34.227:8000/play/a07h/index.m3u8
-#EXTINF:-1,TRAVEL CHANNEL
-http://72.255.34.227:8000/play/a046/index.m3u8
-#EXTINF:-1,Test-412
-http://72.255.34.227:8000/play/a06m/index.m3u8
-#EXTINF:-1,UK-PREMIER SPORTS 1
-http://72.255.34.227:8000/play/a045/index.m3u8
-#EXTINF:-1,UTV ACTION-Rs 2
-http://72.255.34.227:8000/play/a07r/index.m3u8
-#EXTINF:-1,UTV MOVIES-Rs 2
-http://72.255.34.227:8000/play/a07q/index.m3u8
-#EXTINF:-1,VH1 Classic
-http://72.255.34.227:8000/play/a06l/index.m3u8
-#EXTINF:-1,ZEE BOLLYWO-Rs2
-http://72.255.34.227:8000/play/a07w/index.m3u8
-#EXTINF:-1,ZEE CINEMA HD-Rs19
-http://72.255.34.227:8000/play/a05j/index.m3u8
-#EXTINF:-1,ZEE Cafe H-Rs19
-http://72.255.34.227:8000/play/a08h/index.m3u8
-#EXTINF:-1,ZEE TV HD-Rs 19
-http://72.255.34.227:8000/play/a023/index.m3u8
-#EXTINF:-1,colors INFINITY-Rs9
-http://72.255.34.227:8000/play/a03m/index.m3u8
-#EXTINF:-1 group-title="72.255",nick HD+- Rs 10
-http://72.255.34.227:8000/play/a04a/index.m3u8
 
 + + + + + http://73.68.128.14:9981/playlist + + + + + 24/7 movie IT
 + + + + + http://73.85.95.69:9981 + + + + + 
@@ -24366,6 +24178,10 @@ Real Url: goiptv.co:8080     Status: Active    Created: 25/6/2019 9:14:47 PM    
 http://goiptv.life:8080/get.php?username=MALIS-FO&password=MZjFmAGWxvKKKKKKK&type=m3u
 Real Url: goiptv.life:8080     Status: Active    Created: 3/12/2020 9:19:03 AM     Expires: Null    Active Connections: 0     Maximum Connections: 1000     Formats: "m3u8","ts","rtmp" < series only < EMPTY
 
++ + + + + goldhd.golffan.us:8000 + + + + + 
+
+http://goldhd.golffan.us:8000/get.php?username=OTTKING&password=k7yWYciarC&type=m3u
+Real Url: goldhd.golffan.us:8000     Status: Active    Created: 5/10/2020 1:51:05 PM     Expires: Null    Active Connections: 43     Maximum Connections: 150     Formats: "m3u8","ts","rtmp"
 
 + + + + + gooserace.xyz:2052 + + + + + 2/9/2021
 
@@ -25256,6 +25072,10 @@ Real Url: link.zozotv.xyz:8080     Status: Active    Created: 7/7/2021 9:57:20 A
 
 http://local-iptv.myddns.me:8000/get.php?username=239021AM4884820&password=47212021AMM4784345&type=m3u < DOWN
 
++ + + + + look.outerspacetv.xyz:8080 + + + + +
+
+http://watch.alienstreams.tv:8080/get.php?username=3934136260&password=5483122121&type=m3u
+Real Url: look.outerspacetv.xyz:8080     Status: Active    Created: 24/4/2021 5:00:00 AM     Expires: 24/4/2022 5:00:00 AM    Active Connections: 2     Maximum Connections: 2     Formats: "m3u8","ts","rtmp"
 
 + + + + + https://m3u-editor.com [SEA] + + + + +
 
@@ -25533,6 +25353,11 @@ http://www.mo3ad.xyz:8080/get.php?username=mo3ad7&password=mo3ad7&type=m3u Expir
 
 http://www.mo3ad.xyz:8080/get.php?username=mo3ad70&password=mo3ad70&type=m3u
 Real Url: www.mo3ad.xyz:8080     Status: Active    Created: 18/5/2021 1:42:22 PM     Expires: Null    Active Connections: 7     Maximum Connections: 1000     Formats: "m3u8","ts","rtmp"
+
+http://mo3ad.xyz:8080/get.php?username=mo3ad92&password=mo3ad92&type=m3u
+Real Url: mo3ad.xyz:8080     Status: Active    Created: 18/9/2021 7:24:02 AM     Expires: Null    Active Connections: 11     Maximum Connections: 1000     Formats: "m3u8","ts","rtmp" K- -- beIN CH
+
+
 
 
 + + + + + mstv.ddns.net:18080 + + + + +
@@ -26010,6 +25835,243 @@ Real Url: pulsestreams.ddns.me:8080     Status: Active    Created: 27/2/2021 2:2
 http://pulsestreaming.uk:8080/get.php?username=88888&password=99999&type=m3u < 21/02/2022 < 4-1 < Optus < DOWN
 
 http://pulsestreaming.uk:8080/streaming/clients_live.php?extension=m3u8&username=88888&password=99999&stream=&type=hls
+
++ + + + + q3r4fsddsaf4rte53fds.aker-ip.tv:8080 + + + + +
+
+http://q3r4fsddsaf4rte53fds.aker-ip.tv:8080/get.php?username=Tiger813Maestro&password=3ofixiwj2je8y9@djdjxjd&type=m3u
+Real Url: local.satrestream.com:8080 Status: Active    Created: 27/2/2020 8:33:06 PM     Expires: Null    Active Connections: 1659     Maximum Connections: 1800     Formats: "m3u8","ts","rtmp"
+
+#EXTINF:-1 group-title="aker-ip",VIP SPORT: SKY SPORT NEWS (UK)
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/3140.m3u8
+#EXTINF:-1,VIP SPORT: SKY SPORT PREMIER LEAGUE (UK)
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/3141.m3u8
+#EXTINF:-1,VIP SPORT: SKY SPORTS FOOTBALL (UK)
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/3142.m3u8
+#EXTINF:-1,VIP SPORT: SKY SPORT ACTION (UK)
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/3143.m3u8
+#EXTINF:-1,VIP SPORT: SKY SPORTS ARENA (UK)
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/3144.m3u8
+#EXTINF:-1,VIP SPORT: SKY SPORT MIX (UK)
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/3145.m3u8
+#EXTINF:-1,VIP SPORT: SKY SPORTS MAIN EVENT (UK)
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/3146.m3u8
+#EXTINF:-1,VIP SPORT: SKY SPORTS F1 (UK)
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/3147.m3u8
+#EXTINF:-1,VIP SPORT: SKY SPORT GOLF (UK)
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/3148.m3u8
+#EXTINF:-1,VIP SPORT: SKY SPORT CRICKET (UK)
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/3149.m3u8
+#EXTINF:-1,VIP SPORT: BT SPORT 1 (UK)
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/3150.m3u8
+#EXTINF:-1,VIP SPORT: BT SPORT 2 (UK)
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/3151.m3u8
+#EXTINF:-1,VIP SPORT: BT SPORT 3 (UK)
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/3152.m3u8
+#EXTINF:-1,VIP SPORT: SPORT TV 1 (PT)
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/3155.m3u8
+#EXTINF:-1,VIP SPORT: SPORT TV 2 (PT)
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/3156.m3u8
+#EXTINF:-1,VIP SPORT: SPORT TV 3 (PT)
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/3157.m3u8
+#EXTINF:-1,VIP SPORT: SPORT TV 4 (PT)
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/3158.m3u8
+#EXTINF:-1,VIP SPORT: SPORT TV 5 (PT)
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/3159.m3u8
+#EXTINF:-1,VIP SPORT: ELEVEN SPORT 1 (PT)
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/3160.m3u8
+#EXTINF:-1,VIP SPORT: ELEVEN SPORT 2 (PT)
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/3161.m3u8
+#EXTINF:-1,VIP SPORT: beiN SPORTS 1 HD+(TR)
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/100000.m3u8
+#EXTINF:-1,VIP SPORT: beiN SPORTS 2 HD+(TR)
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/100001.m3u8
+#EXTINF:-1,VIP SPORT: SKY SPORT NEWS (DE)
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/3167.m3u8
+#EXTINF:-1,VIP SPORT: SKY SPORT 1 (DE)
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/3168.m3u8
+#EXTINF:-1,VIP SPORT: SKY SPORT 2 (DE)
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/3169.m3u8
+#EXTINF:-1,VIP SPORT: BUNDESLIGA 1 (DE)
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/3170.m3u8
+#EXTINF:-1,VIP SPORT: DAZN Sport 1 HD (DE)
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/3171.m3u8
+#EXTINF:-1,VIP SPORT: DAZN Sport 2 HD (DE)
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/3172.m3u8
+#EXTINF:-1,VIP SPORT: ESPN 1 HD (NL)
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/3173.m3u8
+#EXTINF:-1,VIP SPORT: ESPN 2 HD (NL)
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/3174.m3u8
+#EXTINF:-1,VIP SPORT: ZIGGO SPORT SELECT HD (NL)
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/3175.m3u8
+#EXTINF:-1,VIP SPORT: ELEVEN SPORT 1 (PL)
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/3162.m3u8
+#EXTINF:-1,VIP SPORT: ELEVEN SPORT 2 (PL)
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/3163.m3u8
+#EXTINF:-1,VIP SPORT: ELEVEN SPORT 3 (PL)
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/3164.m3u8
+#EXTINF:-1,VIP SPORT: Canal  Sport 1 HD (PL)
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/3165.m3u8
+#EXTINF:-1,VIP SPORT: Canal  Sport 2 HD (PL)
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/3166.m3u8
+#EXTINF:-1,VIP SPORT: BEIN SPORT PREMIUM 1 AR)
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/3223.m3u8
+#EXTINF:-1,VIP SPORT: BEIN SPORT PREMIUM 2 (AR)
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/3222.m3u8
+#EXTINF:-1,VIP SPORT: BEIN SPORT PREMIUM 3 (AR)
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/3221.m3u8
+#EXTINF:-1,VIP SPORT: BEIN SPORTS 1 (AR)
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/3183.m3u8
+#EXTINF:-1,VIP SPORT: BEIN SPORT 2 (AR)
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/3220.m3u8
+#EXTINF:-1,VIP SPORT: BEIN SPORT 3 (AR)
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/3219.m3u8
+#EXTINF:-1,VIP SPORT: BEIN SPORT 4 (AR)
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/3224.m3u8
+#EXTINF:-1,VIP SPORT: BEIN SPORT 5 (AR)
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/3225.m3u8
+#EXTINF:-1,VIP SPORT: BEIN SPORT 6 (AR)
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/3189.m3u8
+#EXTINF:-1,VIP SPORT: BEIN SPORT 7 (AR)
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/3218.m3u8
+#EXTINF:-1,VIP SPORT: BEIN SPORTS 1 EN (AR)
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/3181.m3u8
+#EXTINF:-1,VIP SPORT: BEIN SPORTS 2 EN (AR)
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/3182.m3u8
+
+#EXTINF:-1,VIP SPORT: RMC SPORT 1 (FR)
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/3184.m3u8
+#EXTINF:-1,VIP SPORT: RMC SPORT 2 (FR)
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/3185.m3u8
+#EXTINF:-1,VIP SPORT: RMC SPORT 3 (FR)
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/3186.m3u8
+#EXTINF:-1,VIP SPORT: RMC SPORT 4 (FR)
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/3187.m3u8
+#EXTINF:-1,VIP SPORT: LALIGA TV BAR (ES)
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/3190.m3u8
+#EXTINF:-1,VIP SPORT: Arena Sport 1 HD (EX-YU)
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/3194.m3u8
+#EXTINF:-1,VIP SPORT: Arena Sport 2 HD (EX-YU)
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/3195.m3u8
+#EXTINF:-1,VIP SPORT: Arena Sport 3 HD (EX-YU)
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/3196.m3u8
+#EXTINF:-1,VIP SPORT: Arena Sport 4 HD (EX-YU)
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/3197.m3u8
+#EXTINF:-1,VIP SPORT: Arena Sport 5 HD (EX-YU)
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/3198.m3u8
+#EXTINF:-1,VIP SPORT: SPORT KLUB 1 (EX-YU)
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/3199.m3u8
+#EXTINF:-1,VIP SPORT: SPORT KLUB 2 (EX-YU)
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/3200.m3u8
+#EXTINF:-1,VIP SPORT: SPORT KLUB 3 (EX-YU)
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/3201.m3u8
+#EXTINF:-1,VIP SPORT: SPORT KLUB 4 (EX-YU)
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/3202.m3u8
+#EXTINF:-1,VIP SPORT: Super Sport 1 (AL)
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/3203.m3u8
+#EXTINF:-1,VIP SPORT: Super Sport 2 (AL)
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/3204.m3u8
+#EXTINF:-1,VIP SPORT: Super Sport 3 (AL)
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/3205.m3u8
+#EXTINF:-1,VIP SPORT: Tring Sport 1 (AL)
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/3206.m3u8
+#EXTINF:-1,VIP SPORT: Tring Sport 2 (AL)
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/3207.m3u8
+#EXTINF:-1,VIP SPORT: DIGI SPORT 1 (RO)
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/3208.m3u8
+#EXTINF:-1,VIP SPORT: DIGI SPORT 2 (RO)
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/3209.m3u8
+#EXTINF:-1,VIP SPORT: DIGI SPORT 3 (RO)
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/3210.m3u8
+#EXTINF:-1,VIP SPORT: DIGI SPORT 4 (RO)
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/3211.m3u8
+#EXTINF:-1,VIP SPORT: UFC Network 
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/3228.m3u8
+#EXTINF:-1,VIP SPORT: NBA Network (US)
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/3229.m3u8
+#EXTINF:-1,VIP SPORT: NHL Network (US)
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/3230.m3u8
+#EXTINF:-1,VIP SPORT: MLB Network (US)
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/3231.m3u8
+#EXTINF:-1,VIP SPORT: NFL Network (US)
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/3232.m3u8
+#EXTINF:-1,VIP SPORT: WWE Network (US)
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/3233.m3u8
+
+#EXTINF:-1,PL: Polsat Sport Extra HD
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/14781.m3u8
+#EXTINF:-1,PL: Polsat Sport Fight HD
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/14780.m3u8
+#EXTINF:-1,PL: Polsat Sport HD
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/14779.m3u8
+#EXTINF:-1,PL: Polsat Sport Premium 1
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/14777.m3u8
+#EXTINF:-1,PL: Polsat Sport Premium 2
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/14776.m3u8
+#EXTINF:-1,PL: POLSAT SPORT PREMIUM 3
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/121197.m3u8
+#EXTINF:-1,PL: POLSAT SPORT PREMIUM 4
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/121198.m3u8
+#EXTINF:-1,PL: POLSAT SPORT PREMIUM 5
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/121199.m3u8
+#EXTINF:-1,PL: POLSAT SPORT PREMIUM 6
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/121200.m3u8
+
+#EXTINF:-1,FR: RMC SPORT 1
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/15386.m3u8
+#EXTINF:-1,FR: RMC SPORT 2
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/15385.m3u8
+#EXTINF:-1,FR: RMC SPORT 3
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/15384.m3u8
+#EXTINF:-1,FR: RMC SPORT 4
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/15403.m3u8
+
+#EXTINF:-1,UK: BT Sport 1
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/125379.m3u8
+#EXTINF:-1,UK: BT Sport 2
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/125380.m3u8
+#EXTINF:-1,UK: BT Sport 3
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/125381.m3u8
+#EXTINF:-1,UK: BT Sport ESPN
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/125382.m3u8
+#EXTINF:-1,UK: SKY Sports Main Event
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/125365.m3u8
+#EXTINF:-1,UK: Sky Sports Premier League
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/125366.m3u8
+#EXTINF:-1,UK: Sky Sports Football
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/125367.m3u8
+
+#EXTINF:-1,UK: NOW 70s
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/125463.m3u8
+#EXTINF:-1,UK: NOW 80s
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/125464.m3u8
+#EXTINF:-1,UK: NOW 90s
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/125465.m3u8
+
+#EXTINF:-1,US: ABC HD
+http://local.satrestream.com:8080/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/65956
+#EXTINF:-1,US: CNN HD
+http://local.satrestream.com:8080/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/65930
+#EXTINF:-1,US: CNBC HD
+http://local.satrestream.com:8080/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/65931
+#EXTINF:-1,US: Fox Sports 1 HD
+http://local.satrestream.com:8080/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/65967
+#EXTINF:-1,US: Fox Sports 2 HD
+http://local.satrestream.com:8080/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/65968
+#EXTINF:-1,US: NBC HD
+http://local.satrestream.com:8080/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/65969
+#EXTINF:-1,US: NBCSN HD
+http://local.satrestream.com:8080/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/65884
+
+#EXTINF:-1,AR: beIN SPORTS PREMIUM 1 HD
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/24372.m3u8
+#EXTINF:-1,AR: beIN SPORTS PREMIUM 2 HD
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/24371.m3u8
+#EXTINF:-1,AR: beIN SPORTS PREMIUM 3 HD
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/24370.m3u8
+#EXTINF:-1,AR: beIN SPORTS 1 EN HD
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/24375.m3u8
+#EXTINF:-1 group-title="aker-ip",AR: beIN SPORTS 2 EN HD
+http://local.satrestream.com:8080/live/Tiger813Maestro/3ofixiwj2je8y9@djdjxjd/24377.m3u8
 
 
 + + + + + qqtv.nl:8080 + + + + +
@@ -26757,11 +26819,11 @@ http://tigerfights.xyz:80/live/Marques/Marques/2454938.m3u8
 #EXTINF:-1 group-title="TigFig",IN: STAR Sports Select 2 HD
 http://tigerfights.xyz:80/live/Marques/Marques/2455138.m3u8
 
-#EXTINF:-1 group-title="TigFig",Sony Max
+#EXTINF:-1 group-title="TigFig",Sony Max EN
 http://tigerfights.xyz:80/live/Marques/Marques/2485148.m3u8
 #EXTINF:-1 group-title="TigFig",SONY MAX 2 (Indian)
 http://tigerfights.xyz:80/live/Marques/Marques/2485184.m3u8
-#EXTINF:-1 group-title="TigFig",SONY Max HD (Indian)
+#EXTINF:-1 group-title="TigFig",SONY Max HD EN (Indian)
 http://tigerfights.xyz:80/live/Marques/Marques/2485197.m3u8
 
 + + + + + titanmedia.one:2082 + + + + +
