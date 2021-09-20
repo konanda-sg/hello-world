@@ -21146,116 +21146,7 @@ http://103.112.55.180:8080/play/a036
 #EXTINF:-1 group-title="103.112",VH1 HD
 http://103.112.55.180:8080/play/806
 
-+ + + + http://103.132.181.99:8000/playlist.m3u8 + + + + 
-
-#EXTINF:-1 group-title="103.132",Food Network |not play
-http://103.132.181.99:8000/play/505
-#EXTINF:-1 group-title="103.132",& Flix HD
-http://103.132.181.99:8000/play/716
-#EXTINF:-1 group-title="103.132",& Pictures HD
-http://103.132.181.99:8000/play/330
-#EXTINF:-1 group-title="103.132",Animal Planet
-http://103.132.181.99:8000/play/525
-#EXTINF:-1 group-title="103.132",Bindass
-http://103.132.181.99:8000/play/313
-#EXTINF:-1 group-title="103.132",Blue Ant Entertainment
-http://103.132.181.99:8000/play/762
-#EXTINF:-1 group-title="103.132",Celestial Classic Movies
-http://103.132.181.99:8000/play/761
-#EXTINF:-1 group-title="103.132",Cinemax HD
-http://103.132.181.99:8000/play/742
-#EXTINF:-1 group-title="103.132",Colors Bangla Cinema
-http://103.132.181.99:8000/play/214
-#EXTINF:-1 group-title="103.132",Colors Bangla HD
-http://103.132.181.99:8000/play/213
-#EXTINF:-1 group-title="103.132",Colors HD
-http://103.132.181.99:8000/play/342
-#EXTINF:-1 group-title="103.132",Colors Infinity HD
-http://103.132.181.99:8000/play/721
-#EXTINF:-1 group-title="103.132",Disney Junior
-http://103.132.181.99:8000/play/418
-#EXTINF:-1 group-title="103.132",Euro Sport
-http://103.132.181.99:8000/play/620
-#EXTINF:-1 group-title="103.132",Fox Life HD
-http://103.132.181.99:8000/play/504
-#EXTINF:-1 group-title="103.132",HBO
-http://103.132.181.99:8000/play/739
-#EXTINF:-1 group-title="103.132",HBO Family
-http://103.132.181.99:8000/play/759
-#EXTINF:-1 group-title="103.132",HBO Hits
-http://103.132.181.99:8000/play/740
-#EXTINF:-1 group-title="103.132",HBO Signature
-http://103.132.181.99:8000/play/741
-#EXTINF:-1 group-title="103.132",Hits Movies
-http://103.132.181.99:8000/play/760
-#EXTINF:-1 group-title="103.132",Hungama
-http://103.132.181.99:8000/play/407
-#EXTINF:-1 group-title="103.132",MN+ HD
-http://103.132.181.99:8000/play/730
-#EXTINF:-1 group-title="103.132",MNX HD
-http://103.132.181.99:8000/play/713
-#EXTINF:-1 group-title="103.132",MTV
-http://103.132.181.99:8000/play/801
-#EXTINF:-1 group-title="103.132",Miniplex HD
-http://103.132.181.99:8000/play/326
-#EXTINF:-1 group-title="103.132",Nat Geo Wild
-http://103.132.181.99:8000/play/503
-#EXTINF:-1 group-title="103.132",One Sport
-http://103.132.181.99:8000/play/684
-#EXTINF:-1 group-title="103.132",Pogo
-http://103.132.181.99:8000/play/402
-#EXTINF:-1 group-title="103.132",Sonic
-http://103.132.181.99:8000/play/403
-#EXTINF:-1 group-title="103.132",Sony Max 2
-http://103.132.181.99:8000/play/339
-#EXTINF:-1 group-title="103.132",Sony PIX HD
-http://103.132.181.99:8000/play/711
-#EXTINF:-1 group-title="103.132",Sony SAB HD
-http://103.132.181.99:8000/play/336
-#EXTINF:-1 group-title="103.132",Star Bharat HD
-http://103.132.181.99:8000/play/304
-#EXTINF:-1 group-title="103.132",Star Gold Select HD
-http://103.132.181.99:8000/play/312
-#EXTINF:-1 group-title="103.132",Star Jalsha HD
-http://103.132.181.99:8000/play/202
-#EXTINF:-1 group-title="103.132",Star Movies HD
-http://103.132.181.99:8000/play/705
-#EXTINF:-1 group-title="103.132",Star Movies Select HD
-http://103.132.181.99:8000/play/707
-#EXTINF:-1 group-title="103.132",Star Plus HD
-http://103.132.181.99:8000/play/302
-#EXTINF:-1 group-title="103.132",Star Sports 1
-http://103.132.181.99:8000/play/601
-#EXTINF:-1 group-title="103.132",Star Sports 2
-http://103.132.181.99:8000/play/603
-#EXTINF:-1 group-title="103.132",Star Sports 3
-http://103.132.181.99:8000/play/605
-#EXTINF:-1 group-title="103.132",Star Sports Select 1
-http://103.132.181.99:8000/play/607
-#EXTINF:-1 group-title="103.132",Star World HD
-http://103.132.181.99:8000/play/701
-#EXTINF:-1 group-title="103.132",Star World Premiere HD
-http://103.132.181.99:8000/play/703
-#EXTINF:-1 group-title="103.132",Sun Bangla
-http://103.132.181.99:8000/play/215
-#EXTINF:-1 group-title="103.132",TechStorm
-http://103.132.181.99:8000/play/570
-#EXTINF:-1 group-title="103.132",Ten Cricket
-http://103.132.181.99:8000/play/685
-#EXTINF:-1 group-title="103.132",Travel XP
-http://103.132.181.99:8000/play/527
-#EXTINF:-1 group-title="103.132",UTV Action
-http://103.132.181.99:8000/play/315
-#EXTINF:-1 group-title="103.132",Warner TV
-http://103.132.181.99:8000/play/738
-#EXTINF:-1 group-title="103.132",Zee Bangla HD
-http://103.132.181.99:8000/play/206
-#EXTINF:-1 group-title="103.132",Zee Cafe HD
-http://103.132.181.99:8000/play/709
-#EXTINF:-1 group-title="103.132",Zee TV HD
-http://103.132.181.99:8000/play/318
-#EXTINF:-1 group-title="103.132",Zoom
-http://103.132.181.99:8000/play/803
++ + + + http://103.132.181.99:8000/playlist.m3u8 + + + + not play
 
 + + + + + http://103.150.209.246:9981/extjs.html + + + + PK + + not play
 
@@ -21389,6 +21280,9 @@ http://103.153.39.34:8000/play/a06h/index.m3u8
 + + + + + http://108.48.50.123:9981/extjs.html + + + + * | * + + + + + jayel:samsung7 or *:* + + + + + default:default$27 | PSe0WeZ4DuTCJAFY3b2g0uErXVYo + + one CH OK < DOWN
 + + + + + http://108.48.50.123:9981/extjs.html + + + + not play
 + + + + + http://109.193.229.153:9981/extjs.html + + + + + DE sky + + + DOWN
+
++ + + + + http://111.119.160.226:8000/playlist.m3u8 + + + + +  NOT PLAY
+
 + + + + + http://115.42.65.142:8000/playlist.m3u8 + + + + +  NOT PLAY
 + + + + + http://116.206.186.183:9981/stream/channelid/982200088
 + + + + + http://116.255.19.58:9981/extjs.html + + + + + DOWN + + + + + INDIA + SPORTS
@@ -21806,6 +21700,8 @@ http://182.176.169.29:7001/play/a0k8
 #EXTINF:-1,Zee Zest @ Rs 1
 http://182.176.169.29:7001/play/a0k5
 
++ + + + + http://182.182.116.252:8000/playlist.m3u8 + + + + + not play
+
 + + + + + http://182.182.25.117:8000/playlist.m3u8 + + + + + DOWN
 + + + + + http://184.82.147.223:9981/playlist/channels + + + + + DOWN? + + + + +
 + + + + + http://185.238.0.145:1313/c/livedo/ + + + + +
@@ -22005,6 +21901,9 @@ http://27.255.58.178:8000/play/a02c/index.m3u8
 
 + + + + + http://3.0.20.58:8000/playlist.m3u8  + + + DOWN?
 + + + + + http://3.239.35.218:9981/extjs.html + + + PK + + + CAN'T WORK
+
++ + + + + http://39.62.40.130:8000/playlist.m3u8 + + + not play
+
 + + + + + http://39.62.59.102:8000/playlist.m3u8 + + + + + DOWN
 + + + + + http://42.201.169.159:8000/playlist.m3u8 + + + PK  + +
 + + + + + http://45.182.20.194:8000/playlist.m3u8 + + + + + DOWN
