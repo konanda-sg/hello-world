@@ -25232,6 +25232,8 @@ http://maxx-iptv10.ddns.net:8080/get.php?username=maxx015&password=7857585044&ty
 http://mantul.biz.id:8888/get.php?username=iptvtreemy&password=KKNWB4foYs&type=m3u
 Real Url: mantul.biz.id:8888     Status: Active    Created: 29/7/2021 6:35:49 PM     Expires: Null    Active Connections: 45     Maximum Connections: 200     Formats: "m3u8","ts","rtmp"
 
+http://streamwat.ch/custom/player/#http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/4992.m3u8
+
 #EXTINF:-1 group-title="mantul",ASSP EPL Live 1
 http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/8463.m3u8
 #EXTINF:-1,ASSP EPL Live 2
