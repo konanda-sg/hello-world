@@ -25480,7 +25480,14 @@ https://nonton.site:8443/get.php?username=6894864475&password=7163819284&type=m3
 
 http://176.9.31.213:7080/live/live_channel/e71sq94uo8/65.ts
 
++ + + + + nowatv.stream2.link:8080 + + + + + Null + + + + + POLSAT + 
+
 http://nowatv.dyndns.info:8080/live/kam-mot@o2.pl/fj2HUYet1s/17.m3u8
+
+
+http://nowatv.stream2.link:25461/get.php?username=marsel&password=marsel&type=m3u
+Real Url: nowatv.stream2.link:8080     Status: Active    Created: 23/12/2020 4:18:56 PM     Expires: Null    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+
 
 + + + + + oldschool.blogsite.org:9000 + + + + + Null + + + + + to check later
 
@@ -26135,7 +26142,7 @@ http://54.39.158.38:8080/get.php?username=OrangeaAndApple&password=$eK7pYrSG5Cff
 http://qqtv.nl:8080/get.php?username=sword&password=sword&type=m3u
 Real Url: qqtv.nl:8080     Status: Active    Created: 29/4/2021 3:43:12 PM     Expires: 29/7/2021 3:43:12 PM    Active Connections: 0     Maximum Connections: 2     Formats: "m3u8","ts","rtmp"
 
-http://qqtv.nl:8080/get.php?username=shah&password=shah123&type=m3u < 2-4 << 
+http://qqtv.nl:8080/get.php?username=shah&password=shah123&type=m3u < 2-2 << 
 
 
 http://qqtv.nl:8080/get.php?username=broom&password=broom&type=m3u
@@ -26144,11 +26151,118 @@ http://qqtv.nl:8080/sword/sword/7258
 
 00:04:4B:CC:FF:2E < SHIELD
 http://qqtv.nl:8080/get.php?username=28734&password=28734&type=m3u < 01/10/21 < 2-0
-http://qqtv.nl:8080/get.php?username=3298&password=3298&type=m3u < 11/01/2022 < 2-0 << 
+http://qqtv.nl:8080/get.php?username=3298&password=3298&type=m3u < 11/01/2022 < 2-0 <<<
 http://qqtv.nl:8080/get.php?username=7556&password=7556&type=m3u < 11/08/21 < 2-2
 http://qqtv.nl:8080/get.php?username=broom&password=broom&type=m3u < 07/09/21 < 2-0
 http://qqtv.nl:8080/get.php?username=sword&password=sword&type=m3u < 29/08/21 < 2-1
 
+
+#EXTINF:-1 group-title="qqtv",...BT SPORT 1 HD UK
+http://qqtv.nl:8080/live/3298/3298/265920.m3u8
+#EXTINF:-1,...BT SPORT 2 HD UK
+http://qqtv.nl:8080/live/3298/3298/265921.m3u8
+#EXTINF:-1,...BT SPORT 3 HD UK
+http://qqtv.nl:8080/live/3298/3298/265922.m3u8
+#EXTINF:-1,...RSA SUPERSPORTS TENNIS HD
+http://qqtv.nl:8080/live/3298/3298/311866.m3u8
+#EXTINF:-1,...SKY SPORT F1 HD
+http://qqtv.nl:8080/live/3298/3298/12814.m3u8
+#EXTINF:-1,...SKY SPORTS GOLF HD
+http://qqtv.nl:8080/live/3298/3298/311867.m3u8
+#EXTINF:-1,...RSA SUPERSPORTS VARITY 01 HD
+http://qqtv.nl:8080/live/3298/3298/311868.m3u8
+#EXTINF:-1,...RSA SUPERSPORTS VARITY 02 HD
+http://qqtv.nl:8080/live/3298/3298/30957.m3u8
+#EXTINF:-1,...RSA SUPERSPORTS VARITY 03 HD
+http://qqtv.nl:8080/live/3298/3298/30330.m3u8
+#EXTINF:-1,...RSA SUPERSPORTS VARITY 04 HD
+http://qqtv.nl:8080/live/3298/3298/397213.m3u8
+#EXTINF:-1,...RSA SUPERSPORTS RUGBY HD AF
+http://qqtv.nl:8080/live/3298/3298/395599.m3u8
+#EXTINF:-1,...RSA SUPERSPORTS PREMIER LEAGUE HD
+http://qqtv.nl:8080/live/3298/3298/269696.m3u8
+#EXTINF:-1,...FOX SPORTS 1 HD
+http://qqtv.nl:8080/live/3298/3298/7894.m3u8
+#EXTINF:-1,...FOX SPORTS 2 HD
+http://qqtv.nl:8080/live/3298/3298/7893.m3u8
+
+#EXTINF:-1,...NBCSN HD
+http://qqtv.nl:8080/live/3298/3298/5137.m3u8
+#EXTINF:-1,...NBC SPORTS NETWORK HD
+http://qqtv.nl:8080/live/3298/3298/7995.m3u8
+#EXTINF:-1,...Optus 1 HD AU
+http://qqtv.nl:8080/live/3298/3298/319618.m3u8
+#EXTINF:-1,...Optus 2 HD AU
+http://qqtv.nl:8080/live/3298/3298/319616.m3u8
+#EXTINF:-1,HK: Now Premier Sports 1
+http://qqtv.nl:8080/live/3298/3298/319609.m3u8
+#EXTINF:-1,HK: Now Premier Sports 2
+http://qqtv.nl:8080/live/3298/3298/319611.m3u8
+
+#EXTINF:-1,...Spark Sports Event 1 NZ
+http://qqtv.nl:8080/live/3298/3298/319613.m3u8
+#EXTINF:-1,...Spark Sports Event 2 NZ
+http://qqtv.nl:8080/live/3298/3298/319614.m3u8
+#EXTINF:-1,AR: beIN SPORT 01 HD
+http://qqtv.nl:8080/live/3298/3298/30248.m3u8
+#EXTINF:-1,AR: beIN SPORT 02 HD
+http://qqtv.nl:8080/live/3298/3298/265924.m3u8
+#EXTINF:-1,AR: beIN SPORT 03 HD
+http://qqtv.nl:8080/live/3298/3298/30246.m3u8
+#EXTINF:-1,AR: beIN SPORT 04 HD
+http://qqtv.nl:8080/live/3298/3298/30245.m3u8
+#EXTINF:-1,AR: beIN SPORT 05 HD
+http://qqtv.nl:8080/live/3298/3298/30244.m3u8
+#EXTINF:-1,AR: beIN SPORT 06 HD
+http://qqtv.nl:8080/live/3298/3298/30243.m3u8
+#EXTINF:-1,AR: beIN SPORT 07 HD
+http://qqtv.nl:8080/live/3298/3298/30242.m3u8
+#EXTINF:-1,AR: beIN SPORTS PREMIUM 01 HD
+http://qqtv.nl:8080/live/3298/3298/30241.m3u8
+#EXTINF:-1,AR: beIN SPORTS PREMIUM 02 HD
+http://qqtv.nl:8080/live/3298/3298/30240.m3u8
+#EXTINF:-1,AR: beIN SPORTS PREMIUM 03 HD
+http://qqtv.nl:8080/live/3298/3298/30239.m3u8
+#EXTINF:-1,WC. STAR SPORTS SELECT 1 HD
+http://qqtv.nl:8080/live/3298/3298/30539.m3u8
+#EXTINF:-1,WC. STAR SPORTS SELECT 2 HD
+http://qqtv.nl:8080/live/3298/3298/30538.m3u8
+
+#EXTINF:-1,THAI: MYANMAR CHANNEL 7
+http://qqtv.nl:8080/live/3298/3298/313897.m3u8
+#EXTINF:-1,THAI: MYANMAR Channel K
+http://qqtv.nl:8080/live/3298/3298/313899.m3u8
+#EXTINF:-1,THAI: MYANMAR MRTV 4
+http://qqtv.nl:8080/live/3298/3298/313900.m3u8
+
+#EXTINF:-1,IN: & TV HD
+http://qqtv.nl:8080/live/3298/3298/31801.m3u8
+#EXTINF:-1,IN: AND TV HD
+http://qqtv.nl:8080/live/3298/3298/31796.m3u8
+#EXTINF:-1,IN: & FLIX HD
+http://qqtv.nl:8080/live/3298/3298/7252.m3u8
+#EXTINF:-1,IN: & EXPLOR HD (USA)
+http://qqtv.nl:8080/live/3298/3298/67552.m3u8
+#EXTINF:-1,IN: & PICTURES HD
+http://qqtv.nl:8080/live/3298/3298/3150.m3u8
+#EXTINF:-1,IN: STAR SPORTS SELECT 1
+http://qqtv.nl:8080/live/3298/3298/7247.m3u8
+#EXTINF:-1,IN: STAR SPORTS SELECT 2
+http://qqtv.nl:8080/live/3298/3298/7246.m3u8
+#EXTINF:-1,IN: SONY MAX 2 HD (IND)
+http://qqtv.nl:8080/live/3298/3298/30634.m3u8
+#EXTINF:-1,IN: SONY PIX HD
+http://qqtv.nl:8080/live/3298/3298/7258.m3u8
+#EXTINF:-1,IN: SONY SIX HD
+http://qqtv.nl:8080/live/3298/3298/30657.m3u8
+#EXTINF:-1,IN: SONY TEN 1 HD
+http://qqtv.nl:8080/live/3298/3298/30625.m3u8
+#EXTINF:-1,IN: SONY TEN 2 HD
+http://qqtv.nl:8080/live/3298/3298/30624.m3u8
+#EXTINF:-1,IN: B4U PLUS
+http://qqtv.nl:8080/live/3298/3298/15551.m3u8
+#EXTINF:-1 group-title="qqtv",IN: B4U MOVIES (IND)
+http://qqtv.nl:8080/live/3298/3298/67557.m3u8
 
 
 + + + + + rapid-cdn.net:8080 + + + + + null + + 
