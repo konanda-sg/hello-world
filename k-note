@@ -3117,6 +3117,11 @@ http://soccerstreams.co/channels/stream-100.php beIN 3PRE
 
 + + + https://sportsonline.to/prog.txt + + + 
 
+http://www.totalsportek.tv/watch/sports-hd1.htm >> https://sportsonline.to/channels/hd/hd1.php
+
+http://www.totalsportek.tv/watch/sport-tv-2.htm
+
+
 https://sportzonline.to/channels/hd/hd1.php > https://sportsonline.to/channels/hd/hd1.php < Live HD1
 https://sportzonline.to/channels/hd/hd2.php
 https://sportzonline.to/channels/hd/hd3.php
@@ -3126,6 +3131,11 @@ https://sportzonline.to/channels/hd/hd6.php > https://sportsonline.to/channels/h
 https://sportzonline.to/channels/hd/hd7.php
 https://sportzonline.to/channels/hd/hd8.php < Live HD8
 
+PORTUGUESE SPORT TV 1 - https://sportsonline.to/channels/pt/sporttv1.php
+PORTUGUESE SPORT TV 2 - https://sportsonline.to/channels/pt/sporttv2.php
+PORTUGUESE SPORT TV 3 - https://sportsonline.to/channels/pt/sporttv3.php
+PORTUGUESE SPORT TV 4 - https://sportsonline.to/channels/pt/sporttv4.php
+PORTUGUESE SPORT TV 5 - https://sportsonline.to/channels/pt/sporttv5.php
 
 https://v1.sportzonline.to/channels/hd/hd1.php < N
 https://v2.sportzonline.to/channels/hd/hd1.php
@@ -23494,6 +23504,12 @@ http://103.136.43.127:8080/get.php?username=12997&password=b5093454&type=m3u < N
 
 http://104.218.61.161:83/get.php?username=directline76598&password=35222AM0203424421468352020&type=m3u < N
 
++ + + + + 123iptv.nl:88 + + + + + null + + +
+
+http://123iptv.nl:88/c/ MAC: 00:1A:79:1D:08:3F Tarihi: Unlimited
+http://123iptv.nl:88/get.php?username=E1XNr27Am8HW&password=v4ayFiGUhT&type=m3u_plus&output=ts
+
+
 
 + + + + + 144.76.86.51:57060 + + + + + null + + + xxx
 
@@ -25958,19 +25974,15 @@ http://qqtv.nl:8080/live/3298/3298/7893.m3u8
 http://qqtv.nl:8080/live/3298/3298/5137.m3u8
 #EXTINF:-1,...NBC SPORTS NETWORK HD
 http://qqtv.nl:8080/live/3298/3298/7995.m3u8
-#EXTINF:-1,...Optus 1 HD AU
+#EXTINF:-1,...Optus 1 HD AU |offline
 http://qqtv.nl:8080/live/3298/3298/319618.m3u8
-#EXTINF:-1,...Optus 2 HD AU
+#EXTINF:-1,...Optus 2 HD AU |offline
 http://qqtv.nl:8080/live/3298/3298/319616.m3u8
-#EXTINF:-1,HK: Now Premier Sports 1
+#EXTINF:-1,HK: Now Premier Sports 1 |offline
 http://qqtv.nl:8080/live/3298/3298/319609.m3u8
 #EXTINF:-1,HK: Now Premier Sports 2
 http://qqtv.nl:8080/live/3298/3298/319611.m3u8
 
-#EXTINF:-1,...Spark Sports Event 1 NZ
-http://qqtv.nl:8080/live/3298/3298/319613.m3u8
-#EXTINF:-1,...Spark Sports Event 2 NZ
-http://qqtv.nl:8080/live/3298/3298/319614.m3u8
 #EXTINF:-1,AR: beIN SPORT 01 HD
 http://qqtv.nl:8080/live/3298/3298/30248.m3u8
 #EXTINF:-1,AR: beIN SPORT 02 HD
@@ -25998,7 +26010,7 @@ http://qqtv.nl:8080/live/3298/3298/30538.m3u8
 
 #EXTINF:-1,THAI: MYANMAR CHANNEL 7
 http://qqtv.nl:8080/live/3298/3298/313897.m3u8
-#EXTINF:-1,THAI: MYANMAR Channel K
+#EXTINF:-1,THAI: beIN 2TH
 http://qqtv.nl:8080/live/3298/3298/313899.m3u8
 #EXTINF:-1,THAI: MYANMAR MRTV 4
 http://qqtv.nl:8080/live/3298/3298/313900.m3u8
@@ -26017,17 +26029,17 @@ http://qqtv.nl:8080/live/3298/3298/3150.m3u8
 http://qqtv.nl:8080/live/3298/3298/7247.m3u8
 #EXTINF:-1,IN: STAR SPORTS SELECT 2
 http://qqtv.nl:8080/live/3298/3298/7246.m3u8
-#EXTINF:-1,IN: SONY MAX 2 HD (IND)
+#EXTINF:-1,IN: SONY MAX 2 HD (IND) |offline
 http://qqtv.nl:8080/live/3298/3298/30634.m3u8
-#EXTINF:-1,IN: SONY PIX HD
+#EXTINF:-1,IN: FX
 http://qqtv.nl:8080/live/3298/3298/7258.m3u8
-#EXTINF:-1,IN: SONY SIX HD
+#EXTINF:-1,IN: S SAB
 http://qqtv.nl:8080/live/3298/3298/30657.m3u8
 #EXTINF:-1,IN: SONY TEN 1 HD
 http://qqtv.nl:8080/live/3298/3298/30625.m3u8
 #EXTINF:-1,IN: SONY TEN 2 HD
 http://qqtv.nl:8080/live/3298/3298/30624.m3u8
-#EXTINF:-1,IN: B4U PLUS
+#EXTINF:-1,IN: B4U PLUS |offline
 http://qqtv.nl:8080/live/3298/3298/15551.m3u8
 #EXTINF:-1 group-title="qqtv",IN: B4U MOVIES (IND)
 http://qqtv.nl:8080/live/3298/3298/67557.m3u8
