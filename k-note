@@ -25229,6 +25229,49 @@ http://main.ipboxhd.com:8080/get.php?username=italiauserstalker1&password=RvQER8
 
 http://maxx-iptv10.ddns.net:8080/get.php?username=maxx015&password=7857585044&type=m3u&output=hls < null < 5-2 < N
 
+http://mantul.biz.id:8888/get.php?username=iptvtreemy&password=KKNWB4foYs&type=m3u
+Real Url: mantul.biz.id:8888     Status: Active    Created: 29/7/2021 6:35:49 PM     Expires: Null    Active Connections: 45     Maximum Connections: 200     Formats: "m3u8","ts","rtmp"
+
+#EXTINF:-1 group-title="mantul",ASSP EPL Live 1
+http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/8463.m3u8
+#EXTINF:-1,ASSP EPL Live 2
+http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/1220.m3u8
+#EXTINF:-1,ASSP HD 1
+http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/4989.m3u8
+#EXTINF:-1,ASSP HD 2
+http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/4990.m3u8
+#EXTINF:-1,ASSP HD 3
+http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/4991.m3u8
+#EXTINF:-1,ASSP HD 4
+http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/4992.m3u8
+#EXTINF:-1,Fox Action Movies
+http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/20.m3u8
+#EXTINF:-1,FOX Family Movies
+http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/131.m3u8
+#EXTINF:-1,Fox Movies Premium
+http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/50.m3u8
+#EXTINF:-1,MY: AFN HD
+http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/6476.m3u8
+#EXTINF:-1,MY: ASTRO ONE HD
+http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/6491.m3u8
+#EXTINF:-1,MY: Astro Primetime
+http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/8545.m3u8
+#EXTINF:-1,MY: FAM Movies
+http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/4654.m3u8
+#EXTINF:-1,MY: Food Network
+http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/1151.m3u8
+#EXTINF:-1,MY: Fox Sports 1
+http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/6274.m3u8
+#EXTINF:-1,MY: Fox Sports 2
+http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/6275.m3u8
+#EXTINF:-1,MY: Fox Sports 3
+http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/4915.m3u8
+#EXTINF:-1,MY: K PLUS HD
+http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/6479.m3u8
+#EXTINF:-1 group-title="mantul",MY: KBS World HD
+http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/6471.m3u8
+
+
 + + + + + main.malidows.com:2082 + + + + + DOWN
 
 https://main.malidows.com:2083/get.php?username=popkanale&password=iptv&type=m3u
