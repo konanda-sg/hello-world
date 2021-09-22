@@ -81,8 +81,7 @@ http://idvd.multitvsolution.com/idvo/tlchdhindi.m3u8
 
 + + + + 
 
-http://geoiptv.me:8880/get.php?username=iptvtree&password=yfL7uQLwXl&type=m3u
-Real Url: tvstar.live:8880     Status: Active    Created: 8/6/2021 3:07:00 PM     Expires: Null    Active Connections: 136     Maximum Connections: 150     Formats: "m3u8","ts","rtmp"
+
 
 sky sport DE1
 http://client.nodomain.vip:80/live.ts?channelId=11&uid=36826&deviceUser=29ZeljkoKukec&devicePass=vSOfu480Q8KDNIITvIim
@@ -23219,7 +23218,8 @@ http://exchange.goodiptv.stream:13520/get.php?username=aydar4545&password=dv5Fbd
 
 http://eyetv.site:8080/get.php?username=eyetvpro21&password=eye123zz&type=m3u Real Url: eyetv.site:8080     Status: Active    Created: 7/7/2021 1:16:34 PM     Expires: 14/7/2021 1:07:00 PM    Active Connections: 1     Maximum Connections: 10     Formats: "m3u8","ts","rtmp"
 
-http://geoiptv.me:8880/get.php?username=iptvtree&password=yfL7uQLwXl&type=m3u Real Url: tvstar.live:8880     Status: Active    Created: 8/6/2021 3:07:00 PM     Expires: Null    Active Connections: 72     Maximum Connections: 150     Formats: "m3u8","ts","rtmp"
+
+
 
 http://hbox.cdnss.me/get.php?username=bestcs&password=bestcs&type=m3u Real Url: hbox.cdnss.me:80     Status: Active    Created: Null     Expires: Null    Active Connections: 48     Maximum Connections: 50     Formats: "m3u8","ts","rtmp"
 
@@ -25055,6 +25055,10 @@ Real Url: iptvtree.net:8080     Status: Active    Created: 4/7/2020 4:13:24 PM  
 http://iptvtree.net:8080/get.php?username=aumaleiptv&password=d051xyzaef399hp56&type=m3u
 Real Url: iptvtree.net:8080     Status: Active    Created: 29/5/2021 2:29:15 PM     Expires: Null    Active Connections: 90     Maximum Connections: 100     Formats: "m3u8","ts","rtmp" << DOWN
 
+http://geoiptv.me:8880/get.php?username=iptvtree&password=yfL7uQLwXl&type=m3u Real Url: tvstar.live:8880     Status: Active    Created: 8/6/2021 3:07:00 PM     Expires: Null    Active Connections: 72     Maximum Connections: 150     Formats: "m3u8","ts","rtmp" < DOWN?
+
+http://iptvtree.net:8080/get.php?username=oMnFdj88ij&password=uQjzzncJGN&type=m3u
+Real Url: iptvtree.net:8080     Status: Active    Created: 4/7/2020 4:13:24 PM     Expires: 3/7/2031 11:00:00 PM    Active Connections: 1     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
 
 + + + + + jo.sarhantv.com:8880 + + + + + beIN CH + + + + + DOWN
 
