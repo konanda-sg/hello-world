@@ -25110,6 +25110,62 @@ http://logo.dnsgoogle.xyz:8080/get.php?username=p3cWmELdGN&password=HUdebNlocQ&t
 http://watch.alienstreams.tv:8080/get.php?username=3934136260&password=5483122121&type=m3u
 Real Url: look.outerspacetv.xyz:8080     Status: Active    Created: 24/4/2021 5:00:00 AM     Expires: 24/4/2022 5:00:00 AM    Active Connections: 2     Maximum Connections: 2     Formats: "m3u8","ts","rtmp"
 
+
++ + + + + placa.work:5115 + + + + +
+
+http://placa.work:5115/get.php?username=NNnk87zOCz&password=FxyZrGSswA&type=m3u
+Real Url: lovor.work:5115    Status: Active    Created: 12/9/2021 7:16:58 PM     Expires: Null    Active Connections: 586     Maximum Connections: 1500     Formats: "ts" << XXX
+
+#EXTINF:-1 group-title="lovor",Sky Family (UK)
+http://lovor.work:5115/NNnk87zOCz/FxyZrGSswA/2502
+#EXTINF:-1,Sky Premiere (UK)
+http://lovor.work:5115/NNnk87zOCz/FxyZrGSswA/2504
+#EXTINF:-1,Sky Action (UK)
+http://lovor.work:5115/NNnk87zOCz/FxyZrGSswA/2543
+#EXTINF:-1,Sky Crime&Thriller (UK)
+http://lovor.work:5115/NNnk87zOCz/FxyZrGSswA/2542
+#EXTINF:-1,Sky Greats (UK)
+http://lovor.work:5115/NNnk87zOCz/FxyZrGSswA/2541
+#EXTINF:-1,Sky Drama (UK)
+http://lovor.work:5115/NNnk87zOCz/FxyZrGSswA/2507
+#EXTINF:-1,Sky Comedy (UK)
+http://lovor.work:5115/NNnk87zOCz/FxyZrGSswA/2506
+#EXTINF:-1,Sky Sp F1 (UK)
+http://lovor.work:5115/NNnk87zOCz/FxyZrGSswA/2559
+#EXTINF:-1,SkySp Main Event HD (UK)
+http://lovor.work:5115/NNnk87zOCz/FxyZrGSswA/2526
+#EXTINF:-1,Sky Sp Cricket (UK)
+http://lovor.work:5115/NNnk87zOCz/FxyZrGSswA/2527
+#EXTINF:-1,SkySp Action (UK)
+http://lovor.work:5115/NNnk87zOCz/FxyZrGSswA/2528
+#EXTINF:-1,SkySp Arena (UK)
+http://lovor.work:5115/NNnk87zOCz/FxyZrGSswA/2525
+#EXTINF:-1,SkySp PL (UK)
+http://lovor.work:5115/NNnk87zOCz/FxyZrGSswA/2530
+#EXTINF:-1,SkySp MIX (UK)
+http://lovor.work:5115/NNnk87zOCz/FxyZrGSswA/2558
+#EXTINF:-1,SkySp Golf (UK)
+http://lovor.work:5115/NNnk87zOCz/FxyZrGSswA/2529
+#EXTINF:-1,SkySp News HD (UK)
+http://lovor.work:5115/NNnk87zOCz/FxyZrGSswA/2787
+#EXTINF:-1,BT Sports 1 (UK)
+http://lovor.work:5115/NNnk87zOCz/FxyZrGSswA/2521
+#EXTINF:-1,BT Sports 2 (UK)
+http://lovor.work:5115/NNnk87zOCz/FxyZrGSswA/2522
+#EXTINF:-1,BT Sports 3 (UK)
+http://lovor.work:5115/NNnk87zOCz/FxyZrGSswA/2523
+#EXTINF:-1,BT Sports ESPN (UK)
+http://lovor.work:5115/NNnk87zOCz/FxyZrGSswA/2524
+#EXTINF:-1,VH1 (UK)
+http://lovor.work:5115/NNnk87zOCz/FxyZrGSswA/2550
+#EXTINF:-1,MTV Music
+http://lovor.work:5115/NNnk87zOCz/FxyZrGSswA/35713
+#EXTINF:-1,MTV Base (UK)
+http://lovor.work:5115/NNnk87zOCz/FxyZrGSswA/2553
+#EXTINF:-1 group-title="lovor",MTV Dance (UK)
+http://lovor.work:5115/NNnk87zOCz/FxyZrGSswA/2552
+
+
 + + + + + https://m3u-editor.com [SEA] + + + + +
 
 
