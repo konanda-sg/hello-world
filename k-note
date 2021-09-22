@@ -20095,11 +20095,12 @@ HUM HD
 https://feed.play.mv/live/1009/h5T18oYbas/master.m3u8
 HUM MASALA
 https://feed.play.mv/live/1009/uRdwlkNe1U/master.m3u8
-#EXTINF:-1UTV Movies
+#EXTINF:-1,UTV Movies
 https://feed.play.mv/live/1009/h8ICfEsHxv/master.m3u8
-#EXTINF:-1ZEE CINEMA
+#EXTINF:-1,ZEE CINEMA
 https://feed.play.mv/live/1009/U4igJyzIbn/master.m3u8
-#EXTINF:-1ZEE TV
+https://feed.play.mv/live/1009/U4igJyzIbn/1.m3u8
+#EXTINF:-1,ZEE TV
 https://feed.play.mv/live/10005200/HXW3hMDfn5/master.m3u8
 Zoomoo
 https://feed.play.mv/live/10005200/sdwa8BgXE4/master.m3u8
