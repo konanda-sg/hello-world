@@ -19923,6 +19923,18 @@ http://143.244.60.10/HINDI__UTV_MOVIES/mono.m3u8?token=test
 http://143.244.60.10/HINDI__ZEE_ACTION/mono.m3u8?token=test
 
 
++ + + + + 173.199.120.51 + + +
+
+SONY SD
+http://173.199.120.51/hls/chs.m3u8
+STAR PLUS SD
+http://173.199.120.51/hls/chsp.m3u8
+COLORS TV SD
+http://173.199.120.51/hls/chc.m3u8
+AND TV SD
+http://173.199.120.51/hls/andtv.m3u8
+
+
 + + + + + cdn.ihub.live + + + 
 
 #EXTINF:-1 group-title="misc/IN",H2 EN
@@ -23523,22 +23535,29 @@ Real Url: 144.76.86.51:57060     Status: Active    Created: 13/11/2019 11:04:04 
 
 http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=15452&type=hls
 
-#EXTINF:-1 group-title="144.76",UK_SKY_Sports_Football |144
+#EXTINF:-1 group-title="144.76",UK_SKY_Sports_Football |144 loop
 http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=162
-#EXTINF:-1 group-title="144.76",UK_SKY_Sports_Main_Event |144
+#EXTINF:-1 group-title="144.76",UK_SKY_Sports_Main_Event |144 loop
 http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=163
 #EXTINF:-1 group-title="144.76",UK_SKY_Sports_Mix |144
 http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=164
 #EXTINF:-1 group-title="144.76",UK_SKY_Sports_News |144
 http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=165
-#EXTINF:-1 group-title="144.76",UK_SKY_Sports_Premier_League |144
+#EXTINF:-1 group-title="144.76",Super_Sports_Premier_League |144
 http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=166
 #EXTINF:-1 group-title="144.76",BT SPORT 1 |144
 http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=211
 #EXTINF:-1 group-title="144.76",BT Sport 2 |144
 http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=82
-#EXTINF:-1 group-title="144.76",BT Sport 3 |144
+#EXTINF:-1 group-title="144.76",BT Sport 3 |144 offline
 http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=83
+#EXTINF:-1,UK_Manchester_United_TV
+http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=157
+
+#EXTINF:-1,USA_Fox_Sports_1 offline
+http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=175
+#EXTINF:-1,USA_Fox_Sports_2 offline
+http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=176
 
 #EXTINF:-1 group-title="144.76",FR_Bein_Sports_1 |144
 http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=139
@@ -23546,22 +23565,57 @@ http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=sta
 http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=138
 #EXTINF:-1 group-title="144.76",FR_Bein_Sports_3 |144
 http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=137
+
+http://streamwat.ch/custom/player/#
 #EXTINF:-1 group-title="144.76",AR_Bein_Sports_1 |144
 http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=149
 #EXTINF:-1 group-title="144.76",AR_Bein_Sports_2 |144
 http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=147
-#EXTINF:-1 group-title="144.76",AR_Bein_Sports_8 |144
+#EXTINF:-1,AR_Bein_Sports_3
+http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=146
+#EXTINF:-1,AR_Bein_Sports_4 offline
+http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=145
+#EXTINF:-1,AR_Bein_Sports_5
+http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=144
+#EXTINF:-1,AR_Bein_Sports_6 offline
+http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=143
+#EXTINF:-1,AR_Bein_Sports_7/4
+http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=142
+#EXTINF:-1 group-title="144.76",AR_Bein_Sports_8/5 |144
 http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=141
-#EXTINF:-1 group-title="144.76",AR_Bein_Sports_9 |144
+#EXTINF:-1 group-title="144.76",AR_Bein_Sports_1 PRE |144
 http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=140
-#EXTINF:-1 group-title="144.76",AR_Bein_Sports_10 |144
+#EXTINF:-1 group-title="144.76",AR_Bein_Sports_2EN |144
 http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=148
-#EXTINF:-1 group-title="144.76",AR_Bein_Sports_11 |144
+#EXTINF:-1 group-title="144.76",AR_Bein_Sports_3EN |144
 http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=186
-#EXTINF:-1 group-title="144.76",AR_Bein_Sports_12 |144
+#EXTINF:-1 group-title="144.76",AR_Bein_Sports_12 |144 offline
 http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=187
-#EXTINF:-1 group-title="144.76",AR_Bein_Sports_13 |144
+#EXTINF:-1 group-title="144.76",AR_Bein_Sports_13 |144 offline
 http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=188
+
+#EXTINF:-1,TR_Bein_Sports_1_HD offline
+http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=114
+#EXTINF:-1,TR_Bein_Sports_2_HD
+http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=115
+#EXTINF:-1,TR_Bein_Sports_3_HD
+http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=116
+#EXTINF:-1,TR_Bein_Sports_4_HD offline
+http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=117
+
+#EXTINF:-1,Sportklub_1
+http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=135
+#EXTINF:-1,Sportklub_2
+http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=134
+#EXTINF:-1,Sportklub_3
+http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=133
+#EXTINF:-1,Sportklub_4
+http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=136
+#EXTINF:-1,Sportklub_5
+http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=132
+#EXTINF:-1,Sportklub_6
+http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=131
+
 #EXTINF:-1 group-title="144.76",PT_Sport_TV_1 |144
 http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=189
 #EXTINF:-1 group-title="144.76",PT_Sport_TV_2 |144
@@ -23572,6 +23626,7 @@ http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=sta
 http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=192
 #EXTINF:-1 group-title="144.76",PT_Sport_TV_5 |144
 http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=193
+
 #EXTINF:-1 group-title="144.76",MTV_Base |144
 http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=205
 #EXTINF:-1 group-title="144.76",VH1_Classic |144
@@ -23584,6 +23639,40 @@ http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=sta
 http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=209
 #EXTINF:-1 group-title="144.76",MTV_Classic |144
 http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=210
+
+XXX_Hustler_HD
+http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=1
+XXX_Brazzers
+http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=2
+XXX_Dorcel
+http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=3
+XXX_Blue_Hustler
+http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=4
+XXX_Penthouse_Gold
+http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=5
+XXX_French_Lover
+http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=6
+XXX_Penthouse_Passion
+http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=7
+XXX_Barely_Legal
+http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=8
+XXX_Playboy
+http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=9
+XXX_Private_HD
+http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=10
+XXX_Prive_TV
+http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=11
+XXX_Redlight_HD
+http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=12
+XXX_SCT
+http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=13
+XXX_Sext6senso
+http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=14
+XXX_Vivid_Red
+http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=15
+XXX_XXL
+http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=16
+
 
 + + + + + 148.251.129.207:2083 + + + + +
 
@@ -26868,6 +26957,7 @@ http://topchantv.net:3456/get.php?username=rahmat&password=rahmat&type=m3u
 Real Url: topchantv.net:3456     Status: Active    Created: 2/6/2021 8:14:02 AM     Expires: Null    Active Connections: 0     Maximum Connections: 3     Formats: "m3u8","ts","rtmp"
 
 
+
 + + + + + tt61.mine.nu:80 + + + + +
 
 http://tt61.mine.nu:80/get.php?username=PetraTV&password=Fw99Gpq7Gq&type=m3u
@@ -27020,12 +27110,14 @@ https://www.aloka-iptv.xyz:443/get.php?username=MEGA-TV19&password=TELEGRAM&type
 http://www.bestsat.space:80/get.php?username=mario201709&password=H9afPJjWHQ&type=m3u Expires: Null    Active Connections: 120     Maximum Connections: 300 << 
 
 
-#EXTINF:-1 group-title="w.bestsat",AR: beIN Sports  10 FHD
+
+#EXTINF:-1 group-title="w.bestsat",AR: beIN Sports  10 FHD offline
 http://www.bestsat.space:80/live/mario201709/H9afPJjWHQ/181.m3u8
-#EXTINF:-1 group-title="w.bestsat",AR: beIN Sports  10 HD
+#EXTINF:-1 group-title="w.bestsat",AR: beIN Sports  10 HD offline
 http://www.bestsat.space:80/live/mario201709/H9afPJjWHQ/182.m3u8
 #EXTINF:-1 group-title="w.bestsat",AR: beIN Sports  11 FHD
 http://www.bestsat.space:80/live/mario201709/H9afPJjWHQ/183.m3u8
+http://www.bestsat.space:80/streaming/clients_live.php?extension=m3u8&username=mario201709&password=H9afPJjWHQ&stream=183
 #EXTINF:-1 group-title="w.bestsat",AR: beIN Sports  11 HD
 http://www.bestsat.space:80/live/mario201709/H9afPJjWHQ/184.m3u8
 #EXTINF:-1 group-title="w.bestsat",AR: beIN Sports  12 FHD
@@ -27158,12 +27250,14 @@ http://www.bestsat.space:80/live/mario201709/H9afPJjWHQ/1518.m3u8
 #EXTINF:-1 group-title="w.bestsat",UKSP: SKY SPORTS FOOTBALL
 http://www.bestsat.space:80/live/mario201709/H9afPJjWHQ/1520.m3u8
 
+
 #EXTINF:-1 group-title="w.bestsat",UKINT. |  Zee Cinema 
 http://www.bestsat.space:80/live/mario201709/H9afPJjWHQ/134.m3u8
 #EXTINF:-1 group-title="w.bestsat",UKINT. |  B4U Music
 http://www.bestsat.space:80/live/mario201709/H9afPJjWHQ/142.m3u8
 #EXTINF:-1 group-title="w.bestsat",UKINT. |  B4U Movies
 http://www.bestsat.space:80/live/mario201709/H9afPJjWHQ/143.m3u8
+http://www.bestsat.space:80/streaming/clients_live.php?extension=m3u8&username=mario201709&password=H9afPJjWHQ&stream=143
 #EXTINF:-1 group-title="w.bestsat",UKINT: B4U Movies 
 http://www.bestsat.space:80/live/mario201709/H9afPJjWHQ/1676.m3u8
 #EXTINF:-1 group-title="w.bestsat",UKINT: B4U Music 
@@ -27173,61 +27267,6 @@ http://www.bestsat.space:80/live/mario201709/H9afPJjWHQ/1677.m3u8
 
 http://www.big3.ovh:8000/get.php?username=kingdiablo&password=jPiDmj76if1981&type=m3u
 Real Url: www.big3.ovh:8000     Status: Active    Created: 21/10/2018 4:57:40 PM     Expires: Null    Active Connections: 10     Maximum Connections: 300     Formats: "m3u8","ts","rtmp"
-
-#EXTINF:-1 group-title="www.big3",AF:SuperSport 1 (1080p)
-http://www.big3.ovh:8000/live/kingdiablo/jPiDmj76if1981/1094.m3u8
-#EXTINF:-1 group-title="www.big3",AF:SuperSport 1 epl
-http://www.big3.ovh:8000/live/kingdiablo/jPiDmj76if1981/1095.m3u8
-#EXTINF:-1 group-title="www.big3",AF:SuperSport 2 (1080p)
-http://www.big3.ovh:8000/live/kingdiablo/jPiDmj76if1981/1096.m3u8
-#EXTINF:-1 group-title="www.big3",AF:SuperSport 3  epl
-http://www.big3.ovh:8000/live/kingdiablo/jPiDmj76if1981/1097.m3u8
-#EXTINF:-1 group-title="www.big3",AF:SuperSport 4  epl
-http://www.big3.ovh:8000/live/kingdiablo/jPiDmj76if1981/1098.m3u8
-#EXTINF:-1 group-title="www.big3",AF:SuperSport 5 epl
-http://www.big3.ovh:8000/live/kingdiablo/jPiDmj76if1981/1101.m3u8
-#EXTINF:-1 group-title="www.big3",AF:SuperSport 6
-http://www.big3.ovh:8000/live/kingdiablo/jPiDmj76if1981/1102.m3u8
-#EXTINF:-1 group-title="www.big3",AF:SuperSport 7 epl
-http://www.big3.ovh:8000/live/kingdiablo/jPiDmj76if1981/1104.m3u8
-#EXTINF:-1 group-title="www.big3",AF:SuperSport 8 (1080p)
-http://www.big3.ovh:8000/live/kingdiablo/jPiDmj76if1981/1105.m3u8
-#EXTINF:-1 group-title="www.big3",AF:SuperSport 9 (1080p)
-http://www.big3.ovh:8000/live/kingdiablo/jPiDmj76if1981/1106.m3u8
-#EXTINF:-1 group-title="www.big3",AF:SuperSport 10  epl
-http://www.big3.ovh:8000/live/kingdiablo/jPiDmj76if1981/1108.m3u8
-#EXTINF:-1 group-title="www.big3",AF:SuperSport 10 (1080p)
-http://www.big3.ovh:8000/live/kingdiablo/jPiDmj76if1981/1109.m3u8
-#EXTINF:-1 group-title="www.big3",AF:SuperSport 11 (1080p)
-http://www.big3.ovh:8000/live/kingdiablo/jPiDmj76if1981/1110.m3u8
-#EXTINF:-1 group-title="www.big3",AF:SuperSport 12  epl
-http://www.big3.ovh:8000/live/kingdiablo/jPiDmj76if1981/1111.m3u8
-#EXTINF:-1 group-title="www.big3",AF:SuperSport Action
-http://www.big3.ovh:8000/live/kingdiablo/jPiDmj76if1981/1113.m3u8
-#EXTINF:-1 group-title="www.big3",AF:Supersport Blitz
-http://www.big3.ovh:8000/live/kingdiablo/jPiDmj76if1981/1114.m3u8
-#EXTINF:-1 group-title="www.big3",AF:Supersport Blitz
-http://www.big3.ovh:8000/live/kingdiablo/jPiDmj76if1981/1115.m3u8
-#EXTINF:-1 group-title="www.big3",AF:SuperSport Cricket
-http://www.big3.ovh:8000/live/kingdiablo/jPiDmj76if1981/1117.m3u8
-#EXTINF:-1 group-title="www.big3",AF:SuperSport Football
-http://www.big3.ovh:8000/live/kingdiablo/jPiDmj76if1981/1118.m3u8
-#EXTINF:-1 group-title="www.big3",AF:SuperSport Grandstand
-http://www.big3.ovh:8000/live/kingdiablo/jPiDmj76if1981/1119.m3u8
-#EXTINF:-1 group-title="www.big3",AF:SuperSport La Liga
-http://www.big3.ovh:8000/live/kingdiablo/jPiDmj76if1981/1120.m3u8
-#EXTINF:-1 group-title="www.big3",AF:SuperSport Mimo
-http://www.big3.ovh:8000/live/kingdiablo/jPiDmj76if1981/1122.m3u8
-#EXTINF:-1 group-title="www.big3",AF:SuperSport Rugby
-http://www.big3.ovh:8000/live/kingdiablo/jPiDmj76if1981/1125.m3u8
-#EXTINF:-1 group-title="www.big3",AF:SuperSport Variety 1
-http://www.big3.ovh:8000/live/kingdiablo/jPiDmj76if1981/1126.m3u8
-#EXTINF:-1 group-title="www.big3",AF:SuperSport Variety 2
-http://www.big3.ovh:8000/live/kingdiablo/jPiDmj76if1981/1127.m3u8
-#EXTINF:-1 group-title="www.big3",AF:SuperSport Variety 3
-http://www.big3.ovh:8000/live/kingdiablo/jPiDmj76if1981/1128.m3u8
-#EXTINF:-1 group-title="www.big3",AF:SuperSport Variety 4
-http://www.big3.ovh:8000/live/kingdiablo/jPiDmj76if1981/1129.m3u8
 
 
 + + + + + wweraw.ddns.net:8080 + + + + +
