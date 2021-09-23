@@ -5132,6 +5132,7 @@ http://27.255.28.10:8278/69/playlist.m3u8
 
 5K6RMPTM6L8S2Y < Exp?
 5XWDYALXGH5EB7 < Expired
+B6ZB6GAQD739EC << OK
 C2MEK3RMAS8FDC < Exp
 F59KKDMP2GN7ZB < Exp
 FNDYDGHPY3T8KH < Exp
@@ -5142,6 +5143,8 @@ V4KSK3Y4Z8DVPM < Expired
 YSZEBB3QYC3TXF < OK < Too many people
 WPCRZ9TNLSUBDK
 YSZEBB3QYC3TXF
+
+
 
 
 http://181.114.57.158:4000/play/p71GvACSTwpRvkpc/index.m3u8
@@ -5358,7 +5361,7 @@ http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/7332/index.m3u8
 http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/7333/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="4568" tvg-logo="http://epg.it999.ru/img/4568.png" tvg-rec="0",Arena Sport 6 HD HR
 http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/7334/index.m3u8
-#EXTINF:0 group-title="EDEM" tvg-id="4569" tvg-logo="http://epg.it999.ru/img/4569.png" tvg-rec="0",SKY SPORTS PREMIER LEAGUE UK
+#EXTINF:0 group-title="EDEM" tvg-id="4569" tvg-logo="http://epg.it999.ru/img/4569.png" tvg-rec="0",SKY SPORTS PREMIER LEAGUE UK | * ss pre leg
 http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/7335/index.m3u8
 #EXTINF:0 group-title="EDEM" tvg-id="4570" tvg-logo="http://epg.it999.ru/img/4570.png" tvg-rec="0",SKY SPORTS FOOTBALL UK
 http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/7336/index.m3u8
