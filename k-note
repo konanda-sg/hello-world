@@ -4,6 +4,10 @@ x-tvg-url="https://guidexl.tv4.live/"
 
 00:04:4B:CC:FF:2E < Shield 
 
+http://185.30.145.3:25465/get.php?username=stalker&password=xaMDnbFF9n&type=m3u
+Real Url: 185.30.145.3:25465     Status: Active    Created: 1/5/2021 11:55:53 AM     Expires: Null    Active Connections: 8     Maximum Connections: 10000     Formats: "m3u8","ts","rtmp"
+
+
 
 http://beams-tv.stream:80/get.php?username=madturnip07@yahoo.com&password=8832554033&type=m3u
 Real Url: 45.137.21.226:80     Status: Active    Created: 18/3/2021 7:50:40 PM     Expires: 18/3/2022 12:00:00 AM    Active Connections: 3     Maximum Connections: 4     Formats: "m3u8","ts","rtmp"
