@@ -4568,6 +4568,8 @@ http://ux38.gcdn.co/UKS31/tracks-v1a1/mono.m3u8
 http://ux38.gcdn.co/UKS32/tracks-v1a1/playlist.m3u8
 http://ux38.gcdn.co/UKS32/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="gCDN", astro SUPERSPORT
+http://ux38.gcdn.co/UKS33/index.m3u8
+http://ux38.gcdn.co/UKS33/tracks-v1a1/index.m3u8
 http://ux38.gcdn.co/UKS33/tracks-v1a1/mono.m3u8
 #EXTINF:-1, astro Cricket
 http://ux38.gcdn.co/UKS34/tracks-v1a1/mono.m3u8
