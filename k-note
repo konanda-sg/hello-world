@@ -1272,12 +1272,14 @@ http://sptkid.gcdn.co/btsport1_b/tracks-v1a1/mono.m3u8
 http://sptkid.gcdn.co/espn/tracks-v1a1/mono.m3u8
 #EXTINF:-1, ESPN 2
 http://sptkid.gcdn.co/espn2/tracks-v1a1/mono.m3u8
-#EXTINF:-1, FOX SPORT HIN 1
+#EXTINF:-1, FS 1
 http://sptkid.gcdn.co/foxsports1/tracks-v1a1/mono.m3u8
-#EXTINF:-1, FOX SPORT HIN 2
+#EXTINF:-1, FS 2
 http://sptkid.gcdn.co/foxsports2/tracks-v1a1/mono.m3u8
 #EXTINF:-1, NBA TV
 http://sptkid.gcdn.co/nbatv/tracks-v1a1/mono.m3u8
+#EXTINF:-1, NBC Sports
+http://sptkid.gcdn.co/nbcsports/tracks-v1a1/mono.m3u8
 #EXTINF:-1, TSN 1
 http://sptkid.gcdn.co/tsn11/tracks-v1a1/mono.m3u8
 #EXTINF:-1, TSN 2
