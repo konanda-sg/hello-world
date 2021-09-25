@@ -4443,6 +4443,7 @@ http://indo51.gcdn.co/kids-nickeloden/tracks-v1a1/mono.m3u8
 http://q38.gcdn.co/animal/tracks-v1a1/mono.m3u8
 https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8
 
+#EXTINF:-1 group-title="gCDN", CartoonNetwork
 http://sptkid.gcdn.co/cartoon/index.m3u8
 #EXTINF:-1 group-title="gCDN", beIN 5
 http://sptkid.gcdn.co/b8hd/tracks-v1a1/mono.m3u8
@@ -4476,13 +4477,18 @@ http://sptkid.gcdn.co/eurosport1/index.m3u8
 http://ux38.gcdn.co/Motorsport/tracks-v1a1/mono.m3u8
 http://ux38.gcdn.co/SSAction/tracks-v1a1/mono.m3u8
 http://ux38.gcdn.co/SSArena/tracks-v1a1/mono.m3u8
+#EXTINF:-1, SSBlitz
 http://ux38.gcdn.co/SSBlitz/tracks-v1a1/mono.m3u8
+#EXTINF:-1, SSFootball
 http://ux38.gcdn.co/SSFootball/tracks-v1a1/mono.m3u8
+#EXTINF:-1, SSGolf
 http://ux38.gcdn.co/SSGolf/tracks-v1a1/mono.m3u8
 http://ux38.gcdn.co/SSGrandstand/tracks-v1a1/mono.m3u8
+#EXTINF:-1, SSLaLiga
 http://ux38.gcdn.co/SSLaLiga/tracks-v1a1/mono.m3u8
 http://ux38.gcdn.co/SSMotorSport/tracks-v1a1/mono.m3u8 N.A.
 http://ux38.gcdn.co/SSPSL/tracks-v1a1/mono.m3u8
+#EXTINF:-1, SSPremierLeague
 http://ux38.gcdn.co/SSPremierLeague/index.m3u8
 http://ux38.gcdn.co/SSPremierLeague/playlist.m3u8
 http://ux38.gcdn.co/SSPremierLeague/tracks-v1a1/mono.m3u8
@@ -4490,13 +4496,18 @@ http://ux38.gcdn.co/SSRugby/tracks-v1a1/mono.m3u8
 http://ux38.gcdn.co/SSSerie/tracks-v1a1/mono.m3u8
 http://ux38.gcdn.co/SSSerieA/tracks-v1a1/mono.m3u8
 http://ux38.gcdn.co/SSSeriea/tracks-v1a1/mono.m3u8
+#EXTINF:-1, SSTennis
 http://ux38.gcdn.co/SSTennis/tracks-v1a1/mono.m3u8
+#EXTINF:-1, SSVariety1
 http://ux38.gcdn.co/SSVariety1/tracks-v1a1/mono.m3u8
+#EXTINF:-1, SSVariety2
 http://ux38.gcdn.co/SSVariety2/tracks-v1a1/mono.m3u8
+#EXTINF:-1, SSVariety3
 http://ux38.gcdn.co/SSVariety3/tracks-v1a1/mono.m3u8
+#EXTINF:-1, SSVariety4
 http://ux38.gcdn.co/SSVariety4/tracks-v1a1/mono.m3u8
 
-UFC
+#EXTINF:-1, UFC
 http://ux38.gcdn.co/UKS1/tracks-v1a1/mono.m3u8
 STAR SPORTS 1
 http://ux38.gcdn.co/UKS2/tracks-v1a1/mono.m3u8
@@ -4519,28 +4530,43 @@ http://ux38.gcdn.co/UKS16/tracks-v1a1/mono.m3u8
 http://ux38.gcdn.co/UKS17/tracks-v1a1/mono.m3u8
 http://ux38.gcdn.co/UKS18/tracks-v1a1/mono.m3u8
 http://ux38.gcdn.co/UKS19/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1 group-title="gCDN", sky sp prem league
 http://ux38.gcdn.co/UKS20/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="gCDN", sky sp football
 http://ux38.gcdn.co/UKS21/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="gCDN", sky sp uno
 http://ux38.gcdn.co/UKS22/tracks-v1a1/mono.m3u8
+viasat H
 http://ux38.gcdn.co/UKS23/tracks-v1a1/mono.m3u8
+sky sp F1
 http://ux38.gcdn.co/UKS24/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="gCDN", sky sp news
 http://ux38.gcdn.co/UKS25/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="gCDN", BT SPORT 1
 http://ux38.gcdn.co/UKS26/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="gCDN", BT SPORT 2
 http://ux38.gcdn.co/UKS27/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="gCDN", BT SPORT 3
 http://ux38.gcdn.co/UKS28/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="gCDN", SONY SIX
 http://ux38.gcdn.co/UKS29/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1 group-title="gCDN", S TEN 1
 http://ux38.gcdn.co/UKS30/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="gCDN", S TEN 2
 http://ux38.gcdn.co/UKS31/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="gCDN", S TEN 3
 http://ux38.gcdn.co/UKS32/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="gCDN", astro SUPERSPORT
 http://ux38.gcdn.co/UKS33/tracks-v1a1/mono.m3u8
-astro Cricket
+#EXTINF:-1, astro Cricket
 http://ux38.gcdn.co/UKS34/tracks-v1a1/mono.m3u8
+FOX 501
 http://ux38.gcdn.co/UKS35/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="gCDN", EUROSPORT1
 http://ux38.gcdn.co/UKS36/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="gCDN", EUROSPORT2
 http://ux38.gcdn.co/UKS37/tracks-v1a1/mono.m3u8
-http://ux38.gcdn.co/UKS38/tracks-v1a1/mono.m3u8
+http://ux38.gcdn.co/UKS38/playlist.m3u8
 http://ux38.gcdn.co/UKS39/tracks-v1a1/mono.m3u8
 
 http://ux38.gcdn.co/UKS40/tracks-v1a1/mono.m3u8
