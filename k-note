@@ -4447,11 +4447,12 @@ https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8
 http://sptkid.gcdn.co/cartoon/index.m3u8
 #EXTINF:-1 group-title="gCDN", beIN 5
 http://sptkid.gcdn.co/b8hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1, beIN 1EN
+#EXTINF:-1, beIN 2PRE
 http://sptkid.gcdn.co/b9hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 beIN 3PRE
 http://sptkid.gcdn.co/b10hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1, BT SPORT 1
+http://sptkid.gcdn.co/btsport1_b/playlist.m3u8
 http://sptkid.gcdn.co/btsport1_b/tracks-v1a1/mono.m3u8
 #EXTINF:-1, ESPN
 http://sptkid.gcdn.co/espn/tracks-v1a1/mono.m3u8
@@ -4464,6 +4465,8 @@ http://sptkid.gcdn.co/foxsports2/tracks-v1a1/mono.m3u8
 #EXTINF:-1, NBA TV
 http://sptkid.gcdn.co/nbatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1, NBC Sports
+http://sptkid.gcdn.co/nbcsports/playlist.m3u8
+http://sptkid.gcdn.co/nbcsports/index.m3u8
 http://sptkid.gcdn.co/nbcsports/tracks-v1a1/mono.m3u8
 #EXTINF:-1, TSN 1
 http://sptkid.gcdn.co/tsn11/tracks-v1a1/mono.m3u8
@@ -4479,16 +4482,16 @@ http://ux38.gcdn.co/SSAction/tracks-v1a1/mono.m3u8
 http://ux38.gcdn.co/SSArena/tracks-v1a1/mono.m3u8
 #EXTINF:-1, SSBlitz
 http://ux38.gcdn.co/SSBlitz/tracks-v1a1/mono.m3u8
-#EXTINF:-1, SSFootball
+#EXTINF:-1 group-title="gCDN",  SSFootball
 http://ux38.gcdn.co/SSFootball/tracks-v1a1/mono.m3u8
 #EXTINF:-1, SSGolf
 http://ux38.gcdn.co/SSGolf/tracks-v1a1/mono.m3u8
 http://ux38.gcdn.co/SSGrandstand/tracks-v1a1/mono.m3u8
-#EXTINF:-1, SSLaLiga
+#EXTINF:-1 group-title="gCDN", SSLaLiga
 http://ux38.gcdn.co/SSLaLiga/tracks-v1a1/mono.m3u8
 http://ux38.gcdn.co/SSMotorSport/tracks-v1a1/mono.m3u8 N.A.
 http://ux38.gcdn.co/SSPSL/tracks-v1a1/mono.m3u8
-#EXTINF:-1, SSPremierLeague
+#EXTINF:-1 group-title="gCDN", SSPremierLeague
 http://ux38.gcdn.co/SSPremierLeague/index.m3u8
 http://ux38.gcdn.co/SSPremierLeague/playlist.m3u8
 http://ux38.gcdn.co/SSPremierLeague/tracks-v1a1/mono.m3u8
@@ -4574,18 +4577,30 @@ http://ux38.gcdn.co/UKS35/tracks-v1a1/mono.m3u8
 http://ux38.gcdn.co/UKS36/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="gCDN", EUROSPORT2
 http://ux38.gcdn.co/UKS37/tracks-v1a1/mono.m3u8
+eir sport
 http://ux38.gcdn.co/UKS38/playlist.m3u8
+GTV Racing
 http://ux38.gcdn.co/UKS39/tracks-v1a1/mono.m3u8
-
+ELEVEN1
 http://ux38.gcdn.co/UKS40/tracks-v1a1/mono.m3u8
+ELEVEN SP2
 http://ux38.gcdn.co/UKS41/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="gCDN", MTV 90s
 http://ux38.gcdn.co/UKS42/tracks-v1a1/mono.m3u8
+NBC GOLF
 http://ux38.gcdn.co/UKS43/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="gCDN", STAR SPORTS SELECT 1
 http://ux38.gcdn.co/UKS44/tracks-v1a1/mono.m3u8
+TENNIS
 http://ux38.gcdn.co/UKS45/tracks-v1a1/mono.m3u8
+NBC GOLD LIVE
 http://ux38.gcdn.co/UKS46/tracks-v1a1/mono.m3u8
+TEN SPORTS
 http://ux38.gcdn.co/UKS47/tracks-v1a1/mono.m3u8
+TEN SPORTS
 http://ux38.gcdn.co/UKS48/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="gCDN", SONY TEN 4
+http://ux38.gcdn.co/UKS49/index/mono.m3u8
 http://ux38.gcdn.co/UKS49/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, SONY SIX
@@ -6406,7 +6421,7 @@ http://31.220.41.88:8081/live/skysports-cricket1.stream/playlist.m3u8
 http://31.220.41.88:8081/live/skysports-football.stream/playlist.m3u8
 #EXTINF:-1 group-title="31.220",ss mainevent
 http://31.220.41.88:8081/live/skysports-maineventz.stream/playlist.m3u8
-#EXTINF:-1 group-title="31.220",ss premier league
+#EXTINF:-1 group-title="31.220",S Premier League
 http://31.220.41.88:8081/live/skysports-premier-league.stream/playlist.m3u8
 http://31.220.41.88:8081/live/skysportsf1.stream/playlist.m3u8
 http://31.220.41.88:8081/live/skysportsmix.stream/playlist.m3u8
