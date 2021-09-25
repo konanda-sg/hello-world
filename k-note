@@ -2713,7 +2713,7 @@ https://all.ive.zone/ch38.php ESPN
 https://all.ive.zone/ch39.php NFL
 https://all.ive.zone/ch40.php TUDN
 
-+ + + + + https://daddylive.me/index.php + + + + + NO SOUND + + + 
++ + + + + https://daddylive.me/index.php + + + + + NO SOUND on mobile + + + 
 
 https://daddylive.me/embed/stream-37.php
 
@@ -2775,7 +2775,7 @@ https://daddylive.live/embed/stream-50.php POLSAT SPORT EXTRA
 -/-/-/-/-/-
 
 https://daddylive.me/stream/stream-66.php TUDN US
-
+https://daddylive.me/embed/stream-86.php ss F!
 https://daddylive.me/channels/stream-31.php
 https://daddylive.me/embed/stream-31.php < BT SPORT 1
 https://daddylive.me/embed/stream-32.php < BT SPORT 2
@@ -2785,7 +2785,7 @@ https://daddylive.me/embed/stream-43.php NBCSN
 https://daddylive.me/embed/stream-53.php NBC US
 https://daddylive.me/embed/stream-11.php T Sport3 EPL
 
-
+https://daddylive.me/embed/stream-105.php ELEVEN
 https://daddylive.me/embed/stream-35.php ss FOOTBALL
 https://daddylive.me/embed/stream-38.php ss EVENT
 https://daddylive.me/embed/stream-130.php ss PL
@@ -4547,10 +4547,13 @@ http://ux38.gcdn.co/UKS24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="gCDN", sky sp news
 http://ux38.gcdn.co/UKS25/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="gCDN", BT SPORT 1
+http://ux38.gcdn.co/UKS26/playlist.m3u8
 http://ux38.gcdn.co/UKS26/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="gCDN", BT SPORT 2
+http://ux38.gcdn.co/UKS27/playlist.m3u8
 http://ux38.gcdn.co/UKS27/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="gCDN", BT SPORT 3
+http://ux38.gcdn.co/UKS28/playlist.m3u8
 http://ux38.gcdn.co/UKS28/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="gCDN", SONY SIX
 http://ux38.gcdn.co/UKS29/tracks-v1a1/mono.m3u8
@@ -4559,6 +4562,7 @@ http://ux38.gcdn.co/UKS30/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="gCDN", S TEN 2
 http://ux38.gcdn.co/UKS31/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="gCDN", S TEN 3
+http://ux38.gcdn.co/UKS32/tracks-v1a1/playlist.m3u8
 http://ux38.gcdn.co/UKS32/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="gCDN", astro SUPERSPORT
 http://ux38.gcdn.co/UKS33/tracks-v1a1/mono.m3u8
@@ -4595,12 +4599,16 @@ http://ux38.gcdn.co/UKS56/tracks-v1a1/mono.m3u8
 http://ux38.gcdn.co/UKS57/tracks-v1a1/mono.m3u8
 http://ux38.gcdn.co/UKS58/tracks-v1a1/mono.m3u8
 http://ux38.gcdn.co/UKS59/tracks-v1a1/mono.m3u8
-
-http://ux38.gcdn.co/UKS60/tracks-v1a1/mono.m3u8 beIN 3PRE
-http://ux38.gcdn.co/UKS61/tracks-v1a1/mono.m3u8 beIN 1EN
+beIN 5
+http://ux38.gcdn.co/UKS60/tracks-v1a1/mono.m3u8
+beIN 2PRE
+http://ux38.gcdn.co/UKS61/playlist.m3u8
+http://ux38.gcdn.co/UKS61/tracks-v1a1/mono.m3u8
+beIN 7
 http://ux38.gcdn.co/UKS62/tracks-v1a1/mono.m3u8
 http://ux38.gcdn.co/UKS63/tracks-v1a1/mono.m3u8 beIN 4
-http://ux38.gcdn.co/UKS64/tracks-v1a1/mono.m3u8 beIN 2EN
+beIN 2EN
+http://ux38.gcdn.co/UKS64/tracks-v1a1/mono.m3u8
 http://ux38.gcdn.co/UKS65/tracks-v1a1/mono.m3u8
 http://ux38.gcdn.co/UKS66/tracks-v1a1/mono.m3u8 beIN 1
 http://ux38.gcdn.co/UKS67/tracks-v1a1/mono.m3u8 beIN 2
@@ -4608,11 +4616,17 @@ http://ux38.gcdn.co/UKS68/tracks-v1a1/mono.m3u8 M LaLiga
 http://ux38.gcdn.co/UKS69/tracks-v1a1/mono.m3u8 beIN 4MAX
 
 http://ux38.gcdn.co/UKS70/tracks-v1a1/mono.m3u8 beIN 5MAX
+sky sport1
 http://ux38.gcdn.co/UKS71/tracks-v1a1/mono.m3u8
+sky sp rydercup
 http://ux38.gcdn.co/UKS72/tracks-v1a1/mono.m3u8
+WWE 24
 http://ux38.gcdn.co/UKS73/tracks-v1a1/mono.m3u8
+WWE 24
 http://ux38.gcdn.co/UKS74/tracks-v1a1/mono.m3u8
+BOX NATION
 http://ux38.gcdn.co/UKS75/tracks-v1a1/mono.m3u8
+UFC
 http://ux38.gcdn.co/UKS76/tracks-v1a1/mono.m3u8
 MUTV?
 http://ux38.gcdn.co/UKS77/tracks-v1a1/mono.m3u8
@@ -4620,11 +4634,13 @@ http://ux38.gcdn.co/UKS77/tracks-v1a1/mono.m3u8
 http://ux38.gcdn.co/UKS78/tracks-v1a1/mono.m3u8
 #EXTINF:-1, BT SPORT 3
 http://ux38.gcdn.co/UKS79/tracks-v1a1/mono.m3u8
-
+Racing
 http://ux38.gcdn.co/UKS80/tracks-v1a1/mono.m3u8
 #EXTINF:1 group-title="gCDN", SKY BUNDESLIGA 2HD
 http://ux38.gcdn.co/UKS81/tracks-v1a1/mono.m3u8
+M Liga de
 http://ux38.gcdn.co/UKS82/tracks-v1a1/mono.m3u8
+
 http://ux38.gcdn.co/UKS83/tracks-v1a1/mono.m3u8
 http://ux38.gcdn.co/UKS84/tracks-v1a1/mono.m3u8
 http://ux38.gcdn.co/UKS85/tracks-v1a1/mono.m3u8
@@ -4632,7 +4648,6 @@ http://ux38.gcdn.co/UKS86/tracks-v1a1/mono.m3u8
 http://ux38.gcdn.co/UKS87/tracks-v1a1/mono.m3u8
 http://ux38.gcdn.co/UKS88/tracks-v1a1/mono.m3u8
 http://ux38.gcdn.co/UKS89/tracks-v1a1/mono.m3u8
-
 http://ux38.gcdn.co/UKS90/tracks-v1a1/mono.m3u8
 http://ux38.gcdn.co/UKS91/tracks-v1a1/mono.m3u8
 http://ux38.gcdn.co/UKS92/tracks-v1a1/mono.m3u8
